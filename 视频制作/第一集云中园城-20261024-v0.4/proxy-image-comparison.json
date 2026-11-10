@@ -1,0 +1,14 @@
+[
+  {
+    "frame": 600,
+    "mean_absolute_channel_difference_255": 0.04735982510288066,
+    "max": 15.0,
+    "p99": 1.0
+  },
+  {
+    "frame": 697,
+    "mean_absolute_channel_difference_255": 0.02604102366255144,
+    "max": 18.0,
+    "p99": 1.0
+  }
+]

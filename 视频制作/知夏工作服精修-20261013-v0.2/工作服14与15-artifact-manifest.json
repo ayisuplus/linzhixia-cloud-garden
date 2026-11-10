@@ -1,0 +1,29 @@
+{
+  "tool": "built-in image_gen",
+  "artifacts": [
+    {
+      "file": "知夏-工作服14-全身泼墨与印花长袜.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "f24ed07e9a5a4d9a23c957401ba28aee21f702a4378cb67366ea7baab930bc11",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-49de2f4f-b54b-47ae-b8c6-4949a384cdf9.png",
+      "status": "rejected_too_dense",
+      "copy_verified": true
+    },
+    {
+      "file": "知夏-工作服15-简约点染长袜.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "88a8c66e467e3b6f069ca26e7dec3c2ae0fe91bc47b3d7e67a24631e903e6b55",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-c96c0d26-2a21-4c2f-8783-320e0aa91155.png",
+      "status": "candidate_pending_review",
+      "copy_verified": true
+    }
+  ],
+  "toonflow_synced": true,
+  "eagle_imported": false
+}

@@ -1,0 +1,15 @@
+{
+  "linksChecked": 98,
+  "imageHashesVerified": true,
+  "textReadbackMatches": true,
+  "shots": 16,
+  "secondsBudget": 90,
+  "missingCompleteFrames": [
+    "A010",
+    "A011",
+    "A014",
+    "A015"
+  ],
+  "browserRendered": false,
+  "videoProduced": false
+}

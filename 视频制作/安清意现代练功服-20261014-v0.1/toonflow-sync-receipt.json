@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-14",
+  "target": {
+    "connectionId": "f617bd89-16e6-4e7b-8725-4b5116956896",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "人物设计.json"
+  },
+  "canvas": {
+    "before": 77,
+    "after": 85,
+    "added": 8,
+    "reopened": true,
+    "nodes": [
+      {
+        "nodeId": "531d6d8f-11ad-452f-8a9f-02d23103c0da",
+        "label": "安清意｜现代练功服·短裤高马尾主图",
+        "path": "安清意现代练功服-20261014-v0.1/00-全身主图.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "6ec23eea-703b-48d9-97ed-5c44129cef28",
+        "label": "安清意｜现代练功服·四视图",
+        "path": "安清意现代练功服-20261014-v0.1/01-四视图.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "4ab0d9b5-9aab-43a9-88e0-f21f9246c941",
+        "label": "安清意｜现代练功服·正面半身",
+        "path": "安清意现代练功服-20261014-v0.1/独立视图/01_front-half.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "86d5896e-4121-4019-ac5d-7c24df71e82e",
+        "label": "安清意｜现代练功服·左向侧面",
+        "path": "安清意现代练功服-20261014-v0.1/独立视图/02_facing-left.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "919d64b6-c035-4feb-b87a-0318f4d43205",
+        "label": "安清意｜现代练功服·背面",
+        "path": "安清意现代练功服-20261014-v0.1/独立视图/03_back.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "2cd79f9d-63f9-4b8d-8fa1-4ecbea493e6a",
+        "label": "安清意｜现代练功服·右向侧面",
+        "path": "安清意现代练功服-20261014-v0.1/独立视图/04_facing-right.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "41d42a53-c34e-43da-8bcf-6cc52f8a67cd",
+        "label": "安清意｜现代练功服·当前要求与版本",
+        "path": "assets/41d42a53-c34e-43da-8bcf-6cc52f8a67cd/content.md",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "76fa21f6-106c-4b44-91d8-70bf73aec3d3",
+        "label": "安清意｜现代练功服·实际提示词",
+        "path": "assets/76fa21f6-106c-4b44-91d8-70bf73aec3d3/content.md",
+        "outputMatch": true
+      }
+    ]
+  },
+  "library": {
+    "root": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1",
+    "filesVerified": 22,
+    "files": [
+      {
+        "source": "安清意现代练功服-20261014-v0.1/00-全身主图.png",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/00-全身主图.png",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/01-四视图.png",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/01-四视图.png",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/独立视图/01_front-half.png",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/独立视图/01_front-half.png",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/独立视图/02_facing-left.png",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/独立视图/02_facing-left.png",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/独立视图/03_back.png",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/独立视图/03_back.png",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/独立视图/04_facing-right.png",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/独立视图/04_facing-right.png",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/历史候选/00-全身主图-竹青裤历史.png",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/历史候选/00-全身主图-竹青裤历史.png",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/历史候选/主图提示词-竹青裤历史.txt",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/历史候选/主图提示词-竹青裤历史.txt",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/历史候选/01-四视图-竹青裤历史.png",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/历史候选/01-四视图-竹青裤历史.png",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/历史候选/四视图提示词-竹青裤历史.txt",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/历史候选/四视图提示词-竹青裤历史.txt",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/历史候选/00-全身主图-墨灰长裤历史.png",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/历史候选/00-全身主图-墨灰长裤历史.png",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/历史候选/主图改色换鞋提示词.txt",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/历史候选/主图改色换鞋提示词.txt",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/历史候选/00-全身主图-短裤编发马尾历史.png",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/历史候选/00-全身主图-短裤编发马尾历史.png",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/历史候选/主图短裤马尾修改提示词.txt",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/历史候选/主图短裤马尾修改提示词.txt",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/主图经典马尾精修提示词.txt",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/主图经典马尾精修提示词.txt",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/历史候选/01-四视图-侧面姿势初稿.png",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/历史候选/01-四视图-侧面姿势初稿.png",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/四视图短裤马尾提示词.txt",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/四视图短裤马尾提示词.txt",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/四视图侧面姿势修正提示词.txt",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/四视图侧面姿势修正提示词.txt",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/README.md",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/README.md",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/generation-record.json",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/generation-record.json",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/artifact-manifest.json",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/artifact-manifest.json",
+        "contentMatch": true
+      },
+      {
+        "source": "安清意现代练功服-20261014-v0.1/独立视图/split-manifest.json",
+        "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.1/独立视图/split-manifest.json",
+        "contentMatch": true
+      }
+    ]
+  },
+  "currentImageCount": 6,
+  "historyImageCount": 5,
+  "sourceCopiesMatch": 7,
+  "cropPixelMatches": 4
+}

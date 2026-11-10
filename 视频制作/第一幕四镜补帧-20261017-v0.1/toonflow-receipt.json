@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-17",
+  "target": {
+    "connectionId": "a8e9b1e4-4f34-45d4-b990-668ea24cfc0e",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "场景设计-半园两岸-20261014.json"
+  },
+  "node_count_before": 75,
+  "node_count_after": 79,
+  "image_nodes": [
+    {
+      "id": "a5d49255-5e75-484d-9b78-203d8ff1d0ba",
+      "label": "E01-A-010｜送水回避·关键状态候选",
+      "position": {
+        "x": 650,
+        "y": 2100
+      },
+      "outputs": {
+        "image": {
+          "dataType": "IMAGE",
+          "value": {
+            "url": "第一幕四镜补帧-20261017-v0.1/E01-A-010-送水回避.png",
+            "mimeType": "image/png"
+          }
+        }
+      },
+      "selected": false,
+      "truncated": []
+    },
+    {
+      "id": "a32642fc-bb08-49d3-b125-1f250648b2d3",
+      "label": "E01-A-011｜整窗水巷·真实纵深候选",
+      "position": {
+        "x": 1300,
+        "y": 2100
+      },
+      "outputs": {
+        "image": {
+          "dataType": "IMAGE",
+          "value": {
+            "url": "第一幕四镜补帧-20261017-v0.1/E01-A-011-整窗水巷-真实纵深.png",
+            "mimeType": "image/png"
+          }
+        }
+      },
+      "selected": false,
+      "truncated": []
+    },
+    {
+      "id": "917da247-0373-464a-acde-d1e5a780e753",
+      "label": "E01-A-014｜喊停后全景·候选",
+      "position": {
+        "x": 650,
+        "y": 2800
+      },
+      "outputs": {
+        "image": {
+          "dataType": "IMAGE",
+          "value": {
+            "url": "第一幕四镜补帧-20261017-v0.1/E01-A-014-喊停后全景.png",
+            "mimeType": "image/png"
+          }
+        }
+      },
+      "selected": false,
+      "truncated": []
+    },
+    {
+      "id": "c11a9278-3685-4eee-a21a-2d53cbb75a08",
+      "label": "E01-A-015｜躺回伸手·未抱回候选",
+      "position": {
+        "x": 1300,
+        "y": 2800
+      },
+      "outputs": {
+        "image": {
+          "dataType": "IMAGE",
+          "value": {
+            "url": "第一幕四镜补帧-20261017-v0.1/E01-A-015-躺回伸手.png",
+            "mimeType": "image/png"
+          }
+        }
+      },
+      "selected": false,
+      "truncated": []
+    }
+  ],
+  "note_nodes": [
+    "97d31e8a-7660-4317-a79b-01ca3fc9ff1a",
+    "9339fd95-8735-4df2-a8a5-1874d20c428d",
+    "9e8fcafa-9fd6-4d7e-9c20-e0f2ea76619f",
+    "f7931412-6ae9-46aa-bfdd-cbdfbd3844fa"
+  ],
+  "overview_node": "80d9afbb-50b0-49f2-aba8-89b0eb5a017c",
+  "script_node": "9b0d2b41-8158-4487-b210-664b6b7967fe",
+  "canvas_mutation_method": "ToonFlow MCP only",
+  "canvas_git_policy": "Existing unrelated canvas changes preserved; canvas excluded from this scoped commit.",
+  "atlas": "视频制作/第一幕关键帧图册-20261017-v1.1/atlas.json",
+  "status": "4 complete frame candidates, author review pending, no video generated"
+}

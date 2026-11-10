@@ -1,0 +1,9 @@
+{
+  "solid_components": 1,
+  "only_removed_volume": true,
+  "living_air_above_floor_m": [
+    0.5,
+    26
+  ],
+  "scope": "Remove cloud volume that encroached into lower terrace air; retain common support below. Original architectural geometry unchanged."
+}

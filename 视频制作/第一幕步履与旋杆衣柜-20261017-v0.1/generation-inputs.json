@@ -1,0 +1,41 @@
+[
+  {
+    "id": "008",
+    "prompt_file": "prompt-008.txt",
+    "references": [
+      "E:/projects/内容创作/未来女孩林知夏/视频制作/第一幕完整镜头包-20261016-v0.1/02-拖鞋到位.png"
+    ]
+  },
+  {
+    "id": "009",
+    "prompt_file": "prompt-009.txt",
+    "references": [
+      "E:/projects/内容创作/未来女孩林知夏/视频制作/第一幕家居忙碌表演-20261017-v0.1/E01-A-009-衣柜主动推荐.png"
+    ]
+  },
+  {
+    "id": "012",
+    "prompt_file": "prompt-012.txt",
+    "references": [
+      "E:/projects/内容创作/未来女孩林知夏/视频制作/第一幕完整镜头包-20261016-v0.1/05-今日无安排.png"
+    ]
+  },
+  {
+    "id": "011",
+    "prompt_file": "prompt-011.txt",
+    "references": [
+      "E:/projects/内容创作/未来女孩林知夏/视频制作/第一幕家居忙碌表演-20261017-v0.1/E01-A-011-全屋忙碌-去支架.png",
+      "C:/Users/36322/.codex/generated_images/01a13a12-c15f-7431-88a9-5ceeb49cb3b0/exec-6a0faa55-29a3-41cf-99e7-c1fc743f0d0a.png",
+      "C:/Users/36322/.codex/generated_images/01a13a12-c15f-7431-88a9-5ceeb49cb3b0/exec-1fcb1a36-8728-4f41-8558-5bd8c93a111c.png"
+    ]
+  },
+  {
+    "id": "014",
+    "prompt_file": "prompt-014.txt",
+    "references": [
+      "E:/projects/内容创作/未来女孩林知夏/视频制作/第一幕家居忙碌表演-20261017-v0.1/E01-A-014-全屋停在半途-去支架.png",
+      "C:/Users/36322/.codex/generated_images/01a13a12-c15f-7431-88a9-5ceeb49cb3b0/exec-6a0faa55-29a3-41cf-99e7-c1fc743f0d0a.png",
+      "C:/Users/36322/.codex/generated_images/01a13a12-c15f-7431-88a9-5ceeb49cb3b0/exec-1fcb1a36-8728-4f41-8558-5bd8c93a111c.png"
+    ]
+  }
+]

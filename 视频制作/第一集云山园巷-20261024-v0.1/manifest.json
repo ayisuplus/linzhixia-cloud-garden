@@ -1,0 +1,37 @@
+{
+  "files": {
+    "cloud-garden-route-58s-v14.blend": {
+      "bytes": 6924510,
+      "sha256": "dc9c610956dcb3fef447208ca84e405dacdeea2ece0b5fa95e66bbaa31cd92d5"
+    },
+    "cloud-garden-flight-58s-v14.mp4": {
+      "bytes": 8193892,
+      "sha256": "7c28b2fcb291118d11349f94b79e1f0b5f5c325e48d27157b1143a86c79db0b1"
+    },
+    "batch-A-00-30.mp4": {
+      "bytes": 4358341,
+      "sha256": "c8d0c4f4a27419fc5c5bbd253f414c455d79fa83251498ed4be0e9683dda4d28"
+    },
+    "batch-B-28-58.mp4": {
+      "bytes": 3843845,
+      "sha256": "9cba8b1c118f176b1fbaa759e5e15cf57f7c7bcb5e96f3c87c6f4b4fae7abd56"
+    },
+    "route-poses.json": {
+      "bytes": 295940,
+      "sha256": "4c5fa912b29e5e5981e84146221bf40b5d1480829e6a6db3ce9411a15c545b41"
+    },
+    "design-data.json": {
+      "bytes": 33976,
+      "sha256": "ce7ae03ddd3b255bcb36b8b903052c83cfbbb95e584967db2fcc32d20c371fd8"
+    },
+    "audit.json": {
+      "bytes": 83216,
+      "sha256": "9f8b0e16b8f1742cc24215c4630afc4a5a77e88e8418a2dbce808d6c0d5c29c9"
+    },
+    "layout-route-comparison.png": {
+      "bytes": 96254,
+      "sha256": "ef1a48429a282e1ccae0c2905661a6b4cea7d6b0327b592cd54312fd7ae37c8c"
+    }
+  },
+  "source_v13_sha256": "3ee38714b93ef13fb598afcdc0618c6a1b3e94beebae7c49f7a32d983254894c"
+}

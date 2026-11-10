@@ -1,0 +1,13 @@
+{
+  "scene_sha256": "df31b46fc21f85b5b6e122e4166f3fc9c237644e977ebd4e7e9b55ebeb364bee",
+  "poses_sha256": "fa81f37539159e65164c74b01d328a506d5afc8920a6639adebc00e97702e566",
+  "dimensions": [
+    960,
+    540
+  ],
+  "samples": 16,
+  "volume_samples": 48,
+  "fps": 24,
+  "frames": 1392,
+  "clouds": "static, camera movement only"
+}

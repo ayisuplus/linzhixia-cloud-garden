@@ -1,0 +1,58 @@
+{
+  "skillValidation": "passed",
+  "atlasValidation": {
+    "shots": 16,
+    "budget_seconds": 90,
+    "gaps": [
+      "E01-A-010",
+      "E01-A-011",
+      "E01-A-014",
+      "E01-A-015"
+    ],
+    "masters": 7
+  },
+  "rejectedInvalidCases": [
+    "重复镜头ID",
+    "缺口冒充主图",
+    "主图不在参考列表",
+    "不存在的素材",
+    "越出项目路径"
+  ],
+  "htmlLinksChecked": 171,
+  "shotOrderMatches": true,
+  "referencedImageHashes": {
+    "视频制作/半园卧室试稿-v0.1/知夏卧室-清晨-候选02.png": "c743d449ce029074af3c1535b7c95abec442d60b5989e9809bcc2517cfd935f4",
+    "视频制作/晨起发夹母版-20261017/作者指定-蝴蝶结状发夹.png": "f7d21e0492dfbb49d08737a161fbcf93a7a35a03407b1bde6a49e166888d8fc1",
+    "视频制作/第一幕完整镜头包-20261016-v0.1/02-拖鞋到位.png": "7bc4594125ff97269b33405652fde68e194a1926db9acb3e35af6d06ff0eb856",
+    "视频制作/第一幕完整镜头包-20261016-v0.1/05-今日无安排.png": "6aa600cf21c70a2bf2e497a878b55df6945c7b4e8214756272ce0bfdf155eee8",
+    "视频制作/第一幕完整镜头包-20261016-v0.1/08-闹钟伸手.png": "bb74e453168d4e051c27aee24bed0166d47d3b089f59a3c4fab7b751e3e14845",
+    "视频制作/第一幕晨起-K02长手闹钟-20261015-v0.2/E01-A-K02-长手闹钟催醒前02.png": "53bf4619ecbb409d4ed8ea02e13a5da4a1d1a0f826d02e86d1d9cb295094a82b",
+    "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/01-K02-P1-半醒偷看.png": "f7d21e0492dfbb49d08737a161fbcf93a7a35a03407b1bde6a49e166888d8fc1",
+    "视频制作/第一幕智能水杯-20261017-v0.2/01-保留荷叶托盘-杯身读数.png": "c8731efcf8997b74f2ab318657184ea7df0e0b9f7529c151b273763b0bd2a945",
+    "视频制作/第一幕智能镜与表情被子-20261017-v0.1/02-被角动态材质-显像态.png": "4052f9786790124ef2f1d4e8bee3ccf210dbfe54d4bbe9ca6c6f47b43a1894e8",
+    "视频制作/第一幕智能镜云上花园-20261017-v0.1/01-智能镜-云上花园.png": "2b04e1a8c4b3eda64532daf2007245fb84bbf3b7d86e4b4b4c2994034dbfd24e",
+    "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/01-床托背-发夹统一.png": "c271cd716f7618df4c8d9a9a4af791c95c3882b401700a09f1e0fe2a07d30d67",
+    "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/02-第二拳-发夹统一.png": "82333de76fe75a771aa8161c2ee27dd2115f7f5c72a89be8f818673e138b6638",
+    "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/03-第三拳-发夹统一.png": "2aa9f5d88ab9de161fe09c294e9c6c80fee4dcc7a776edf733ff55fc7096669c",
+    "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/04-坐稳-发夹统一.png": "b32d213de6d350020842dea38eec2405026feef9e5ab6a5f6d9774f3787c2e13",
+    "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/05-喊停-发夹统一.png": "835e9021ec02e4f2a3da24fe09d7a2ccf8e46642e246f0b3f669d221af32bd4a",
+    "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/06-相拥盖被-发夹统一.png": "71e418caf57cfd8819dca9dfbbcaaae123f18441b7cd35024a00715632db7830",
+    "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/07-全景布局-发夹统一.png": "84bf8cf2b3bd2496e635f1e5d3e7f4802c8f9e1fe435808866595b7d0a403d1b"
+  },
+  "mediaGenerated": false,
+  "browserVisualReview": false,
+  "dynamicValidation": false,
+  "updatedMarkdownLinksChecked": 98,
+  "toonflowSavedFullTextMatches": true,
+  "independentForwardTest": {
+    "result": "passed",
+    "shots": 3,
+    "budget_seconds": 12,
+    "gaps": 2,
+    "render_exit_code": 0,
+    "check_only_exit_code": 0,
+    "test_html_links": 25,
+    "output": "C:/Users/36322/AppData/Local/Temp/linzhixia-atlas-forward-f94e2f07/handoff.html"
+  },
+  "gapAndTrialIndependentTagsVerified": true
+}

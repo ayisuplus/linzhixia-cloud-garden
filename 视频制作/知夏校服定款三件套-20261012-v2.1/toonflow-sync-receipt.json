@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-12",
+  "changes": [
+    [
+      "5d94e9dc-ab50-4359-a50b-4553c109fb8e",
+      "知夏校服定款三件套-20261012-v2.1/知夏-校服比例05-无腿部云纹.png",
+      "校服定款｜比例05·无腿部云纹·已采用"
+    ],
+    [
+      "7460a1c8-9e1e-4b2d-a189-698180cf6fec",
+      "知夏校服定款三件套-20261012-v2.1/知夏-校服四视图-v2.1.png",
+      "校服定款三件套｜四视图 v2.1·无腿部云纹"
+    ],
+    [
+      "aa3668f5-5da4-4282-82a5-276d1c9128eb",
+      "知夏校服定款三件套-20261012-v2.1/知夏-校服穿搭分解-v2.1.png",
+      "校服定款三件套｜穿搭分解 v2.1·无腿部云纹"
+    ],
+    [
+      "776d8e69-0722-4ec3-9040-33fdb5aa77ad",
+      "知夏校服定款三件套-20261012-v2.1/四视图独立图/01_front-half.png",
+      "校服定款v2.1｜正面大半身"
+    ],
+    [
+      "42b890b7-5859-431a-86a9-e72629ad4d3a",
+      "知夏校服定款三件套-20261012-v2.1/四视图独立图/02_facing-left.png",
+      "校服定款v2.1｜朝画面左侧面"
+    ],
+    [
+      "369d289f-edd5-4513-b5de-3335fb2bbb9e",
+      "知夏校服定款三件套-20261012-v2.1/四视图独立图/03_back.png",
+      "校服定款v2.1｜背面·无腿部云纹"
+    ],
+    [
+      "0b2644d5-16e0-4972-919a-4eeac449932c",
+      "知夏校服定款三件套-20261012-v2.1/四视图独立图/04_facing-right.png",
+      "校服定款v2.1｜朝画面右侧面·无腿部云纹"
+    ],
+    [
+      "855356ac-372a-4d61-a804-fbebb458e54e",
+      "知夏睡衣精修-20261012-v0.1/知夏-睡衣09-青瓷绿短裤无云纹.png",
+      "知夏｜睡衣09｜青瓷绿短裤·无云纹"
+    ]
+  ],
+  "textNodeIds": [
+    "345cbfd2-bd6c-4615-928b-da53122bd4de",
+    "53a52c1e-3f27-413a-bbf0-6f8c34ee8d17",
+    "9b49c72f-2d75-4084-af1b-762193dfc821",
+    "da8539dc-77d1-497f-b848-f2539aa7b279",
+    "5a46965d-e87b-462a-8ca0-c1a58f1f2445"
+  ],
+  "verifiedRulePrefix": "【2026-10-12 最新角色视觉决定，优先于下方历史记录】作者已认可睡衣08的款式与配色，并明确取消腿部蓝灰云纹：后续所有裸露腿部保持自然无标记皮肤，不再称其为固定/不可拆身体特征。睡衣当前使用09去云纹版；校服使用05无腿纹底图及三件套v2.1、v2.1独立视图。校服妆造板未露腿，沿用原图。袜口及鞋服装饰纹样保留。便服图片按作者要求保持不动，禁止由历史提示词重新恢复腿部云纹。个人作品不导入Eagle。\n当前校服入口：知夏校服定款三件套-20261012-v2.1/README.md\n当前睡衣：知夏睡衣精修-20261012-v0.1/睡衣09-记录.md\n\n【以下为历史来源与实际执行过的提示词，仅供追溯；云纹要求已失效】\n",
+  "after": {
+    "canvasId": "人物设计.json",
+    "nodes": [
+      {
+        "id": "5d94e9dc-ab50-4359-a50b-4553c109fb8e",
+        "label": "校服定款｜比例05·无腿部云纹·已采用",
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261012-v2.1/知夏-校服比例05-无腿部云纹.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "7460a1c8-9e1e-4b2d-a189-698180cf6fec",
+        "label": "校服定款三件套｜四视图 v2.1·无腿部云纹",
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261012-v2.1/知夏-校服四视图-v2.1.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "aa3668f5-5da4-4282-82a5-276d1c9128eb",
+        "label": "校服定款三件套｜穿搭分解 v2.1·无腿部云纹",
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261012-v2.1/知夏-校服穿搭分解-v2.1.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "776d8e69-0722-4ec3-9040-33fdb5aa77ad",
+        "label": "校服定款v2.1｜正面大半身",
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261012-v2.1/四视图独立图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "42b890b7-5859-431a-86a9-e72629ad4d3a",
+        "label": "校服定款v2.1｜朝画面左侧面",
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261012-v2.1/四视图独立图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "369d289f-edd5-4513-b5de-3335fb2bbb9e",
+        "label": "校服定款v2.1｜背面·无腿部云纹",
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261012-v2.1/四视图独立图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "0b2644d5-16e0-4972-919a-4eeac449932c",
+        "label": "校服定款v2.1｜朝画面右侧面·无腿部云纹",
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261012-v2.1/四视图独立图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "855356ac-372a-4d61-a804-fbebb458e54e",
+        "label": "知夏｜睡衣09｜青瓷绿短裤·无云纹",
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏睡衣精修-20261012-v0.1/知夏-睡衣09-青瓷绿短裤无云纹.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      }
+    ],
+    "hasMore": false,
+    "nextCursor": null
+  }
+}

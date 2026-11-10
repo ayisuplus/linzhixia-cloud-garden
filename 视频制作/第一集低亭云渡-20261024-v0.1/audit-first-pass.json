@@ -1,0 +1,434 @@
+{
+  "hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集低亭云渡-20261024-v0.1\\low-pavilion-cloud-ferry-v18.blend": "518faf1f32163c31bcf05a2afcd3acc49b648b5e4ea70c492c25ba7242296631",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园岛深化-20261024-v0.1\\island-garden-developed-v17.blend": "f97fae960fd51366160395864992ed36ed184d42af3899b82085ad42d4f58960",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集低亭云渡-20261024-v0.1\\planning-data.json": "7a1a0cf0d7776810740baf0c07354a6a29eb3cd17727ac769ee6e8c6470202fd",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集低亭云渡-20261024-v0.1\\transport-data.json": "f39ebbad4aad57b0cfe33ddc0f978d223384f8f7ecbf9c06a17913f1ac63ab68",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集低亭云渡-v0.1\\build.py": "b7e0c69251d3012895b788cdfee17690707df009fff6e4583da1c5e593daea97"
+  },
+  "stable": true,
+  "island_support_intersections": [],
+  "waterfall_checks": [
+    {
+      "id": "W1",
+      "freefall_hits": []
+    },
+    {
+      "id": "W2",
+      "freefall_hits": []
+    },
+    {
+      "id": "W3",
+      "freefall_hits": []
+    }
+  ],
+  "pool_beds": [
+    {
+      "id": "W1",
+      "island": "A",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W1",
+      "island": "B",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W2",
+      "island": "B",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W2",
+      "island": "C",
+      "bed_missing": [],
+      "min_depth": 1.0999992370605476,
+      "max_depth": 1.0999992370605476
+    },
+    {
+      "id": "W3",
+      "island": "F",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W3",
+      "island": "G",
+      "bed_missing": [],
+      "min_depth": 1.099999237060544,
+      "max_depth": 1.099999237060544
+    }
+  ],
+  "walking_checks": [
+    {
+      "name": "A internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "A ferry bench": {
+          "point": [
+            -233.58416748046875,
+            104.12000274658203,
+            126.58999633789062
+          ],
+          "above_floor": 0.4499969482421875
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "A internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "A internal garden path 2",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 2",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "C internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "C internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 2",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "E internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "E internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "F internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "F internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "F ferry bench": {
+          "point": [
+            263.18914794921875,
+            -126.50533294677734,
+            66.58999633789062
+          ],
+          "above_floor": 0.4499969482421875
+        },
+        "F cloud landing pier rail": {
+          "point": [
+            266.4134521484375,
+            -126.24943542480469,
+            67.24093627929688
+          ],
+          "above_floor": 1.1009368896484375
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "G internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "G cloud landing pier rail.001": {
+          "point": [
+            308.61114501953125,
+            -99.41353607177734,
+            49.19937515258789
+          ],
+          "above_floor": 1.0593757629394531
+        },
+        "G ferry bench.001": {
+          "point": [
+            311.6895751953125,
+            -99.25341796875,
+            48.59000015258789
+          ],
+          "above_floor": 0.4500007629394531
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "L5 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    }
+  ],
+  "tower_stair_headroom": [
+    {
+      "link": "L5",
+      "treads_and_halves": 38,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    }
+  ],
+  "courtyard_support": [
+    {
+      "name": "A reused School-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "A reused School-+1-01 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "A reused School-+1-02 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "B reused Water-bay-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "C reused Water-bay-+1-02 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "D reused Slope-neighbourhood-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "D reused Slope-neighbourhood--1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "F reused Zhixia-home court floor",
+      "support_issues": []
+    },
+    {
+      "name": "G reused Repair-workshop court floor",
+      "support_issues": []
+    }
+  ],
+  "pool_architecture_surface_intersections": [],
+  "scope": "Static saved geometry only. No inherited flight check. Sampled clearances, not structural or hydraulic certification.",
+  "actual_stair_platform_seams": [
+    {
+      "link": "L5",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    }
+  ],
+  "bridge_endpoints": [
+    {
+      "link": "L5",
+      "point": [
+        120,
+        -48,
+        72
+      ],
+      "contact": "E separate cloud support",
+      "support_z": 72.0
+    },
+    {
+      "link": "L5",
+      "point": [
+        190,
+        -88.7,
+        72
+      ],
+      "contact": "L5 change-level pavilion landing.002",
+      "support_z": 72.0
+    }
+  ],
+  "independent_bridge_full_width": [
+    {
+      "link": "L5",
+      "actual_top_triangles": 20,
+      "negative_top_triangles": 0,
+      "degenerate_top_triangles": 0,
+      "samples": 8547,
+      "missing_4_98m_deck": [],
+      "rail_in_4_5m_core": []
+    }
+  ],
+  "asset_preservation": {
+    "unexpected_changes": [],
+    "declared_removals": 4083,
+    "unrecognised_removal_groups": [],
+    "forbidden_old_transport_leftovers": [],
+    "original_material_changes": [],
+    "original_materials_missing": [],
+    "source_hash_matches_metadata": true,
+    "A_change_outside_declared_cutters": []
+  },
+  "transport_walk_checks": [
+    {
+      "label": "A pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "A boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "B pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "B boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "C pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "C boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "D pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "D boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "E pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "E boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "F pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "F boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "G pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "G boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "A upper lift access",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "A lower accessible concourse",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    }
+  ],
+  "embedded_lift": {
+    "shaft_core_hits": [],
+    "lower_gate_state": "intentionally closed; car parked at upper station",
+    "operation": "not tested / not simulated"
+  }
+}

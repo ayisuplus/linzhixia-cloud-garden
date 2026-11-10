@@ -1,0 +1,57 @@
+{
+  "baseline": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云中园城-20261024-v0.3\\cloud-city-color-58s-v05.blend",
+  "candidate": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云中园城-20261024-v0.4\\cloud-city-layered-58s-v06.blend",
+  "baseline_sha256": [
+    "123dc11944f768ec908bb2f65fcd88810b93afc025df6eefc6206052f39ae03c",
+    "123dc11944f768ec908bb2f65fcd88810b93afc025df6eefc6206052f39ae03c"
+  ],
+  "candidate_sha256": [
+    "171e9b615fea0990a125457cee0a614455923f93660ea65a653852148e2ee214",
+    "171e9b615fea0990a125457cee0a614455923f93660ea65a653852148e2ee214"
+  ],
+  "source_files_stable": true,
+  "revision_sha256": "faf2c2e2f3d870becfe056762ad5714dfe8068f61eb4f7edb41f347a0d8c9771",
+  "revision_source_hash_matches": true,
+  "original_objects": 52024,
+  "original_geometry_blocks": 51913,
+  "original_material_count": 70,
+  "missing_objects": [],
+  "added_objects": [],
+  "unexpected_object_changes": [],
+  "changed_original_materials": [
+    "ENCLOSING CLOUD with open courtyards",
+    "MOTHER CLOUD connected supporting cloud"
+  ],
+  "authorized_materials": [
+    "ENCLOSING CLOUD with open courtyards",
+    "MOTHER CLOUD connected supporting cloud"
+  ],
+  "added_materials": [],
+  "lighting_world_display_compositor_changes": [],
+  "camera_positions_max_difference_m": 0.0,
+  "camera_quaternion_components_max_difference": 0.0,
+  "carrier_positions_max_difference_m": 0.0,
+  "camera_action_identical": true,
+  "carrier_action_identical": true,
+  "camera_settings_identical": true,
+  "timing_identical": true,
+  "timing": [
+    1,
+    1392,
+    24,
+    1.0
+  ],
+  "serializer_dependencies": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云海城市-20261023-v0.1\\independent-preservation-audit.py": "3537c9d6339dff8e46b79fef01e39afe8aa48137cb9a12e73c7b97573992c626",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云中园城-20261024-v0.2\\independent-audit.py": "d33e2fe7ae769d6840cdeb868bf247d31d266f8df6cf0e0341f64006f40d19b0"
+  },
+  "scope": "Editable source to editable source. Exact original geometry signatures, bindings, frame1 matrices, parents, modifiers, constraints, visibility, active actions and their keyframe data compared. All direct material parameters except precisely two named cloud materials protected. Light datablock settings, world nodes/settings, display settings and compositor direct nodes also compared.",
+  "limits": [
+    "Read-only CPU. No GPU, render, scene save or Git. Render-only batching proxy not audited here.",
+    "Mesh coordinates/topology/material indices/smoothing compared; UV/custom attributes/custom normals/shape keys and external texture bytes excluded.",
+    "Direct shader nodes/inputs/settings/links compared, not recursively evaluated nested groups or all unused Blender datablocks.",
+    "Motion sampled from saved F-curves at 1392 integer frames, with action keyframe records also compared; no per-frame scene evaluation or new collision check.",
+    "Asset preservation is independent of static visual review and does not certify continuous cloud appearance or final video acceptance."
+  ],
+  "passed": true
+}

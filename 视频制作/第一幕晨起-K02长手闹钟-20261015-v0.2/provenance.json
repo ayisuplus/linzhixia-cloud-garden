@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-15",
+  "tool": "image_gen.imagegen",
+  "calls": 1,
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-fc2dbbe2-5ce6-49fe-ac88-506788f7fa0d.png",
+  "output": "E01-A-K02-长手闹钟催醒前02.png",
+  "reference": "视频制作/第一幕晨起-K02床侧近景-20261015-v0.1/E01-A-K02-催醒前床侧近景01.png",
+  "size": [
+    1672,
+    941
+  ],
+  "sha256": "53bf4619ecbb409d4ed8ea02e13a5da4a1d1a0f826d02e86d1d9cb295094a82b",
+  "status": "候选待审；伸手准备状态，未验证接触动作",
+  "prompt": "prompt.txt"
+}

@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-11",
+  "status": "three_boards_and_four_crops_delivered",
+  "generator": "built-in image_gen",
+  "design_source": {
+    "file": "视频制作/知夏面容身形优化-20261011-v0.1/知夏-校服比例05-清晰收腰与鞋背花叶绣.png",
+    "sha256": "05f27acdc2020742f1f6706547b9296636c8828beab5b10433ec98571063ea6d",
+    "status": "author_adopted",
+    "author_confirmation": "可以啊，校服就这个样了，定款吧。"
+  },
+  "assets": [
+    {
+      "file": "四视图独立图/01_front-half.png",
+      "size": [
+        530,
+        1024
+      ],
+      "sha256": "3b75f505cd2c915d5bdc56531ee16d3e379b4270c2f4ac85dde15eec68baa0af",
+      "status": "delivered_from_adopted_design"
+    },
+    {
+      "file": "四视图独立图/02_facing-left.png",
+      "size": [
+        290,
+        1024
+      ],
+      "sha256": "53a85e1933a920480738e0d5da1b6be4e447857fecf4db9223c085405476caf6",
+      "status": "delivered_from_adopted_design"
+    },
+    {
+      "file": "四视图独立图/03_back.png",
+      "size": [
+        365,
+        1024
+      ],
+      "sha256": "435eb9d3c57613f19f431db72c2e52899100065aa9561771aab50f5aa26d81e1",
+      "status": "delivered_from_adopted_design"
+    },
+    {
+      "file": "四视图独立图/04_facing-right.png",
+      "size": [
+        351,
+        1024
+      ],
+      "sha256": "f8ba618e39fdfd21661076db1dfb7def888d78175b8dd5fe74bae35d8fd7d18e",
+      "status": "delivered_from_adopted_design"
+    },
+    {
+      "file": "知夏-妆造分解-v2.0.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "cd76d565749f0d3866de4b2e8a832ccc4768fe3476ef647bebaa9656295769dd",
+      "status": "delivered_from_adopted_design"
+    },
+    {
+      "file": "知夏-妆造分解-v2.0a-校验前.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "8661cec3cb3c750c6b7353c6668f8d6ef797d99e735384dddc0ac540a98b1317",
+      "status": "superseded_intermediate"
+    },
+    {
+      "file": "知夏-校服四视图-v2.0.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "fe31a9fb180f0aed35cc94e3ef68be7ff093bd3fa0f2576624623a267888315e",
+      "status": "delivered_from_adopted_design"
+    },
+    {
+      "file": "知夏-校服四视图-v2.0a-校验前.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "dde88aa29bbb004c94c9b068c0d752a16ebc6c921f076b5ff385ecbb40c51475",
+      "status": "superseded_intermediate"
+    },
+    {
+      "file": "知夏-校服四视图-v2.0b-水杯待补.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "e4e3e32463bad98a95d005dec2dec0b8c15ffdb9f33e51cbecb4554d5b7fe08a",
+      "status": "superseded_intermediate"
+    },
+    {
+      "file": "知夏-穿搭分解-v2.0.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "030af06bc1f35d5a79f11ef2acac407967d8784047335cd264b77be78bfdc546",
+      "status": "delivered_from_adopted_design"
+    },
+    {
+      "file": "知夏-穿搭分解-v2.0a-校验前.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "4e14a176a9a9384ad55b55b074a829d88ccb2cb36985fef7fdc46951b0493e8a",
+      "status": "superseded_intermediate"
+    }
+  ],
+  "prompts": [
+    {
+      "file": "makeup-实际提示词.txt",
+      "sha256": "1673710d23578f49df1aeb02a911e1ccc79c907ec6cbc11212a090c2c7ca6e51"
+    },
+    {
+      "file": "makeup-校验修正提示词.txt",
+      "sha256": "d9acee4b76c7bef8d6abd6072f27a2922dd6a591338cf4966ba28f4148d24b32"
+    },
+    {
+      "file": "outfit-实际提示词.txt",
+      "sha256": "f736accd24f156bf890cf37c6b296399bc26dcd357f90a664184061c2c421088"
+    },
+    {
+      "file": "outfit-校验修正提示词.txt",
+      "sha256": "32efa49ffe9ab3fc008d2c2f1d02685db76aa7bacc62a835bb40ee40fd9979ea"
+    },
+    {
+      "file": "turnaround-实际提示词.txt",
+      "sha256": "1f5e36ddf9d944da3efc282c3da3a865037b31787d9f5631de772b88218dceb1"
+    },
+    {
+      "file": "turnaround-校验修正提示词.txt",
+      "sha256": "d49ca8ceb7f1f958d4a32eff99882c00c887a6504afb41e1903a7b754a77aba2"
+    },
+    {
+      "file": "turnaround-水杯修正提示词.txt",
+      "sha256": "ac56a8d5870e0d7731b343dbf48e6f2afae68936ffe69d3a38847cfd44024086"
+    }
+  ],
+  "canvas_node_ids": [
+    "7460a1c8-9e1e-4b2d-a189-698180cf6fec",
+    "c840de5b-0463-492b-8ed9-d8da6ca630db",
+    "aa3668f5-5da4-4282-82a5-276d1c9128eb",
+    "776d8e69-0722-4ec3-9040-33fdb5aa77ad",
+    "42b890b7-5859-431a-86a9-e72629ad4d3a",
+    "369d289f-edd5-4513-b5de-3335fb2bbb9e",
+    "0b2644d5-16e0-4972-919a-4eeac449932c",
+    "53a52c1e-3f27-413a-bbf0-6f8c34ee8d17",
+    "64fac844-166f-4213-8627-e7ab4110272d",
+    "9b49c72f-2d75-4084-af1b-762193dfc821"
+  ],
+  "checks": {
+    "board_count": 3,
+    "crop_count": 4,
+    "image_decode": true,
+    "visual_content_review": true,
+    "crop_visual_review": true,
+    "canvas_paths_readback": true,
+    "design_source_adopted": true,
+    "derived_unseen_details_explicitly_adopted": false
+  },
+  "generated_final_sources": {
+    "知夏-校服四视图-v2.0.png": "exec-4a4590a3-17df-4b2f-8206-18e48821e9cd.png",
+    "知夏-妆造分解-v2.0.png": "exec-6d6c0f2a-2e0b-42f7-a35c-bbf31d3b3a21.png",
+    "知夏-穿搭分解-v2.0.png": "exec-05702eec-679e-4e23-b4c2-85f2ac3f883b.png"
+  },
+  "limitations": [
+    "Unseen backs and occluded products are inferred",
+    "Visual reference, not calibrated orthographic geometry or garment patterns",
+    "Approved source controls any small detail variation"
+  ]
+}

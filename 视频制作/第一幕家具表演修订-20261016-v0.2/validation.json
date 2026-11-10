@@ -1,0 +1,42 @@
+{
+  "images": [
+    {
+      "name": "01-床托住知夏.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "f8852a5d6afd0212ed14abd53a759324c6e34a42eafefc3eb6f5f3b44e7dc26f",
+      "matchesSource": true,
+      "promptExists": true
+    },
+    {
+      "name": "02-衣柜递出昨晚搭配.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e64cc235951a3b5afdbd74412b7080271502c0f45abdefda596f96752d3f809c",
+      "matchesSource": true,
+      "promptExists": true
+    },
+    {
+      "name": "03-床替他们盖好被子.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "7d5f62cc873c1f3141ce9ee79f1057daa88967691baafff5d3a9fd58cdf84093",
+      "matchesSource": true,
+      "promptExists": true
+    }
+  ],
+  "shotCount": 16,
+  "secondsBudget": 90,
+  "missingReferences": [],
+  "videoProduced": false,
+  "htmlCards": 16,
+  "missingHTMLLinks": [],
+  "toonflowFullTextMatches": true,
+  "independentReview": "审查记录.md"
+}

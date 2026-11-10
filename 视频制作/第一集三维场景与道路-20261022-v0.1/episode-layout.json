@@ -1,0 +1,813 @@
+{
+  "version": "v0.1",
+  "status": "Episode spatial candidate; dimensions and school-city boundary provisional",
+  "bedroom_source": "视频制作\\知夏卧室三维空间-20261022-v0.1\\zhixia-bedroom-v01.blend",
+  "bedroom_source_sha256": "af5c9310cc4bf013fba4b9f8125adac5ba9d8ed6304781c71e8661db455991a9",
+  "routes": {
+    "home_to_work": {
+      "kind": "walk",
+      "shots": [
+        "C-G05",
+        "G-G05"
+      ],
+      "points": [
+        [
+          0,
+          -0.7,
+          0
+        ],
+        [
+          1.9,
+          -0.3,
+          0
+        ],
+        [
+          2.7,
+          0.8,
+          0
+        ],
+        [
+          3.8,
+          1.2,
+          0
+        ],
+        [
+          3.6,
+          3.2,
+          0
+        ],
+        [
+          3.6,
+          5.7,
+          0
+        ],
+        [
+          2.4,
+          5.7,
+          0
+        ],
+        [
+          2.4,
+          9.1,
+          0
+        ],
+        [
+          8,
+          9.1,
+          0
+        ],
+        [
+          8,
+          17.9,
+          0
+        ],
+        [
+          2.2,
+          17.9,
+          0
+        ],
+        [
+          2.2,
+          21,
+          0
+        ]
+      ]
+    },
+    "home_to_living": {
+      "kind": "walk",
+      "shots": [
+        "B-G01"
+      ],
+      "points": [
+        [
+          0,
+          -0.7,
+          0
+        ],
+        [
+          1.9,
+          -0.3,
+          0
+        ],
+        [
+          2.7,
+          0.8,
+          0
+        ],
+        [
+          3.8,
+          1.2,
+          0
+        ],
+        [
+          5.1,
+          1.6,
+          0
+        ],
+        [
+          6.6,
+          1.6,
+          0
+        ],
+        [
+          7.2,
+          0.7,
+          0
+        ]
+      ]
+    },
+    "dorm_to_dispatch": {
+      "kind": "walk",
+      "shots": [
+        "B-G05",
+        "B-G06"
+      ],
+      "points": [
+        [
+          -50.5,
+          53.1,
+          6
+        ],
+        [
+          -50.5,
+          51,
+          6
+        ],
+        [
+          -49.9,
+          49.0,
+          6
+        ],
+        [
+          -49.9,
+          47.4,
+          6
+        ]
+      ]
+    },
+    "dorm_to_hall": {
+      "kind": "walk",
+      "shots": [
+        "G-G02"
+      ],
+      "points": [
+        [
+          -49.9,
+          49,
+          6
+        ],
+        [
+          -49.9,
+          47.35,
+          6
+        ],
+        [
+          -48,
+          47.3,
+          6
+        ],
+        [
+          -45.5,
+          47.5,
+          6
+        ],
+        [
+          -40,
+          47.5,
+          6
+        ],
+        [
+          -28,
+          47.5,
+          6
+        ],
+        [
+          -21,
+          47.5,
+          6
+        ],
+        [
+          -21,
+          50.2,
+          6
+        ]
+      ]
+    },
+    "school_to_work": {
+      "kind": "walk",
+      "shots": [
+        "F-G01",
+        "G-G01"
+      ],
+      "points": [
+        [
+          -21,
+          50.2,
+          6
+        ],
+        [
+          -21,
+          47.5,
+          6
+        ],
+        [
+          -21,
+          44.5,
+          6
+        ],
+        [
+          -20,
+          39,
+          6
+        ],
+        [
+          -18,
+          39,
+          6
+        ],
+        [
+          -8,
+          39,
+          5
+        ],
+        [
+          4,
+          39,
+          4
+        ],
+        [
+          14,
+          39,
+          3
+        ],
+        [
+          16,
+          39,
+          3
+        ],
+        [
+          16,
+          37,
+          3
+        ],
+        [
+          16,
+          27,
+          2
+        ],
+        [
+          16,
+          15,
+          1
+        ],
+        [
+          16,
+          5,
+          0
+        ],
+        [
+          16,
+          3,
+          0
+        ],
+        [
+          13,
+          3,
+          0
+        ],
+        [
+          13,
+          9.1,
+          0
+        ],
+        [
+          8,
+          9.1,
+          0
+        ],
+        [
+          8,
+          17.9,
+          0
+        ],
+        [
+          2.2,
+          17.9,
+          0
+        ],
+        [
+          2.2,
+          21,
+          0
+        ]
+      ]
+    },
+    "dock_to_repair": {
+      "kind": "walk",
+      "shots": [
+        "C-G06",
+        "D-G01"
+      ],
+      "points": [
+        [
+          11.7,
+          18.5,
+          0
+        ],
+        [
+          11.7,
+          19.3,
+          0
+        ],
+        [
+          10,
+          19.3,
+          0
+        ],
+        [
+          10,
+          18.6,
+          0
+        ],
+        [
+          2.2,
+          18.6,
+          0
+        ],
+        [
+          2.2,
+          21,
+          0
+        ],
+        [
+          0.2,
+          21.2,
+          0
+        ]
+      ]
+    },
+    "backstage_to_floor": {
+      "kind": "walk",
+      "shots": [
+        "G-G02"
+      ],
+      "points": [
+        [
+          -24.3,
+          51.6,
+          6
+        ],
+        [
+          -24.3,
+          54,
+          6.012
+        ],
+        [
+          -22,
+          54,
+          6.012
+        ]
+      ]
+    },
+    "east_garden_walk": {
+      "kind": "walk",
+      "shots": [
+        "C-G04"
+      ],
+      "points": [
+        [
+          13,
+          18,
+          0
+        ],
+        [
+          13,
+          34,
+          0
+        ]
+      ]
+    },
+    "neighbour_walk": {
+      "kind": "walk",
+      "shots": [
+        "C-G04",
+        "G-G05"
+      ],
+      "points": [
+        [
+          -18,
+          18,
+          0
+        ],
+        [
+          -20,
+          18,
+          0
+        ],
+        [
+          -20,
+          32,
+          0
+        ],
+        [
+          -19.2,
+          32,
+          0
+        ]
+      ]
+    },
+    "trial_line": {
+      "kind": "walk",
+      "shots": [
+        "F-G02",
+        "F-G05"
+      ],
+      "points": [
+        [
+          6.2,
+          21.5,
+          0.012
+        ],
+        [
+          6.2,
+          24.0,
+          0.012
+        ]
+      ]
+    },
+    "parcel": {
+      "kind": "flight",
+      "shots": [
+        "C-G01",
+        "C-G06"
+      ],
+      "points": [
+        [
+          -49.9,
+          46.65,
+          7.132
+        ],
+        [
+          -49.9,
+          45.7,
+          7.132
+        ],
+        [
+          -45,
+          45.7,
+          9
+        ],
+        [
+          -38,
+          53,
+          10.8
+        ],
+        [
+          -30,
+          54,
+          10.8
+        ],
+        [
+          -30,
+          44,
+          11
+        ],
+        [
+          -19,
+          42,
+          12
+        ],
+        [
+          -8,
+          36,
+          10
+        ],
+        [
+          14,
+          30,
+          8
+        ],
+        [
+          14,
+          22,
+          5
+        ],
+        [
+          14,
+          14,
+          3
+        ],
+        [
+          10.8,
+          15.5,
+          1.132
+        ],
+        [
+          10.8,
+          18.5,
+          1.132
+        ]
+      ]
+    }
+  },
+  "stage": {
+    "clear_rectangle": [
+      -24,
+      53,
+      -18,
+      59,
+      6.012
+    ],
+    "audience": [
+      [
+        -23,
+        51.6,
+        6
+      ],
+      [
+        -21,
+        51.6,
+        6
+      ],
+      [
+        -19,
+        51.6,
+        6
+      ]
+    ],
+    "backstage": [
+      -24.3,
+      51.6,
+      6
+    ],
+    "status": "Proposed reuse of daily dance hall for small demonstration; not author-adopted venue or choreography proof"
+  },
+  "cameras": [
+    {
+      "id": "E01-OV",
+      "title": "第一集局部总览",
+      "position": [
+        66,
+        -61,
+        83
+      ],
+      "target": [
+        -15,
+        30,
+        2
+      ],
+      "lens_mm": 42,
+      "shot_groups": "A-G"
+    },
+    {
+      "id": "E01-HOME",
+      "title": "半园两岸与桥",
+      "position": [
+        20,
+        -4,
+        17
+      ],
+      "target": [
+        2,
+        13,
+        1
+      ],
+      "lens_mm": 35,
+      "shot_groups": "C/F/G"
+    },
+    {
+      "id": "E01-LIVING",
+      "title": "起居通话",
+      "position": [
+        6.5,
+        -1.2,
+        1.65
+      ],
+      "target": [
+        9.1,
+        1.2,
+        1.05
+      ],
+      "lens_mm": 25,
+      "shot_groups": "B-G01"
+    },
+    {
+      "id": "E01-WORK",
+      "title": "作坊入口看室内",
+      "position": [
+        2,
+        19.4,
+        1.65
+      ],
+      "target": [
+        2,
+        24.2,
+        1.25
+      ],
+      "lens_mm": 23,
+      "shot_groups": "D/E/F"
+    },
+    {
+      "id": "E01-REVERSE",
+      "title": "作坊望住家",
+      "position": [
+        1.2,
+        23.4,
+        1.65
+      ],
+      "target": [
+        2,
+        10,
+        1.1
+      ],
+      "lens_mm": 30,
+      "shot_groups": "C/D/G"
+    },
+    {
+      "id": "E01-TRIAL",
+      "title": "干燥试穿区",
+      "position": [
+        2.6,
+        20.1,
+        1.65
+      ],
+      "target": [
+        6.7,
+        23.2,
+        0.8
+      ],
+      "lens_mm": 28,
+      "shot_groups": "F"
+    },
+    {
+      "id": "E01-DOCK",
+      "title": "作坊收件接口",
+      "position": [
+        13.2,
+        15.2,
+        1.7
+      ],
+      "target": [
+        10.8,
+        18.5,
+        1.1
+      ],
+      "lens_mm": 30,
+      "shot_groups": "C-G06"
+    },
+    {
+      "id": "E01-SCHOOL",
+      "title": "宿舍水庭与练功厅",
+      "position": [
+        -52,
+        47.0,
+        8.0
+      ],
+      "target": [
+        -34,
+        60,
+        7.0
+      ],
+      "lens_mm": 28,
+      "shot_groups": "C-G02/G03"
+    },
+    {
+      "id": "E01-DORM",
+      "title": "宿舍桌边",
+      "position": [
+        -50,
+        50.6,
+        7.65
+      ],
+      "target": [
+        -51,
+        55,
+        7.1
+      ],
+      "lens_mm": 25,
+      "shot_groups": "B-G02/G05"
+    },
+    {
+      "id": "E01-SEND",
+      "title": "宿舍寄件口",
+      "position": [
+        -53.1,
+        45.3,
+        7.65
+      ],
+      "target": [
+        -49.9,
+        47.2,
+        7.0
+      ],
+      "lens_mm": 28,
+      "shot_groups": "B-G06/C-G01"
+    },
+    {
+      "id": "E01-DANCE",
+      "title": "舞室日常母版方向",
+      "position": [
+        -21,
+        60,
+        7.65
+      ],
+      "target": [
+        -21,
+        53,
+        7.2
+      ],
+      "lens_mm": 24,
+      "shot_groups": "G-G02"
+    },
+    {
+      "id": "E01-STAGE",
+      "title": "小型展示与观众",
+      "position": [
+        -21,
+        49.8,
+        7.65
+      ],
+      "target": [
+        -21,
+        56.5,
+        7.2
+      ],
+      "lens_mm": 24,
+      "shot_groups": "G-G03"
+    },
+    {
+      "id": "E01-ROAD",
+      "title": "书院出入口与缓坡",
+      "position": [
+        -18,
+        33,
+        9
+      ],
+      "target": [
+        9,
+        39,
+        4.8
+      ],
+      "lens_mm": 30,
+      "shot_groups": "C/G-G01"
+    },
+    {
+      "id": "E01-CASCADE",
+      "title": "叠水与沿途园城",
+      "position": [
+        -19,
+        17,
+        8
+      ],
+      "target": [
+        -8,
+        28,
+        2.8
+      ],
+      "lens_mm": 28,
+      "shot_groups": "C-G04"
+    },
+    {
+      "id": "E01-NIGHT",
+      "title": "归家两岸灯光",
+      "position": [
+        12,
+        5,
+        5
+      ],
+      "target": [
+        2,
+        17,
+        1
+      ],
+      "lens_mm": 28,
+      "shot_groups": "G-G05"
+    }
+  ],
+  "reference_images": [
+    {
+      "path": "视频制作/修复作坊室内-20261014-v0.1/修复作坊-室内全景01.png",
+      "sha256": "472d7f2bce8552bd78f72646bbcc774ebc4cc6cc35f7353d08213c713a6aebf9"
+    },
+    {
+      "path": "视频制作/水墨学院宿舍-20261015-v0.2/山水书院-水墨世界与彩色宿舍02.png",
+      "sha256": "94633cbdfcc7a06450548c297a2839a0d6d22e2f98964118a0f8e61abdc5b131"
+    },
+    {
+      "path": "视频制作/山水书院总景-20261015-v0.1/山水书院-宿舍水庭舞院总景01.png",
+      "sha256": "827604027b90c23963797c7a7f12b1d8d9e8ceb0a0c814e1c26b361466f830a5"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.1/舞蹈室01-日常练功.png",
+      "sha256": "e329e6d211663de024dfb1b7bee8e58b030df9990508e5a560dd259f624b7f64"
+    }
+  ],
+  "limits": [
+    "Exterior school palette and sky monochrome; dorm personal space warm",
+    "School-city ramp is reversible physical-continuity hypothesis, not a worldbuilding decision",
+    "Immersive interfaces reserved, not simulated",
+    "Water geometry not fluid or water-supply validation",
+    "Flight carrier and shoes are scale proxies, not adopted designs",
+    "Road and camera checks are discrete spatial tests, not gameplay or structural certification"
+  ]
+}

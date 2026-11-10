@@ -1,0 +1,16 @@
+{
+  "duration_seconds": 58,
+  "frames": 1392,
+  "fps": 24,
+  "length_m": 1885.7428884354981,
+  "max_speed_m_s": 62.67974895241419,
+  "max_acceleration_m_s2": 36.159557064282836,
+  "max_rotation_deg_per_frame": 1.4580099597147684,
+  "swept_sample_collisions": [],
+  "envelope_m": [
+    1.1,
+    1.1,
+    0.7
+  ],
+  "scope": "Geometric reference route, not physical flight dynamics; 27 swept samples are not an exact swept-solid proof. Cloud layer disabled in source default."
+}

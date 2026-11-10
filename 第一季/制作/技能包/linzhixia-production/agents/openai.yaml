@@ -1,0 +1,6 @@
+interface:
+  display_name: "林知夏制作"
+  short_description: "衔接林知夏资产、分镜、关键帧、故事版与 Toonflow 手动视频交接"
+  default_prompt: "使用 $linzhixia-production 准备本次确认阶段的制作资料。"
+policy:
+  allow_implicit_invocation: true

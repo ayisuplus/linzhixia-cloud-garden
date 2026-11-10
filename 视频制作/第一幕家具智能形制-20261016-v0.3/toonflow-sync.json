@@ -1,0 +1,33 @@
+{
+  "status": "synced",
+  "connectionId": "a8e9b1e4-4f34-45d4-b990-668ea24cfc0e",
+  "canvasId": "场景设计-半园两岸-20261014.json",
+  "nodeCountBefore": 47,
+  "nodeCountAfter": 51,
+  "added": [
+    {
+      "id": "e7117439-29ea-4ac8-b56a-20859438ea15",
+      "kind": "image",
+      "path": "第一幕家具智能形制-20261016-v0.3/01-床头玉璧与回应光纹.png"
+    },
+    {
+      "id": "dce54f57-1856-4ffb-b16e-fd856b2e7fd3",
+      "kind": "image",
+      "path": "第一幕家具智能形制-20261016-v0.3/02-衣柜玉扣与等待亮弧.png"
+    },
+    {
+      "id": "51d0af27-a851-4ec5-b6cd-9a8605082e50",
+      "kind": "image",
+      "path": "第一幕家具智能形制-20261016-v0.3/03-杯托玉芯与叶脉光.png"
+    },
+    {
+      "id": "9b0bf4c2-bb52-455e-8823-91dfec729293",
+      "kind": "text",
+      "path": "assets/9b0bf4c2-bb52-455e-8823-91dfec729293/content.md"
+    }
+  ],
+  "imagePathsReadBack": true,
+  "textContentReadBackMatchesIgnoringTerminalWhitespace": true,
+  "canvasDirectlyEdited": false,
+  "scope": "仅本轮3图与完整v0.4文字，旧候选保留；混合画布未纳入本轮Git提交"
+}

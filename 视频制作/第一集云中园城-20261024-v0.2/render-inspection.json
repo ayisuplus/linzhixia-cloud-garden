@@ -1,0 +1,1002 @@
+{
+  "camera": {
+    "lens": 22.0,
+    "sensor_width": 36.0,
+    "sensor_fit": "AUTO"
+  },
+  "objects": 52024,
+  "visible_meshes": 22988,
+  "materials": {
+    "Clock face markings": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "Dance mirror": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "Dorm apricot cloth": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "ENCLOSING CLOUD local side tongues": {
+      "nodes": [
+        "TEX_COORD",
+        "TEX_NOISE",
+        "MAP_RANGE",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "PRINCIPLED_VOLUME",
+        "MATH",
+        "OUTPUT_MATERIAL",
+        "SEPXYZ",
+        "MAP_RANGE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "MATH"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "TEX_NOISE"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "SEPXYZ"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "ENCLOSING CLOUD with open courtyards": {
+      "nodes": [
+        "TEX_COORD",
+        "TEX_NOISE",
+        "MAP_RANGE",
+        "PRINCIPLED_VOLUME",
+        "MATH",
+        "OUTPUT_MATERIAL",
+        "SEPXYZ",
+        "MAP_RANGE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "MATH"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "TEX_NOISE"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "SEPXYZ"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "Garden leaves": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "Gray clay roof": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "Honey timber floor": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VALTORGB",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "Ivory ceramic": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "Ivory cloth": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VALTORGB",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "Longzhou water": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "Lower ambient cloud sea": {
+      "nodes": [
+        "TEX_COORD",
+        "TEX_NOISE",
+        "MAP_RANGE",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "PRINCIPLED_VOLUME",
+        "MATH",
+        "OUTPUT_MATERIAL",
+        "SEPXYZ",
+        "MAP_RANGE"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "TEX_NOISE"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "SEPXYZ"
+        ]
+      ]
+    },
+    "MOTHER CLOUD connected supporting cloud": {
+      "nodes": [
+        "TEX_COORD",
+        "TEX_NOISE",
+        "MAP_RANGE",
+        "PRINCIPLED_VOLUME",
+        "MATH",
+        "OUTPUT_MATERIAL",
+        "SEPXYZ",
+        "MAP_RANGE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "MATH"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "TEX_NOISE"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "SEPXYZ"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "MOTHER CLOUD feathered folded shoulders": {
+      "nodes": [
+        "TEX_COORD",
+        "TEX_NOISE",
+        "MAP_RANGE",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "PRINCIPLED_VOLUME",
+        "MATH",
+        "OUTPUT_MATERIAL",
+        "SEPXYZ",
+        "MAP_RANGE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "MATH"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "TEX_NOISE"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "SEPXYZ"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "Muted brass": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "Oatmeal blackout cloth": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VALTORGB",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "Ordinary mist / open air only": {
+      "nodes": [
+        "TEX_COORD",
+        "TEX_NOISE",
+        "MAP_RANGE",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "PRINCIPLED_VOLUME",
+        "MATH",
+        "OUTPUT_MATERIAL",
+        "SEPXYZ",
+        "MAP_RANGE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "MATH"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "TEX_NOISE"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "SEPXYZ"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "Sage bedding": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VALTORGB",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "Same parcel neutral wrapper": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "School gray stone": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "BUMP"
+      ],
+      "coord_links": []
+    },
+    "School ink timber": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "School ink vegetation": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "School monochrome water": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "School paper plaster": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "BUMP"
+      ],
+      "coord_links": []
+    },
+    "Single continuous clear pane": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "Soil": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "Sunlit green leaf": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "V03 cloudsoft": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "V03 grass": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "V03 ordinary water mist": {
+      "nodes": [
+        "PRINCIPLED_VOLUME",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "V03 route": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "V04 cloud": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_COORD",
+        "VECT_MATH",
+        "TEX_NOISE",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "V04 cloud-material soft fringe": {
+      "nodes": [
+        "OUTPUT_MATERIAL",
+        "PRINCIPLED_VOLUME",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "TEX_NOISE",
+        "MATH",
+        "MATH"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "TEX_NOISE"
+        ]
+      ]
+    },
+    "V04 fall.001": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "V04 foam": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "V04 gray": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "BUMP",
+        "TEX_COORD",
+        "VECT_MATH",
+        "TEX_NOISE",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "V04 ink": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_COORD",
+        "VECT_MATH",
+        "TEX_NOISE",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "V04 ink cloud-material soft fringe": {
+      "nodes": [
+        "OUTPUT_MATERIAL",
+        "PRINCIPLED_VOLUME",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "TEX_NOISE",
+        "MATH",
+        "MATH"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "TEX_NOISE"
+        ]
+      ]
+    },
+    "V04 inkwater": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_COORD",
+        "VECT_MATH",
+        "TEX_NOISE",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "V04 inkwindow": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "V04 paper": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "BUMP",
+        "TEX_COORD",
+        "VECT_MATH",
+        "TEX_NOISE",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "V04 roof": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_COORD",
+        "VECT_MATH",
+        "TEX_NOISE",
+        "BUMP",
+        "TEX_WAVE"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "V04 stone": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VALTORGB",
+        "BUMP",
+        "TEX_COORD",
+        "VECT_MATH",
+        "TEX_NOISE",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "V04 wall": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VALTORGB",
+        "BUMP",
+        "TEX_COORD",
+        "VECT_MATH",
+        "TEX_NOISE",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "V04 water": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_COORD",
+        "VECT_MATH",
+        "TEX_NOISE",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "V04 window": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL"
+      ],
+      "coord_links": []
+    },
+    "V04 wood": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VALTORGB",
+        "BUMP",
+        "TEX_COORD",
+        "VECT_MATH",
+        "TEX_NOISE",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ],
+        [
+          "TEX_COORD",
+          "Object",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "V06 cloud lobe with feathered boundary": {
+      "nodes": [
+        "OUTPUT_MATERIAL",
+        "PRINCIPLED_VOLUME",
+        "TEX_COORD",
+        "TEX_NOISE",
+        "MAP_RANGE",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "MATH"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "TEX_NOISE"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "V06 dense cloud interior": {
+      "nodes": [
+        "OUTPUT_MATERIAL",
+        "PRINCIPLED_VOLUME",
+        "TEX_COORD",
+        "TEX_NOISE",
+        "MAP_RANGE",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "MATH"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "TEX_NOISE"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "V06 translucent trailing cloud": {
+      "nodes": [
+        "OUTPUT_MATERIAL",
+        "PRINCIPLED_VOLUME",
+        "TEX_COORD",
+        "TEX_NOISE",
+        "MAP_RANGE",
+        "VECT_MATH",
+        "VECT_MATH",
+        "MAP_RANGE",
+        "MATH",
+        "MATH"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "TEX_NOISE"
+        ],
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "Warm gray garden stone": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VALTORGB",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "Warm mineral plaster": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VALTORGB",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "Warm timber / reference-derived family": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VALTORGB",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ]
+      ]
+    },
+    "Woven natural rug": {
+      "nodes": [
+        "BSDF_PRINCIPLED",
+        "OUTPUT_MATERIAL",
+        "TEX_NOISE",
+        "TEX_COORD",
+        "VECT_MATH",
+        "VALTORGB",
+        "BUMP"
+      ],
+      "coord_links": [
+        [
+          "TEX_COORD",
+          "Generated",
+          "VECT_MATH"
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-14",
+  "tool": "built-in image_gen",
+  "scope": "5 original background-character four-view sheets only; no outfit/makeup boards",
+  "authorDelegatedDesign": true,
+  "files": [
+    {
+      "id": "EP01-BG-001",
+      "folder": "01-学院女生",
+      "name": "学院女生",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13490-24ef-7a93-b667-eede4216553a\\exec-42097f7a-1798-4bd4-a6a6-a06e5ac50eea.png",
+      "path": "E:/projects/内容创作/未来女孩林知夏/视频制作/首集背景群像四视图-20261014-v1.0/01-学院女生/01-四视图.png",
+      "cuts": [
+        690,
+        970,
+        1760
+      ],
+      "references": [
+        "E:/projects/内容创作/未来女孩林知夏/视频制作/人物一致性修复-20261013-v1.0/01-便服/00-主图.png",
+        "E:/projects/内容创作/未来女孩林知夏/视频制作/人物一致性修复-20261013-v1.0/02-校服/00-主图.png"
+      ]
+    },
+    {
+      "id": "EP01-BG-002",
+      "folder": "02-学院男生",
+      "name": "学院男生",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13490-24ef-7a93-b667-eede4216553a\\exec-f7e82044-af1a-4745-b9a6-48856519fcb0.png",
+      "path": "E:/projects/内容创作/未来女孩林知夏/视频制作/首集背景群像四视图-20261014-v1.0/02-学院男生/01-四视图.png",
+      "cuts": [
+        690,
+        970,
+        1760
+      ],
+      "references": [
+        "E:/projects/内容创作/未来女孩林知夏/视频制作/人物一致性修复-20261013-v1.0/01-便服/00-主图.png",
+        "E:/projects/内容创作/未来女孩林知夏/视频制作/人物一致性修复-20261013-v1.0/02-校服/00-主图.png"
+      ]
+    },
+    {
+      "id": "EP01-BG-003",
+      "folder": "03-生活园女居民",
+      "name": "生活园女居民",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13490-24ef-7a93-b667-eede4216553a\\exec-d2aa840e-8299-4a60-a7b7-ff239af9a172.png",
+      "path": "E:/projects/内容创作/未来女孩林知夏/视频制作/首集背景群像四视图-20261014-v1.0/03-生活园女居民/01-四视图.png",
+      "cuts": [
+        690,
+        970,
+        1760
+      ],
+      "references": [
+        "E:/projects/内容创作/未来女孩林知夏/视频制作/人物一致性修复-20261013-v1.0/01-便服/00-主图.png",
+        "E:/projects/内容创作/未来女孩林知夏/视频制作/人物一致性修复-20261013-v1.0/02-校服/00-主图.png"
+      ]
+    },
+    {
+      "id": "EP01-BG-004",
+      "folder": "04-手艺园男活动者",
+      "name": "手艺园男活动者",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13490-24ef-7a93-b667-eede4216553a\\exec-272f3e92-76c7-4cb0-8ff3-b31817532498.png",
+      "path": "E:/projects/内容创作/未来女孩林知夏/视频制作/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/01-四视图.png",
+      "cuts": [
+        690,
+        970,
+        1760
+      ],
+      "references": [
+        "E:/projects/内容创作/未来女孩林知夏/视频制作/人物一致性修复-20261013-v1.0/01-便服/00-主图.png",
+        "E:/projects/内容创作/未来女孩林知夏/视频制作/人物一致性修复-20261013-v1.0/02-校服/00-主图.png"
+      ]
+    },
+    {
+      "id": "EP01-BG-005",
+      "folder": "05-人工生命居民",
+      "name": "人工生命居民",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13490-24ef-7a93-b667-eede4216553a\\exec-9150074a-1f14-46c4-86b8-7f4d2ee92830.png",
+      "path": "E:/projects/内容创作/未来女孩林知夏/视频制作/首集背景群像四视图-20261014-v1.0/05-人工生命居民/01-四视图.png",
+      "cuts": [
+        690,
+        970,
+        1760
+      ],
+      "references": [
+        "E:/projects/内容创作/未来女孩林知夏/视频制作/人物一致性修复-20261013-v1.0/01-便服/00-主图.png",
+        "E:/projects/内容创作/未来女孩林知夏/视频制作/汤圆设计-20261013-v0.2/汤圆02-柔光温润候选.png"
+      ]
+    }
+  ]
+}

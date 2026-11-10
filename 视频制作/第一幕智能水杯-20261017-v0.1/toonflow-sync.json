@@ -1,0 +1,15 @@
+{
+  "status": "synced",
+  "canvasId": "场景设计-半园两岸-20261014.json",
+  "imageNodeId": "6056d241-c128-4508-b29b-60f39195bf91",
+  "textNodeId": "c56be710-1f05-45c9-8f96-ea434bf0fdf4",
+  "imagePathLiveReadbackMatches": true,
+  "textVerification": "Live prefix verified; saved node content.md matches complete v0.6 script ignoring terminal whitespace",
+  "checks": {
+    "shots": 16,
+    "seconds": 90,
+    "allReferencesExist": true,
+    "imageHashMatches": true,
+    "allReviewLinksExist": true
+  }
+}

@@ -1,0 +1,32 @@
+【2026-10-12 最新角色视觉决定，优先于下方历史记录】作者已认可睡衣08的款式与配色，并明确取消腿部蓝灰云纹：后续所有裸露腿部保持自然无标记皮肤，不再称其为固定/不可拆身体特征。睡衣当前使用09去云纹版；校服使用05无腿纹底图及三件套v2.1、v2.1独立视图。校服妆造板未露腿，沿用原图。袜口及鞋服装饰纹样保留。便服图片按作者要求保持不动，禁止由历史提示词重新恢复腿部云纹。个人作品不导入Eagle。
+当前校服入口：知夏校服定款三件套-20261012-v2.1/README.md
+当前睡衣：知夏睡衣精修-20261012-v0.1/睡衣09-记录.md
+
+【以下为历史来源与实际执行过的提示词，仅供追溯；云纹要求已失效】
+# 校服定款v2.0｜穿搭来源与提示词
+2026-10-11 定款三件套交付。唯一造型依据为作者已定款的比例05，不再混用旧脸、宽腰、长下摆或素鞋版本。
+保持清秀面容、自然腰线下的清晰收腰、短衫与裙腰相接、略短裙摆、偏侧小盘扣、鞋背花叶绣。人物右侧云纹裸小腿/鞋内袜、左侧膝下袜；右低髻白栀子、左头顶浅弧发夹；水杯右侧挂书包。
+本卡可用于后续图像/视频维持外观。侧背面、单品遮挡处和妆造局部是AI补全示意，不是实测裁片或精确三维建模图；底稿优先于生成的小差异。四视图独立文件是原像素裁切。输出与完整来源记录见知夏校服定款三件套-20261011-v2.0/README.md。
+
+初始实际提示词
+The supplied image is the AUTHOR-FINALIZED design of fictional Lin Zhixia. It is the SINGLE authority for identity, proportions, hair, clothes, accessories, palette and CG finish. Do not redesign or regress to an earlier version. The large fullbody and inset show the same face: delicately tapered soft oval, softly rounded chin, warm brown eyes, gentle closed-lip smile, warm chestnut hair. Maintain youthful age, healthy stylized anime-CG appearance.
+EXACT GARMENT: ivory short-sleeved blouse with sky-blue collar and sleeve binding; asymmetrical diagonal collar leads to an OFF-CENTER opening on wearer's RIGHT front (viewer LEFT), THREE TINY blue frogs, narrow piping only, no broad center stripe. Tiny closures must not become large center toggles. Blouse side seams visibly taper inward into a clean fitted natural waist as approved. Short blouse ends exactly at the top of pale-blue skirt waistband, edge-to-edge, no overhanging blouse, no overlap, no bare midriff. Keep approved waist HEIGHT (not elevated toward ribs), the graceful waist silhouette, long leg proportions and skirt hem above knees exactly in proportion to source. Pleated sky-blue skirt opens below upper hip; single white botanical sprig at wearer's LEFT front lower panel, plain back. Don't widen waist or lengthen shirt into a flared peplum.
+Both ivory roundtoe flat cloth shoes have skyblue edge binding, restrained flowing side-line embroidery AND a small pale-blue/silver-white flower-and-leaf silk embroidery sprig ON TOP of EACH shoe vamp. No giant cloud logos, no plain blank shoe vamps, no high heels.
+Wearer's RIGHT calf has the gray-blue cloud marking and shoe hides a no-show liner; LEFT leg wears ONE fine ivory sock ending below knee with narrow scalloped cuff, plain sock field. No duplicate long sock, no garters, no above-knee sock.
+Hair: paired low braided buns, small loose hair section down upper back, wispy framing fringe. ONE white gardenia at RIGHT low bun. ONE small shallow curved white/silver barrette with short pale-blue inset flat at LEFT crown, far from gardenia. No old pointed leaf clip.
+Bracelet on LEFT wrist, small capsule terminal at RIGHT waist. Same pearl-white asymmetric future backpack with curved blue inset, blue straps, and white smart water bottle on RIGHT side, blue handle cap and black screen with two cyan eyes and a smile.
+Anatomical sides must remain consistent: front view shows cloud bare leg, gardenia, waist terminal on viewer LEFT and tall sock/barrette/bracelet/skirt flower on viewer RIGHT; back screen sides reverse. Keep embroidery subtle, no new motifs.
+Preserve delicate clean polished stylized 3D CG, matte ivory and sky-blue fabric, soft even light, no noise or gritty pattern. Unseen backs should be modest plain consistent reconstructions, never invent new decoration. Do not derive a new body type or face.
+TASK: ONE landscape SCHOOL OUTFIT BREAKDOWN board, title “知夏·校服穿搭分解”. Left30% one complete fullbody with exact approved face, fitted waist, waist level, skirt length, vamp embroidery and all wearable objects; head to shoes intact. Use only this figure for complete wearing relationships, no duplicate body. Right70% complete isolated products, clean spacious layout:
+01 “短衫” entire FRONT and BACK, all sleeves/hems intact. This is the SHORT waist-ending blouse with clearly tapered side seams, side/asymmetric opening and THREE TINY frogs on wearer's RIGHT/viewer LEFT, center chest plain ivory. Show simple back. Do not make long straight shirt, central placket, larger buttons or different neckline.
+02 “百褶裙” complete front and back; modest above-knee length, same waistband, exact sparse flower at wearer's left front lower panel, plain back, controlled pleat tops. Worn blouse hem meets waistband without overlap.
+03 “鞋袜” BOTH complete matching roundtoe cloth shoes, TOP pale-blue/silver-white floral sprigs clearly visible together with blue edge and flowing side lines; ONE complete ivory below-knee sock with thin scalloped cuff + ONE separate hidden liner. Brief labels “膝下袜·左腿” and “隐形袜·右脚”. No body parts. Don't replace sock with leggings.
+04 “书包与水杯” entire exact asymmetric futuristic bag with straps, complete removable smile-screen cup beside its cradle; wearer's right-side mount. Keep shapes and scale.
+05 “随身饰品” slim bracelet, small capsule terminal, single shallow curved barrette and natural gardenia, all complete.
+Short labels about fit only: “短衫与裙腰相接” and “上段收合，裙褶向下展开”. No measurements or body metrics, no sales slogans, no duplicate illustration, no cosmetic bottles. Footnote “参考还原＋AI补全”. Soft ivory/blue neutral board, clean clear product rendering matching source; prioritize exact apparel consistency and leg/flower asymmetry.
+
+局部校验修正实际提示词
+Correct only small accessory reconstruction details in image1, using image2 as the finalized reference. Preserve all faces, body proportions, garment tailoring, side frog closure count and location, skirt, shoes/vamp flowers, single socks, layout and typography except specified.
+In module04's isolated backpack, remove the EXTRA white capsule hanging from its lower viewer-right side. The capsule is a WAIST terminal, already correctly shown on the worn character and separately in module05; it must NOT be attached to the backpack. Keep bag's existing smile-faced water bottle and round blue button detail; do not change bag silhouette or compartments otherwise.
+In module05, the isolated barrette is too bulky and capsule-shaped. Replace it with the exact slender single shallow-arc bar seen on image2's crown: slim ivory/silver strip with smoothly rounded ends and a SHORT pale-blue flush inset, very slight curvature, no thick oval medallion. Match worn clip. Keep its label.
+Remove the handwritten marketing slogan and doodled flower in the empty far-left margin under title, leaving clean blank space. Do not touch actual item labels, title, footnote, or floral artwork belonging to clothes/shoes.

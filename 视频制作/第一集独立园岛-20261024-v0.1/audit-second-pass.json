@@ -1,0 +1,1323 @@
+{
+  "hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集独立园岛-20261024-v0.1\\island-garden-masterplan-v16.blend": "cc8abc0da3bb554729825ad3914bc6221d6cb361f4f45e97cff147ffcfe0bc84",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集独立园岛-20261024-v0.1\\planning-data.json": "5e9b3cd73186879a58002877e399a5a695d99eef2a6a862fb63dbdf236a41445",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集独立园岛-v0.1\\build.py": "4d0ccebc42877d0b14f2fff857c7613f7abbb0c4b61d2c3645744c9c2d9d0608",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集独立园岛-v0.1\\plan.py": "e745427aecdf2b512c859357fc01fe7abd407ae19f0a5a9f7e73be7f9601d34c"
+  },
+  "stable": true,
+  "island_support_intersections": [],
+  "waterfall_checks": [
+    {
+      "id": "W1",
+      "freefall_hits": []
+    },
+    {
+      "id": "W2",
+      "freefall_hits": []
+    },
+    {
+      "id": "W3",
+      "freefall_hits": []
+    }
+  ],
+  "pool_beds": [
+    {
+      "id": "W1",
+      "island": "A",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W1",
+      "island": "B",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W2",
+      "island": "B",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W2",
+      "island": "C",
+      "bed_missing": [],
+      "min_depth": 1.0999992370605476,
+      "max_depth": 1.0999992370605476
+    },
+    {
+      "id": "W3",
+      "island": "F",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W3",
+      "island": "G",
+      "bed_missing": [],
+      "min_depth": 1.099999237060544,
+      "max_depth": 1.099999237060544
+    }
+  ],
+  "walking_checks": [
+    {
+      "name": "A internal garden path 0",
+      "missing_floor": [
+        [
+          -228.2978342680071,
+          108.06059714433275,
+          126.14
+        ],
+        [
+          -228.33224806111056,
+          108.47356266157412,
+          126.14
+        ],
+        [
+          -228.36666185421402,
+          108.8865281788155,
+          126.14
+        ],
+        [
+          -228.40107564731747,
+          109.29949369605689,
+          126.14
+        ],
+        [
+          -228.43548944042092,
+          109.71245921329826,
+          126.14
+        ]
+      ],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "A internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "A internal garden path 2",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 2",
+      "missing_floor": [
+        [
+          -58.69992307692308,
+          71.42,
+          82.14
+        ],
+        [
+          -59.12215384615384,
+          71.42,
+          82.14
+        ],
+        [
+          -59.544384615384615,
+          71.42,
+          82.14
+        ],
+        [
+          -59.96661538461539,
+          71.42,
+          82.14
+        ],
+        [
+          -60.38884615384615,
+          71.42,
+          82.14
+        ]
+      ],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "C internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "C internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 2",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "E internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "E internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "F internal garden path 0",
+      "missing_floor": [
+        [
+          190.36917509793884,
+          -136.05752529381658,
+          66.14
+        ],
+        [
+          190.7631224663599,
+          -135.9262095043429,
+          66.14
+        ],
+        [
+          191.15706983478094,
+          -135.7948937148692,
+          66.14
+        ],
+        [
+          191.551017203202,
+          -135.66357792539551,
+          66.14
+        ],
+        [
+          191.94496457162305,
+          -135.53226213592185,
+          66.14
+        ]
+      ],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "F internal garden path 1",
+      "missing_floor": [
+        [
+          269.12,
+          -124.97,
+          66.14
+        ],
+        [
+          269.12,
+          -124.5654054054054,
+          66.14
+        ],
+        [
+          269.12,
+          -124.16081081081082,
+          66.14
+        ],
+        [
+          269.12,
+          -123.75621621621622,
+          66.14
+        ],
+        [
+          269.12,
+          -123.35162162162162,
+          66.14
+        ]
+      ],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "G internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "L1 cross-cloud bridge",
+      "missing_floor": [
+        [
+          -159.08466556607672,
+          49.492182252298406,
+          126.0
+        ],
+        [
+          -158.25,
+          48.0073,
+          126.0
+        ],
+        [
+          -158.25,
+          48.43585294117647,
+          126.0
+        ],
+        [
+          -158.25,
+          48.86440588235294,
+          126.0
+        ],
+        [
+          -158.25,
+          49.29295882352941,
+          126.0
+        ]
+      ],
+      "body_clearance_hits": {
+        "A internal garden path 0": {
+          "point": [
+            -227.75035095214844,
+            104.22592163085938,
+            126.13999938964844
+          ],
+          "above_floor": 0.1399993896484375
+        },
+        "L1 cross-cloud bridge handrail": {
+          "point": [
+            -158.25,
+            53.14993667602539,
+            127.11414337158203
+          ],
+          "above_floor": 1.1141433715820312
+        },
+        "L1 cross-cloud bridge handrail.001": {
+          "point": [
+            -160.0,
+            51.007171630859375,
+            127.1153564453125
+          ],
+          "above_floor": 1.7153549194335938
+        },
+        "L1 change-level pavilion landing.011": {
+          "point": [
+            -161.75,
+            54.007041931152344,
+            125.68000030517578
+          ],
+          "above_floor": 0.279998779296875
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L2 cross-cloud bridge",
+      "missing_floor": [
+        [
+          -53.8624724037095,
+          -1.6696090921546507,
+          82.0
+        ],
+        [
+          -53.25,
+          -2.9927,
+          82.0
+        ],
+        [
+          -53.25,
+          -2.5641470588235293,
+          82.0
+        ],
+        [
+          -53.25,
+          -2.135594117647059,
+          82.0
+        ],
+        [
+          -53.25,
+          -1.7070411764705882,
+          82.0
+        ]
+      ],
+      "body_clearance_hits": {
+        "L2 cross-cloud bridge handrail": {
+          "point": [
+            -55.33173751831055,
+            -2.7038042545318604,
+            83.13125610351562
+          ],
+          "above_floor": 1.131256103515625
+        },
+        "L2 cross-cloud bridge handrail.001": {
+          "point": [
+            -55.0,
+            0.43572354316711426,
+            83.1930923461914
+          ],
+          "above_floor": 1.7930908203125
+        },
+        "L2 change-level pavilion landing.013": {
+          "point": [
+            -56.75,
+            3.0070412158966064,
+            81.68000030517578
+          ],
+          "above_floor": 0.279998779296875
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L3 cross-cloud bridge",
+      "missing_floor": [
+        [
+          -5.75,
+          -6.849935294117648,
+          72.0
+        ],
+        [
+          -5.75,
+          -7.278488235294118,
+          72.0
+        ],
+        [
+          -5.75,
+          -7.707041176470589,
+          72.0
+        ],
+        [
+          -5.75,
+          -8.13559411764706,
+          72.0
+        ],
+        [
+          -5.75,
+          -8.56414705882353,
+          72.0
+        ]
+      ],
+      "body_clearance_hits": {
+        "L3 cross-cloud bridge handrail": {
+          "point": [
+            -5.75,
+            -6.421382427215576,
+            73.11339569091797
+          ],
+          "above_floor": 1.1133956909179688
+        },
+        "E internal garden path 0": {
+          "point": [
+            64.23741912841797,
+            -34.57558059692383,
+            72.13999938964844
+          ],
+          "above_floor": 0.1399993896484375
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L4 cross-cloud bridge",
+      "missing_floor": [
+        [
+          88.25,
+          -16.99295882352941,
+          104.0
+        ],
+        [
+          88.25,
+          -17.421511764705883,
+          104.0
+        ],
+        [
+          88.25,
+          -17.850064705882353,
+          104.0
+        ],
+        [
+          88.25,
+          -18.278617647058823,
+          104.0
+        ],
+        [
+          88.25,
+          -18.707170588235293,
+          104.0
+        ]
+      ],
+      "body_clearance_hits": {
+        "L4 cross-cloud bridge handrail.001": {
+          "point": [
+            88.25,
+            -20.421382904052734,
+            105.17525482177734
+          ],
+          "above_floor": 1.1752548217773438
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L5 cross-cloud bridge",
+      "missing_floor": [
+        [
+          191.20343686707648,
+          -94.72856313292355,
+          72.0
+        ],
+        [
+          191.75,
+          -95.9927,
+          72.0
+        ],
+        [
+          191.75,
+          -95.56414705882354,
+          72.0
+        ],
+        [
+          191.75,
+          -95.13559411764706,
+          72.0
+        ],
+        [
+          191.75,
+          -94.70704117647058,
+          72.0
+        ]
+      ],
+      "body_clearance_hits": {
+        "L5 cross-cloud bridge handrail": {
+          "point": [
+            191.75,
+            -90.4215087890625,
+            73.11339569091797
+          ],
+          "above_floor": 1.1133956909179688
+        },
+        "L5 cross-cloud bridge handrail.001": {
+          "point": [
+            190.0,
+            -92.56427764892578,
+            73.11627197265625
+          ],
+          "above_floor": 1.11627197265625
+        },
+        "L5 change-level pavilion landing.002": {
+          "point": [
+            188.25,
+            -89.99295806884766,
+            71.68000030517578
+          ],
+          "above_floor": 0.279998779296875
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L6 cross-cloud bridge",
+      "missing_floor": [
+        [
+          308.75,
+          -104.9927,
+          66.0
+        ],
+        [
+          308.75,
+          -104.56414705882354,
+          66.0
+        ],
+        [
+          308.75,
+          -104.13559411764706,
+          66.0
+        ],
+        [
+          308.75,
+          -103.70704117647058,
+          66.0
+        ],
+        [
+          308.75,
+          -103.27848823529412,
+          66.0
+        ]
+      ],
+      "body_clearance_hits": {
+        "F internal garden path 1": {
+          "point": [
+            267.41400146484375,
+            -96.64910125732422,
+            66.13999938964844
+          ],
+          "above_floor": 0.1399993896484375
+        },
+        "L6 cross-cloud bridge handrail": {
+          "point": [
+            308.75,
+            -101.13572692871094,
+            67.15121459960938
+          ],
+          "above_floor": 1.151214599609375
+        },
+        "L6 cross-cloud bridge handrail.001": {
+          "point": [
+            305.25,
+            -102.42137908935547,
+            67.13111877441406
+          ],
+          "above_floor": 1.1311187744140625
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L7 cross-cloud bridge",
+      "missing_floor": [
+        [
+          -69.75,
+          68.57848823529412,
+          104.0
+        ],
+        [
+          -69.75,
+          68.14993529411764,
+          104.0
+        ],
+        [
+          -69.75,
+          67.72138235294118,
+          104.0
+        ],
+        [
+          -69.75,
+          67.2928294117647,
+          104.0
+        ],
+        [
+          -69.75,
+          66.86427647058824,
+          104.0
+        ]
+      ],
+      "body_clearance_hits": {
+        "L7 cross-cloud bridge handrail.001": {
+          "point": [
+            -69.75,
+            64.72151184082031,
+            105.11339569091797
+          ],
+          "above_floor": 1.1133956909179688
+        },
+        "L7 cross-cloud bridge handrail": {
+          "point": [
+            -68.0,
+            65.15006256103516,
+            105.11339569091797
+          ],
+          "above_floor": 1.1133956909179688
+        },
+        "D internal garden path 2": {
+          "point": [
+            24.03253936767578,
+            152.5858612060547,
+            104.13999938964844
+          ],
+          "above_floor": 0.1399993896484375
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    }
+  ],
+  "tower_stair_headroom": [
+    {
+      "link": "L1",
+      "treads_and_halves": 253,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    },
+    {
+      "link": "L2",
+      "treads_and_halves": 299,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    },
+    {
+      "link": "L3",
+      "treads_and_halves": 230,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    },
+    {
+      "link": "L4",
+      "treads_and_halves": 184,
+      "minimum_detected_headroom_m": 0.1272735595703125,
+      "headroom_hits": [
+        {
+          "blocking_object": "L4 cross-cloud bridge",
+          "standing_on": "L4 change-level pavilion stair tread.171",
+          "point": [
+            91.30000305175781,
+            -10.80000114440918,
+            103.4000015258789
+          ],
+          "headroom_m": 0.1272735595703125,
+          "floor_z": 103.2727279663086
+        }
+      ]
+    },
+    {
+      "link": "L5",
+      "treads_and_halves": 38,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    },
+    {
+      "link": "L6",
+      "treads_and_halves": 105,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    },
+    {
+      "link": "L7",
+      "treads_and_halves": 126,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    }
+  ],
+  "courtyard_support": [
+    {
+      "name": "A reused School-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "A reused School-+1-01 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "A reused School-+1-02 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "B reused Water-bay-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "C reused Water-bay-+1-02 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "D reused Slope-neighbourhood-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "D reused Slope-neighbourhood--1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "F reused Zhixia-home court floor",
+      "support_issues": []
+    },
+    {
+      "name": "G reused Repair-workshop court floor",
+      "support_issues": []
+    }
+  ],
+  "pool_architecture_surface_intersections": [],
+  "scope": "Static saved geometry only. No inherited flight check. Sampled clearances, not structural or hydraulic certification.",
+  "actual_stair_platform_seams": [
+    {
+      "link": "L1",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L2",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L3",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L4",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L5",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L6",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L7",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    }
+  ],
+  "bridge_endpoints": [
+    {
+      "link": "L1",
+      "point": [
+        -229,
+        103,
+        126
+      ],
+      "contact": "A internal garden path 0",
+      "support_z": 126.13999938964844
+    },
+    {
+      "link": "L1",
+      "point": [
+        -160,
+        55.3,
+        126
+      ],
+      "contact": "L1 change-level pavilion landing.011",
+      "support_z": 126.0
+    },
+    {
+      "link": "L2",
+      "point": [
+        -107,
+        55,
+        82
+      ],
+      "contact": "B internal garden path 1",
+      "support_z": 82.13999938964844
+    },
+    {
+      "link": "L2",
+      "point": [
+        -55,
+        4.3,
+        82
+      ],
+      "contact": "L2 change-level pavilion landing.013",
+      "support_z": 82.0
+    },
+    {
+      "link": "L3",
+      "point": [
+        -4,
+        -1.7000000000000002,
+        72
+      ],
+      "contact": "L3 change-level pavilion landing.010",
+      "support_z": 72.0
+    },
+    {
+      "link": "L3",
+      "point": [
+        65,
+        -33,
+        72
+      ],
+      "contact": "E internal garden path 0",
+      "support_z": 72.13999938964844
+    },
+    {
+      "link": "L4",
+      "point": [
+        90,
+        -15.7,
+        104
+      ],
+      "contact": "L4 change-level pavilion landing.008",
+      "support_z": 104.0
+    },
+    {
+      "link": "L4",
+      "point": [
+        65,
+        137,
+        104
+      ],
+      "contact": "D internal garden path 0",
+      "support_z": 104.13999938964844
+    },
+    {
+      "link": "L5",
+      "point": [
+        120,
+        -48,
+        72
+      ],
+      "contact": "E separate cloud support",
+      "support_z": 72.0
+    },
+    {
+      "link": "L5",
+      "point": [
+        190,
+        -88.7,
+        72
+      ],
+      "contact": "L5 change-level pavilion landing.002",
+      "support_z": 72.0
+    },
+    {
+      "link": "L6",
+      "point": [
+        268,
+        -95,
+        66
+      ],
+      "contact": "F separate cloud support",
+      "support_z": 66.0
+    },
+    {
+      "link": "L6",
+      "point": [
+        307,
+        -97.7,
+        66
+      ],
+      "contact": "L6 change-level pavilion landing.005",
+      "support_z": 66.0
+    },
+    {
+      "link": "L7",
+      "point": [
+        -68,
+        70.3,
+        104
+      ],
+      "contact": "L7 change-level pavilion landing.006",
+      "support_z": 104.0
+    },
+    {
+      "link": "L7",
+      "point": [
+        23,
+        154,
+        104
+      ],
+      "contact": "D internal garden path 2",
+      "support_z": 104.13999938964844
+    }
+  ],
+  "strip_bend_topology": [
+    {
+      "name": "L1 cross-cloud bridge",
+      "inverted_quad_examples": [
+        {
+          "segment": 2,
+          "top_triangle_signed_double_areas": [
+            26.408945083618164,
+            -47.89324188232422
+          ],
+          "corners": [
+            [
+              -161.02847290039062,
+              45.721351623535156,
+              126.0
+            ],
+            [
+              -158.97152709960938,
+              50.278648376464844,
+              126.0
+            ],
+            [
+              -162.5,
+              55.29999923706055,
+              126.0
+            ],
+            [
+              -157.5,
+              55.29999923706055,
+              126.0
+            ]
+          ]
+        }
+      ],
+      "centreline_floor_missing_or_bottom_hit": [
+        {
+          "segment": 2,
+          "point": [
+            -160.0,
+            51.138999999999996,
+            126.0
+          ],
+          "actual_top_z": 125.4000015258789
+        },
+        {
+          "segment": 2,
+          "point": [
+            -160.0,
+            51.394499999999994,
+            126.0
+          ],
+          "actual_top_z": 125.4000015258789
+        },
+        {
+          "segment": 2,
+          "point": [
+            -160.0,
+            51.64999999999999,
+            126.0
+          ],
+          "actual_top_z": 125.4000015258789
+        }
+      ]
+    },
+    {
+      "name": "L2 cross-cloud bridge",
+      "inverted_quad_examples": [
+        {
+          "segment": 2,
+          "top_triangle_signed_double_areas": [
+            30.069103240966797,
+            -47.065921783447266
+          ],
+          "corners": [
+            [
+              -56.33583450317383,
+              -5.113183975219727,
+              82.0
+            ],
+            [
+              -53.66416549682617,
+              -0.8868160247802734,
+              82.0
+            ],
+            [
+              -57.5,
+              4.300000190734863,
+              82.0
+            ],
+            [
+              -52.5,
+              4.300000190734863,
+              82.0
+            ]
+          ]
+        }
+      ],
+      "centreline_floor_missing_or_bottom_hit": [
+        {
+          "segment": 2,
+          "point": [
+            -55.0,
+            0.39449999999999985,
+            82.0
+          ],
+          "actual_top_z": 81.4000015258789
+        },
+        {
+          "segment": 2,
+          "point": [
+            -55.0,
+            0.6499999999999995,
+            82.0
+          ],
+          "actual_top_z": 81.4000015258789
+        },
+        {
+          "segment": 2,
+          "point": [
+            -55.0,
+            0.9054999999999993,
+            82.0
+          ],
+          "actual_top_z": 81.4000015258789
+        }
+      ]
+    },
+    {
+      "name": "L3 cross-cloud bridge",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "L4 cross-cloud bridge",
+      "inverted_quad_examples": [
+        {
+          "segment": 0,
+          "top_triangle_signed_double_areas": [
+            -32.58631134033203,
+            30.751176834106445
+          ],
+          "corners": [
+            [
+              87.5,
+              -15.699999809265137,
+              104.0
+            ],
+            [
+              92.5,
+              -15.699999809265137,
+              104.0
+            ],
+            [
+              87.62569427490234,
+              -22.217262268066406,
+              104.0
+            ],
+            [
+              92.37430572509766,
+              -23.782737731933594,
+              104.0
+            ]
+          ]
+        }
+      ],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "L5 cross-cloud bridge",
+      "inverted_quad_examples": [
+        {
+          "segment": 2,
+          "top_triangle_signed_double_areas": [
+            32.37391662597656,
+            -46.33098602294922
+          ],
+          "corners": [
+            [
+              188.45596313476562,
+              -97.96619415283203,
+              72.0
+            ],
+            [
+              191.54403686523438,
+              -94.03380584716797,
+              72.0
+            ],
+            [
+              187.5,
+              -88.69999694824219,
+              72.0
+            ],
+            [
+              192.5,
+              -88.69999694824219,
+              72.0
+            ]
+          ]
+        }
+      ],
+      "centreline_floor_missing_or_bottom_hit": [
+        {
+          "segment": 2,
+          "point": [
+            190.0,
+            -92.35,
+            72.0
+          ],
+          "actual_top_z": 71.4000015258789
+        },
+        {
+          "segment": 2,
+          "point": [
+            190.0,
+            -92.09450000000001,
+            72.0
+          ],
+          "actual_top_z": 71.4000015258789
+        }
+      ]
+    },
+    {
+      "name": "L6 cross-cloud bridge",
+      "inverted_quad_examples": [
+        {
+          "segment": 2,
+          "top_triangle_signed_double_areas": [
+            4.548683166503906,
+            -48.720741271972656
+          ],
+          "corners": [
+            [
+              307.5254821777344,
+              -107.44414520263672,
+              66.0
+            ],
+            [
+              306.4745178222656,
+              -102.55585479736328,
+              66.0
+            ],
+            [
+              304.5,
+              -97.69999694824219,
+              66.0
+            ],
+            [
+              309.5,
+              -97.69999694824219,
+              66.0
+            ]
+          ]
+        }
+      ],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "L7 cross-cloud bridge",
+      "inverted_quad_examples": [
+        {
+          "segment": 0,
+          "top_triangle_signed_double_areas": [
+            -27.92224884033203,
+            17.972076416015625
+          ],
+          "corners": [
+            [
+              -70.5,
+              70.30000305175781,
+              104.0
+            ],
+            [
+              -65.5,
+              70.30000305175781,
+              104.0
+            ],
+            [
+              -69.8184814453125,
+              64.7155532836914,
+              104.0
+            ],
+            [
+              -66.1815185546875,
+              61.28445053100586,
+              104.0
+            ]
+          ]
+        }
+      ],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "A internal garden path 0",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "A internal garden path 1",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "A internal garden path 2",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "B internal garden path 0",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "B internal garden path 1",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "B internal garden path 2",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "C internal garden path 0",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "C internal garden path 1",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "D internal garden path 0",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "D internal garden path 1",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "D internal garden path 2",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "E internal garden path 0",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "E internal garden path 1",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "F internal garden path 0",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "F internal garden path 1",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    },
+    {
+      "name": "G internal garden path 0",
+      "inverted_quad_examples": [],
+      "centreline_floor_missing_or_bottom_hit": []
+    }
+  ]
+}

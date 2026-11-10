@@ -1,0 +1,4152 @@
+{
+  "source": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\garden-city-design-v01.blend",
+  "source_hashes_before": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集全程快飞-20261023-v0.2\\episode1-full-route-58s-v02.blend": "541cd2ebf5ca564eaa8906ad46af4b05ef625b86f0a8f895ac42d043b8ab265a",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\garden-city-design-v01.blend": "5fec6c4ca70044ee0c54b5745f13b15f38a39349c1f2ae70789ffa74791d5b60"
+  },
+  "source_hashes_after": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集全程快飞-20261023-v0.2\\episode1-full-route-58s-v02.blend": "541cd2ebf5ca564eaa8906ad46af4b05ef625b86f0a8f895ac42d043b8ab265a",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\garden-city-design-v01.blend": "3ced10e5d8cae8926780fbcf7cd87b3bbc9dd95ac706b24dbb3b883f425c0472"
+  },
+  "static_comparison": {
+    "old_object_count": 29584,
+    "new_object_count": 33625,
+    "removed_originals": [],
+    "changed_original_count": 14408,
+    "unexpected_changed_originals": [],
+    "material_changes": [],
+    "added_materials": []
+  },
+  "new_walk_segment_count": 308,
+  "new_walk_hits": [
+    {
+      "path": "Linked garden walk_2",
+      "obstacle": "Shore pine group leaning trunk",
+      "point": [
+        -1207.469970703125,
+        1000.384033203125,
+        36.03000259399414
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_2",
+      "obstacle": "Shore pine group leaning trunk",
+      "point": [
+        -1207.4217529296875,
+        1000.2943725585938,
+        36.730003356933594
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_2",
+      "obstacle": "Shore pine group leaning trunk",
+      "point": [
+        -1207.389892578125,
+        1000.2351684570312,
+        37.53000259399414
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_2",
+      "obstacle": "Shore pine group leaning trunk",
+      "point": [
+        -1207.6417236328125,
+        1000.2283935546875,
+        36.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_2",
+      "obstacle": "Shore pine group leaning trunk",
+      "point": [
+        -1207.6395263671875,
+        1000.2241821289062,
+        36.730003356933594
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10",
+      "obstacle": "Shore pine group leaning trunk.001",
+      "point": [
+        -1315.4134521484375,
+        1057.4881591796875,
+        36.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10",
+      "obstacle": "Shore pine group leaning trunk.001",
+      "point": [
+        -1315.3057861328125,
+        1057.4747314453125,
+        36.730003356933594
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10",
+      "obstacle": "Shore pine group leaning trunk.001",
+      "point": [
+        -1315.1827392578125,
+        1057.459228515625,
+        37.53000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_10",
+      "obstacle": "Shore pine group leaning trunk.001",
+      "point": [
+        -1315.500732421875,
+        1057.2723388671875,
+        36.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10",
+      "obstacle": "Shore pine group leaning trunk.001",
+      "point": [
+        -1315.4212646484375,
+        1057.262451171875,
+        36.730003356933594
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10",
+      "obstacle": "Shore pine group leaning trunk.001",
+      "point": [
+        -1315.332763671875,
+        1057.2513427734375,
+        37.53000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18",
+      "obstacle": "Shore pine group leaning trunk.002",
+      "point": [
+        -1447.7449951171875,
+        1027.182373046875,
+        36.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18",
+      "obstacle": "Shore pine group leaning trunk.002",
+      "point": [
+        -1447.6912841796875,
+        1027.220947265625,
+        36.730003356933594
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18",
+      "obstacle": "Shore pine group leaning trunk.002",
+      "point": [
+        -1447.6533203125,
+        1027.2481689453125,
+        37.53000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18",
+      "obstacle": "Shore pine group leaning trunk.002",
+      "point": [
+        -1447.67724609375,
+        1026.9539794921875,
+        36.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18",
+      "obstacle": "Shore pine group leaning trunk.002",
+      "point": [
+        -1447.569580078125,
+        1027.0313720703125,
+        36.730003356933594
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18",
+      "obstacle": "Shore pine group leaning trunk.002",
+      "point": [
+        -1447.4608154296875,
+        1027.109619140625,
+        37.53000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_26",
+      "obstacle": "Shore pine group leaning trunk.003",
+      "point": [
+        -1472.459228515625,
+        939.4844970703125,
+        36.03000259399414
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_26",
+      "obstacle": "Shore pine group leaning trunk.003",
+      "point": [
+        -1472.3477783203125,
+        939.7522583007812,
+        36.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_26",
+      "obstacle": "Shore pine group leaning trunk.003",
+      "point": [
+        -1472.309814453125,
+        939.6815795898438,
+        36.730003356933594
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_26",
+      "obstacle": "Shore pine group leaning trunk.003",
+      "point": [
+        -1472.2283935546875,
+        939.5304565429688,
+        37.53000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_26",
+      "obstacle": "Shore pine group leaning trunk.003",
+      "point": [
+        -1472.0888671875,
+        939.745849609375,
+        36.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_26",
+      "obstacle": "Shore pine group leaning trunk.003",
+      "point": [
+        -1472.111328125,
+        939.7877197265625,
+        36.730003356933594
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_26",
+      "obstacle": "Shore pine group leaning trunk.003",
+      "point": [
+        -1472.095947265625,
+        939.759033203125,
+        37.53000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_26",
+      "obstacle": "Shore pine group leaning trunk.003",
+      "point": [
+        -1471.7725830078125,
+        939.6329956054688,
+        37.53000259399414
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_34",
+      "obstacle": "Shore pine group leaning trunk.004",
+      "point": [
+        -1364.515625,
+        882.5028686523438,
+        36.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_34",
+      "obstacle": "Shore pine group leaning trunk.004",
+      "point": [
+        -1364.407958984375,
+        882.4893798828125,
+        36.730003356933594
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_34",
+      "obstacle": "Shore pine group leaning trunk.004",
+      "point": [
+        -1364.2847900390625,
+        882.4739379882812,
+        37.53000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_34",
+      "obstacle": "Shore pine group leaning trunk.004",
+      "point": [
+        -1364.434326171875,
+        882.719482421875,
+        36.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_34",
+      "obstacle": "Shore pine group leaning trunk.004",
+      "point": [
+        -1364.335693359375,
+        882.7070922851562,
+        36.730003356933594
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_34",
+      "obstacle": "Shore pine group leaning trunk.004",
+      "point": [
+        -1364.2230224609375,
+        882.6929321289062,
+        37.53000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_41",
+      "obstacle": "School gate garden structural cloud",
+      "point": [
+        -1246.3363037109375,
+        903.43310546875,
+        37.53000259399414
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_41",
+      "obstacle": "School gate garden structural cloud",
+      "point": [
+        -1245.6358642578125,
+        904.07763671875,
+        37.53000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42",
+      "obstacle": "Shore pine group leaning trunk.005",
+      "point": [
+        -1231.932373046875,
+        912.7725219726562,
+        36.03000259399414
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_42",
+      "obstacle": "Shore pine group leaning trunk.005",
+      "point": [
+        -1231.953857421875,
+        912.7570190429688,
+        36.730003356933594
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_42",
+      "obstacle": "School gate garden structural cloud",
+      "point": [
+        -1239.7099609375,
+        907.17919921875,
+        37.53000259399414
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42",
+      "obstacle": "Shore pine group leaning trunk.005",
+      "point": [
+        -1232.2086181640625,
+        912.8509521484375,
+        36.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_42",
+      "obstacle": "Shore pine group leaning trunk.005",
+      "point": [
+        -1232.13818359375,
+        912.901611328125,
+        36.730003356933594
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_42",
+      "obstacle": "Shore pine group leaning trunk.005",
+      "point": [
+        -1232.0211181640625,
+        912.9857788085938,
+        37.53000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42",
+      "obstacle": "Shore pine group leaning trunk.005",
+      "point": [
+        -1232.19140625,
+        913.1404418945312,
+        36.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_2.001",
+      "obstacle": "Shore pine group leaning trunk.006",
+      "point": [
+        -687.057861328125,
+        782.53466796875,
+        59.03000259399414
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_2.001",
+      "obstacle": "Shore pine group leaning trunk.006",
+      "point": [
+        -687.0081176757812,
+        782.4365844726562,
+        59.83000183105469
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_2.001",
+      "obstacle": "Shore pine group leaning trunk.006",
+      "point": [
+        -687.2573852539062,
+        782.4306030273438,
+        58.33000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_2.001",
+      "obstacle": "Shore pine group leaning trunk.006",
+      "point": [
+        -687.2423095703125,
+        782.40087890625,
+        59.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_2.001",
+      "obstacle": "Shore pine group leaning trunk.006",
+      "point": [
+        -687.2545776367188,
+        782.425048828125,
+        59.83000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_2.001",
+      "obstacle": "Shore pine group leaning trunk.006",
+      "point": [
+        -687.510986328125,
+        782.4332885742188,
+        58.33000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.001",
+      "obstacle": "Shore pine group leaning trunk.007",
+      "point": [
+        -762.7095947265625,
+        825.0728149414062,
+        58.33000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.001",
+      "obstacle": "Shore pine group leaning trunk.007",
+      "point": [
+        -762.6018676757812,
+        825.0584716796875,
+        59.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10.001",
+      "obstacle": "Shore pine group leaning trunk.007",
+      "point": [
+        -762.4788208007812,
+        825.0421142578125,
+        59.83000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_10.001",
+      "obstacle": "Shore pine group leaning trunk.007",
+      "point": [
+        -762.7684936523438,
+        824.8536987304688,
+        58.33000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.001",
+      "obstacle": "Shore pine group leaning trunk.007",
+      "point": [
+        -762.67041015625,
+        824.8406372070312,
+        59.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10.001",
+      "obstacle": "Shore pine group leaning trunk.007",
+      "point": [
+        -762.558349609375,
+        824.82568359375,
+        59.83000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_17.001",
+      "obstacle": "Upper west annex principal hall plinth",
+      "point": [
+        -849.5,
+        807.303955078125,
+        58.33000183105469
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_17.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        807.1277465820312,
+        59.03000259399414
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_17.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        807.1277465820312,
+        59.83000183105469
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_17.001",
+      "obstacle": "Upper west annex principal hall plinth",
+      "point": [
+        -849.5,
+        807.0430297851562,
+        58.33000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_17.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        806.8668823242188,
+        59.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_17.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        806.8668823242188,
+        59.83000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_17.001",
+      "obstacle": "Upper west annex principal hall plinth",
+      "point": [
+        -849.5,
+        806.7821044921875,
+        58.33000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_17.001",
+      "obstacle": "Upper west annex principal hall plinth",
+      "point": [
+        -849.5,
+        806.5211181640625,
+        58.33000183105469
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex principal hall wall",
+      "point": [
+        -850.0,
+        807.0004272460938,
+        58.33000183105469
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex principal hall wall",
+      "point": [
+        -850.0,
+        807.0004272460938,
+        59.03000259399414
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex principal hall wall",
+      "point": [
+        -850.0,
+        807.0004272460938,
+        59.83000183105469
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -850.2000122070312,
+        806.5645751953125,
+        58.33000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex principal hall bay post.007",
+      "point": [
+        -849.8715209960938,
+        806.8154296875,
+        59.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex principal hall bay post.007",
+      "point": [
+        -849.8715209960938,
+        806.8154296875,
+        59.83000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        806.5869750976562,
+        58.33000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        806.5869750976562,
+        59.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        806.5869750976562,
+        59.83000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        806.3038330078125,
+        58.33000183105469
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        806.3038330078125,
+        59.03000259399414
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        806.3038330078125,
+        59.83000183105469
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        806.020751953125,
+        58.33000183105469
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        806.020751953125,
+        59.03000259399414
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.001",
+      "obstacle": "Upper west annex east garden wall",
+      "point": [
+        -849.7999877929688,
+        806.020751953125,
+        59.83000183105469
+      ],
+      "lateral_m": 0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_26.001",
+      "obstacle": "Shore pine group leaning trunk.009",
+      "point": [
+        -872.7200317382812,
+        737.5247802734375,
+        58.33000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_26.001",
+      "obstacle": "Shore pine group leaning trunk.009",
+      "point": [
+        -872.6724853515625,
+        737.4310913085938,
+        59.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_26.001",
+      "obstacle": "Shore pine group leaning trunk.009",
+      "point": [
+        -872.5027465820312,
+        737.5938720703125,
+        58.33000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_26.001",
+      "obstacle": "Shore pine group leaning trunk.009",
+      "point": [
+        -872.5006713867188,
+        737.5897827148438,
+        59.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_26.001",
+      "obstacle": "Shore pine group leaning trunk.009",
+      "point": [
+        -872.4765014648438,
+        737.5421142578125,
+        59.83000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_26.001",
+      "obstacle": "Shore pine group leaning trunk.009",
+      "point": [
+        -872.246337890625,
+        737.5855712890625,
+        59.83000183105469
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_34.001",
+      "obstacle": "Shore pine group leaning trunk.010",
+      "point": [
+        -797.2195434570312,
+        694.917724609375,
+        58.33000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_34.001",
+      "obstacle": "Shore pine group leaning trunk.010",
+      "point": [
+        -797.1001586914062,
+        694.90185546875,
+        59.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_34.001",
+      "obstacle": "Shore pine group leaning trunk.010",
+      "point": [
+        -796.9637451171875,
+        694.8836669921875,
+        59.83000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_34.001",
+      "obstacle": "Shore pine group leaning trunk.010",
+      "point": [
+        -797.1670532226562,
+        695.1376953125,
+        58.33000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_34.001",
+      "obstacle": "Shore pine group leaning trunk.010",
+      "point": [
+        -797.0689697265625,
+        695.1246337890625,
+        59.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_34.001",
+      "obstacle": "Shore pine group leaning trunk.010",
+      "point": [
+        -796.9568481445312,
+        695.1097412109375,
+        59.83000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.001",
+      "obstacle": "Shore pine group leaning trunk.011",
+      "point": [
+        -704.2318115234375,
+        717.404052734375,
+        59.03000259399414
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_42.001",
+      "obstacle": "Shore pine group leaning trunk.011",
+      "point": [
+        -704.233642578125,
+        717.4026489257812,
+        59.83000183105469
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.001",
+      "obstacle": "Shore pine group leaning trunk.011",
+      "point": [
+        -704.5550537109375,
+        717.4403076171875,
+        58.33000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_42.001",
+      "obstacle": "Shore pine group leaning trunk.011",
+      "point": [
+        -704.486083984375,
+        717.4929809570312,
+        59.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_42.001",
+      "obstacle": "Shore pine group leaning trunk.011",
+      "point": [
+        -704.404296875,
+        717.555419921875,
+        59.83000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.001",
+      "obstacle": "Shore pine group leaning trunk.011",
+      "point": [
+        -704.6350708007812,
+        717.662353515625,
+        58.33000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_42.001",
+      "obstacle": "Shore pine group leaning trunk.011",
+      "point": [
+        -704.4483642578125,
+        717.8048706054688,
+        59.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_44.001",
+      "obstacle": "Upper east annex enclosing wall",
+      "point": [
+        -692.58251953125,
+        729.7999877929688,
+        58.33000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_44.001",
+      "obstacle": "Upper east annex enclosing wall",
+      "point": [
+        -692.58251953125,
+        729.7999877929688,
+        59.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_44.001",
+      "obstacle": "Upper east annex enclosing wall",
+      "point": [
+        -692.58251953125,
+        729.7999877929688,
+        59.83000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_44.001",
+      "obstacle": "Upper east annex enclosing wall",
+      "point": [
+        -692.8619384765625,
+        729.7999877929688,
+        58.33000183105469
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_44.001",
+      "obstacle": "Upper east annex enclosing wall",
+      "point": [
+        -692.8619384765625,
+        729.7999877929688,
+        59.03000259399414
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_44.001",
+      "obstacle": "Upper east annex enclosing wall",
+      "point": [
+        -692.8619384765625,
+        729.7999877929688,
+        59.83000183105469
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_44.001",
+      "obstacle": "Upper east annex enclosing wall",
+      "point": [
+        -693.1414184570312,
+        729.7999877929688,
+        58.33000183105469
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_44.001",
+      "obstacle": "Upper east annex enclosing wall",
+      "point": [
+        -693.1414184570312,
+        729.7999877929688,
+        59.03000259399414
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_44.001",
+      "obstacle": "Upper east annex enclosing wall",
+      "point": [
+        -693.1414184570312,
+        729.7999877929688,
+        59.83000183105469
+      ],
+      "lateral_m": 0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall plinth",
+      "point": [
+        -685.0126342773438,
+        741.5,
+        58.33000183105469
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -684.7591552734375,
+        742.0,
+        59.03000259399414
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -684.7591552734375,
+        742.0,
+        59.83000183105469
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall plinth",
+      "point": [
+        -685.264892578125,
+        741.5,
+        58.33000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -685.0114135742188,
+        742.0,
+        59.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall dark lattice.004",
+      "point": [
+        -685.1178588867188,
+        741.7900390625,
+        59.83000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall plinth",
+      "point": [
+        -685.5171508789062,
+        741.5,
+        58.33000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -685.263671875,
+        742.0,
+        59.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall dark lattice.004",
+      "point": [
+        -685.3701171875,
+        741.7900390625,
+        59.83000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall plinth",
+      "point": [
+        -685.7694091796875,
+        741.5,
+        58.33000183105469
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -685.5159301757812,
+        742.0,
+        59.03000259399414
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall dark lattice.004",
+      "point": [
+        -685.6223754882812,
+        741.7900390625,
+        59.83000183105469
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall plinth",
+      "point": [
+        -686.0216674804688,
+        741.5,
+        58.33000183105469
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -685.7681884765625,
+        742.0,
+        59.03000259399414
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_45.001",
+      "obstacle": "Upper east annex principal hall dark lattice.004",
+      "point": [
+        -685.8746337890625,
+        741.7900390625,
+        59.83000183105469
+      ],
+      "lateral_m": 0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -682.2252197265625,
+        750.0,
+        58.33000183105469
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -682.2252197265625,
+        750.0,
+        59.03000259399414
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -682.2252197265625,
+        750.0,
+        59.83000183105469
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -682.4599609375,
+        750.0,
+        58.33000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -682.4599609375,
+        750.0,
+        59.03000259399414
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -682.4599609375,
+        750.0,
+        59.83000183105469
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -682.6947021484375,
+        750.0,
+        58.33000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -682.6947021484375,
+        750.0,
+        59.03000259399414
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -682.6947021484375,
+        750.0,
+        59.83000183105469
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -682.929443359375,
+        750.0,
+        58.33000183105469
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -682.929443359375,
+        750.0,
+        59.03000259399414
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -682.929443359375,
+        750.0,
+        59.83000183105469
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -683.1641235351562,
+        750.0,
+        58.33000183105469
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -683.1641235351562,
+        750.0,
+        59.03000259399414
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_46.001",
+      "obstacle": "Upper east annex principal hall wall",
+      "point": [
+        -683.1641235351562,
+        750.0,
+        59.83000183105469
+      ],
+      "lateral_m": 0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_2.002",
+      "obstacle": "Shore pine group leaning trunk.012",
+      "point": [
+        -549.5239868164062,
+        621.0511474609375,
+        23.329999923706055
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_2.002",
+      "obstacle": "Shore pine group leaning trunk.012",
+      "point": [
+        -549.4275512695312,
+        620.8958740234375,
+        24.029998779296875
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_2.002",
+      "obstacle": "Shore pine group leaning trunk.012",
+      "point": [
+        -549.3711547851562,
+        620.80517578125,
+        24.829999923706055
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_2.002",
+      "obstacle": "Shore pine group leaning trunk.012",
+      "point": [
+        -549.6248779296875,
+        620.787109375,
+        23.329999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_2.002",
+      "obstacle": "Shore pine group leaning trunk.012",
+      "point": [
+        -549.6069946289062,
+        620.75830078125,
+        24.029998779296875
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_2.002",
+      "obstacle": "Shore pine group leaning trunk.012",
+      "point": [
+        -549.6176147460938,
+        620.775390625,
+        24.829999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_2.002",
+      "obstacle": "Shore pine group leaning trunk.012",
+      "point": [
+        -549.8909301757812,
+        620.7890625,
+        23.329999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.002",
+      "obstacle": "Shore pine group leaning trunk.013",
+      "point": [
+        -635.3927612304688,
+        660.360595703125,
+        23.329999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.002",
+      "obstacle": "Shore pine group leaning trunk.013",
+      "point": [
+        -635.2803955078125,
+        660.348388671875,
+        24.029998779296875
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10.002",
+      "obstacle": "Shore pine group leaning trunk.013",
+      "point": [
+        -635.1573486328125,
+        660.3350219726562,
+        24.829999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_10.002",
+      "obstacle": "Shore pine group leaning trunk.013",
+      "point": [
+        -635.437255859375,
+        660.1390991210938,
+        23.329999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.002",
+      "obstacle": "Shore pine group leaning trunk.013",
+      "point": [
+        -635.3375854492188,
+        660.1282958984375,
+        24.029998779296875
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10.002",
+      "obstacle": "Shore pine group leaning trunk.013",
+      "point": [
+        -635.2235717773438,
+        660.1159057617188,
+        24.829999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall plinth",
+      "point": [
+        -695.16015625,
+        657.5,
+        23.329999923706055
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -697.8557739257812,
+        657.0,
+        24.029998779296875
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -697.8557739257812,
+        657.0,
+        24.829999923706055
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall plinth",
+      "point": [
+        -693.9266357421875,
+        657.5,
+        23.329999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -696.6221923828125,
+        657.0,
+        24.029998779296875
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -696.6221923828125,
+        657.0,
+        24.829999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall plinth",
+      "point": [
+        -692.6928100585938,
+        657.5,
+        23.329999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -695.3883666992188,
+        657.0,
+        24.029998779296875
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -695.3883666992188,
+        657.0,
+        24.829999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall plinth",
+      "point": [
+        -691.458984375,
+        657.5,
+        23.329999923706055
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -694.154541015625,
+        657.0,
+        24.029998779296875
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -694.154541015625,
+        657.0,
+        24.829999923706055
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall plinth",
+      "point": [
+        -690.2254028320312,
+        657.5,
+        23.329999923706055
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -692.9209594726562,
+        657.0,
+        24.029998779296875
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_14.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -692.9209594726562,
+        657.0,
+        24.829999923706055
+      ],
+      "lateral_m": 0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        655.75732421875,
+        23.329999923706055
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        655.75732421875,
+        24.029998779296875
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        655.75732421875,
+        24.829999923706055
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        655.5242309570312,
+        23.329999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        655.5242309570312,
+        24.029998779296875
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        655.5242309570312,
+        24.829999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        655.291259765625,
+        23.329999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        655.291259765625,
+        24.029998779296875
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        655.291259765625,
+        24.829999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        655.0582275390625,
+        23.329999923706055
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        655.0582275390625,
+        24.029998779296875
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        655.0582275390625,
+        24.829999923706055
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        654.8251953125,
+        23.329999923706055
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        654.8251953125,
+        24.029998779296875
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_15.002",
+      "obstacle": "Middle north study principal hall wall",
+      "point": [
+        -702.5,
+        654.8251953125,
+        24.829999923706055
+      ],
+      "lateral_m": 0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.002",
+      "obstacle": "Shore pine group leaning trunk.014",
+      "point": [
+        -740.6937255859375,
+        639.4913940429688,
+        23.329999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.002",
+      "obstacle": "Shore pine group leaning trunk.014",
+      "point": [
+        -740.6571044921875,
+        639.5142211914062,
+        24.029998779296875
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.002",
+      "obstacle": "Shore pine group leaning trunk.014",
+      "point": [
+        -740.6519165039062,
+        639.5174560546875,
+        24.829999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.002",
+      "obstacle": "Shore pine group leaning trunk.014",
+      "point": [
+        -740.5978393554688,
+        639.2860717773438,
+        23.329999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.002",
+      "obstacle": "Shore pine group leaning trunk.014",
+      "point": [
+        -740.4901123046875,
+        639.3532104492188,
+        24.029998779296875
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.002",
+      "obstacle": "Shore pine group leaning trunk.014",
+      "point": [
+        -740.3977661132812,
+        639.4107055664062,
+        24.829999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.002",
+      "obstacle": "Shore pine group leaning trunk.014",
+      "point": [
+        -740.44287109375,
+        639.1175537109375,
+        24.829999923706055
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_34.002",
+      "obstacle": "Shore pine group leaning trunk.015",
+      "point": [
+        -674.5303955078125,
+        539.6310424804688,
+        23.329999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_34.002",
+      "obstacle": "Shore pine group leaning trunk.015",
+      "point": [
+        -674.4133911132812,
+        539.6183471679688,
+        24.029998779296875
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_34.002",
+      "obstacle": "Shore pine group leaning trunk.015",
+      "point": [
+        -674.2796020507812,
+        539.603759765625,
+        24.829999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_34.002",
+      "obstacle": "Shore pine group leaning trunk.015",
+      "point": [
+        -674.4972534179688,
+        539.853759765625,
+        23.329999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_34.002",
+      "obstacle": "Shore pine group leaning trunk.015",
+      "point": [
+        -674.3975219726562,
+        539.8429565429688,
+        24.029998779296875
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_34.002",
+      "obstacle": "Shore pine group leaning trunk.015",
+      "point": [
+        -674.2835693359375,
+        539.83056640625,
+        24.829999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.002",
+      "obstacle": "Shore pine group leaning trunk.016",
+      "point": [
+        -568.9052734375,
+        560.4932861328125,
+        24.029998779296875
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_42.002",
+      "obstacle": "Shore pine group leaning trunk.016",
+      "point": [
+        -568.9229125976562,
+        560.4822998046875,
+        24.829999923706055
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.002",
+      "obstacle": "Shore pine group leaning trunk.016",
+      "point": [
+        -569.26171875,
+        560.5363159179688,
+        23.329999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_42.002",
+      "obstacle": "Shore pine group leaning trunk.016",
+      "point": [
+        -569.1878662109375,
+        560.5823364257812,
+        24.029998779296875
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_42.002",
+      "obstacle": "Shore pine group leaning trunk.016",
+      "point": [
+        -569.1005859375,
+        560.63671875,
+        24.829999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.002",
+      "obstacle": "Shore pine group leaning trunk.016",
+      "point": [
+        -569.3313598632812,
+        560.758056640625,
+        23.329999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_42.002",
+      "obstacle": "Shore pine group leaning trunk.016",
+      "point": [
+        -569.1614990234375,
+        560.8638305664062,
+        24.029998779296875
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_2.003",
+      "obstacle": "Shore pine group leaning trunk.017",
+      "point": [
+        -936.4525146484375,
+        521.5115966796875,
+        -13.970000267028809
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_2.003",
+      "obstacle": "Shore pine group leaning trunk.017",
+      "point": [
+        -936.4007568359375,
+        521.4146728515625,
+        -13.170000076293945
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_2.003",
+      "obstacle": "Shore pine group leaning trunk.017",
+      "point": [
+        -936.6500854492188,
+        521.4038696289062,
+        -14.670000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_2.003",
+      "obstacle": "Shore pine group leaning trunk.017",
+      "point": [
+        -936.6343383789062,
+        521.3743896484375,
+        -13.970000267028809
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_2.003",
+      "obstacle": "Shore pine group leaning trunk.017",
+      "point": [
+        -936.64453125,
+        521.3935546875,
+        -13.170000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_2.003",
+      "obstacle": "Shore pine group leaning trunk.017",
+      "point": [
+        -936.9047241210938,
+        521.4030151367188,
+        -14.670000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.003",
+      "obstacle": "Shore pine group leaning trunk.018",
+      "point": [
+        -1012.5990600585938,
+        562.1253051757812,
+        -14.670000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.003",
+      "obstacle": "Shore pine group leaning trunk.018",
+      "point": [
+        -1012.4913330078125,
+        562.1116943359375,
+        -13.970000267028809
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10.003",
+      "obstacle": "Shore pine group leaning trunk.018",
+      "point": [
+        -1012.3682861328125,
+        562.0961303710938,
+        -13.170000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_10.003",
+      "obstacle": "Shore pine group leaning trunk.018",
+      "point": [
+        -1012.6531372070312,
+        561.9053344726562,
+        -14.670000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.003",
+      "obstacle": "Shore pine group leaning trunk.018",
+      "point": [
+        -1012.5546264648438,
+        561.8928833007812,
+        -13.970000267028809
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10.003",
+      "obstacle": "Shore pine group leaning trunk.018",
+      "point": [
+        -1012.4420166015625,
+        561.878662109375,
+        -13.170000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.003",
+      "obstacle": "Shore pine group leaning trunk.019",
+      "point": [
+        -1105.9044189453125,
+        540.65478515625,
+        -14.670000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.003",
+      "obstacle": "Shore pine group leaning trunk.019",
+      "point": [
+        -1105.871337890625,
+        540.6787109375,
+        -13.970000267028809
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.003",
+      "obstacle": "Shore pine group leaning trunk.019",
+      "point": [
+        -1105.9110107421875,
+        540.6500244140625,
+        -13.170000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.003",
+      "obstacle": "Shore pine group leaning trunk.019",
+      "point": [
+        -1105.78466796875,
+        540.463623046875,
+        -14.670000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.003",
+      "obstacle": "Shore pine group leaning trunk.019",
+      "point": [
+        -1105.6851806640625,
+        540.5357055664062,
+        -13.970000267028809
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.003",
+      "obstacle": "Shore pine group leaning trunk.019",
+      "point": [
+        -1105.6048583984375,
+        540.5938720703125,
+        -13.170000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.003",
+      "obstacle": "Shore pine group leaning trunk.019",
+      "point": [
+        -1105.5906982421875,
+        540.3263549804688,
+        -13.170000076293945
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_26.003",
+      "obstacle": "Shore pine group leaning trunk.020",
+      "point": [
+        -1123.3245849609375,
+        478.5487365722656,
+        -14.670000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_26.003",
+      "obstacle": "Shore pine group leaning trunk.020",
+      "point": [
+        -1123.273681640625,
+        478.45343017578125,
+        -13.970000267028809
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_26.003",
+      "obstacle": "Shore pine group leaning trunk.020",
+      "point": [
+        -1123.10986328125,
+        478.6243896484375,
+        -14.670000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_26.003",
+      "obstacle": "Shore pine group leaning trunk.020",
+      "point": [
+        -1123.10595703125,
+        478.6170959472656,
+        -13.970000267028809
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_26.003",
+      "obstacle": "Shore pine group leaning trunk.020",
+      "point": [
+        -1123.0797119140625,
+        478.5679626464844,
+        -13.170000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_26.003",
+      "obstacle": "Shore pine group leaning trunk.020",
+      "point": [
+        -1122.849609375,
+        478.61492919921875,
+        -13.170000076293945
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_34.003",
+      "obstacle": "Shore pine group leaning trunk.021",
+      "point": [
+        -1047.324462890625,
+        437.864990234375,
+        -14.670000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_34.003",
+      "obstacle": "Shore pine group leaning trunk.021",
+      "point": [
+        -1047.205810546875,
+        437.8500061035156,
+        -13.970000267028809
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_34.003",
+      "obstacle": "Shore pine group leaning trunk.021",
+      "point": [
+        -1047.070068359375,
+        437.8328552246094,
+        -13.170000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_34.003",
+      "obstacle": "Shore pine group leaning trunk.021",
+      "point": [
+        -1047.2821044921875,
+        438.0864562988281,
+        -14.670000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_34.003",
+      "obstacle": "Shore pine group leaning trunk.021",
+      "point": [
+        -1047.18359375,
+        438.0740051269531,
+        -13.970000267028809
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_34.003",
+      "obstacle": "Shore pine group leaning trunk.021",
+      "point": [
+        -1047.0709228515625,
+        438.0597839355469,
+        -13.170000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.003",
+      "obstacle": "Shore pine group leaning trunk.022",
+      "point": [
+        -953.72607421875,
+        459.3350830078125,
+        -13.970000267028809
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_42.003",
+      "obstacle": "Shore pine group leaning trunk.022",
+      "point": [
+        -953.7372436523438,
+        459.3269958496094,
+        -13.170000076293945
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.003",
+      "obstacle": "Shore pine group leaning trunk.022",
+      "point": [
+        -954.0651245117188,
+        459.36737060546875,
+        -14.670000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_42.003",
+      "obstacle": "Shore pine group leaning trunk.022",
+      "point": [
+        -953.9948120117188,
+        459.41827392578125,
+        -13.970000267028809
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_42.003",
+      "obstacle": "Shore pine group leaning trunk.022",
+      "point": [
+        -953.9136962890625,
+        459.47705078125,
+        -13.170000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.003",
+      "obstacle": "Shore pine group leaning trunk.022",
+      "point": [
+        -954.1444702148438,
+        459.58770751953125,
+        -14.670000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_42.003",
+      "obstacle": "Shore pine group leaning trunk.022",
+      "point": [
+        -953.9706420898438,
+        459.7135925292969,
+        -13.970000267028809
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_2.004",
+      "obstacle": "Shore pine group leaning trunk.023",
+      "point": [
+        -295.4925842285156,
+        346.52239990234375,
+        5.03000020980835
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_2.004",
+      "obstacle": "Shore pine group leaning trunk.023",
+      "point": [
+        -295.449462890625,
+        346.41363525390625,
+        5.829999923706055
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_2.004",
+      "obstacle": "Shore pine group leaning trunk.023",
+      "point": [
+        -295.6888122558594,
+        346.4068908691406,
+        4.329999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_2.004",
+      "obstacle": "Shore pine group leaning trunk.023",
+      "point": [
+        -295.6766357421875,
+        346.376220703125,
+        5.03000020980835
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_2.004",
+      "obstacle": "Shore pine group leaning trunk.023",
+      "point": [
+        -295.6822204589844,
+        346.3902587890625,
+        5.829999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_2.004",
+      "obstacle": "Shore pine group leaning trunk.023",
+      "point": [
+        -295.9259338378906,
+        346.3944091796875,
+        4.329999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.004",
+      "obstacle": "Shore pine group leaning trunk.024",
+      "point": [
+        -352.0208740234375,
+        387.11505126953125,
+        4.329999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.004",
+      "obstacle": "Shore pine group leaning trunk.024",
+      "point": [
+        -351.9131774902344,
+        387.0967102050781,
+        5.03000020980835
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10.004",
+      "obstacle": "Shore pine group leaning trunk.024",
+      "point": [
+        -351.79010009765625,
+        387.0757751464844,
+        5.829999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_10.004",
+      "obstacle": "Shore pine group leaning trunk.024",
+      "point": [
+        -352.0810241699219,
+        386.8970642089844,
+        4.329999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.004",
+      "obstacle": "Shore pine group leaning trunk.024",
+      "point": [
+        -351.9853210449219,
+        386.8807678222656,
+        5.03000020980835
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10.004",
+      "obstacle": "Shore pine group leaning trunk.024",
+      "point": [
+        -351.8759460449219,
+        386.8621520996094,
+        5.829999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.004",
+      "obstacle": "Shore pine group leaning trunk.025",
+      "point": [
+        -421.3349914550781,
+        365.6729736328125,
+        4.329999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.004",
+      "obstacle": "Shore pine group leaning trunk.025",
+      "point": [
+        -421.3341979980469,
+        365.67376708984375,
+        5.03000020980835
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.004",
+      "obstacle": "Shore pine group leaning trunk.025",
+      "point": [
+        -421.1612548828125,
+        365.52813720703125,
+        4.329999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.004",
+      "obstacle": "Shore pine group leaning trunk.025",
+      "point": [
+        -421.0985412597656,
+        365.5893249511719,
+        5.03000020980835
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.004",
+      "obstacle": "Shore pine group leaning trunk.025",
+      "point": [
+        -421.0354919433594,
+        365.65087890625,
+        5.829999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.004",
+      "obstacle": "Shore pine group leaning trunk.025",
+      "point": [
+        -420.927978515625,
+        365.44140625,
+        5.829999923706055
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.004",
+      "obstacle": "Shore pine group leaning trunk.026",
+      "point": [
+        -308.3260498046875,
+        284.3434753417969,
+        5.03000020980835
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_42.004",
+      "obstacle": "Shore pine group leaning trunk.026",
+      "point": [
+        -308.34796142578125,
+        284.3220520019531,
+        5.829999923706055
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.004",
+      "obstacle": "Shore pine group leaning trunk.026",
+      "point": [
+        -308.6474914550781,
+        284.3441467285156,
+        4.329999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_42.004",
+      "obstacle": "Shore pine group leaning trunk.026",
+      "point": [
+        -308.6002502441406,
+        284.3902282714844,
+        5.03000020980835
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_42.004",
+      "obstacle": "Shore pine group leaning trunk.026",
+      "point": [
+        -308.5285949707031,
+        284.4601745605469,
+        5.829999923706055
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.004",
+      "obstacle": "Shore pine group leaning trunk.026",
+      "point": [
+        -308.7705078125,
+        284.5384826660156,
+        4.329999923706055
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_42.004",
+      "obstacle": "Shore pine group leaning trunk.026",
+      "point": [
+        -308.6108703613281,
+        284.6943054199219,
+        5.03000020980835
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10.005",
+      "obstacle": "Shore pine group leaning trunk.027",
+      "point": [
+        -504.2637939453125,
+        206.8173065185547,
+        -7.670000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.005",
+      "obstacle": "Shore pine group leaning trunk.027",
+      "point": [
+        -504.1495666503906,
+        206.80270385742188,
+        -6.96999979019165
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10.005",
+      "obstacle": "Shore pine group leaning trunk.027",
+      "point": [
+        -504.0264892578125,
+        206.78695678710938,
+        -6.170000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_10.005",
+      "obstacle": "Shore pine group leaning trunk.027",
+      "point": [
+        -504.3045654296875,
+        206.595703125,
+        -7.670000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_10.005",
+      "obstacle": "Shore pine group leaning trunk.027",
+      "point": [
+        -504.20611572265625,
+        206.58311462402344,
+        -6.96999979019165
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_10.005",
+      "obstacle": "Shore pine group leaning trunk.027",
+      "point": [
+        -504.0936279296875,
+        206.5687255859375,
+        -6.170000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.005",
+      "obstacle": "Shore pine group leaning trunk.028",
+      "point": [
+        -588.5615234375,
+        187.19302368164062,
+        -7.670000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.005",
+      "obstacle": "Shore pine group leaning trunk.028",
+      "point": [
+        -588.5287475585938,
+        187.21707153320312,
+        -6.96999979019165
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.005",
+      "obstacle": "Shore pine group leaning trunk.028",
+      "point": [
+        -588.4249877929688,
+        187.01416015625,
+        -7.670000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_18.005",
+      "obstacle": "Shore pine group leaning trunk.028",
+      "point": [
+        -588.3342895507812,
+        187.08062744140625,
+        -6.96999979019165
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_18.005",
+      "obstacle": "Shore pine group leaning trunk.028",
+      "point": [
+        -588.2543334960938,
+        187.13926696777344,
+        -6.170000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_18.005",
+      "obstacle": "Shore pine group leaning trunk.028",
+      "point": [
+        -588.201904296875,
+        186.8987274169922,
+        -6.170000076293945
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_26.005",
+      "obstacle": "Shore pine group leaning trunk.029",
+      "point": [
+        -604.3167724609375,
+        130.38661193847656,
+        -7.670000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_26.005",
+      "obstacle": "Shore pine group leaning trunk.029",
+      "point": [
+        -604.255615234375,
+        130.2708740234375,
+        -6.96999979019165
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_26.005",
+      "obstacle": "Shore pine group leaning trunk.029",
+      "point": [
+        -604.1131591796875,
+        130.48291015625,
+        -7.670000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_26.005",
+      "obstacle": "Shore pine group leaning trunk.029",
+      "point": [
+        -604.1030883789062,
+        130.4639129638672,
+        -6.96999979019165
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_26.005",
+      "obstacle": "Shore pine group leaning trunk.029",
+      "point": [
+        -604.0722045898438,
+        130.40536499023438,
+        -6.170000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_26.005",
+      "obstacle": "Shore pine group leaning trunk.029",
+      "point": [
+        -603.8538818359375,
+        130.47373962402344,
+        -6.170000076293945
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_34.005",
+      "obstacle": "Shore pine group leaning trunk.030",
+      "point": [
+        -535.6581420898438,
+        93.17269897460938,
+        -7.670000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_34.005",
+      "obstacle": "Shore pine group leaning trunk.030",
+      "point": [
+        -535.539306640625,
+        93.15750122070312,
+        -6.96999979019165
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_34.005",
+      "obstacle": "Shore pine group leaning trunk.030",
+      "point": [
+        -535.4034423828125,
+        93.14012908935547,
+        -6.170000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_34.005",
+      "obstacle": "Shore pine group leaning trunk.030",
+      "point": [
+        -535.6307983398438,
+        93.39603424072266,
+        -7.670000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_34.005",
+      "obstacle": "Shore pine group leaning trunk.030",
+      "point": [
+        -535.5323486328125,
+        93.3834457397461,
+        -6.96999979019165
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_34.005",
+      "obstacle": "Shore pine group leaning trunk.030",
+      "point": [
+        -535.4198608398438,
+        93.36906433105469,
+        -6.170000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.005",
+      "obstacle": "Shore pine group leaning trunk.031",
+      "point": [
+        -451.0474548339844,
+        112.81460571289062,
+        -6.96999979019165
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_42.005",
+      "obstacle": "Shore pine group leaning trunk.031",
+      "point": [
+        -451.0819396972656,
+        112.7893295288086,
+        -6.170000076293945
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.005",
+      "obstacle": "Shore pine group leaning trunk.031",
+      "point": [
+        -451.41644287109375,
+        112.8230972290039,
+        -7.670000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_42.005",
+      "obstacle": "Shore pine group leaning trunk.031",
+      "point": [
+        -451.3464660644531,
+        112.87440490722656,
+        -6.96999979019165
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Linked garden walk_42.005",
+      "obstacle": "Shore pine group leaning trunk.031",
+      "point": [
+        -451.2664794921875,
+        112.93303680419922,
+        -6.170000076293945
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Linked garden walk_42.005",
+      "obstacle": "Shore pine group leaning trunk.031",
+      "point": [
+        -451.5041809082031,
+        113.03775024414062,
+        -7.670000076293945
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Linked garden walk_42.005",
+      "obstacle": "Shore pine group leaning trunk.031",
+      "point": [
+        -451.3553161621094,
+        113.14689636230469,
+        -6.96999979019165
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study side study wall",
+      "point": [
+        -1372.0,
+        1038.24658203125,
+        36.08921813964844
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study side study wall",
+      "point": [
+        -1372.0,
+        1038.24658203125,
+        36.78921890258789
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study side study wall",
+      "point": [
+        -1372.0,
+        1038.24658203125,
+        37.58921813964844
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study enclosing wall",
+      "point": [
+        -1363.60009765625,
+        1020.08349609375,
+        36.15217208862305
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study enclosing wall",
+      "point": [
+        -1363.60009765625,
+        1020.08349609375,
+        36.8521728515625
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study enclosing wall",
+      "point": [
+        -1363.60009765625,
+        1020.08349609375,
+        37.65217208862305
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study enclosing wall",
+      "point": [
+        -1363.7142333984375,
+        1019.7999877929688,
+        36.1528205871582
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study enclosing wall",
+      "point": [
+        -1363.7142333984375,
+        1019.7999877929688,
+        36.852821350097656
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study enclosing wall",
+      "point": [
+        -1363.7142333984375,
+        1019.7999877929688,
+        37.6528205871582
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study enclosing wall",
+      "point": [
+        -1363.9635009765625,
+        1019.7999877929688,
+        36.15248489379883
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study enclosing wall",
+      "point": [
+        -1363.9635009765625,
+        1019.7999877929688,
+        36.85248565673828
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study enclosing wall",
+      "point": [
+        -1363.9635009765625,
+        1019.7999877929688,
+        37.65248489379883
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study enclosing wall",
+      "point": [
+        -1364.212646484375,
+        1019.7999877929688,
+        36.15214538574219
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study enclosing wall",
+      "point": [
+        -1364.212646484375,
+        1019.7999877929688,
+        36.85214614868164
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Academy north study walk link_0",
+      "obstacle": "Academy north study enclosing wall",
+      "point": [
+        -1364.212646484375,
+        1019.7999877929688,
+        37.65214538574219
+      ],
+      "lateral_m": 0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -698.70849609375,
+        636.7999877929688,
+        23.42938995361328
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -698.70849609375,
+        636.7999877929688,
+        24.1293888092041
+      ],
+      "lateral_m": -0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -698.70849609375,
+        636.7999877929688,
+        24.92938995361328
+      ],
+      "lateral_m": -0.45,
+      "height_m": 1.7
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -699.0610961914062,
+        636.7999877929688,
+        23.428213119506836
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -699.0610961914062,
+        636.7999877929688,
+        24.128211975097656
+      ],
+      "lateral_m": -0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -699.0610961914062,
+        636.7999877929688,
+        24.928213119506836
+      ],
+      "lateral_m": -0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -699.4137573242188,
+        636.7999877929688,
+        23.42703628540039
+      ],
+      "lateral_m": 0,
+      "height_m": 0.2
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -699.4137573242188,
+        636.7999877929688,
+        24.12703514099121
+      ],
+      "lateral_m": 0,
+      "height_m": 0.9
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -699.4137573242188,
+        636.7999877929688,
+        24.92703628540039
+      ],
+      "lateral_m": 0,
+      "height_m": 1.7
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -699.7664794921875,
+        636.7999877929688,
+        23.425859451293945
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.2
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -699.7664794921875,
+        636.7999877929688,
+        24.125858306884766
+      ],
+      "lateral_m": 0.225,
+      "height_m": 0.9
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -699.7664794921875,
+        636.7999877929688,
+        24.925859451293945
+      ],
+      "lateral_m": 0.225,
+      "height_m": 1.7
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -700.1190795898438,
+        636.7999877929688,
+        23.424684524536133
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.2
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -700.1190795898438,
+        636.7999877929688,
+        24.124683380126953
+      ],
+      "lateral_m": 0.45,
+      "height_m": 0.9
+    },
+    {
+      "path": "Middle north study walk link_0",
+      "obstacle": "Middle north study enclosing wall",
+      "point": [
+        -700.1190795898438,
+        636.7999877929688,
+        24.924684524536133
+      ],
+      "lateral_m": 0.45,
+      "height_m": 1.7
+    }
+  ],
+  "plant_structure_triangle_intersections": [
+    {
+      "plant_or_rock": "Academy west study court pine flat needle mass.004",
+      "structure": "Academy west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Academy west study court pine flat needle mass.005",
+      "structure": "Academy west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Academy west study court pine flat needle mass.010",
+      "structure": "Academy west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Academy west study court pine flat needle mass.011",
+      "structure": "Academy west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper west annex court pine flat needle mass",
+      "structure": "Upper west annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper west annex court pine flat needle mass.001",
+      "structure": "Upper west annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper west annex court pine flat needle mass.002",
+      "structure": "Upper west annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper west annex court pine flat needle mass.003",
+      "structure": "Upper west annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper west annex court pine flat needle mass.004",
+      "structure": "Upper west annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper west annex court pine flat needle mass.005",
+      "structure": "Upper west annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper west annex court pine flat needle mass.009",
+      "structure": "Upper west annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper west annex court pine flat needle mass.010",
+      "structure": "Upper west annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper west annex court pine flat needle mass.011",
+      "structure": "Upper west annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper east annex court pine flat needle mass",
+      "structure": "Upper east annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper east annex court pine flat needle mass.001",
+      "structure": "Upper east annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper east annex court pine flat needle mass.002",
+      "structure": "Upper east annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper east annex court pine flat needle mass.003",
+      "structure": "Upper east annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper east annex court pine flat needle mass.004",
+      "structure": "Upper east annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper east annex court pine flat needle mass.005",
+      "structure": "Upper east annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper east annex court pine flat needle mass.009",
+      "structure": "Upper east annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper east annex court pine flat needle mass.010",
+      "structure": "Upper east annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Upper east annex court pine flat needle mass.011",
+      "structure": "Upper east annex principal hall wall"
+    },
+    {
+      "plant_or_rock": "Middle north study court pine flat needle mass",
+      "structure": "Middle north study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Middle north study court pine flat needle mass.001",
+      "structure": "Middle north study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Middle north study court pine flat needle mass.002",
+      "structure": "Middle north study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Middle north study court pine flat needle mass.003",
+      "structure": "Middle north study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Middle north study court pine flat needle mass.004",
+      "structure": "Middle north study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Middle north study court pine flat needle mass.005",
+      "structure": "Middle north study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Middle north study court pine flat needle mass.009",
+      "structure": "Middle north study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Middle north study court pine flat needle mass.010",
+      "structure": "Middle north study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Middle north study court pine flat needle mass.011",
+      "structure": "Middle north study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Quiet west study court pine flat needle mass",
+      "structure": "Quiet west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Quiet west study court pine flat needle mass.001",
+      "structure": "Quiet west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Quiet west study court pine flat needle mass.002",
+      "structure": "Quiet west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Quiet west study court pine flat needle mass.003",
+      "structure": "Quiet west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Quiet west study court pine flat needle mass.004",
+      "structure": "Quiet west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Quiet west study court pine flat needle mass.005",
+      "structure": "Quiet west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Quiet west study court pine flat needle mass.009",
+      "structure": "Quiet west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Quiet west study court pine flat needle mass.010",
+      "structure": "Quiet west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "Quiet west study court pine flat needle mass.011",
+      "structure": "Quiet west study principal hall wall"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine leaning trunk",
+      "structure": "East waterside court court pine layered branch"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine leaning trunk",
+      "structure": "East waterside court court pine flat needle mass"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine leaning trunk",
+      "structure": "East waterside court court pine flat needle mass.001"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine leaning trunk",
+      "structure": "East waterside court court pine layered branch.001"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine leaning trunk",
+      "structure": "East waterside court court pine layered branch.002"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine leaning trunk",
+      "structure": "East waterside court court pine flat needle mass.007"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine leaning trunk",
+      "structure": "East waterside court court pine flat needle mass.008"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine leaning trunk",
+      "structure": "East waterside court court pine layered branch.003"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass",
+      "structure": "East waterside court court pine leaning trunk"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass",
+      "structure": "East waterside court court pine layered branch"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass",
+      "structure": "East waterside court court pine flat needle mass.001"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass",
+      "structure": "East waterside court court pine flat needle mass.002"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass",
+      "structure": "East waterside court court pine layered branch.001"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass",
+      "structure": "East waterside court court pine flat needle mass.005"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass",
+      "structure": "East waterside court court pine layered branch.002"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass",
+      "structure": "East waterside court court pine layered branch.003"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.001",
+      "structure": "East waterside court court pine leaning trunk"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.001",
+      "structure": "East waterside court court pine layered branch"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.001",
+      "structure": "East waterside court court pine flat needle mass"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.001",
+      "structure": "East waterside court court pine flat needle mass.002"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.001",
+      "structure": "East waterside court court pine layered branch.001"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.001",
+      "structure": "East waterside court court pine layered branch.002"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.001",
+      "structure": "East waterside court court pine layered branch.003"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.002",
+      "structure": "East waterside court court pine layered branch"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.002",
+      "structure": "East waterside court court pine flat needle mass"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.002",
+      "structure": "East waterside court court pine flat needle mass.001"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.003",
+      "structure": "East waterside court court pine layered branch.001"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.003",
+      "structure": "East waterside court court pine flat needle mass.004"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.003",
+      "structure": "East waterside court court pine flat needle mass.005"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.004",
+      "structure": "East waterside court court pine layered branch.001"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.004",
+      "structure": "East waterside court court pine flat needle mass.003"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.004",
+      "structure": "East waterside court court pine flat needle mass.005"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.005",
+      "structure": "East waterside court principal hall lattice stile.020"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.005",
+      "structure": "East waterside court court pine flat needle mass"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.005",
+      "structure": "East waterside court court pine layered branch.001"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.005",
+      "structure": "East waterside court court pine flat needle mass.003"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.005",
+      "structure": "East waterside court court pine flat needle mass.004"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.006",
+      "structure": "East waterside court court pine layered branch.002"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.006",
+      "structure": "East waterside court court pine flat needle mass.007"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.006",
+      "structure": "East waterside court court pine flat needle mass.008"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.007",
+      "structure": "East waterside court court pine leaning trunk"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.007",
+      "structure": "East waterside court court pine layered branch.002"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.007",
+      "structure": "East waterside court court pine flat needle mass.006"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.007",
+      "structure": "East waterside court court pine flat needle mass.008"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.007",
+      "structure": "East waterside court court pine flat needle mass.009"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.008",
+      "structure": "East waterside court court pine leaning trunk"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.008",
+      "structure": "East waterside court court pine layered branch.002"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.008",
+      "structure": "East waterside court court pine flat needle mass.006"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.008",
+      "structure": "East waterside court court pine flat needle mass.007"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.008",
+      "structure": "East waterside court court pine layered branch.003"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.008",
+      "structure": "East waterside court court pine flat needle mass.009"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.009",
+      "structure": "East waterside court court pine flat needle mass.007"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.009",
+      "structure": "East waterside court court pine flat needle mass.008"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.009",
+      "structure": "East waterside court court pine layered branch.003"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.009",
+      "structure": "East waterside court court pine flat needle mass.010"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.009",
+      "structure": "East waterside court court pine flat needle mass.011"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.010",
+      "structure": "East waterside court court pine layered branch.003"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.010",
+      "structure": "East waterside court court pine flat needle mass.009"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.010",
+      "structure": "East waterside court court pine flat needle mass.011"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.011",
+      "structure": "East waterside court court pine layered branch.003"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.011",
+      "structure": "East waterside court court pine flat needle mass.009"
+    },
+    {
+      "plant_or_rock": "East waterside court court pine flat needle mass.011",
+      "structure": "East waterside court court pine flat needle mass.010"
+    },
+    {
+      "plant_or_rock": "East waterside court court rock weathered garden stone",
+      "structure": "East waterside court court rock weathered garden stone.001"
+    },
+    {
+      "plant_or_rock": "East waterside court court rock weathered garden stone.001",
+      "structure": "East waterside court court rock weathered garden stone"
+    },
+    {
+      "plant_or_rock": "Academy ink pond bank rocks weathered garden stone",
+      "structure": "Academy ink pond water"
+    },
+    {
+      "plant_or_rock": "Academy ink pond bank rocks weathered garden stone.001",
+      "structure": "Academy ink pond water"
+    },
+    {
+      "plant_or_rock": "Academy ink pond bank rocks weathered garden stone.002",
+      "structure": "Academy ink pond water"
+    },
+    {
+      "plant_or_rock": "Academy ink pond bank rocks weathered garden stone.003",
+      "structure": "Academy ink pond water"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank rocks weathered garden stone",
+      "structure": "Upper moon pool water"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank rocks weathered garden stone.001",
+      "structure": "Upper moon pool water"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank rocks weathered garden stone.002",
+      "structure": "Upper moon pool water"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank rocks weathered garden stone.003",
+      "structure": "Upper moon pool water"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank pine leaning trunk",
+      "structure": "Refined Upper west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank pine flat needle mass",
+      "structure": "Refined Upper west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank pine flat needle mass.001",
+      "structure": "Refined Upper west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank pine flat needle mass.002",
+      "structure": "Refined Upper west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank pine flat needle mass.003",
+      "structure": "Refined Upper west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank pine flat needle mass.004",
+      "structure": "Refined Upper west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank pine flat needle mass.005",
+      "structure": "Refined Upper west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank pine flat needle mass.006",
+      "structure": "Refined Upper west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank pine flat needle mass.007",
+      "structure": "Refined Upper west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Middle garden pond bank rocks weathered garden stone",
+      "structure": "Middle garden pond water"
+    },
+    {
+      "plant_or_rock": "Middle garden pond bank rocks weathered garden stone.001",
+      "structure": "Middle garden pond water"
+    },
+    {
+      "plant_or_rock": "Middle garden pond bank rocks weathered garden stone.002",
+      "structure": "Middle garden pond water"
+    },
+    {
+      "plant_or_rock": "Middle garden pond bank rocks weathered garden stone.003",
+      "structure": "Middle garden pond water"
+    },
+    {
+      "plant_or_rock": "Quiet garden pond bank rocks weathered garden stone",
+      "structure": "Quiet garden pond water"
+    },
+    {
+      "plant_or_rock": "Quiet garden pond bank rocks weathered garden stone.001",
+      "structure": "Quiet garden pond water"
+    },
+    {
+      "plant_or_rock": "Quiet garden pond bank rocks weathered garden stone.002",
+      "structure": "Quiet garden pond water"
+    },
+    {
+      "plant_or_rock": "Quiet garden pond bank rocks weathered garden stone.003",
+      "structure": "Quiet garden pond water"
+    },
+    {
+      "plant_or_rock": "Lower east pond bank rocks weathered garden stone",
+      "structure": "Lower east pond water"
+    },
+    {
+      "plant_or_rock": "Lower east pond bank rocks weathered garden stone.001",
+      "structure": "Lower east pond water"
+    },
+    {
+      "plant_or_rock": "Lower east pond bank rocks weathered garden stone.002",
+      "structure": "Lower east pond water"
+    },
+    {
+      "plant_or_rock": "Lower east pond bank rocks weathered garden stone.003",
+      "structure": "Lower east pond water"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank rocks weathered garden stone",
+      "structure": "Lower west pond water"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank rocks weathered garden stone.001",
+      "structure": "Lower west pond water"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank rocks weathered garden stone.002",
+      "structure": "Lower west pond water"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank rocks weathered garden stone.003",
+      "structure": "Lower west pond water"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank pine leaning trunk",
+      "structure": "Refined Lower west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank pine flat needle mass",
+      "structure": "Refined Lower west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank pine flat needle mass.001",
+      "structure": "Refined Lower west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank pine flat needle mass.002",
+      "structure": "Refined Lower west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank pine flat needle mass.005",
+      "structure": "Refined Lower west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank pine flat needle mass.008",
+      "structure": "Refined Lower west court roof.001 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Shore pine group flat needle mass.096",
+      "structure": "Refined Upper west court roof.002 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Shore pine group flat needle mass.097",
+      "structure": "Refined Upper west court roof.002 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Shore pine group flat needle mass.098",
+      "structure": "Refined Upper west court roof.002 curved tiled roof"
+    },
+    {
+      "plant_or_rock": "Moon C rock composition weathered garden stone",
+      "structure": "South waterside lane"
+    },
+    {
+      "plant_or_rock": "Moon C rock composition weathered garden stone.001",
+      "structure": "South waterside lane"
+    },
+    {
+      "plant_or_rock": "Moon C rock composition weathered garden stone.002",
+      "structure": "South waterside lane"
+    },
+    {
+      "plant_or_rock": "Moon C framing pine leaning trunk",
+      "structure": "South waterside lane"
+    }
+  ],
+  "pond_triangle_intersections": [],
+  "visible_old_court_residuals": [],
+  "limitations": [
+    "Walk checks cover newly added local walk center corridors using 5 lateral and 3 height tracks; not all-world navigation.",
+    "Triangle overlap detects intersecting surfaces, not full containment; some listed planting-bank contacts are intentional.",
+    "Environment comparisons exclude carrier collections and permit explicitly listed hides; no full video render performed."
+  ]
+}

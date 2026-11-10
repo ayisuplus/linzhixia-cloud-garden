@@ -1,0 +1,35 @@
+{
+  "status": "pending_author_review",
+  "tool": "built-in imagegen",
+  "images": [
+    {
+      "file": "知夏-校服14a-袜口残留云纹候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "ab70b367f295a06193bb6d20c06238b5c2d1f5526b308cb6d01e36d5b06a3629"
+    },
+    {
+      "file": "知夏-校服14b-局部清理未生效.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "2d9836c8292e8cbdb4f624fbfee3beefe3fecc547c7249dae7c795dc65ef6889"
+    },
+    {
+      "file": "知夏-校服14-如意弧边流线绣鞋.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "1afdd1db73251702b7a2e7055a9d19d3f48834590554a31685a3c5649d92f535"
+    }
+  ],
+  "checks": [
+    "全身头脚完整",
+    "袜长膝下",
+    "最终袜身无独立云纹标志",
+    "鞋面偏侧流线",
+    "清晰画质"
+  ],
+  "limitations": [
+    "袜体较底稿平整",
+    "真实丝纱工艺未打样验证"
+  ]
+}

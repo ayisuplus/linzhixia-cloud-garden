@@ -1,0 +1,17 @@
+{
+  "hidden_courts": [
+    "Replan 00 compound 03",
+    "Replan 04 compound 10"
+  ],
+  "hidden_grove_indices": [
+    26,
+    70,
+    71,
+    124,
+    153,
+    157
+  ],
+  "hidden_object_count": 493,
+  "canal_stone_podiums": 8,
+  "south_canal_facades_face_water": true
+}

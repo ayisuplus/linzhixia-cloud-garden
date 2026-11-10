@@ -1,0 +1,788 @@
+{
+  "hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集池涧水巷-20261024-v0.1\\pond-lane-route-58s-v13.blend": "3ee38714b93ef13fb598afcdc0618c6a1b3e94beebae7c49f7a32d983254894c",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山园巷-20261024-v0.1\\cloud-garden-route-58s-v14.blend": "37d42ad59da907b24322fecab2d120b8fa759bef6c3563f87d4e32d09ac812a0",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山园巷-20261024-v0.1\\route-poses.json": "4c5fa912b29e5e5981e84146221bf40b5d1480829e6a6db3ce9411a15c545b41",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山园巷-20261024-v0.1\\design-data.json": "eff9b5cc62011013e373d9d563e0e5e6e420d610c81fdf802db2836d2d1dac3c",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集云山园巷-v0.1\\build.py": "f6226b282676a449b7098320212850a3b819b1917fe2a82bdaf8e739d3eaa9fa"
+  },
+  "stable": true,
+  "unallowed_original_changes": [],
+  "original_material_changes": [],
+  "ground_color_unchanged": true,
+  "ground_topology_equal": true,
+  "ground_xy_max_abs": 0.0,
+  "ground_max_increase": 0.0,
+  "ground_max_lowering": 53.142677307128906,
+  "full_1392_27_sweep_hits": [],
+  "new_old_surface_intersections": [
+    {
+      "new": "G1 Cloud-entry garden grounded entrance step.057",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "G1 Cloud-entry garden grounded entrance step.058",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 4
+    },
+    {
+      "new": "G1 Cloud-entry garden grounded entrance step.059",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 7
+    },
+    {
+      "new": "G1 Cloud-entry garden grounded entrance step.060",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 8
+    },
+    {
+      "new": "G1 Cloud-entry garden grounded entrance step.061",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "G1 Cloud-entry garden grounded entrance step.062",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "G2 Hidden-water garden supported stone terrace",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 25
+    },
+    {
+      "new": "G2 Hidden-water garden grounded entrance step.065",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 3
+    },
+    {
+      "new": "G2 Hidden-water garden grounded entrance step.066",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 5
+    },
+    {
+      "new": "G2 Hidden-water garden grounded entrance step.067",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 4
+    },
+    {
+      "new": "G2 Hidden-water garden grounded entrance step.068",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 4
+    },
+    {
+      "new": "G2 Hidden-water garden grounded entrance step.069",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "Cross-water gallery 1 walking deck",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "Cross-water gallery 1 walking deck",
+      "old": "Grouped riparian shrub.011",
+      "surface_pairs": 41
+    },
+    {
+      "new": "Cross-water gallery 1 walking deck",
+      "old": "Continuous bank lane 1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "Cross-water gallery 1 walking deck",
+      "old": "Grouped riparian shrub.009",
+      "surface_pairs": 35
+    },
+    {
+      "new": "Cross-water gallery 1 walking deck",
+      "old": "Grouped riparian shrub.012",
+      "surface_pairs": 23
+    },
+    {
+      "new": "Cross-water gallery 2 walking deck",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "Cross-water gallery 2 walking deck",
+      "old": "Continuous bank lane 1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "Cross-water gallery 3 walking deck",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "Cross-water gallery 3 walking deck",
+      "old": "Continuous bank lane 1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "Cross-water gallery 3 walking deck",
+      "old": "Grouped riparian shrub.095",
+      "surface_pairs": 15
+    },
+    {
+      "new": "Cross-water gallery 3 grounded post",
+      "old": "Shared waterside landing 0.743",
+      "surface_pairs": 12
+    },
+    {
+      "new": "Cross-water gallery 3 grounded post.001",
+      "old": "Shared waterside landing 0.743",
+      "surface_pairs": 12
+    },
+    {
+      "new": "Shoulder grove 3 rooted trunk.001",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 8
+    },
+    {
+      "new": "Shoulder grove 3 rooted trunk.002",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 6
+    },
+    {
+      "new": "Shoulder grove 3 rooted trunk.003",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 8
+    },
+    {
+      "new": "Shoulder grove 3 rooted trunk.004",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 8
+    },
+    {
+      "new": "Shoulder grove 3 rooted undergrowth.002",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 5
+    },
+    {
+      "new": "Shoulder grove 3 rooted undergrowth.003",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 24
+    },
+    {
+      "new": "Shoulder grove 3 embedded stone.001",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 15
+    },
+    {
+      "new": "Shoulder grove 3 rooted undergrowth.004",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 15
+    },
+    {
+      "new": "Shoulder grove 3 rooted undergrowth.005",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 13
+    },
+    {
+      "new": "Shoulder grove 3 rooted undergrowth.011",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 20
+    },
+    {
+      "new": "Saddle lookout grounded access step",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 8
+    },
+    {
+      "new": "Saddle lookout grounded access step.001",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "Saddle lookout grounded access step.002",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "Saddle lookout grounded access step.003",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "Saddle lookout grounded access step.004",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 4
+    }
+  ],
+  "old_support_ground_changes": [
+    {
+      "name": "H1 upper gallery edge rail.001",
+      "examples": [
+        {
+          "point": [
+            -12.156403541564941,
+            589.189208984375,
+            111.88021850585938
+          ],
+          "old_ground": 104.8819580078125,
+          "new_ground": 104.18161010742188,
+          "new_bottom_gap_m": 7.6986083984375,
+          "ground_lowering_m": 0.700347900390625
+        },
+        {
+          "point": [
+            -12.18311882019043,
+            589.17529296875,
+            111.88021850585938
+          ],
+          "old_ground": 104.85525512695312,
+          "new_ground": 104.15646362304688,
+          "new_bottom_gap_m": 7.7237548828125,
+          "ground_lowering_m": 0.69879150390625
+        },
+        {
+          "point": [
+            -12.129688262939453,
+            589.2030639648438,
+            111.88021850585938
+          ],
+          "old_ground": 104.90859985351562,
+          "new_ground": 104.20672607421875,
+          "new_bottom_gap_m": 7.673492431640625,
+          "ground_lowering_m": 0.701873779296875
+        }
+      ]
+    },
+    {
+      "name": "H3 upper gallery edge rail",
+      "examples": [
+        {
+          "point": [
+            72.73017883300781,
+            228.19918823242188,
+            79.59576416015625
+          ],
+          "old_ground": 66.45355224609375,
+          "new_ground": 66.3360595703125,
+          "new_bottom_gap_m": 13.25970458984375,
+          "ground_lowering_m": 0.11749267578125
+        },
+        {
+          "point": [
+            72.71282196044922,
+            228.22425842285156,
+            79.59576416015625
+          ],
+          "old_ground": 66.4305419921875,
+          "new_ground": 66.31683349609375,
+          "new_bottom_gap_m": 13.2789306640625,
+          "ground_lowering_m": 0.11370849609375
+        },
+        {
+          "point": [
+            72.74752807617188,
+            228.17413330078125,
+            79.59576416015625
+          ],
+          "old_ground": 66.4765625,
+          "new_ground": 66.3553466796875,
+          "new_bottom_gap_m": 13.24041748046875,
+          "ground_lowering_m": 0.1212158203125
+        }
+      ]
+    },
+    {
+      "name": "H3 upper gallery edge rail.001",
+      "examples": [
+        {
+          "point": [
+            74.05430603027344,
+            226.2608642578125,
+            79.59576416015625
+          ],
+          "old_ground": 68.21258544921875,
+          "new_ground": 67.751708984375,
+          "new_bottom_gap_m": 11.84405517578125,
+          "ground_lowering_m": 0.46087646484375
+        },
+        {
+          "point": [
+            74.03722381591797,
+            226.28619384765625,
+            79.59576416015625
+          ],
+          "old_ground": 68.18988037109375,
+          "new_ground": 67.73382568359375,
+          "new_bottom_gap_m": 11.8619384765625,
+          "ground_lowering_m": 0.4560546875
+        },
+        {
+          "point": [
+            74.0713882446289,
+            226.23553466796875,
+            79.59576416015625
+          ],
+          "old_ground": 68.23541259765625,
+          "new_ground": 67.76959228515625,
+          "new_bottom_gap_m": 11.826171875,
+          "ground_lowering_m": 0.4658203125
+        }
+      ]
+    },
+    {
+      "name": "H1 upper gallery",
+      "examples": [
+        {
+          "point": [
+            -13.178004264831543,
+            588.6492919921875,
+            110.55650329589844
+          ],
+          "old_ground": 103.85546875,
+          "new_ground": 103.42575073242188,
+          "new_bottom_gap_m": 7.1307525634765625,
+          "ground_lowering_m": 0.429718017578125
+        },
+        {
+          "point": [
+            -14.199604988098145,
+            588.1094360351562,
+            110.55650329589844
+          ],
+          "old_ground": 102.85287475585938,
+          "new_ground": 102.49142456054688,
+          "new_bottom_gap_m": 8.065078735351562,
+          "ground_lowering_m": 0.3614501953125
+        },
+        {
+          "point": [
+            -12.156403541564941,
+            589.189208984375,
+            110.55650329589844
+          ],
+          "old_ground": 104.8819580078125,
+          "new_ground": 104.18161010742188,
+          "new_bottom_gap_m": 6.3748931884765625,
+          "ground_lowering_m": 0.700347900390625
+        }
+      ]
+    },
+    {
+      "name": "H3 upper gallery",
+      "examples": [
+        {
+          "point": [
+            73.39224243164062,
+            227.23001098632812,
+            78.27204895019531
+          ],
+          "old_ground": 67.33502197265625,
+          "new_ground": 67.06134033203125,
+          "new_bottom_gap_m": 11.210708618164062,
+          "ground_lowering_m": 0.273681640625
+        },
+        {
+          "point": [
+            72.73017883300781,
+            228.19918823242188,
+            78.27204895019531
+          ],
+          "old_ground": 66.45355224609375,
+          "new_ground": 66.3360595703125,
+          "new_bottom_gap_m": 11.935989379882812,
+          "ground_lowering_m": 0.11749267578125
+        },
+        {
+          "point": [
+            74.05430603027344,
+            226.2608642578125,
+            78.27204895019531
+          ],
+          "old_ground": 68.21258544921875,
+          "new_ground": 67.751708984375,
+          "new_bottom_gap_m": 10.520339965820312,
+          "ground_lowering_m": 0.46087646484375
+        }
+      ]
+    },
+    {
+      "name": "H1 upper gallery edge rail",
+      "examples": [
+        {
+          "point": [
+            -14.199604988098145,
+            588.1094360351562,
+            111.88021850585938
+          ],
+          "old_ground": 102.85287475585938,
+          "new_ground": 102.49142456054688,
+          "new_bottom_gap_m": 9.3887939453125,
+          "ground_lowering_m": 0.3614501953125
+        },
+        {
+          "point": [
+            -14.226000785827637,
+            588.0952758789062,
+            111.88021850585938
+          ],
+          "old_ground": 102.82705688476562,
+          "new_ground": 102.46392822265625,
+          "new_bottom_gap_m": 9.416290283203125,
+          "ground_lowering_m": 0.363128662109375
+        },
+        {
+          "point": [
+            -14.173209190368652,
+            588.1235961914062,
+            111.88021850585938
+          ],
+          "old_ground": 102.87860107421875,
+          "new_ground": 102.5189208984375,
+          "new_bottom_gap_m": 9.361297607421875,
+          "ground_lowering_m": 0.35968017578125
+        }
+      ]
+    }
+  ],
+  "new_bottom_support_issues": [],
+  "motion": {
+    "max_step_m": 2.5873069136406226,
+    "max_step_from_frame": 1070,
+    "max_acceleration_m_s2": 37.03603132260423,
+    "max_rotation_deg_frame": 2.6753137992885043,
+    "max_rotation_from_frame": 44,
+    "saved_json_position_max_abs": 3.049473332339403e-05,
+    "saved_json_quaternion_max_abs": 2.9788433275612647e-08
+  },
+  "scope": "CPU saved scene only. 27 offset sampled segment sweeps, not full continuous body volume. Surface pairs and bottom sampling require interpretation; visuals not viewed.",
+  "old_bank_new_structure_findings": [
+    {
+      "road": "Continuous bank lane -1",
+      "new_line_blockers": {
+        "Cross-water gallery 1 walking deck": {
+          "point": [
+            -143.68106079101562,
+            598.4130249023438,
+            96.61599731445312
+          ],
+          "height": 0.15,
+          "lateral_fraction": 0.3333333333333333
+        },
+        "Cross-water gallery 3 walking deck": {
+          "point": [
+            169.14869689941406,
+            -282.0745544433594,
+            38.68564224243164
+          ],
+          "height": 0.15,
+          "lateral_fraction": 0.3333333333333333
+        }
+      },
+      "new_top_above_road_examples": [
+        {
+          "object": "Cross-water gallery 1 walking deck",
+          "point": [
+            -144.52818298339844,
+            599.1221923828125,
+            96.61599731445312
+          ],
+          "above_old_road_m": 0.0647735595703125,
+          "lateral_fraction": 0.3333333333333333
+        },
+        {
+          "object": "G1 Cloud-entry garden grounded entrance step.062",
+          "point": [
+            -131.805419921875,
+            588.5538940429688,
+            95.18706512451172
+          ],
+          "above_old_road_m": 0.07297515869140625,
+          "lateral_fraction": 0.3333333333333333
+        },
+        {
+          "object": "Cross-water gallery 2 walking deck",
+          "point": [
+            -24.949142456054688,
+            224.07354736328125,
+            52.20404052734375
+          ],
+          "above_old_road_m": 0.06312942504882812,
+          "lateral_fraction": 0.3333333333333333
+        },
+        {
+          "object": "Cross-water gallery 3 walking deck",
+          "point": [
+            168.21763610839844,
+            -281.4709167480469,
+            38.68564224243164
+          ],
+          "above_old_road_m": 0.0780181884765625,
+          "lateral_fraction": 0.3333333333333333
+        }
+      ]
+    },
+    {
+      "road": "Continuous bank lane 1",
+      "new_line_blockers": {
+        "Cross-water gallery 1 walking deck": {
+          "point": [
+            -131.25770568847656,
+            612.8911743164062,
+            96.61599731445312
+          ],
+          "height": 0.15,
+          "lateral_fraction": 0.3333333333333333
+        },
+        "Cross-water gallery 3 walking deck": {
+          "point": [
+            181.82948303222656,
+            -263.2527160644531,
+            38.68564224243164
+          ],
+          "height": 0.15,
+          "lateral_fraction": 0.3333333333333333
+        }
+      },
+      "new_top_above_road_examples": [
+        {
+          "object": "Cross-water gallery 1 walking deck",
+          "point": [
+            -132.0011444091797,
+            613.5518188476562,
+            96.61599731445312
+          ],
+          "above_old_road_m": 0.071014404296875,
+          "lateral_fraction": 0.3333333333333333
+        },
+        {
+          "object": "Cross-water gallery 2 walking deck",
+          "point": [
+            -9.334335327148438,
+            211.15802001953125,
+            52.20404052734375
+          ],
+          "above_old_road_m": 0.06339263916015625,
+          "lateral_fraction": 0.3333333333333333
+        },
+        {
+          "object": "Cross-water gallery 3 walking deck",
+          "point": [
+            180.80145263671875,
+            -262.53448486328125,
+            38.68564224243164
+          ],
+          "above_old_road_m": 0.0696563720703125,
+          "lateral_fraction": 0.3333333333333333
+        }
+      ]
+    }
+  ],
+  "garden_entry_actual_checks": [
+    {
+      "id": "G1 Cloud-entry garden",
+      "combined_floor_missing_examples": [],
+      "terrain_cover_examples": [],
+      "headroom": {},
+      "max_adjacent_up_m": 0,
+      "max_adjacent_down_m": -0.11529541015625,
+      "ends": {
+        "garden": [
+          -143.85119198917758,
+          567.61561539661,
+          96.68595092773438
+        ],
+        "old_bank": [
+          -132.02628383204726,
+          588.9437758683473,
+          95.1640060105184
+        ]
+      }
+    },
+    {
+      "id": "G2 Hidden-water garden",
+      "combined_floor_missing_examples": [],
+      "terrain_cover_examples": [
+        {
+          "point": [
+            16.328589659996712,
+            354.365528541982,
+            66.72888946533203
+          ],
+          "ground_above_m": 0.06121063232421875
+        },
+        {
+          "point": [
+            16.348660394222062,
+            354.3803610614685,
+            66.72888946533203
+          ],
+          "ground_above_m": 0.06493377685546875
+        },
+        {
+          "point": [
+            16.368731128447408,
+            354.3951935809549,
+            66.72888946533203
+          ],
+          "ground_above_m": 0.06871795654296875
+        },
+        {
+          "point": [
+            16.388801862672757,
+            354.4100261004414,
+            66.72888946533203
+          ],
+          "ground_above_m": 0.07244110107421875
+        },
+        {
+          "point": [
+            16.408872596898107,
+            354.4248586199279,
+            66.72888946533203
+          ],
+          "ground_above_m": 0.07610321044921875
+        },
+        {
+          "point": [
+            16.428943331123456,
+            354.4396911394143,
+            66.72888946533203
+          ],
+          "ground_above_m": 0.07988739013671875
+        },
+        {
+          "point": [
+            16.449014065348802,
+            354.4545236589008,
+            66.72888946533203
+          ],
+          "ground_above_m": 0.08361053466796875
+        },
+        {
+          "point": [
+            16.46908479957415,
+            354.4693561783873,
+            66.72888946533203
+          ],
+          "ground_above_m": 0.08727264404296875
+        }
+      ],
+      "headroom": {
+        "Continuous stable cloud terrain / river bed and inhabited slopes": {
+          "point": [
+            17.33212661743164,
+            355.1071472167969,
+            66.98255920410156
+          ],
+          "height": 0.25366973876953125
+        },
+        "Rooted woodland understory.131": {
+          "point": [
+            20.850738525390625,
+            358.70220947265625,
+            67.50806427001953
+          ],
+          "height": 0.7791748046875
+        }
+      },
+      "max_adjacent_up_m": 0.08576202392578125,
+      "max_adjacent_down_m": -0.0823516845703125,
+      "ends": {
+        "garden": [
+          14.056010924090694,
+          353.68081566148567,
+          66.72888916015626
+        ],
+        "old_bank": [
+          40.959151723593294,
+          353.8309526458936,
+          65.41124771015673
+        ]
+      }
+    }
+  ],
+  "gallery_ramp_actual_grades": [
+    {
+      "name": "Cross-water gallery 1 landward ramp",
+      "start": [
+        -148.26885986328125,
+        595.4758911132812,
+        96.61599731445312
+      ],
+      "end": [
+        -150.88059997558594,
+        592.4462280273438,
+        96.93814086914062
+      ],
+      "grade_percent": 8.053577423095703
+    },
+    {
+      "name": "Cross-water gallery 1 landward ramp.001",
+      "start": [
+        -127.94742584228516,
+        619.0490112304688,
+        96.61599731445312
+      ],
+      "end": [
+        -125.33567810058594,
+        622.0786743164062,
+        97.06353759765625
+      ],
+      "grade_percent": 11.188477516174316
+    },
+    {
+      "name": "Cross-water gallery 2 landward ramp",
+      "start": [
+        -27.238967895507812,
+        229.30947875976562,
+        52.20404052734375
+      ],
+      "end": [
+        -30.319927215576172,
+        231.86050415039062,
+        52.54653549194336
+      ],
+      "grade_percent": 8.562362670898438
+    },
+    {
+      "name": "Cross-water gallery 2 landward ramp.001",
+      "start": [
+        -2.546022653579712,
+        208.8638916015625,
+        52.20404052734375
+      ],
+      "end": [
+        0.534938633441925,
+        206.3128662109375,
+        52.61477279663086
+      ],
+      "grade_percent": 10.268289566040039
+    },
+    {
+      "name": "Cross-water gallery 3 landward ramp",
+      "start": [
+        164.70166015625,
+        -285.3798522949219,
+        38.68564224243164
+      ],
+      "end": [
+        162.47213745117188,
+        -288.70086669921875,
+        38.959529876708984
+      ],
+      "grade_percent": 6.84721040725708
+    },
+    {
+      "name": "Cross-water gallery 3 landward ramp.001",
+      "start": [
+        184.0736846923828,
+        -256.523681640625,
+        38.68564224243164
+      ],
+      "end": [
+        186.30319213867188,
+        -253.20263671875,
+        39.407039642333984
+      ],
+      "grade_percent": 18.034912109375
+    }
+  ]
+}

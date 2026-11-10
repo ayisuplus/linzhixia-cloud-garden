@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-11",
+  "generator": "built-in image_gen",
+  "assets": [
+    {
+      "file": "知夏-校服比例03-短衫与高腰裙衔接.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "8e2f14897cfb7754ca3a0ef7d5d465563f2b3c226041e46b6115e093f81013a4",
+      "status": "superseded_high_waist"
+    },
+    {
+      "file": "知夏-面容身形02-清秀柔椭圆脸与修长比例.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "19ab68373fe4d68012e804461d0ea692d7d605a8b3e35c4aebfd043388fd39da",
+      "status": "superseded_waist_tailoring"
+    },
+    {
+      "file": "知夏-校服比例04-自然腰线与略短裙摆.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "01f4d429786c0c8db32f5b304578cc0da74d189c998c9a2473b970bf7204f0a0",
+      "status": "superseded_plain_shoes_weak_waist_silhouette"
+    },
+    {
+      "file": "知夏-校服比例05-清晰收腰与鞋背花叶绣.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "05f27acdc2020742f1f6706547b9296636c8828beab5b10433ec98571063ea6d",
+      "status": "author_adopted_uniform_design"
+    }
+  ],
+  "nodes": {
+    "proportion02": [
+      "e12b4975-e8be-41e8-8494-c3175436436d",
+      "e2e58655-6df8-4e21-8c34-e4ce4e88cd7f"
+    ],
+    "waist03": [
+      "3e7a99dd-74b8-4f8c-8af7-9c518257698d",
+      "2d5b24f1-45e8-48c6-a607-d6e9dede0d4b"
+    ],
+    "waist04": [
+      "8db98225-9d21-4d2d-aaf1-aa04362c6258",
+      "36f82ea4-45d3-4a26-9fcb-9a65fdd87752"
+    ],
+    "waist05": [
+      "5d94e9dc-ab50-4359-a50b-4553c109fb8e",
+      "345cbfd2-bd6c-4615-928b-da53122bd4de"
+    ]
+  },
+  "sources": {
+    "proportion02": [
+      "../知夏校服正式设定-20261011-v1.0/知夏-穿搭拆解-v1.1-侧襟修正.png",
+      "../知夏面容调整-20261011-v0.1/知夏-面容01-柔和短圆脸头肩.png"
+    ],
+    "waist03": [
+      "知夏-面容身形02-清秀柔椭圆脸与修长比例.png"
+    ],
+    "waist04": [
+      "知夏-校服比例03-短衫与高腰裙衔接.png"
+    ],
+    "waist05": [
+      "知夏-校服比例04-自然腰线与略短裙摆.png"
+    ]
+  },
+  "generated_source_files": [
+    "exec-9e7df3d1-51db-41c2-8aba-6e1680160ab0.png",
+    "exec-1d7dfe2b-5c05-4ac7-86b7-ee2a8890e9a6.png",
+    "exec-86599da3-b745-420c-915e-facade21475d.png",
+    "exec-7d7cf358-872b-4313-9e31-9bc3c537752d.png"
+  ],
+  "checks": {
+    "png_decode": true,
+    "visual_review": true,
+    "canvas_paths_readback": true,
+    "author_adopted": true,
+    "three_boards_synced": true
+  },
+  "adopted_design": "知夏-校服比例05-清晰收腰与鞋背花叶绣.png",
+  "current_board_package": "../知夏校服定款三件套-20261011-v2.0/README.md"
+}

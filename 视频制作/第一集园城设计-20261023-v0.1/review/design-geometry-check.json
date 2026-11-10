@@ -1,0 +1,127 @@
+{
+  "source": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\garden-city-design-v01.blend",
+  "source_hashes_before": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集全程快飞-20261023-v0.2\\episode1-full-route-58s-v02.blend": "541cd2ebf5ca564eaa8906ad46af4b05ef625b86f0a8f895ac42d043b8ab265a",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\garden-city-design-v01.blend": "a1100f3ea6b4c3f4b094d41fef04ee756f7e92047792ac9b49f1dc0b824aea54"
+  },
+  "source_hashes_after": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集全程快飞-20261023-v0.2\\episode1-full-route-58s-v02.blend": "541cd2ebf5ca564eaa8906ad46af4b05ef625b86f0a8f895ac42d043b8ab265a",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\garden-city-design-v01.blend": "a1100f3ea6b4c3f4b094d41fef04ee756f7e92047792ac9b49f1dc0b824aea54"
+  },
+  "static_comparison": {
+    "old_object_count": 29584,
+    "new_object_count": 34161,
+    "removed_originals": [],
+    "changed_original_count": 14634,
+    "unexpected_changed_originals": [],
+    "material_changes": [],
+    "added_materials": []
+  },
+  "new_walk_segment_count": 171,
+  "new_walk_hits": [],
+  "plant_structure_triangle_intersections": [
+    {
+      "plant_or_rock": "Academy ink pond bank rocks weathered garden stone",
+      "structure": "Academy ink pond water"
+    },
+    {
+      "plant_or_rock": "Academy ink pond bank rocks weathered garden stone.001",
+      "structure": "Academy ink pond water"
+    },
+    {
+      "plant_or_rock": "Academy ink pond bank rocks weathered garden stone.002",
+      "structure": "Academy ink pond water"
+    },
+    {
+      "plant_or_rock": "Academy ink pond bank rocks weathered garden stone.003",
+      "structure": "Academy ink pond water"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank rocks weathered garden stone",
+      "structure": "Upper moon pool water"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank rocks weathered garden stone.001",
+      "structure": "Upper moon pool water"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank rocks weathered garden stone.002",
+      "structure": "Upper moon pool water"
+    },
+    {
+      "plant_or_rock": "Upper moon pool bank rocks weathered garden stone.003",
+      "structure": "Upper moon pool water"
+    },
+    {
+      "plant_or_rock": "Middle garden pond bank rocks weathered garden stone",
+      "structure": "Middle garden pond water"
+    },
+    {
+      "plant_or_rock": "Middle garden pond bank rocks weathered garden stone.001",
+      "structure": "Middle garden pond water"
+    },
+    {
+      "plant_or_rock": "Middle garden pond bank rocks weathered garden stone.002",
+      "structure": "Middle garden pond water"
+    },
+    {
+      "plant_or_rock": "Middle garden pond bank rocks weathered garden stone.003",
+      "structure": "Middle garden pond water"
+    },
+    {
+      "plant_or_rock": "Quiet garden pond bank rocks weathered garden stone",
+      "structure": "Quiet garden pond water"
+    },
+    {
+      "plant_or_rock": "Quiet garden pond bank rocks weathered garden stone.001",
+      "structure": "Quiet garden pond water"
+    },
+    {
+      "plant_or_rock": "Quiet garden pond bank rocks weathered garden stone.002",
+      "structure": "Quiet garden pond water"
+    },
+    {
+      "plant_or_rock": "Quiet garden pond bank rocks weathered garden stone.003",
+      "structure": "Quiet garden pond water"
+    },
+    {
+      "plant_or_rock": "Lower east pond bank rocks weathered garden stone",
+      "structure": "Lower east pond water"
+    },
+    {
+      "plant_or_rock": "Lower east pond bank rocks weathered garden stone.001",
+      "structure": "Lower east pond water"
+    },
+    {
+      "plant_or_rock": "Lower east pond bank rocks weathered garden stone.002",
+      "structure": "Lower east pond water"
+    },
+    {
+      "plant_or_rock": "Lower east pond bank rocks weathered garden stone.003",
+      "structure": "Lower east pond water"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank rocks weathered garden stone",
+      "structure": "Lower west pond water"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank rocks weathered garden stone.001",
+      "structure": "Lower west pond water"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank rocks weathered garden stone.002",
+      "structure": "Lower west pond water"
+    },
+    {
+      "plant_or_rock": "Lower west pond bank rocks weathered garden stone.003",
+      "structure": "Lower west pond water"
+    }
+  ],
+  "pond_triangle_intersections": [],
+  "visible_old_court_residuals": [],
+  "limitations": [
+    "Walk checks cover newly added local walk center corridors using 5 lateral and 3 height tracks; not all-world navigation.",
+    "Triangle overlap detects intersecting surfaces, not full containment; some listed planting-bank contacts are intentional.",
+    "Environment comparisons exclude carrier collections and permit explicitly listed hides; no full video render performed."
+  ]
+}

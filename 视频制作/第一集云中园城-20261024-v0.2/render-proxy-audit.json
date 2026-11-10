@@ -1,0 +1,12 @@
+{
+  "source_instance_count": 41667,
+  "batched_vertices": 2726504,
+  "batched_polygons": 2471033,
+  "batches": 41,
+  "objects_after": 223,
+  "coordinate_attributes": [
+    "source_generated",
+    "source_object"
+  ],
+  "scope": "render derivative only; authoring source untouched; same-frame image comparison required"
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-15",
+  "tool": "image_gen.imagegen",
+  "calls": 4,
+  "images": [
+    {
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-8553289f-dcab-4025-b52a-7486a826c101.png",
+      "output": "01-K02-P1-半醒偷看.png",
+      "reference": "视频制作/第一幕晨起-K02第一拳-20261015-v0.1/E01-A-K02-P1-第一拳碰头01.png",
+      "prompt": "prompt-01.txt",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "f7d21e0492dfbb49d08737a161fbcf93a7a35a03407b1bde6a49e166888d8fc1",
+      "status": "表情修订候选待审"
+    },
+    {
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-b83c5274-cd43-42c8-9bfe-2b647af4f6a8.png",
+      "output": "02-K02-P2-受拳错愕.png",
+      "reference": "视频制作/第一幕晨起-K02第二拳-20261015-v0.1/E01-A-K02-P2-举汤圆挡拳01.png",
+      "prompt": "prompt-02.txt",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "b214d85f690de3a43df02384673d06aaf63caec305024c1aa4e892d1b7b6c067",
+      "status": "表情修订候选待审"
+    },
+    {
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-e391b658-e914-4d49-8a97-2fede0d8016c.png",
+      "output": "03a-K02-STOP-半眯视线偏右-历史.png",
+      "reference": "视频制作/第一幕晨起-K02第三拳-20261015-v0.1/E01-A-K02-STOP-第三拳按停01.png",
+      "prompt": "prompt-03.txt",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "13c74668225ccdc311a1327ed89c21a5ef3a699dc6c300b001c93fe4c6684579",
+      "status": "历史视线试稿"
+    },
+    {
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-01f3c88e-ad32-442d-850c-323bcc352d2d.png",
+      "output": "03-K02-STOP-侧眼埋怨.png",
+      "reference": "03a-K02-STOP-半眯视线偏右-历史.png",
+      "prompt": "prompt-03b.txt",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "60102d529e95248787619f69ef22e7424f5151baa646feb06acc6bcb9687f862",
+      "status": "表情修订候选待审"
+    }
+  ]
+}

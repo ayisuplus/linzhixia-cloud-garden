@@ -1,0 +1,116 @@
+{
+  "status": "spatial candidate",
+  "review": "Independent review passed; final art and moving-camera review pending",
+  "files": [
+    {
+      "path": "camera-sheet.jpg",
+      "bytes": 431214,
+      "sha256": "e3c1a1e7f76a982bda4e2183af2dbb65ec12e2474f630cb5277d3e09559ed94d"
+    },
+    {
+      "path": "E01-CASCADE.png",
+      "bytes": 1048248,
+      "sha256": "2d4e328b4ae7063c65c58314958308e4fbd25d0e9a611471e11378485d1ce89e"
+    },
+    {
+      "path": "E01-DANCE.png",
+      "bytes": 940619,
+      "sha256": "5692371f92efcbb4e304cc70e3f709c7b0e7a99c68f8917a8d9b0ab5c7dc2267"
+    },
+    {
+      "path": "E01-DOCK.png",
+      "bytes": 1086287,
+      "sha256": "e33f228d50645c394e64b4ae8502f422dc19754da4af8beda10d16a05cc07fb1"
+    },
+    {
+      "path": "E01-DORM.png",
+      "bytes": 1084068,
+      "sha256": "b2cae8bbd1d3bf42a5d74a61cc8de033294eba4f355d3fbc404660b5d4e6cfdc"
+    },
+    {
+      "path": "E01-HOME.png",
+      "bytes": 1398792,
+      "sha256": "dfa825292b323c8b9e7c8935f12d1c4162a02c2c934a0d55137b1f2c0220a314"
+    },
+    {
+      "path": "E01-LIVING.png",
+      "bytes": 1136239,
+      "sha256": "0eb977b194ccbe58cbcda11b79cc7c3abd020b339aea05e10458df3a79ef0e3b"
+    },
+    {
+      "path": "E01-NIGHT.png",
+      "bytes": 1168102,
+      "sha256": "a345cb1d990cc7d69be6797e1cbf4a484a9ee04e28888e702ff446761e402315"
+    },
+    {
+      "path": "E01-OV.png",
+      "bytes": 977853,
+      "sha256": "1ea0c9ed30c7cc64f6a22cf2b33b0a38ed89bd2df1df39bb90f7fb3671010383"
+    },
+    {
+      "path": "E01-REVERSE.png",
+      "bytes": 1020629,
+      "sha256": "254ccb401ca5651ae909718d8ee57bffeba2b4a86d91bed2e2a01a518b21e85b"
+    },
+    {
+      "path": "E01-ROAD.png",
+      "bytes": 923868,
+      "sha256": "9774e347d130630dbffe77640304926d6487e073728a3f55c26207ea7e36426b"
+    },
+    {
+      "path": "E01-SCHOOL.png",
+      "bytes": 1050450,
+      "sha256": "859f39faf2d5db7f76c1b9641f42e173daf547489812d433dfd5b99a4862acac"
+    },
+    {
+      "path": "E01-SEND.png",
+      "bytes": 1065727,
+      "sha256": "0e9b014b73d0360690c47b1e430981c4bb5ef4a85bb7e60ae62619f2f2c1f200"
+    },
+    {
+      "path": "E01-STAGE.png",
+      "bytes": 933794,
+      "sha256": "7addcbe85fac919b0ebb2cca7bd1463d5bb712fb40ecd813d0cc3a726972ff8d"
+    },
+    {
+      "path": "E01-TRIAL.png",
+      "bytes": 1044190,
+      "sha256": "f7880fc57ed2ec7738d00ac0ec816a1dd422ccecc13905e1d8ec52d1b76d67bd"
+    },
+    {
+      "path": "E01-WORK.png",
+      "bytes": 1065266,
+      "sha256": "d55ddf6dacb53ca8baacd9d0016475ebc68a3e3f28d4170cfdddecef85dced6d"
+    },
+    {
+      "path": "episode-layout.json",
+      "bytes": 13417,
+      "sha256": "030fbbcdc12eef4166d1f1d9668bd6643add16ea368996150918d225e98d81cf"
+    },
+    {
+      "path": "episode1-connected-sets-v01.blend",
+      "bytes": 6332633,
+      "sha256": "36982967793cdbd2181a633ad8757860424982df5719e26c5da1911992603538"
+    },
+    {
+      "path": "plan.svg",
+      "bytes": 4991,
+      "sha256": "066b93ce858e38d2eded2f0e2f3a3603358be9ff0e4bc64e8b73f9b8c6b06f32"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4660,
+      "sha256": "55173b766b25ebf9240a78404ba96ba855535021adc886117a32e219d3e20e91"
+    },
+    {
+      "path": "review.html",
+      "bytes": 5059,
+      "sha256": "d9e332a283dfa12e4afac6dcd5550848929aa28d3ec22393af8b9c0851d18293"
+    },
+    {
+      "path": "spatial-checks.json",
+      "bytes": 2334,
+      "sha256": "1ea3ed9a25238492bf67bfa99c2b5bacf17fb7b8ffdc643f24862b2717209de2"
+    }
+  ]
+}

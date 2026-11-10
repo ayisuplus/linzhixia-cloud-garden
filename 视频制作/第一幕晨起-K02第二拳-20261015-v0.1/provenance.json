@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-15",
+  "tool": "image_gen.imagegen",
+  "calls": 1,
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-7b5ae9d2-a5f6-42dd-9465-a13f7e7d40b0.png",
+  "output": "E01-A-K02-P2-举汤圆挡拳01.png",
+  "reference": "视频制作/第一幕晨起-K02第一拳-20261015-v0.1/E01-A-K02-P1-第一拳碰头01.png",
+  "size": [
+    1672,
+    941
+  ],
+  "sha256": "9fd2ad0f68f293dae79b47f8a29c63149d37a50308cf784a53e7d6e591fce1fc",
+  "status": "候选待审",
+  "prompt": "prompt.txt",
+  "unusedPrompt": "prompt-unexecuted-shoulder.txt (未调用；生成前被作者举到脸前方案替代)"
+}

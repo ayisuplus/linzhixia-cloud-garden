@@ -1,0 +1,53 @@
+{
+  "hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集池涧水巷-20261024-v0.1\\pond-lane-route-58s-v13.blend1": "e03be1190d66bff0e9a8006ef455657e2f4c8b38bd3e545d7368e94479fb5af1",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集池涧水巷-20261024-v0.1\\pond-lane-route-58s-v13.blend": "3ee38714b93ef13fb598afcdc0618c6a1b3e94beebae7c49f7a32d983254894c",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集池涧水巷-20261024-v0.1\\route-poses.json": "328af962082c29fdbe5de39b56448fbdbf9f6a7d301bd025e5fdaa6eea87fe7c",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集池涧水巷-20261024-v0.1\\water-design-data.json": "c303da37c9e6cd2226730f9c7b2f6c11a25315ba8ba1fde93fb28e4f991822e3",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集池涧水巷-v0.1\\build.py": "a5d6d9c72ae14aa4e4630f063e955cf382453cf872d89d935f2593397b010665",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集池涧水巷-v0.1\\water_layout.py": "d988520cfb22b777552a1d52c42a904bfd74f680da221a4245517b50b4278280"
+  },
+  "stable": true,
+  "reference_backup_sha256": "e03be1190d66bff0e9a8006ef455657e2f4c8b38bd3e545d7368e94479fb5af1",
+  "non_ground_object_changes": [],
+  "material_changes": [],
+  "ground_topology_equal": true,
+  "ground_xy_max_abs": 0.0,
+  "ground_changed_vertices": 213,
+  "ground_z_max_increase_m": 0.0,
+  "ground_z_max_decrease_m": -7.385772705078125,
+  "ground_change_bounds": {
+    "min": [
+      237.5,
+      -437.5,
+      23.57000160217285
+    ],
+    "max": [
+      285.0,
+      -390.0,
+      23.57000160217285
+    ]
+  },
+  "saved_all1392_pose_max_abs": 0.0,
+  "poses_json_unchanged": true,
+  "lower_lane_actual_paving_check": {
+    "samples": 3569,
+    "step_m": 0.5,
+    "missing_ground": 0,
+    "maximum_ground_above_top_m": -0.1298828125,
+    "worst_xyz_groundz": [
+      244.75245666503906,
+      -414.510498046875,
+      23.699951171875,
+      23.570068359375
+    ]
+  },
+  "ground_color": {
+    "domain": "POINT",
+    "data_type": "FLOAT_COLOR",
+    "count": 98034,
+    "finite": true,
+    "black_count": 0
+  },
+  "reuse": "Static other objects/materials/1392 poses exact match audited backup; ground only lowered, retaining XY/topology. Prior flight and other static collision checks remain applicable, with target pad sampled again."
+}

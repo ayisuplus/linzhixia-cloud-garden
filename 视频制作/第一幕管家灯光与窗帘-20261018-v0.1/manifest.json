@@ -1,0 +1,443 @@
+{
+  "date": "2026-10-18",
+  "frames": [
+    {
+      "key": "open",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室-通廊遮光修订.png",
+      "label": "E01-A-000-闭帘暗室·通廊遮光修订",
+      "role": "opening",
+      "visible": "闭帘暗室全景，知夏抱汤圆熟睡，衣柜未送衣、桌边整齐，床边灯熄。 右侧通廊入口卷帘已降到底，阻断旁路日光。",
+      "limits": "暗室以弱轮廓可读为准，不要求纯黑；短窗帘和连续玻璃只确立外观，轨道运动未验证。 卷帘升降属视频计划；此图仅支持关闭终态。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e46be4c15e95e208cdcb90d9ce446d34c3ec54cbfdf7142b134c19072b6586ff",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/open-shade.txt",
+        "references": [
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-575bd6a8-87b9-448d-9a75-0f703fc3c9f9.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "clock",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-001-低光闹钟.png",
+      "label": "E01-A-001-低光闹钟",
+      "role": "action",
+      "visible": "闭帘低光中闹钟双臂伸出，床边暖灯亮起。",
+      "limits": "动作中段，不能当普通圆钟未伸臂的首帧；伸臂过程未制作。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "c0c32b33d596b97ca0b2eceae8b08f4fdb3f812e8a9861bc5837a0ad273b27b4",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/clock.txt",
+        "references": [
+          "视频制作/第一幕完整镜头包-20261016-v0.1/08-闹钟伸手.png",
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-cf88bafa-b699-4120-bad9-c5a70fc01501.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "sleep",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-002-闭帘熟睡.png",
+      "label": "E01-A-002-闭帘熟睡",
+      "role": "opening",
+      "visible": "知夏拥着汤圆熟睡，闭帘，床边低暖光，钟臂已伸出。",
+      "limits": "光线候选；钟臂长度、手臂轨迹须与三拳动态连续。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e65882aa66b413c39998ba09adf877914ef6ad6fb1b8a0c85f7eed49d84e13f2",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/sleep.txt",
+        "references": [
+          "视频制作/第一幕晨起-K02长手闹钟-20261015-v0.2/E01-A-K02-长手闹钟催醒前02.png",
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-2bba8947-402e-494e-b40e-370169653eba.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "punch1",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-003-低光第一拳.png",
+      "label": "E01-A-003-低光第一拳",
+      "role": "action",
+      "visible": "闭帘低光，钟拳轻碰额头，知夏仍闭眼，汤圆一眼半睁偷看。",
+      "limits": "只表达接触时刻；第一拳伸出、触碰、回弹与偷看节拍仍待视频。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "fa47b625723317d6de39aed0342b96ea500b4172f3dff3768a5ac26c9a040af9",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/punch1.txt",
+        "references": [
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/历史候选/E01-A-003-低光第一拳-双闭眼未用.png",
+          "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/01-K02-P1-半醒偷看.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-a1e643f9-13f3-4f39-9715-9c62a6a42ac4.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "punch2",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-004-低光第二拳.png",
+      "label": "E01-A-004-低光第二拳",
+      "role": "action",
+      "visible": "知夏举起汤圆挡在脸前，钟拳接触汤圆，低光闭帘。",
+      "limits": "动作中段；汤圆抬起、受击形变及落回衔接未制作。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "8f54e60cfa7e74fa291976e55e26e11e860a260f892ea5c60c571aa8c891ae06",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/punch2.txt",
+        "references": [
+          "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/02-第二拳-发夹统一.png",
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-002-闭帘熟睡.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-b0b3a2e4-4b3d-4ab5-9448-73879f3e5feb.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "punch3",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-005-低光第三拳.png",
+      "label": "E01-A-005-低光第三拳",
+      "role": "action",
+      "visible": "知夏伸手按住闹钟，汤圆在怀里看向闹钟，低光闭帘。",
+      "limits": "按钟瞬间不是初始帧；第三拳未击中、收臂过程须视频表现。",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "sha256": "98f0f531b4116c9d352f32b3668698931b807645816b532b8f5bc743d4d03c45",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/punch3.txt",
+        "references": [
+          "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/03-第三拳-发夹统一.png",
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-002-闭帘熟睡.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-968895e8-8435-4242-8b11-4b229b916141.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "sit",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-006-低光坐稳.png",
+      "label": "E01-A-006-低光坐稳",
+      "role": "ending",
+      "visible": "知夏困倦坐稳，帘闭，只有床边低光，钟已收臂。",
+      "limits": "坐起结束状态；检测声和坐起过程尚未制作。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e517173a446846893ba5114818c1c0aa821f00fb7f2950389fb17abc6272981b",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/sit.txt",
+        "references": [
+          "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/04-坐稳-发夹统一.png",
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-002-闭帘熟睡.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-de0c0866-1d96-4fac-bcd8-f5f78fc94856.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "support",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-闭帘托背.png",
+      "label": "E01-A-007-闭帘托背",
+      "role": "action",
+      "visible": "低光闭帘，高枕托背，被面光滑显像，玉件有提示弧。",
+      "limits": "被面仍有凝胶隆起与立体嘴感，尚非最终柔性织物；承托形变及玉璧提示未动态验证。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "a91eaea7c001f90738465c1aa8e5a6adf64c0def22d104c72278e3876fc896de",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/support.txt",
+        "references": [
+          "视频制作/第一幕智能镜与表情被子-20261017-v0.1/02-被角动态材质-显像态.png",
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-006-低光坐稳.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-fb01d380-d69a-4c49-aeb5-1837ecdaef5c.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "wake_mid",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-L-01-亮灯开厚帘.png",
+      "label": "E01-A-007-L-01-亮灯开厚帘",
+      "role": "action",
+      "visible": "房间局部灯点亮，厚帘部分收开，纱帘仍柔化窗外庭院；衣柜关闭，未送杯。",
+      "limits": "只显示中间状态，不证明逐盏先后；托背高度、被面表情与前镜有偏差，生成视频应以A007高枕承托为准；衣柜灯不够清晰。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "d4063b80919f4951c125c20a9314680665dd8705c54dfec5e5b9ea8d797145a2",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/wake_mid.txt",
+        "references": [
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室.png",
+          "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-014-全景窗喊停.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-10c15953-6234-49f6-9826-0a6d0383662f.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "wake_end",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-L-02-双帘全开.png",
+      "label": "E01-A-007-L-02-双帘全开",
+      "role": "ending",
+      "visible": "双帘收于两侧，连续玻璃显露原庭院，晨光入室，衣柜仍闭。",
+      "limits": "帘堆扎带只作固定收纳带，不增加手动系带动作；轨道/避让未验证，高枕仍需连续统一。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "24f3ccbec22f1f7cbfc1b171a45a63b53d57ae5f7e4382ea9d08c4bdf2dc3023",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/wake_end.txt",
+        "references": [
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-L-01-亮灯开厚帘.png",
+          "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-014-全景窗喊停.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-248b41da-ecf9-43fd-a53e-6b59b2daade4.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "busy",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-011-开帘忙碌.png",
+      "label": "E01-A-011-开帘忙碌",
+      "role": "action",
+      "visible": "全屋服务中，双帘侧收，窗内水巷已完成，衣服送出、杯盘到位。",
+      "limits": "继承旧全景小挂钩细节，机构仍以A009刚性直连三状态为准；口型、读数、枕高和织物转换待动态统一。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "bcd0755645dab378ab71b4515562d4d666ba3d4ae17b258b55cc663643ad5c07",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/busy.txt",
+        "references": [
+          "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-011-全景窗忙碌.png",
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-L-02-双帘全开.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-ae3e9705-ff98-46e6-949e-94465926ad6d.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "calendar",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-012-周末闹钟开启.png",
+      "label": "E01-A-012-周末闹钟开启",
+      "role": "interface",
+      "visible": "日历清楚显示周末、今日无事、宜休沐、闹钟已开启、暂停唤醒；开启开关琥珀色。",
+      "limits": "仅静态界面；保留卯时而不设日期，背景不作为窗景连续性母版，文字在视频后期稳定合成。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "b036e5733aacb75b34072079ceb3e2676d8045e426effe9828aa84a759c0d1d5",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/calendar.txt",
+        "references": [
+          "视频制作/第一幕智能日历-20261017-v0.1/E01-A-012-智能日历.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-594057c2-8292-4cec-a167-bb4dd4df621f.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "stop",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-014-喊停保留灯光.png",
+      "label": "E01-A-014-喊停保留灯光",
+      "role": "action",
+      "visible": "家具停在途中，水巷和开帘保持，暖灯与晨光仍在，知夏坐着缓下来。",
+      "limits": "闭口静态不表达整段对白；柜侧小眼尚在、旧挂钩未消除，提示退去和刚性直连须按动作稿统一。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "acd88964d8c0cff8aa545b504a12c306909006a92f78cfe77d89db4eb4dcc2b4",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/stop.txt",
+        "references": [
+          "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-014-全景窗喊停.png",
+          "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-011-全景窗忙碌.png",
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-L-02-双帘全开.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-d444c3aa-f1bf-4259-b182-e2e6b4dd495b.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "return",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-015-合帘躺回.png",
+      "label": "E01-A-015-合帘躺回",
+      "role": "action",
+      "visible": "知夏躺回低枕伸手找汤圆，尚未接触；帘逐渐合拢，床灯仍亮。",
+      "limits": "帘缝内竖线容易误读为窗格，不能作为玻璃结构依据；连续主窗无内分隔，合帘、降枕、关灯先后须动态验证。",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "sha256": "f899a8d2160074e4cd52575f1eaf1e9d43f95f431570a9b16422a434fb47678f",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/return.txt",
+        "references": [
+          "视频制作/第一幕四镜补帧-20261017-v0.1/E01-A-015-躺回伸手.png",
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-L-01-亮灯开厚帘.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-faae6f9c-62a8-458d-8afd-d8a7c01c3356.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "cuddle",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-016-床灯相拥.png",
+      "label": "E01-A-016-床灯相拥",
+      "role": "ending",
+      "visible": "知夏抱回汤圆、被子盖肩，窗帘关闭，仅床边灯柔和照亮相拥。",
+      "limits": "相拥结束候选；汤圆靠回和被子绕过手臂过程未制作，不提前熄床灯。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "57f7d5125f3e4f4a69be033c947b06763da893da4a8a47a67dae2a4be8e9c530",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/cuddle.txt",
+        "references": [
+          "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/06-相拥盖被-发夹统一.png",
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-015-合帘躺回.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-a5b857e4-a884-42b0-9e45-1f4788f2ed74.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    },
+    {
+      "key": "final",
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-016-L-最后熄灯-通廊遮光修订.png",
+      "label": "E01-A-016-L-最后熄灯·通廊遮光修订",
+      "role": "ending",
+      "visible": "全屋暗下来，床边灯已熄；衣柜仍开且衣服伸出、杯盘承杯、鞋错位，知夏相拥睡下。 右侧通廊入口卷帘已降到底，阻断旁路日光。",
+      "limits": "末状态不能当亮床灯首帧；旧挂钩与椅子精确停位仍待统一。房间仍留极弱轮廓，不做纯黑。 卷帘升降属视频计划；此图仅支持关闭终态。",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "df8c1697ca7d6fcd3b61fc588f462733f92d3b6e6c222466c701823918ba7388",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "date": "2026-10-18",
+        "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/final-shade.txt",
+        "references": [
+          "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-016-L-最后熄灯.png"
+        ],
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-d59d089c-bbd6-4cae-a5cb-87dff0b4ffe2.png",
+        "status": "candidate_not_author_approved"
+      },
+      "status": "候选待作者审阅"
+    }
+  ],
+  "history": [
+    {
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室.png",
+      "tool": "image_gen.imagegen",
+      "date": "2026-10-18",
+      "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/open.txt",
+      "references": [
+        "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-014-全景窗喊停.png",
+        "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/06-相拥盖被-发夹统一.png"
+      ],
+      "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-6a425bf0-5c5e-420b-8462-cfa101ed6657.png",
+      "status": "superseded_corridor_daylight_not_blocked"
+    },
+    {
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-016-L-最后熄灯.png",
+      "tool": "image_gen.imagegen",
+      "date": "2026-10-18",
+      "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/final.txt",
+      "references": [
+        "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-014-喊停保留灯光.png",
+        "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室.png"
+      ],
+      "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-57099822-9261-4022-8a08-2149b650622b.png",
+      "status": "superseded_corridor_daylight_not_blocked"
+    },
+    {
+      "path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/历史候选/E01-A-003-低光第一拳-双闭眼未用.png",
+      "tool": "image_gen.imagegen",
+      "date": "2026-10-18",
+      "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/punch1-rejected.txt",
+      "references": [
+        "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/01-K02-P1-半醒偷看.png",
+        "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-002-闭帘熟睡.png"
+      ],
+      "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-29cb1451-2c94-4b54-9223-0b8198561191.png",
+      "status": "rejected_robot_peek_lost"
+    }
+  ],
+  "video_produced": false,
+  "prior_atlas": "视频制作/第一幕关键帧图册-20261018-v1.8/atlas.json"
+}

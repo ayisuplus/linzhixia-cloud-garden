@@ -1,0 +1,7 @@
+{
+  "checked_frames": 1392,
+  "envelope_samples_per_frame": 27,
+  "inside_solid_frames": [],
+  "maximum_signed_field": -3.865000009536743,
+  "note": "Negative outside, positive inside. Grid resolution 7.5m; also checked against actual closed mesh using swept envelope rays."
+}

@@ -1,0 +1,19 @@
+{
+  "valid": true,
+  "shots": 21,
+  "budget_seconds": 115,
+  "state_frames": 8,
+  "assets": 120,
+  "html_pages": 3,
+  "local_links_checked": 772,
+  "ai_generations": 8,
+  "ai_raw_seconds": 126,
+  "edit_insert_seconds": 4,
+  "handles_seconds": 15,
+  "media_hashes_verified": 16,
+  "history_images_preserved": 3,
+  "browser_visual_verified": false,
+  "browser_reason": "file URL observation denied by browser security policy; no workaround attempted",
+  "video_generated": false,
+  "independent_review": "wake_review checked narrative, timing, references and 8 frames; corridor daylight issue repaired with opaque roller shade in opening and ending"
+}

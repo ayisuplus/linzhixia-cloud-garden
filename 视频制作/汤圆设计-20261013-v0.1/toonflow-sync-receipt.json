@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-13",
+  "status": "candidate_pending_author_review",
+  "generator": "Codex built-in image_gen",
+  "file": "汤圆01-糯玉团子候选.png",
+  "width": 1145,
+  "height": 1374,
+  "sha256": "D460FFD61BF6E98E8EC64EC66E8931E0CD361CCC2A9B60CA1CD3A11CAE3D0201",
+  "canvasId": "人物设计.json",
+  "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+  "nodeCountAfter": 43,
+  "imageNodeId": "eaa25d7b-00c6-4c1b-86d6-c060326984b7",
+  "textNodeId": "c518cb32-d49f-4214-b356-6cd529628460",
+  "referenceNodeId": "1bb8b172-d828-4509-852c-f7b7a52c5069",
+  "imageOutput": "汤圆设计-20261013-v0.1/汤圆01-糯玉团子候选.png",
+  "referenceOutput": "汤圆设计-20261013-v0.1/参考/真实汤圆-TingTingsNest.jpg",
+  "fullPromptReadbackVerified": true,
+  "scope": "人物画布；未同步全局素材库"
+}

@@ -1,0 +1,101 @@
+{
+  "hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集水巷街桥-20261024-v0.1\\waterlane-masterplan-v09.blend": "bac2f19f29aa4d97586bcbd39554bf8bb25686b591892ea5b7942811889e397d",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山谷植物-20261024-v0.1\\valley-masterplan-v10.blend": "85daea84928dd29e9f97ee752c534fa1fd33e284c308159f789f0fa9a91912a1",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山谷植物-20261024-v0.1\\valley-route-58s-v10.blend": "f22b16e120012d70c6e44273a93be15c4dee84c1a0e0843b73ff03d63140691a",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集水巷街桥-20261024-v0.1\\route-poses.json": "a7f867a13ef1888c72b2540bb2ae385ad70d31538efad00acc27ae383279e7dc",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山谷植物-20261024-v0.1\\route-poses.json": "26d80f81589e1d393baa759e0e3daf9d6fefc79d241513d9c124d3849e8593ba"
+  },
+  "stable": true,
+  "old_object_count": 2234,
+  "added_mesh_count": 1098,
+  "original_object_changes": [],
+  "original_material_changes": [],
+  "new_against_building_surface_intersections": [],
+  "old_walk_core_hits": [],
+  "new_geometry_flight_27_sweeps": [],
+  "saved_camera_parent": null,
+  "saved_keyframe_json_position_max_abs_m": 3.039981027086469e-05,
+  "static_vs_flight_object_differences": [],
+  "static_vs_flight_material_differences": [],
+  "saved_camera_max_rotation_deg_per_frame": 1.4579687857642745,
+  "saved_camera_max_rotation_at_frame": 776,
+  "new_late_dense_column_nearest": {
+    "frame": 1193.25,
+    "time": 49.677083333333336,
+    "position": [
+      339.68697127301584,
+      -472.01294149487023,
+      23.500000000000004
+    ],
+    "object": "Workshop-lane-02 arcade column.004",
+    "surface_point": [
+      331.99090576171875,
+      -474.640380859375,
+      23.5
+    ],
+    "center_to_surface_m": 8.132221221923828
+  },
+  "new_late_dense_max_step_m": 0.1,
+  "new_late_dense_sample_count": 1811,
+  "new_late_column_nearest": {
+    "frame": 1193,
+    "time": 49.666666666666664,
+    "position": [
+      339.56329809934994,
+      -471.6516365795281,
+      23.500000000000004
+    ],
+    "object": "Workshop-lane-02 arcade column.004",
+    "surface_point": [
+      331.99090576171875,
+      -474.640380859375,
+      23.5
+    ],
+    "center_to_surface_m": 8.140861511230469
+  },
+  "new_late_frame_range": [
+    1132,
+    1229
+  ],
+  "old_49_8_window_column_nearest": {
+    "frame": 1199,
+    "time": 49.916666666666664,
+    "position": [
+      336.36703626128696,
+      -484.337354091292,
+      23.19999999999999
+    ],
+    "object": "Workshop-lane-03 arcade column",
+    "surface_point": [
+      334.905029296875,
+      -486.2056884765625,
+      23.200000762939453
+    ],
+    "center_to_surface_m": 2.3723788261413574
+  },
+  "old_nearest_49_8_sample": {
+    "frame": 1196,
+    "time": 49.791666666666664,
+    "position": [
+      333.9603576238924,
+      -482.1581287097731,
+      23.19999999999999
+    ],
+    "object": "Workshop-lane-03 arcade column",
+    "surface_point": [
+      334.675048828125,
+      -486.2056884765625,
+      23.200000762939453
+    ],
+    "center_to_surface_m": 4.110159873962402
+  },
+  "limits": [
+    "No render/GPU/save/source edits/Git.",
+    "Geometry coordinates/topology/material indices/bindings and matrices; material node input values and links. Not every custom property or arbitrary node attribute.",
+    "Surface overlap is not full containment proof. Walk tests use finite swept lines, not exact human volume.",
+    "New-entity flight check uses 27 fixed world offsets; not continuous swept-solid certification. Existing collision objects are parent full-route audit scope.",
+    "Column distance is path center to actual mesh surface, not vehicle outside clearance; vehicle max corner radius is about 0.853m.",
+    "No continuous video viewing in this audit."
+  ]
+}

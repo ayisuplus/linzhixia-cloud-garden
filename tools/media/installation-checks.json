@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-17",
+  "upstream_file_integrity": "all pinned copies match; Windows line endings permitted",
+  "files_verified": 96,
+  "checks": [
+    "Python source syntax: passed",
+    {
+      "command": "-m rh_cli --version",
+      "exit_code": 0,
+      "stdout_chars": 13
+    },
+    {
+      "command": "-m rh_cli --json model list",
+      "exit_code": 0,
+      "stdout_chars": 527928
+    },
+    {
+      "command": "E:\\projects\\内容创作\\未来女孩林知夏\\.agents\\skills\\runninghub\\scripts\\runninghub.py --list",
+      "exit_code": 0,
+      "stdout_chars": 53540
+    },
+    {
+      "command": "create_session.py --help (offline dummy env)",
+      "exit_code": 0
+    },
+    {
+      "command": "query_session.py --help (offline dummy env)",
+      "exit_code": 0
+    },
+    {
+      "command": "upload_file.py --help (offline dummy env)",
+      "exit_code": 0
+    },
+    {
+      "command": "download_results.py --help (offline dummy env)",
+      "exit_code": 0
+    }
+  ],
+  "runninghub_account_readonly": "ready; existing config; no task submitted",
+  "libtv_plugin": "installed=true; enabled=true; project local source",
+  "libtv_oauth": "logged_in; codex mcp login succeeded; codex mcp list auth_status=o_auth",
+  "libtv_api_key": "not in current process",
+  "generation_validation": "not requested; not performed",
+  "windows_limit": "music-driven-product-ad Swift execution requires macOS 15+",
+  "outside_project_plugin_list": "installed=[], available=[] in C:/Users/36322/AppData/Local/Temp",
+  "libtv_oauth_verified_date": "2026-10-17"
+}

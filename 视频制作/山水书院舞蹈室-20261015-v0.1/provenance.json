@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-15",
+  "tool": "built-in image_gen.imagegen",
+  "generationCalls": 2,
+  "status": "candidates_pending_author_review",
+  "items": [
+    {
+      "file": "舞蹈室01-日常练功.png",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-c4fef384-093d-453c-adc5-cba6532ce779.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e329e6d211663de024dfb1b7bee8e58b030df9990508e5a560dd259f624b7f64",
+      "copyHashVerified": true,
+      "reference": "../山水书院总景-20261015-v0.1/山水书院-宿舍水庭舞院总景01.png",
+      "referenceRole": "architectural_style_reference_new_interior_view",
+      "prompt": "prompt-01.txt"
+    },
+    {
+      "file": "舞蹈室02-荷塘仿真.png",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-94cdbb39-7116-46b0-8cd7-7c4cbb402363.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "68addeaa889a18cba402b7f5dd7e20cc128b47af2310ee6f181b7e4b8e01f213",
+      "copyHashVerified": true,
+      "reference": "舞蹈室01-日常练功.png",
+      "referenceRole": "direct_edit_target_same_camera",
+      "prompt": "prompt-02.txt"
+    }
+  ]
+}

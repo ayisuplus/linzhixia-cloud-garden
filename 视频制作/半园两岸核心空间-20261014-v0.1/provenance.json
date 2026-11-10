@@ -1,0 +1,21 @@
+{
+  "tool": "image_gen.imagegen",
+  "mode": "built-in",
+  "calls": 1,
+  "source": "C:/Users/36322/.codex/generated_images/01a13a12-c15f-7431-88a9-5ceeb49cb3b0/exec-0d010d94-80bc-4087-ab0c-c13a9634b530.png",
+  "file": "作坊望半园-概念01.png",
+  "sha256": "f15f61f0879417337f9e331aaed402316d78f2d5000f7a1670555ca1aa6641e9",
+  "reference": "视频制作/半园空间概念-20261014-v0.1/半园-云上园居-两岸分设概念01.png",
+  "status": "candidate, not adopted",
+  "review": "Two banks and foreground/midground/background read clearly. Bridge arch and gate steps deviate from level-route proposal. No metric or movement validation.",
+  "dimensions": {
+    "作坊望半园-概念01.png": [
+      1536,
+      1024
+    ],
+    "两岸空间关系-平面候选.png": [
+      1400,
+      1500
+    ]
+  }
+}

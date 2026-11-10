@@ -1,0 +1,47 @@
+{
+  "png_frames": 1392,
+  "png_sizes": [
+    [
+      640,
+      360
+    ]
+  ],
+  "videos": [
+    {
+      "file": "garden-city-flight-58s-v04.mp4",
+      "frames": 1392,
+      "fps": 24,
+      "duration_s": 58.0,
+      "size": [
+        640,
+        360
+      ],
+      "decode": "pass",
+      "sha256": "dd705d148a45bb2d510515b888539ba5efc15dbcb1dbbe19a8ebfae7903da67d"
+    },
+    {
+      "file": "E01-C-FAST-B01-30s-v04.mp4",
+      "frames": 720,
+      "fps": 24,
+      "duration_s": 30.0,
+      "size": [
+        640,
+        360
+      ],
+      "decode": "pass",
+      "sha256": "daabd97fce9d70ced6b18487df016af4f6038d1cc927e8825520f37676a91ba0"
+    },
+    {
+      "file": "E01-C-FAST-B02-30s-v04.mp4",
+      "frames": 720,
+      "fps": 24,
+      "duration_s": 30.0,
+      "size": [
+        640,
+        360
+      ],
+      "decode": "pass",
+      "sha256": "d0f147b37714b5ad328ac6475bb251888bbcd0f544709b1de93740dd7d2c0330"
+    }
+  ]
+}

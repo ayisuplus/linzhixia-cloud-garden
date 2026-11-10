@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-17",
+  "deleted_active_canvas_files": [
+    "人物设计-修复前-20261013.json",
+    "人物设计-历史过程-20261013.json",
+    "人物设计.json",
+    "场景设计-半园两岸-20261014.json"
+  ],
+  "backup": "画布与引用素材.zip",
+  "backup_entries": 727,
+  "backup_node_total": 277,
+  "all_entry_sha256_verified": true,
+  "original_media_deleted": false,
+  "global_library": {
+    "old": "未来女孩林知夏-当前可用素材",
+    "new": "未来女孩林知夏-历史归档-退出画布流程-20261017",
+    "files": 172,
+    "paths_match": true
+  },
+  "remaining_canvas": "制作入口-图册流程-20261017.json",
+  "remaining_node": "68680e25-60f4-4685-85f5-4d499a777ffa",
+  "ui_canvas_list": "MCP canvas picker still caches four removed names; filesystem confirms only migration canvas remains. Refresh/restart UI when needed; no canvas content was recreated.",
+  "restore_runtime_tested": false
+}

@@ -1,0 +1,16 @@
+{
+  "shots": 16,
+  "budgetSeconds": 90,
+  "completeFrameGaps": [
+    "E01-A-010",
+    "E01-A-011",
+    "E01-A-014",
+    "E01-A-015"
+  ],
+  "mainImages": 2,
+  "imageHashesMatchSources": true,
+  "htmlLocalLinksChecked": 98,
+  "browserRenderedReview": false,
+  "videoProduced": false,
+  "toonflowSavedTextMatches": true
+}

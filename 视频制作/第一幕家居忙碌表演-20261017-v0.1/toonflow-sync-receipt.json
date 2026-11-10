@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-17",
+  "target": {
+    "connectionId": "a8e9b1e4-4f34-45d4-b990-668ea24cfc0e",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "场景设计-半园两岸-20261014.json"
+  },
+  "method": "ToonFlow MCP addNode/nodeTools/renameNodes; no direct canvas JSON writes",
+  "preserved_primary_ids": true,
+  "nodes": [
+    {
+      "id": "4aa5617f-cfdd-4049-a026-79b7a99515a9",
+      "label": "E01-A-009｜衣柜主动推荐·表情与递衣",
+      "position": {
+        "x": 0,
+        "y": 2100
+      },
+      "image_path": "第一幕家居忙碌表演-20261017-v0.1/E01-A-009-衣柜主动推荐.png",
+      "text_readback": "text outputs checked against saved node content.md below"
+    },
+    {
+      "id": "a32642fc-bb08-49d3-b125-1f250648b2d3",
+      "label": "E01-A-011｜全屋忙碌·姿态候选",
+      "position": {
+        "x": 1300,
+        "y": 2100
+      },
+      "image_path": "第一幕家居忙碌表演-20261017-v0.1/E01-A-011-全屋忙碌-去支架.png",
+      "text_readback": "text outputs checked against saved node content.md below"
+    },
+    {
+      "id": "917da247-0373-464a-acde-d1e5a780e753",
+      "label": "E01-A-014｜全屋停在半途·候选",
+      "position": {
+        "x": 650,
+        "y": 2800
+      },
+      "image_path": "第一幕家居忙碌表演-20261017-v0.1/E01-A-014-全屋停在半途-去支架.png",
+      "text_readback": "text outputs checked against saved node content.md below"
+    },
+    {
+      "id": "6931f907-8854-483d-ac52-91745333e2d0",
+      "label": "历史参考｜E01-A-009｜衣柜镜中预览搭配｜结束状态参考",
+      "position": {
+        "x": 3900,
+        "y": 0
+      },
+      "image_path": "第一幕智能镜云上花园-20261017-v0.1/01-智能镜-云上花园.png",
+      "text_readback": "text outputs checked against saved node content.md below"
+    },
+    {
+      "id": "043183d6-a065-4c8e-871e-d299dad1b275",
+      "label": "历史参考｜E01-A-011｜整窗水巷·真实纵深候选",
+      "position": {
+        "x": 3900,
+        "y": 700
+      },
+      "image_path": "第一幕四镜补帧-20261017-v0.1/E01-A-011-整窗水巷-真实纵深.png",
+      "text_readback": "text outputs checked against saved node content.md below"
+    },
+    {
+      "id": "4d884ea7-717c-41e8-9817-1a32bb18b55d",
+      "label": "历史参考｜E01-A-014｜喊停后全景·候选",
+      "position": {
+        "x": 3900,
+        "y": 1400
+      },
+      "image_path": "第一幕四镜补帧-20261017-v0.1/E01-A-014-喊停后全景.png",
+      "text_readback": "text outputs checked against saved node content.md below"
+    },
+    {
+      "id": "9b0d2b41-8158-4487-b210-664b6b7967fe",
+      "label": "当前动作稿｜晨起v0.11·17镜90秒",
+      "position": {
+        "x": -800,
+        "y": 700
+      },
+      "image_path": null,
+      "text_readback": "text outputs checked against saved node content.md below"
+    },
+    {
+      "id": "80d9afbb-50b0-49f2-aba8-89b0eb5a017c",
+      "label": "00｜关键帧图册v1.3·家居忙碌表演",
+      "position": {
+        "x": -800,
+        "y": 0
+      },
+      "image_path": null,
+      "text_readback": "text outputs checked against saved node content.md below"
+    },
+    {
+      "id": "b12b3179-a078-4590-92f4-2b790915401b",
+      "label": "家居忙碌表演｜三图修订与限制",
+      "position": {
+        "x": 3900,
+        "y": 2100
+      },
+      "image_path": null,
+      "text_readback": "text outputs checked against saved node content.md below"
+    },
+    {
+      "id": "9339fd95-8735-4df2-a8a5-1874d20c428d",
+      "label": "E01-A-011｜补帧核对与动作说明",
+      "position": {
+        "x": 3250,
+        "y": 1400
+      },
+      "image_path": null,
+      "text_readback": "text outputs checked against saved node content.md below"
+    },
+    {
+      "id": "9e8fcafa-9fd6-4d7e-9c20-e0f2ea76619f",
+      "label": "E01-A-014｜补帧核对与动作说明",
+      "position": {
+        "x": 3250,
+        "y": 2100
+      },
+      "image_path": null,
+      "text_readback": "text outputs checked against saved node content.md below"
+    }
+  ],
+  "history_before": [
+    {
+      "id": "4aa5617f-cfdd-4049-a026-79b7a99515a9",
+      "label": "E01-A-009｜衣柜镜中预览搭配｜结束状态参考",
+      "position": {
+        "x": 0,
+        "y": 2100
+      },
+      "outputs": {
+        "image": {
+          "dataType": "IMAGE",
+          "value": {
+            "url": "第一幕智能镜云上花园-20261017-v0.1/01-智能镜-云上花园.png",
+            "mimeType": "image/png"
+          }
+        }
+      },
+      "selected": false,
+      "truncated": []
+    },
+    {
+      "id": "a32642fc-bb08-49d3-b125-1f250648b2d3",
+      "label": "E01-A-011｜整窗水巷·真实纵深候选",
+      "position": {
+        "x": 1300,
+        "y": 2100
+      },
+      "outputs": {
+        "image": {
+          "dataType": "IMAGE",
+          "value": {
+            "url": "第一幕四镜补帧-20261017-v0.1/E01-A-011-整窗水巷-真实纵深.png",
+            "mimeType": "image/png"
+          }
+        }
+      },
+      "selected": false,
+      "truncated": []
+    },
+    {
+      "id": "917da247-0373-464a-acde-d1e5a780e753",
+      "label": "E01-A-014｜喊停后全景·候选",
+      "position": {
+        "x": 650,
+        "y": 2800
+      },
+      "outputs": {
+        "image": {
+          "dataType": "IMAGE",
+          "value": {
+            "url": "第一幕四镜补帧-20261017-v0.1/E01-A-014-喊停后全景.png",
+            "mimeType": "image/png"
+          }
+        }
+      },
+      "selected": false,
+      "truncated": []
+    }
+  ],
+  "limitations": [
+    "画布JSON本轮前已有混合未提交变更，保存于工作区但不整体加入本轮Git提交",
+    "图片PNG按项目忽略规则留在本地；迁移时随媒体目录复制"
+  ],
+  "validation": {
+    "text_nodes_exact_after_newline_normalization": [
+      "9b0d2b41-8158-4487-b210-664b6b7967fe",
+      "80d9afbb-50b0-49f2-aba8-89b0eb5a017c",
+      "b12b3179-a078-4590-92f4-2b790915401b",
+      "9339fd95-8735-4df2-a8a5-1874d20c428d",
+      "9e8fcafa-9fd6-4d7e-9c20-e0f2ea76619f"
+    ],
+    "html_links_checked": 196,
+    "html_broken_links": [],
+    "browser_visual_review": false,
+    "independent_image_review": "通过，无实质阻断；A013旧图与材质转换限制保留"
+  }
+}

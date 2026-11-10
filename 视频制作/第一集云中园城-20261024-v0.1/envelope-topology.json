@@ -1,0 +1,20 @@
+{
+  "grid_step_m": 9.0,
+  "initial_components": 1,
+  "retained_main_component": true,
+  "vertices": 521906,
+  "faces": 1043868,
+  "bounds": [
+    [
+      -1647.980262066977,
+      -212.23989516468723,
+      -425.5766158733619
+    ],
+    [
+      323.91475618412096,
+      1219.656005706778,
+      304.85104153982843
+    ]
+  ],
+  "role": "Ordinary cloud enveloping the city; stable structural cloud is separate, retained from the checked route. Sky openings and inhabited air pockets are visual layout, not a newly decided world technology."
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-12",
+  "operation": "remove_visible_leg_cloud_only",
+  "generatedImages": [
+    {
+      "file": "知夏睡衣精修-20261012-v0.1\\知夏-睡衣09-青瓷绿短裤无云纹.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-305530b2-d598-46e4-b816-18d75787b136.png",
+      "sha256": "21ff97b814fac72377daaa63b981dbf90318682bc003debede5a16ad4e315ea5",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "知夏校服定款三件套-20261012-v2.1\\知夏-校服比例05-无腿部云纹.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-8cdecfff-a303-406a-b09f-3a81cb192913.png",
+      "sha256": "6c0875d0d8469203945407e6bd6ca56dedb3a87bf88d82563ba0ba5a2f3d9a16",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "知夏校服定款三件套-20261012-v2.1\\知夏-校服四视图-v2.1.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-06eff58e-e5dd-475d-94a0-11b8d24c9979.png",
+      "sha256": "c8c3e3c1b4b47058d8cb2769d711c7fca0169c19a13c465166cacf109edf2aec",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "知夏校服定款三件套-20261012-v2.1\\知夏-校服穿搭分解-v2.1.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-15cefcf9-c37f-47aa-a78e-2040c6cbbcc6.png",
+      "sha256": "c1688784c9a8dc90a201cee8feb6f2dfff9a71d04e838afac97fecd874764050",
+      "size": [
+        1536,
+        1024
+      ]
+    }
+  ],
+  "makeupUnchangedSha256": "cd76d565749f0d3866de4b2e8a832ccc4768fe3476ef647bebaa9656295769dd",
+  "cropPixelsVerified": true,
+  "casualSevenImagesUnchanged": true,
+  "canvasUnrelatedNodesPreserved": 26,
+  "canvasNodeCount": 39
+}

@@ -1,0 +1,69 @@
+{
+  "nodes": [
+    {
+      "id": "13632f28-7f0e-4673-856d-d89b9c8ea17d",
+      "type": "remote-imageNode",
+      "label": "知夏｜睡衣05｜荷塘卡通短袖睡裙·候选",
+      "selected": false,
+      "position": {
+        "x": 4000,
+        "y": 2500
+      }
+    },
+    {
+      "id": "a7eb4508-cfb4-45b2-b3d3-2814da92ab21",
+      "type": "remote-textNode",
+      "label": "睡衣05｜来源与实际提示词",
+      "selected": false,
+      "position": {
+        "x": 4900,
+        "y": 2500
+      }
+    }
+  ],
+  "verified": {
+    "canvasId": "人物设计.json",
+    "nodes": [
+      {
+        "id": "13632f28-7f0e-4673-856d-d89b9c8ea17d",
+        "label": "知夏｜睡衣05｜荷塘卡通短袖睡裙·候选",
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏睡衣精修-20261012-v0.1/知夏-睡衣05-荷塘卡通短袖睡裙.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "a7eb4508-cfb4-45b2-b3d3-2814da92ab21",
+        "label": "睡衣05｜来源与实际提示词",
+        "outputs": {
+          "text": {
+            "dataType": "STRING",
+            "value": "睡衣05候选｜2026-10-12\n作者要求：可爱一点，荷花、睡莲、锦鲤，儿童卡通服的感觉，不必成熟。\n参考1：睡衣04，负责配色/面料/居家与构图；参考2：便服07，只负责面容。工具：内置image_gen。\n最新图像：知夏睡衣精修-20261012-v0.1/知夏-睡衣05-荷塘卡通短袖睡裙.p"
+          }
+        },
+        "selected": false,
+        "truncated": [
+          {
+            "path": [
+              "outputs",
+              "text",
+              "value"
+            ],
+            "reason": "text",
+            "total": 3360,
+            "nextOffset": 150
+          }
+        ]
+      }
+    ],
+    "hasMore": false,
+    "nextCursor": null
+  }
+}

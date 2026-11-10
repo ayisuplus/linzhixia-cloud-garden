@@ -1,0 +1,26 @@
+{
+  "v09": {
+    "station_interval": [
+      0.825,
+      0.916
+    ],
+    "time_interval_s": [
+      46.333333333333336,
+      51.416666666666664
+    ],
+    "max_rotation_degrees_per_frame": 1.3318696043877185,
+    "mean_rotation_degrees_per_frame": 0.6404801918049161
+  },
+  "v10": {
+    "station_interval": [
+      0.825,
+      0.916
+    ],
+    "time_interval_s": [
+      47.125,
+      51.166666666666664
+    ],
+    "max_rotation_degrees_per_frame": 0.8636636532666421,
+    "mean_rotation_degrees_per_frame": 0.4377134699460306
+  }
+}

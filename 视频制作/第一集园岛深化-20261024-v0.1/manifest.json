@@ -1,0 +1,99 @@
+{
+  "version": "v17",
+  "scene_sha256": "f97fae960fd51366160395864992ed36ed184d42af3899b82085ad42d4f58960",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 28,
+      "sha256": "e1b943257d252c73670b740940bc312d8b928c68a91fddcb0ea3fb6fc350a5e0"
+    },
+    {
+      "path": "01-overview.png",
+      "bytes": 1565668,
+      "sha256": "1138b66a927e7c4c11d952cb191364220072a8cf061b9008c59156a966058c3f"
+    },
+    {
+      "path": "02-clear-structure.png",
+      "bytes": 1533542,
+      "sha256": "7c96f7ec79c810f3ad75e4965b1b9eb1e8aa2e6242379bc9dda567b175181bb8"
+    },
+    {
+      "path": "03-school-water-gardens.png",
+      "bytes": 1925909,
+      "sha256": "7c95cb5680e00b418e1087f8bb6d2f5b17b9a86be268ad84aea80bd95f7e59f8"
+    },
+    {
+      "path": "04-water-pavilion.png",
+      "bytes": 1592395,
+      "sha256": "ff7d34710ea7ebca81e9b87d4c31b8c741cb75c8a7a8203acce6ac4e2f3a5df3"
+    },
+    {
+      "path": "05-home-workshop.png",
+      "bytes": 1707758,
+      "sha256": "e88278ae0695243f51434114301d06bfc204c075c5d5e305421037d29a66883b"
+    },
+    {
+      "path": "06-home-courtyard.png",
+      "bytes": 1581116,
+      "sha256": "735a0d694407f9c0f3303879da18da419aa9dc43a5bb9cb3fff4631e5096a8ec"
+    },
+    {
+      "path": "audit-first-pass.json",
+      "bytes": 18746,
+      "sha256": "99e925c50d5e16dbbff4f7ca4364bf704f115b49380535533fdb87102218b8ac"
+    },
+    {
+      "path": "audit.json",
+      "bytes": 19359,
+      "sha256": "20b14a3492f0f8982e9a43cf10bbd15ce899c9eb2bc1e139902054dd1cd59abd"
+    },
+    {
+      "path": "audit.md",
+      "bytes": 2627,
+      "sha256": "b9c8e7bcc4a92d6fdd9e35945f02d219935ece883091552b35134f5c4a87c4d4"
+    },
+    {
+      "path": "audit.py",
+      "bytes": 19363,
+      "sha256": "02a5f8c77b5e390f1cbf8381c5d49830d00fef7a6f5c0bd9c80fede88c298264"
+    },
+    {
+      "path": "development-data.json",
+      "bytes": 171174,
+      "sha256": "c1b7e5d3b34d07fed117fd7f09d1103c263c553438e854842bde876e3a471d5f"
+    },
+    {
+      "path": "final-review.md",
+      "bytes": 1007,
+      "sha256": "7a5da78176dbcce2738bde4534dce0f76f6c3d47c713b078720bc03b5c7234bd"
+    },
+    {
+      "path": "island-garden-developed-v17.blend",
+      "bytes": 2686142,
+      "sha256": "f97fae960fd51366160395864992ed36ed184d42af3899b82085ad42d4f58960"
+    },
+    {
+      "path": "planning-data.json",
+      "bytes": 94300,
+      "sha256": "0bbd5d99c87803e73f8fdc16793a8a1cfb843619f71d938a0a8d8ae5f16f3de7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1400,
+      "sha256": "bdba3eed7cd31425cd1d926d00ef55e46fa89fe9e2da04fbee2a6e704678b82d"
+    },
+    {
+      "path": "review.html",
+      "bytes": 3311,
+      "sha256": "f169be6d4d2333d3c2d82a59cd475b37be3bb1007363e0fdb72e422af449aa69"
+    }
+  ],
+  "png_verified": [
+    "01-overview.png",
+    "02-clear-structure.png",
+    "03-school-water-gardens.png",
+    "04-water-pavilion.png",
+    "05-home-workshop.png",
+    "06-home-courtyard.png"
+  ]
+}

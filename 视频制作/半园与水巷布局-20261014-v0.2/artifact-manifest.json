@@ -1,0 +1,56 @@
+{
+  "status": "spatial proposal; not adopted",
+  "generator": "Blender 5.1 + Pillow labels",
+  "files": [
+    {
+      "file": "banyuan-water-lane-v02.blend",
+      "bytes": 196350,
+      "sha256": "fb9a7f511fdaf433a31dac5179ad7641950c8ffee2c91d19ffb8b58abda1444a"
+    },
+    {
+      "file": "cutaway.png",
+      "bytes": 2126097,
+      "sha256": "be165fb762e9e73b1d72d24d762b875fa8762a7f84006e9cddcaf0249c36f5a7"
+    },
+    {
+      "file": "label-projections.json",
+      "bytes": 1924,
+      "sha256": "78479e04e3933f2d8919cc33f995b7689daa1a975ae08381f5fcfc79c025cdc0"
+    },
+    {
+      "file": "layout-data.json",
+      "bytes": 1246,
+      "sha256": "f3bfbd2fde172cf78a5ae57acc87e94ba37de6f98bb9db834b79a42b0589b097"
+    },
+    {
+      "file": "overview.png",
+      "bytes": 1908506,
+      "sha256": "98fc6b8cee3ee8d32821202ac1dd8d83253b672f29bc17106a7257e22819c618"
+    },
+    {
+      "file": "plan.png",
+      "bytes": 1719819,
+      "sha256": "c96d9ece9e6596427b0e2296bee7cbed649845ebe8436f310370585a3cc77bd1"
+    },
+    {
+      "file": "street.png",
+      "bytes": 2108369,
+      "sha256": "2210e7d74b03ae5dd365626ea8e81fa0fdae4c0d8c4c37eea85e9b2ca8690b4d"
+    },
+    {
+      "file": "半园-去顶观察.png",
+      "bytes": 1590193,
+      "sha256": "275cd451e57e2027dae89ed29556669a14bd9d32d23c378dd17ccc086664b454"
+    },
+    {
+      "file": "半园与水巷-三维总览.png",
+      "bytes": 1376951,
+      "sha256": "adbd204e409945ab6879d9a4b62d9c4ece2a17afe593beec2378badef850ef6f"
+    },
+    {
+      "file": "半园与水巷-功能平面.png",
+      "bytes": 1207519,
+      "sha256": "dd056380ddbdb75804feadeaa3bc995000159f262b5db189ad763e5eec174dc7"
+    }
+  ]
+}

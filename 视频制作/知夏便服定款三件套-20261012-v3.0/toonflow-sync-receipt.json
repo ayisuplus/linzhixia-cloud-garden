@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-12",
+  "canvas": "人物设计.json",
+  "workspace": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+  "files": [
+    {
+      "nodeId": "e61813ba-7074-4e83-9319-8a221b8c44ff",
+      "label": "便服v3.0｜四视图总图",
+      "path": "知夏便服定款三件套-20261012-v3.0/知夏-便服四视图-v3.0.png"
+    },
+    {
+      "nodeId": "75df41b5-ca0d-43b1-a5e7-6b99d4679982",
+      "label": "便服v3.0｜妆造分解·后脑横簪",
+      "path": "知夏便服定款三件套-20261012-v3.0/知夏-便服妆造分解-v3.0.png"
+    },
+    {
+      "nodeId": "436f0bcf-24c0-4c8e-b8c4-d49552ee2467",
+      "label": "便服v3.0｜穿搭分解·双白袜",
+      "path": "知夏便服定款三件套-20261012-v3.0/知夏-便服穿搭分解-v3.0.png"
+    },
+    {
+      "nodeId": "19a4a70e-7a59-4db1-ae83-cf1c9e9ff787",
+      "label": "便服v3.0｜正面大半身",
+      "path": "知夏便服定款三件套-20261012-v3.0/四视图独立图/01_front-half.png"
+    },
+    {
+      "nodeId": "61b95f48-3df0-4553-ad6e-3431edf2d53e",
+      "label": "便服v3.0｜朝画面左侧面全身",
+      "path": "知夏便服定款三件套-20261012-v3.0/四视图独立图/02_facing-left.png"
+    },
+    {
+      "nodeId": "cb8bb469-75d1-45c7-a7fb-83d989673b05",
+      "label": "便服v3.0｜背面全身",
+      "path": "知夏便服定款三件套-20261012-v3.0/四视图独立图/03_back.png"
+    },
+    {
+      "nodeId": "46e300c2-2aea-4f67-a41b-9b631182d245",
+      "label": "便服v3.0｜朝画面右侧面全身",
+      "path": "知夏便服定款三件套-20261012-v3.0/四视图独立图/04_facing-right.png"
+    }
+  ],
+  "noteNodeId": "f8cbb4a1-7687-463b-96e4-2d7fce7ecef9",
+  "reopenedAndReadBack": true,
+  "readback": {
+    "canvasId": "人物设计.json",
+    "nodes": [
+      {
+        "id": "e61813ba-7074-4e83-9319-8a221b8c44ff",
+        "label": "便服v3.0｜四视图总图",
+        "position": {
+          "x": 4000,
+          "y": 0
+        },
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/知夏-便服四视图-v3.0.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "75df41b5-ca0d-43b1-a5e7-6b99d4679982",
+        "label": "便服v3.0｜妆造分解·后脑横簪",
+        "position": {
+          "x": 4900,
+          "y": 0
+        },
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/知夏-便服妆造分解-v3.0.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "436f0bcf-24c0-4c8e-b8c4-d49552ee2467",
+        "label": "便服v3.0｜穿搭分解·双白袜",
+        "position": {
+          "x": 5800,
+          "y": 0
+        },
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/知夏-便服穿搭分解-v3.0.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "19a4a70e-7a59-4db1-ae83-cf1c9e9ff787",
+        "label": "便服v3.0｜正面大半身",
+        "position": {
+          "x": 4000,
+          "y": 1000
+        },
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/四视图独立图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "61b95f48-3df0-4553-ad6e-3431edf2d53e",
+        "label": "便服v3.0｜朝画面左侧面全身",
+        "position": {
+          "x": 4800,
+          "y": 1000
+        },
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/四视图独立图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "cb8bb469-75d1-45c7-a7fb-83d989673b05",
+        "label": "便服v3.0｜背面全身",
+        "position": {
+          "x": 5600,
+          "y": 1000
+        },
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/四视图独立图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "46e300c2-2aea-4f67-a41b-9b631182d245",
+        "label": "便服v3.0｜朝画面右侧面全身",
+        "position": {
+          "x": 6400,
+          "y": 1000
+        },
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/四视图独立图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "f8cbb4a1-7687-463b-96e4-2d7fce7ecef9",
+        "label": "便服v3.0｜当前版本与来源｜2026-10-12",
+        "position": {
+          "x": 4000,
+          "y": -650
+        },
+        "outputs": {
+          "text": {
+            "dataType": "STRING",
+            "value": "知夏便服当前版 v3.0｜2026-10-12\n本区：三件套3张＋原像素独立视图4张。面容参考便服07，服装底稿便服15。双白袜：人物右腿膝下不透长袜、平口竖回纹；左腿短袜、弧口疏云纹。玉簪横穿后脑小编结；左腕玉镯，移除智能配件。\n侧背与遮挡结构为生成补全，待作者审阅。正面独立图为大半身；左右侧面按画面朝向标注。\n素材、生成提示词和SHA256记录：知夏便服定款三件套-20261012-v3.0/README.md\n四视图：turnaround-实际提示词.txt\n妆造：makeup-实际提示词.txt＋makeup-侧面发簪修正提示词.txt\n穿搭：outfit-实际提示词.txt＋outfit-完整袜型与领口修正提示词.txt\n裁图坐标与哈希：四视图独立图/split-manifest.json\n以上文件均位于本版目录。便服06节点仅为早期初稿，不覆盖本版；旧智能配件版、绿袜版、头顶直插玉簪不再使用。\n作者存储规则：个人作品保存在项目与ToonFlow，禁止自动导入Eagle。"
+          }
+        },
+        "selected": false,
+        "truncated": []
+      }
+    ],
+    "hasMore": false,
+    "nextCursor": null
+  }
+}

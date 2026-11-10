@@ -1,0 +1,13 @@
+# 校服｜JK+中国结+花窗校徽
+
+Same 15-year-old gentle Chinese girl, delicate slender build, refined soft healing 3D game-CG rendering (NOT realistic photography, NOT 2D anime style). Natural facial proportions, warm gentle eyes, soft natural smile. Clean pale neutral studio background. Full-body character, complete head, hands and feet visible. Healthy teenage proportions, no exaggerated fashion-model legs. Non-sexual everyday clothing. No glasses, no text, no watermark, no brand logos.
+
+OUTFIT: A clean modern school uniform with subtle Chinese details.
+- White short-sleeve school shirt with a modest rounded collar, crisp smart-fabric texture.
+- NECKWEAR: A small Chinese knot (qing green or muted vermilion) worn in place of a ribbon bow at the collar — a simple woven knot, not an elaborate tassel ornament.
+- Bottom: dark charcoal navy pleated skirt, neat knife pleats, modest knee-length, NOT pure black, NOT a long hakama.
+- Optional layer: light grey knit cardigan, buttoned, worn open or closed.
+- Chest emblem: a small delicate garden lattice (Chinese flower-window / huachuang) pattern badge in muted gold, small and understated.
+- Footwear: brown leather loafers, white short socks.
+- Hair: medium-long dark hair down naturally with a small half-up clip, soft bangs, clean student look.
+- Pose: standing with a school satchel slung over one shoulder, other hand adjusting the bag strap, gentle bright smile, relaxed posture.

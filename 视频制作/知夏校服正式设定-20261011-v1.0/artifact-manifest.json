@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-11",
+  "generator": "built-in image_gen",
+  "status": "generated_pending_author_review",
+  "author_correction": "Original asymmetric side fastening and small frog closures must be preserved; central oversized closures rejected.",
+  "references": [
+    {
+      "file": "视频制作/知夏面容调整-20261011-v0.1/知夏-面容01-柔和短圆脸头肩.png",
+      "sha256": "70f8a4247efaa42919d7f0e8c8b56d126692c82703e0624e2744b6e8f6781d91",
+      "role": "adopted face01 and flat barrette"
+    },
+    {
+      "file": "视频制作/知夏校服拆解-20261011-v0.1/知夏-校服14-如意弧边流线绣鞋.png",
+      "sha256": "1afdd1db73251702b7a2e7055a9d19d3f48834590554a31685a3c5649d92f535",
+      "role": "uniform14 clothing authority"
+    },
+    {
+      "file": "视频制作/知夏饰品设计-20261011-v0.1/知夏-未来日常饰品02-智能水杯与头顶发饰.png",
+      "sha256": "d3d048e630d17fc17df3e80225bf460dc9e5e0305758a7e99cfb249a9a3d8601",
+      "role": "wearable accessories only"
+    }
+  ],
+  "assets": [
+    {
+      "file": "四视图独立图/01_front-half.png",
+      "size": [
+        590,
+        1024
+      ],
+      "sha256": "31d5343d4992493540e1807fdc7e2b4e887bd2de0a8caa085a7c69ea46c05e05",
+      "status": "rejected_central_oversized_closures"
+    },
+    {
+      "file": "四视图独立图/02_facing-left.png",
+      "size": [
+        280,
+        1024
+      ],
+      "sha256": "bda204910cdff7cba3df19663895b199b3a9a9b5839b4bcc47871c47ba988089",
+      "status": "rejected_central_oversized_closures"
+    },
+    {
+      "file": "四视图独立图/03_back.png",
+      "size": [
+        340,
+        1024
+      ],
+      "sha256": "f36382a204514bd9362f8dab8608dd6453e7a9333de5840b714ed2de6ff64459",
+      "status": "rejected_central_oversized_closures"
+    },
+    {
+      "file": "四视图独立图/04_facing-right.png",
+      "size": [
+        326,
+        1024
+      ],
+      "sha256": "b64b64c592026c8e3537ef9a5fb0645c627f514592ddb73a5f3b5ca056a70c47",
+      "status": "rejected_central_oversized_closures"
+    },
+    {
+      "file": "四视图独立图-v1.1/01_front-half.png",
+      "size": [
+        590,
+        1024
+      ],
+      "sha256": "aaad13f311cbdad595fa93a5575610c91b748753c3fe882964360f5eb6159d54",
+      "status": "generated_pending_author_review"
+    },
+    {
+      "file": "四视图独立图-v1.1/02_facing-left.png",
+      "size": [
+        280,
+        1024
+      ],
+      "sha256": "3a4b6320645c4c4943288b47233852081e0cc8594a127673a179fa219fea6b4e",
+      "status": "generated_pending_author_review"
+    },
+    {
+      "file": "四视图独立图-v1.1/03_back.png",
+      "size": [
+        340,
+        1024
+      ],
+      "sha256": "ea1391cc3ecbe0825fd278b694ddbfb57f9e16311157186316cd55cce42fe871",
+      "status": "generated_pending_author_review"
+    },
+    {
+      "file": "四视图独立图-v1.1/04_facing-right.png",
+      "size": [
+        326,
+        1024
+      ],
+      "sha256": "dc511a9d38c9097a1effb189e0578c61c8b38051c20687009ea2ba1d77072d18",
+      "status": "generated_pending_author_review"
+    },
+    {
+      "file": "知夏-妆造拆分-v1.0.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "8cdaa00a6664304b97b813267fe9862142369e4082f94dc2f922b7d974bcc8b4",
+      "status": "rejected_central_oversized_closures"
+    },
+    {
+      "file": "知夏-妆造拆分-v1.1-侧襟修正.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "b5a96fcf60619e44819f932fd1f189a8d790677ef570f4ee88b8f1ffcf0a38c1",
+      "status": "generated_pending_author_review"
+    },
+    {
+      "file": "知夏-校服四视图-v1.0.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "88d09b0409e68d18dff8ebd848fae7876e3b42ba01e5de66fdaeb0c89bf52002",
+      "status": "rejected_central_oversized_closures"
+    },
+    {
+      "file": "知夏-校服四视图-v1.1-侧襟修正.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "986d30d157f4fd51ef3032fd8c913d47bcad1f3ad7102d5337b419997eea3fdc",
+      "status": "generated_pending_author_review"
+    },
+    {
+      "file": "知夏-穿搭拆解-v1.0a-校验前.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "0cd3893165c47d6e1e3e9ecf416a570e7aa4560e62667576a713b67caa8903b5",
+      "status": "rejected_central_oversized_closures"
+    },
+    {
+      "file": "知夏-穿搭拆解-v1.0b-居中盘扣废稿.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "cc385dfb46ed89d40f6a4ff4747b00db92087a9a630c1961b4718a412f1bfd81",
+      "status": "rejected_central_oversized_closures"
+    },
+    {
+      "file": "知夏-穿搭拆解-v1.1-侧襟修正.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "8534c6bbff3d644cdb901a3ac2a671fd94644b205ec62ed369a8fc894829e340",
+      "status": "generated_pending_author_review"
+    }
+  ],
+  "canvas_node_ids": [
+    "7dac5367-def8-44b4-9246-337423a9387c",
+    "e2574df9-0064-4a82-a496-1e577a70ea53",
+    "812df3f5-20c0-4fec-8cb6-ee78c257cabd",
+    "cf3b0f9e-db1c-43aa-b178-88019c3b84d4",
+    "f0babcc1-24c4-4e2a-91d4-a2f856163289",
+    "da782ebe-589f-4059-9bec-87846896f5fb",
+    "bd9b0a2b-1158-4e39-a856-92f81da61eff",
+    "8f25d03e-172f-4098-af0b-97ae447e05f0",
+    "01b92c51-748c-4f18-b602-681b5c94d545",
+    "0be61c97-68fe-4968-8dd9-abe7a04fa562"
+  ],
+  "checks": {
+    "png_decode": true,
+    "active_boards": 3,
+    "active_crops": 4,
+    "crop_visual_inspection": true,
+    "canvas_paths_readback": true,
+    "author_adopted": false
+  },
+  "limitations": [
+    "AI inferred unseen backs and garment parts",
+    "front portrait has slight head tilt",
+    "cross-view hair length and cloud placement require review",
+    "sock opacity is not calibrated to real thin gauze"
+  ],
+  "generated_sources": {
+    "知夏-校服四视图-v1.1-侧襟修正.png": "exec-a41b22e7-af23-4c4e-9789-8e424a8a7cc5.png",
+    "知夏-穿搭拆解-v1.1-侧襟修正.png": "exec-b057b8dd-52f5-4a90-b29b-8e07043459a9.png",
+    "知夏-妆造拆分-v1.1-侧襟修正.png": "exec-ff3ce8da-6057-418d-a8c2-386393b7d3e9.png"
+  },
+  "prompt_files": [
+    {
+      "file": "makeup-侧襟修正提示词.txt",
+      "sha256": "68a22208d2618ed775d18989a245b70b45c4580ad258ff3cfcc23fea05a2a5a0"
+    },
+    {
+      "file": "makeup-实际提示词.txt",
+      "sha256": "c2c68b22d2312da0e7423a3c52be52bcad448baaa67e19535d1128e9b5e47a2f"
+    },
+    {
+      "file": "outfit-侧襟修正提示词.txt",
+      "sha256": "d56b7993c471de86d5173a732ce7418f3a35a8205efd95a4e1893ef016832216"
+    },
+    {
+      "file": "outfit-修正实际提示词.txt",
+      "sha256": "eeb3b96b8fc9d705720a8c8708bb8fbab48d776bad1a0c0fade6e15e93b94707"
+    },
+    {
+      "file": "outfit-实际提示词.txt",
+      "sha256": "141364974e591e440458726e94630bf6ac1f57deec670099d239251bf3822117"
+    },
+    {
+      "file": "turnaround-侧襟修正提示词.txt",
+      "sha256": "3245fc2ffc07a1a2e2bea793ba6d07206b5ae6dbe598d8af2cb441ccba7c9f37"
+    },
+    {
+      "file": "turnaround-实际提示词.txt",
+      "sha256": "71311c73ebb12b04188d132d3a9e7d33cd68f51a283241fabd156370760ebc0c"
+    }
+  ]
+}

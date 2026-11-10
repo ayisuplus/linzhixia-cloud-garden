@@ -1,0 +1,24 @@
+{
+  "status": "pending_author_review",
+  "tool": "built-in imagegen",
+  "images": [
+    {
+      "file": "知夏-未来饰品01a-书包偏保守候选.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "a26f4e16a1a7e70e4fb10c80ef02825361ada9efebe4c47bbb72c4b47c9b1abd"
+    },
+    {
+      "file": "知夏-未来日常饰品01-分解图.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "f342b95287a16debeb41bc5d807a23ec6b22d868f5b4090edb20a87281b561e6"
+    }
+  ],
+  "source": "校服14",
+  "proposed_accessories": 4
+}

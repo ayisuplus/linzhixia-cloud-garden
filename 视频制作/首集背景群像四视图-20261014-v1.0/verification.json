@@ -1,0 +1,86 @@
+{
+  "sheets": 5,
+  "independent_views": 20,
+  "checks": [
+    {
+      "id": "EP01-BG-001",
+      "name": "学院女生",
+      "sheet_size": [
+        2098,
+        749
+      ],
+      "sheet_sha256": "0613700886fcfd4bc3ad8e6c4299387197422c73c9a048e7421f5ee0dbbb1082",
+      "source_copy_match": true,
+      "crop_pixel_matches": 4,
+      "cuts": [
+        690,
+        970,
+        1760
+      ]
+    },
+    {
+      "id": "EP01-BG-002",
+      "name": "学院男生",
+      "sheet_size": [
+        2098,
+        749
+      ],
+      "sheet_sha256": "c0b6f3db6af4d30c30ce443cc08a2c04f3fe0a27d7c96bac10e596f9c2ee7f69",
+      "source_copy_match": true,
+      "crop_pixel_matches": 4,
+      "cuts": [
+        690,
+        970,
+        1760
+      ]
+    },
+    {
+      "id": "EP01-BG-003",
+      "name": "生活园女居民",
+      "sheet_size": [
+        2098,
+        749
+      ],
+      "sheet_sha256": "0fbe047b9ebbbba4941faab93d30f8ea521d255a37c039c15a6925b70d56aa7f",
+      "source_copy_match": true,
+      "crop_pixel_matches": 4,
+      "cuts": [
+        690,
+        970,
+        1760
+      ]
+    },
+    {
+      "id": "EP01-BG-004",
+      "name": "手艺园男活动者",
+      "sheet_size": [
+        2098,
+        749
+      ],
+      "sheet_sha256": "8c87ead1b3e9ab6effea1e07f7a89afc4065956dfb24eeeb7bcb48d3254fe7c3",
+      "source_copy_match": true,
+      "crop_pixel_matches": 4,
+      "cuts": [
+        690,
+        970,
+        1760
+      ]
+    },
+    {
+      "id": "EP01-BG-005",
+      "name": "人工生命居民",
+      "sheet_size": [
+        2098,
+        749
+      ],
+      "sheet_sha256": "c95c6640307d36db2dab7a5cab67fbcc9a25e0367fdd906fceee314fe7217789",
+      "source_copy_match": true,
+      "crop_pixel_matches": 4,
+      "cuts": [
+        690,
+        970,
+        1760
+      ]
+    }
+  ]
+}

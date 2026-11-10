@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-13",
+  "identityReference": "../知夏便服精修-20261012-v0.1/知夏-便服07-花绣与玉坠.png",
+  "assets": [
+    {
+      "file": "知夏-睡衣11-胸前锦鲤荷花-杂纹待修.png",
+      "status": "intermediate_artifacts_remain",
+      "sha256": "3be92407ad86d1995279264f6d6f387213d8652177de2a0a9b965781e38f7428",
+      "bytes": 1690578,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "知夏-睡衣12-胸前锦鲤荷花-面容与杂纹修正.png",
+      "status": "candidate_author_review_pending",
+      "sha256": "c50d4d98a6a877c6ac53bd6cdd383655e5d4860dfa17f05a1687819c4c6eb331",
+      "bytes": 1674257,
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "original12": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-15a26670-9abe-45fc-8dcd-1ba7e799d3d3.png",
+  "allOtherCostumesCorrected": false
+}

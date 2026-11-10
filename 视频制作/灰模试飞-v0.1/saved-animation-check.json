@@ -1,0 +1,11 @@
+{
+  "samples": 959,
+  "spacing_frames": 0.5,
+  "actual_saved_animation": true,
+  "static_AABB_collisions": [],
+  "camera_to_drone_center_occlusions": [],
+  "minimum_camera_subject_distance_m": 9.22,
+  "bridge_envelope_top_clearance_m": 3.104,
+  "max_rotation_degrees_per_half_frame_excluding_cut": 1.529,
+  "limits": "Static graybox only; center visibility is not whole-silhouette visibility; dense sampling is not continuous swept-volume proof. Wind, braking, water, final architecture and human comfort not validated."
+}

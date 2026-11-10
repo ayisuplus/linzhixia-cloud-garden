@@ -1,0 +1,33 @@
+{
+  "files": {
+    "cloud-hamlet-masterplan-v11.blend": {
+      "bytes": 6639201,
+      "sha256": "078ea53ebb4272c6780dc52e8f942441a71b71eb1761014844c82aa8bc54037c"
+    },
+    "cloud-hamlet-route-58s-v11.blend": {
+      "bytes": 6803587,
+      "sha256": "a10778091367c98000f9d9b0ba43b87eb0f1f6a8ffa4274069eb157c0d0743f3"
+    },
+    "cloud-hamlet-flight-58s-v11.mp4": {
+      "bytes": 7034999,
+      "sha256": "707be95f55fd8ef591b214f5d8f3534015b6381a2464d32be4877ce93a9e35b2"
+    },
+    "batch-A-00-30.mp4": {
+      "bytes": 3653923,
+      "sha256": "8ccce0938bdaa0bb2d15e9eda8c5d1908ecb5c488f63d30a0e01efabd2448da4"
+    },
+    "batch-B-28-58.mp4": {
+      "bytes": 3435350,
+      "sha256": "1d945dbd1288fc590a9ca9475117c89ede38f8ece1da02662aa59d8120e8b331"
+    },
+    "route-poses.json": {
+      "bytes": 295957,
+      "sha256": "26d80f81589e1d393baa759e0e3daf9d6fefc79d241513d9c124d3849e8593ba"
+    },
+    "landscape-data.json": {
+      "bytes": 540779,
+      "sha256": "19143db4a7f29f961959c447d1fc54207f3a4b855b9c9c8f8c9f373ad0cb9c55"
+    }
+  },
+  "source_v10_sha256": "85daea84928dd29e9f97ee752c534fa1fd33e284c308159f789f0fa9a91912a1"
+}

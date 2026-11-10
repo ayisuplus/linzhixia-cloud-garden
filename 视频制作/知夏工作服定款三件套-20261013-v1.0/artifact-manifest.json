@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-13",
+  "source_author_approved": true,
+  "source": {
+    "file": "知夏-工作服定款16-参考原图.png",
+    "sha256": "a09926e7be60c74a68061e590e4eea139af86d372553bc9fe2ba89443f24a1d1"
+  },
+  "artifacts": [
+    {
+      "file": "知夏-工作服四视图-v1.0-初稿.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-63a1b3f8-fcc9-4091-a58d-470bc0916294.png",
+      "sha256": "05b8ae7cf9a4546fbb8cfc25477493a449943d3b8c19fb039c074f92ee820a6f",
+      "size": [
+        1683,
+        935
+      ],
+      "copy_verified": true,
+      "status": "superseded_initial"
+    },
+    {
+      "file": "知夏-工作服四视图-v1.0.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-a532b4be-359b-461c-95a6-15e555e10cb1.png",
+      "sha256": "de0a634d43f439d66c68c3e6962ed7b421ce0e242052b0672d6e96af9d11fb95",
+      "size": [
+        1682,
+        935
+      ],
+      "copy_verified": true,
+      "status": "generated_pending_author_review"
+    },
+    {
+      "file": "知夏-工作服穿搭分解-v1.0.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-a159935b-2526-4f2f-b87c-da28adaed54d.png",
+      "sha256": "1f4d20adfef6740dbe61b061f6d9a240436d22ecc975f176d44e91daaad5a2cc",
+      "size": [
+        1536,
+        1024
+      ],
+      "copy_verified": true,
+      "status": "generated_pending_author_review"
+    },
+    {
+      "file": "知夏-工作服妆造分解-v1.0.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-873a2fa4-9a56-4c69-aff5-4308346c0b41.png",
+      "sha256": "32f60fa0a01ce2d093cbaf11347c11cb9865305d3a2bf0e90e5a666fe173756c",
+      "size": [
+        1536,
+        1024
+      ],
+      "copy_verified": true,
+      "status": "generated_pending_author_review"
+    }
+  ],
+  "crops_verified": 4,
+  "crop_operation": "original-pixel crop only",
+  "visual_review": "Four separate views complete; back apron removed; sparse socks and floral boots retained; inferred back and hidden construction pending author review."
+}

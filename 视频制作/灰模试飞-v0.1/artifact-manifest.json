@@ -1,0 +1,75 @@
+{
+  "status": "candidate_pending_author_review",
+  "date": "2026-10-10",
+  "tools": [
+    "Blender 5.1.0",
+    "game-dev 1.0.2 discovery/doctor",
+    "FFmpeg local",
+    "built-in imagegen"
+  ],
+  "source_route": "第一季/制作/空间规划/无人机航线-v0.1.json",
+  "source_route_sha256": "4A79983B6579D4FABBEEAA561AA2BDB4E47FB300BDC072DC0B15F04520442F46",
+  "images": [
+    {
+      "file": "waterfall-2d-background-v01.png",
+      "generator_output": "exec-9041b459-dca7-40ea-8184-886ea470993d.png",
+      "reference": "02-waterfall.png",
+      "intent": "Graybox layout repainted as bright 2D Chinese garden anime; drone removed; spatial silhouettes approximately retained; new art details are unapproved."
+    },
+    {
+      "file": "drone-2d-sprite-v01.png",
+      "generator_output": "exec-85b34fd4-1f97-420c-a509-67b23c95abd2.png",
+      "reference": "02-waterfall.png",
+      "intent": "Single transparent 2D cel: four guarded rotors, rigid tray, tied brown parcel; provisional vehicle design."
+    }
+  ],
+  "review": "Independent adversarial review: camera crossing fixed with explicit cut; quaternion interpolation fixed; final review has no delivery blockers. Brushwork uniformity remains pending.",
+  "cloud_video_generation": "not_called",
+  "artifacts": [
+    {
+      "file": "garden-route-v01.blend",
+      "bytes": 404764,
+      "sha256": "8817C3256F05C2E8133C26CED3ECF196E459B66399F778E5DDE1F6DF5E6131B1"
+    },
+    {
+      "file": "waterfall-2d-layout-v01.blend",
+      "bytes": 3633795,
+      "sha256": "43C08DBF89A09E8E00050A6F938EA94EC0A9B3B6A263BF5BC4D8C4EDFDF5047E"
+    },
+    {
+      "file": "overview.png",
+      "bytes": 1009292,
+      "sha256": "1EB5C6F6792A4D974AC76910696ED5C12DDC9C31010C296C1B5D515A7D91D455"
+    },
+    {
+      "file": "02-waterfall.png",
+      "bytes": 1007688,
+      "sha256": "73666DCDB77F7C8F1BD2B38EC14A74ADA6F1E50F40155289C3614A63F3A58B26"
+    },
+    {
+      "file": "waterfall-2d-background-v01.png",
+      "bytes": 2150898,
+      "sha256": "B63445F87C7DF4B770387C408EEDDD54177F7B057C3AA9FBF476918BDDCACBA1"
+    },
+    {
+      "file": "drone-2d-sprite-v01.png",
+      "bytes": 1490934,
+      "sha256": "89D5A2F35F68C51836AF29C9C383E9387AC5FE01A23175630E32C0A228071055"
+    },
+    {
+      "file": "style-shot-preview.png",
+      "bytes": 1512172,
+      "sha256": "09C8FCE742AF2A036B1D84B5041654D41BC2DB02C91700CFECC2951CD379972E"
+    },
+    {
+      "file": "flight-gray-v01.mp4",
+      "bytes": 2034944,
+      "sha256": "7469CB76C06441883C40B67E55BDAEE32699D75090825F33F47F0C1C0FB1E81D"
+    },
+    {
+      "file": "waterfall-2d-test-v01.mp4",
+      "bytes": 855847,
+      "sha256": "1DBC28B3F222B7E38DA344EDFF42240AB666E245F38FDCA1ABF36B7FB6FA7D56"
+    }
+  ]
+}

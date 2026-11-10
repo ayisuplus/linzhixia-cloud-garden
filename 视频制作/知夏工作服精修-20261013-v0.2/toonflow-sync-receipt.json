@@ -1,0 +1,34 @@
+{
+  "target": {
+    "connectionId": "f617bd89-16e6-4e7b-8725-4b5116956896",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "人物设计.json"
+  },
+  "imageNode": "c455f089-bac0-4478-baac-b8de56c201ff",
+  "textNode": "61d2b136-735a-440b-9a10-c5f20ff19397",
+  "promptMatches": true,
+  "image": {
+    "details": {
+      "canvasId": "人物设计.json",
+      "nodes": [
+        {
+          "id": "c455f089-bac0-4478-baac-b8de56c201ff",
+          "label": "知夏｜工作服12｜水彩泼墨围腰裙·候选",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏工作服精修-20261013-v0.2/知夏-工作服12-水彩泼墨围腰裙.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        }
+      ],
+      "hasMore": false,
+      "nextCursor": null
+    }
+  }
+}

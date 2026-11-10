@@ -1,0 +1,354 @@
+{
+  "date": "2026-10-13",
+  "canvas": {
+    "connectionId": "f617bd89-16e6-4e7b-8725-4b5116956896",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "人物设计.json"
+  },
+  "nodeCount": 40,
+  "images": [
+    {
+      "nodeId": "1002d4da-b0b5-4f18-90d6-c8eea800cf13",
+      "file": "人物一致性修复-20261013-v1.0/01-便服/00-主图.png",
+      "verified": true
+    },
+    {
+      "nodeId": "0c97b941-3abf-47e1-b4c3-9f13421f59f2",
+      "file": "人物一致性修复-20261013-v1.0/01-便服/01-四视图.png",
+      "verified": true
+    },
+    {
+      "nodeId": "a5add4f1-b71b-4c5c-a01e-193ceb327b17",
+      "file": "人物一致性修复-20261013-v1.0/01-便服/02-穿搭分解.png",
+      "verified": true
+    },
+    {
+      "nodeId": "557bd6be-cf1b-4322-90c9-d768eee418e5",
+      "file": "人物一致性修复-20261013-v1.0/01-便服/03-妆造分解.png",
+      "verified": true
+    },
+    {
+      "nodeId": "585c3c43-1fb4-448b-b5e8-cb37329d5bf7",
+      "file": "人物一致性修复-20261013-v1.0/01-便服/独立视图/01_front-half.png",
+      "verified": true
+    },
+    {
+      "nodeId": "8ad173dc-d4f5-49a9-b73c-d89b1d038509",
+      "file": "人物一致性修复-20261013-v1.0/01-便服/独立视图/02_facing-left.png",
+      "verified": true
+    },
+    {
+      "nodeId": "82deced8-ee9e-4e47-9b62-36459ed90a21",
+      "file": "人物一致性修复-20261013-v1.0/01-便服/独立视图/03_back.png",
+      "verified": true
+    },
+    {
+      "nodeId": "c6d77b9c-4a1e-4539-adca-e631228bd824",
+      "file": "人物一致性修复-20261013-v1.0/01-便服/独立视图/04_facing-right.png",
+      "verified": true
+    },
+    {
+      "nodeId": "688a3066-dd1e-4c59-8121-b9d3f1038086",
+      "file": "人物一致性修复-20261013-v1.0/02-校服/00-主图.png",
+      "verified": true
+    },
+    {
+      "nodeId": "244f528e-e010-410b-a281-b46508836a52",
+      "file": "人物一致性修复-20261013-v1.0/02-校服/01-四视图.png",
+      "verified": true
+    },
+    {
+      "nodeId": "a9c56ed1-34cf-458d-97c4-4f85890ba7c5",
+      "file": "人物一致性修复-20261013-v1.0/02-校服/02-穿搭分解.png",
+      "verified": true
+    },
+    {
+      "nodeId": "0b2da0a3-ffc9-4f21-b7b7-cceb5f575518",
+      "file": "人物一致性修复-20261013-v1.0/02-校服/03-妆造分解.png",
+      "verified": true
+    },
+    {
+      "nodeId": "3674851b-cce2-485e-837a-1c6ff0846fe7",
+      "file": "人物一致性修复-20261013-v1.0/02-校服/独立视图/01_front-half.png",
+      "verified": true
+    },
+    {
+      "nodeId": "7d33c49a-8c63-4e28-b369-87fe69b203d4",
+      "file": "人物一致性修复-20261013-v1.0/02-校服/独立视图/02_facing-left.png",
+      "verified": true
+    },
+    {
+      "nodeId": "01365051-b615-4e8f-816d-91864ab48bf5",
+      "file": "人物一致性修复-20261013-v1.0/02-校服/独立视图/03_back.png",
+      "verified": true
+    },
+    {
+      "nodeId": "ae769e11-9463-4e21-9a11-52f9234660aa",
+      "file": "人物一致性修复-20261013-v1.0/02-校服/独立视图/04_facing-right.png",
+      "verified": true
+    },
+    {
+      "nodeId": "cb3751cf-8dd5-4c4d-81d6-83b0e7ce7ee5",
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/00-主图.png",
+      "verified": true
+    },
+    {
+      "nodeId": "0cfff1da-4182-4bb2-8dd0-99f8acf3a014",
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/01-四视图.png",
+      "verified": true
+    },
+    {
+      "nodeId": "ce24a004-df3e-4873-b39f-d4c062bd8107",
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/02-穿搭分解.png",
+      "verified": true
+    },
+    {
+      "nodeId": "7bf01b1d-7a0f-4272-a9a8-0edcfc4f5814",
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/03-妆造分解.png",
+      "verified": true
+    },
+    {
+      "nodeId": "acfed110-a374-4e4e-80b7-ede443d2429c",
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/独立视图/01_front-half.png",
+      "verified": true
+    },
+    {
+      "nodeId": "dd747961-a1d0-4b8a-b903-2c68e45d22db",
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/独立视图/02_facing-left.png",
+      "verified": true
+    },
+    {
+      "nodeId": "f4ffa82f-746e-4dc5-b0a8-b506aa16291b",
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/独立视图/03_back.png",
+      "verified": true
+    },
+    {
+      "nodeId": "bc9d8544-4e81-4789-907c-e3be45c995c1",
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/独立视图/04_facing-right.png",
+      "verified": true
+    },
+    {
+      "nodeId": "cf794101-58af-4a04-bb6e-e079283e4eda",
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/00-主图.png",
+      "verified": true
+    },
+    {
+      "nodeId": "6c40f166-ad8c-4fe3-a395-aee7cad4d210",
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/01-四视图.png",
+      "verified": true
+    },
+    {
+      "nodeId": "6fac9049-176f-4104-9184-9c367f873e89",
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/02-穿搭分解.png",
+      "verified": true
+    },
+    {
+      "nodeId": "56e02cb6-b54d-4d1e-926c-f283cb8d80b5",
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/03-妆造分解.png",
+      "verified": true
+    },
+    {
+      "nodeId": "78c32ab7-61ab-4427-90f5-e80088cd9a3b",
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/独立视图/01_front-half.png",
+      "verified": true
+    },
+    {
+      "nodeId": "9d84158c-a8ad-4233-910d-174ee7f10e0e",
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/独立视图/02_facing-left.png",
+      "verified": true
+    },
+    {
+      "nodeId": "499b81df-7963-4efd-ad23-772a69629891",
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/独立视图/03_back.png",
+      "verified": true
+    },
+    {
+      "nodeId": "69878fa2-51df-445a-8ec1-5531123a2df9",
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/独立视图/04_facing-right.png",
+      "verified": true
+    },
+    {
+      "nodeId": "810871b8-5d19-41c8-8156-261d3795f018",
+      "file": "主角定稿素材-20261013/00-面容依据/面容主参考-便服07.png",
+      "verified": true
+    },
+    {
+      "nodeId": "96f507ba-3814-487b-9071-aae5b0221c41",
+      "file": "主角定稿素材-20261013/05-场景参考/01-半园卧室02.png",
+      "verified": true
+    },
+    {
+      "nodeId": "e0ed5a1a-3f63-442e-9c06-2027b343179c",
+      "file": "主角定稿素材-20261013/05-场景参考/02-半园修复工坊03.png",
+      "verified": true
+    }
+  ],
+  "textCount": 5,
+  "library": [
+    {
+      "file": "人物一致性修复-20261013-v1.0/01-便服/00-主图.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/01-便服/00-主图.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/01-便服/01-四视图.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/01-便服/01-四视图.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/01-便服/02-穿搭分解.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/01-便服/02-穿搭分解.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/01-便服/03-妆造分解.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/01-便服/03-妆造分解.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/01-便服/独立视图/01_front-half.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/01-便服/独立视图/01_front-half.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/01-便服/独立视图/02_facing-left.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/01-便服/独立视图/02_facing-left.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/01-便服/独立视图/03_back.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/01-便服/独立视图/03_back.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/01-便服/独立视图/04_facing-right.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/01-便服/独立视图/04_facing-right.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/02-校服/00-主图.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/02-校服/00-主图.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/02-校服/01-四视图.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/02-校服/01-四视图.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/02-校服/02-穿搭分解.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/02-校服/02-穿搭分解.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/02-校服/03-妆造分解.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/02-校服/03-妆造分解.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/02-校服/独立视图/01_front-half.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/02-校服/独立视图/01_front-half.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/02-校服/独立视图/02_facing-left.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/02-校服/独立视图/02_facing-left.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/02-校服/独立视图/03_back.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/02-校服/独立视图/03_back.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/02-校服/独立视图/04_facing-right.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/02-校服/独立视图/04_facing-right.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/00-主图.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/03-睡衣/00-主图.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/01-四视图.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/03-睡衣/01-四视图.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/02-穿搭分解.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/03-睡衣/02-穿搭分解.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/03-妆造分解.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/03-睡衣/03-妆造分解.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/独立视图/01_front-half.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/03-睡衣/独立视图/01_front-half.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/独立视图/02_facing-left.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/03-睡衣/独立视图/02_facing-left.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/独立视图/03_back.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/03-睡衣/独立视图/03_back.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/03-睡衣/独立视图/04_facing-right.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/03-睡衣/独立视图/04_facing-right.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/00-主图.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/04-工作服/00-主图.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/01-四视图.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/04-工作服/01-四视图.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/02-穿搭分解.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/04-工作服/02-穿搭分解.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/03-妆造分解.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/04-工作服/03-妆造分解.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/独立视图/01_front-half.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/04-工作服/独立视图/01_front-half.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/独立视图/02_facing-left.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/04-工作服/独立视图/02_facing-left.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/独立视图/03_back.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/04-工作服/独立视图/03_back.png",
+      "byteExact": true
+    },
+    {
+      "file": "人物一致性修复-20261013-v1.0/04-工作服/独立视图/04_facing-right.png",
+      "libraryPath": "未来女孩林知夏-当前可用素材/一致性修复-v1.0/04-工作服/独立视图/04_facing-right.png",
+      "byteExact": true
+    }
+  ],
+  "historicalCanvasPreserved": {
+    "name": "人物设计-修复前-20261013.json",
+    "nodeCount": 40
+  },
+  "reopenedAndReadBack": true
+}

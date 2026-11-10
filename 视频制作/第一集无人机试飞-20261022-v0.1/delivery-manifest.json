@@ -1,0 +1,136 @@
+{
+  "artifact": "episode1-drone-rehearsal-v01",
+  "source_sha256": "a03be2c7c570160e994a2ab1a6aebe3d24f8e85faad087117151f67f017f25d7",
+  "encoding": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.64001f",
+        "width": 960,
+        "height": 540,
+        "coded_width": 960,
+        "coded_height": 540,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 31,
+        "color_range": "tv",
+        "color_transfer": "iec61966-2-1",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 294912,
+        "duration": "24.000000",
+        "bit_rate": "943145",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "576",
+        "extradata_size": 51,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc62.28.100 libx264"
+        }
+      }
+    ],
+    "format": {
+      "filename": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集无人机试飞-20261022-v0.1\\drone-garden-flight-v01.mp4",
+      "nb_streams": 1,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "24.000000",
+      "size": "2837245",
+      "bit_rate": "945748",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.12.100"
+      }
+    }
+  },
+  "all_pngs_decodable": true,
+  "video_full_decode_pass": true,
+  "frames_sha256": "192824039eae06ccfbdbe8cc7835b8b0cf0fd8275c47e0705593d51a74ecd7be",
+  "files": [
+    {
+      "path": "episode1-drone-rehearsal-v01.blend",
+      "bytes": 30684366,
+      "sha256": "47cf60dbfe3a4853461068291b668bf33b2b65e1cfec922e0ffc57b219c545bd"
+    },
+    {
+      "path": "drone-garden-flight-v01.mp4",
+      "bytes": 2837245,
+      "sha256": "23670497154d26b23dcb186a0e8c6f5377c0d4bc812250290edd586d48f78663"
+    },
+    {
+      "path": "flight-checks.json",
+      "bytes": 339234,
+      "sha256": "d89bd3d123c656981e94ff04bf49ca64695eaabedcd38a15513252fd0d34776a"
+    },
+    {
+      "path": "flight-contact-sheet.jpg",
+      "bytes": 194870,
+      "sha256": "f8676fc23e1f00a3a93791d13ebd1a7d2049b012f35ae31750e619a20a1dd8eb"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2658,
+      "sha256": "d6031a5113182737422f406f1045d77b4b2ec1cd453b322bab2ab99d49f4daa5"
+    },
+    {
+      "path": "review.html",
+      "bytes": 1734,
+      "sha256": "c6837ed99698d02a62f21864ab87726cc898bb62e18c4234a224d7673295636d"
+    },
+    {
+      "path": "review-notes.md",
+      "bytes": 939,
+      "sha256": "3d634387e5dbb7f71178e484bd2dbe2e997db5b6b3899509559e32d202f78805"
+    }
+  ],
+  "playback_check": {
+    "ffmpeg_full_decode": "passed",
+    "in_app_browser": "file URL blocked by browser policy; not claimed as tested playback",
+    "delivery": "local MP4 embedded in chat"
+  }
+}

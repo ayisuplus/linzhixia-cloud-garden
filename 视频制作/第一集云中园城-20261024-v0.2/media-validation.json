@@ -1,0 +1,79 @@
+{
+  "frames": 1392,
+  "dimensions": [
+    960,
+    540
+  ],
+  "fps": 24,
+  "interpolated": false,
+  "all_pngs_decoded": true,
+  "videos": [
+    {
+      "file": "cloud-city-full-flight-58s-v04.mp4",
+      "source_start_frame": 1,
+      "source_end_frame": 1392,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 960,
+            "height": 540,
+            "avg_frame_rate": "24/1",
+            "nb_frames": "1392"
+          }
+        ],
+        "format": {
+          "duration": "58.000000"
+        }
+      },
+      "full_decode": "passed"
+    },
+    {
+      "file": "B01-cloud-city-0-30s.mp4",
+      "source_start_frame": 1,
+      "source_end_frame": 720,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 960,
+            "height": 540,
+            "avg_frame_rate": "24/1",
+            "nb_frames": "720"
+          }
+        ],
+        "format": {
+          "duration": "30.000000"
+        }
+      },
+      "full_decode": "passed"
+    },
+    {
+      "file": "B02-cloud-city-28-58s.mp4",
+      "source_start_frame": 673,
+      "source_end_frame": 1392,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 960,
+            "height": 540,
+            "avg_frame_rate": "24/1",
+            "nb_frames": "720"
+          }
+        ],
+        "format": {
+          "duration": "30.000000"
+        }
+      },
+      "full_decode": "passed"
+    }
+  ],
+  "minimum_thumbnail_std": 8.292405399372887
+}

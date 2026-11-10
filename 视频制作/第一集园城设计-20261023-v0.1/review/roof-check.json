@@ -1,0 +1,113 @@
+{
+  "roof_intersections": [
+    [
+      "Refined Learning garden roof curved tiled roof",
+      "Refined Learning garden roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Learning garden roof.001 curved tiled roof",
+      "Refined Learning garden roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Learning garden roof.003 curved tiled roof",
+      "Refined Learning garden roof.005 curved tiled roof"
+    ],
+    [
+      "Refined Learning garden roof.004 curved tiled roof",
+      "Refined Learning garden roof.005 curved tiled roof"
+    ],
+    [
+      "Refined Upper east court roof curved tiled roof",
+      "Refined Upper east court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Upper east court roof.001 curved tiled roof",
+      "Refined Upper east court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Upper west court roof curved tiled roof",
+      "Refined Upper west court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Upper west court roof.001 curved tiled roof",
+      "Refined Upper west court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Middle dwelling court roof curved tiled roof",
+      "Refined Middle dwelling court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Middle dwelling court roof.001 curved tiled roof",
+      "Refined Middle dwelling court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Lower east court roof curved tiled roof",
+      "Refined Lower east court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Lower east court roof.001 curved tiled roof",
+      "Refined Lower east court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Lower west court roof curved tiled roof",
+      "Refined Lower west court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Lower west court roof.001 curved tiled roof",
+      "Refined Lower west court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined West quiet court roof curved tiled roof",
+      "Refined West quiet court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined West quiet court roof.001 curved tiled roof",
+      "Refined West quiet court roof.002 curved tiled roof"
+    ],
+    [
+      "Academy north study principal hall curved tiled roof",
+      "Academy north study side study curved tiled roof"
+    ],
+    [
+      "Academy west study principal hall curved tiled roof",
+      "Academy west study side study curved tiled roof"
+    ],
+    [
+      "Upper west annex principal hall curved tiled roof",
+      "Upper west annex side study curved tiled roof"
+    ],
+    [
+      "Upper east annex principal hall curved tiled roof",
+      "Upper east annex side study curved tiled roof"
+    ],
+    [
+      "Middle south court principal hall curved tiled roof",
+      "Middle south court side study curved tiled roof"
+    ],
+    [
+      "Middle north study principal hall curved tiled roof",
+      "Middle north study side study curved tiled roof"
+    ],
+    [
+      "Quiet west study principal hall curved tiled roof",
+      "Quiet west study side study curved tiled roof"
+    ],
+    [
+      "Quiet east residence principal hall curved tiled roof",
+      "Quiet east residence side study curved tiled roof"
+    ],
+    [
+      "East waterside court principal hall curved tiled roof",
+      "East waterside court side study curved tiled roof"
+    ],
+    [
+      "West bamboo court principal hall curved tiled roof",
+      "West bamboo court side study curved tiled roof"
+    ]
+  ],
+  "residual_above_new_roofs": [],
+  "limits": [
+    "Roof intersection list includes potentially intended principal/side-building junctions; inspect by architectural intent.",
+    "Residual test uses bounding center/top against nearest refined roof; geometry screening, not rendered review."
+  ]
+}

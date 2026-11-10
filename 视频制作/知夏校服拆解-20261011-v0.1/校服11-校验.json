@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-11",
+  "generator": "built-in imagegen",
+  "status": "pending_author_review",
+  "identity_source": "知夏-校服10-轻薄丝纱长袜.png",
+  "identity_source_sha256": "ac9370a197befdca68c8e6e7f3cfd105fdee35966ebf07b759ac32c4f0eafa52",
+  "outputs": [
+    {
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1298f-9773-7933-997e-fe2b6ee36209\\exec-1e05ec96-8fa7-4736-82f8-c73a5a51516f.png",
+      "output": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\知夏校服拆解-20261011-v0.1\\知夏-纱罗长袜01-单品与面料.png",
+      "sha256": "ac73fa58119f93c0d3645bbce304e373e54cfc3dc801940a0ec389140f466abe",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "copy_verified": true
+    },
+    {
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1298f-9773-7933-997e-fe2b6ee36209\\exec-be56bc72-9636-4075-95db-5043760f59e1.png",
+      "output": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服11-纱罗裁片长袜.png",
+      "sha256": "503e4b6760beb06e8f433dc8850d7af68e9fd4ae27ecca61be8f46ae534d2355",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "copy_verified": true
+    }
+  ],
+  "canvas_node_ids": [
+    "23b737ec-aa8d-451e-aa7c-ff0d1f01e69d",
+    "29a47e8e-a4c2-4711-bb48-122d60f05fb0",
+    "c334987d-9bc8-43e9-bfa0-6a79c9cca6db"
+  ]
+}

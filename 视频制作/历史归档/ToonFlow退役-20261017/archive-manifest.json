@@ -1,0 +1,3651 @@
+{
+  "created": "2026-10-17",
+  "scope": "本项目四张画布、全部节点文本目录及画布直接引用的本地素材与邻近来源文档；不代表全项目备份",
+  "canvases": {
+    "人物设计-修复前-20261013.json": 40,
+    "人物设计-历史过程-20261013.json": 59,
+    "人物设计.json": 85,
+    "场景设计-半园两岸-20261014.json": 93
+  },
+  "files": [
+    {
+      "path": "视频制作/assets/0193bc60-186c-4aac-959f-82059f2a9326/content.md",
+      "bytes": 2875,
+      "sha256": "7bc84e5f2e114e9cefb49f0e3d1806bf7729316f4417bc235982cc6b0a3784ba"
+    },
+    {
+      "path": "视频制作/assets/01b92c51-748c-4f18-b602-681b5c94d545/content.md",
+      "bytes": 9126,
+      "sha256": "658419e142aba4882e5bc9105fd8efeee4c1477ec4b40022c4ef866337927b8b"
+    },
+    {
+      "path": "视频制作/assets/04840f84-346b-46d4-907c-b85728d5648b/content.md",
+      "bytes": 1510,
+      "sha256": "e3210a00bbd87ca7c00a0ef3b3dbc3609d751ab6e88d611d40945e049ef7f3a0"
+    },
+    {
+      "path": "视频制作/assets/05295130-84ed-46e8-85d1-20271fc688a1/content.md",
+      "bytes": 3900,
+      "sha256": "9b2616c0143cc57fd1cb6efe8ee14d6e36dd437bb3a27fcb55d0f3bfe56b2358"
+    },
+    {
+      "path": "视频制作/assets/055f11f4-2007-4007-8155-c3aec839ee96/content.md",
+      "bytes": 3330,
+      "sha256": "16e7872657c6ef6fc07cb47fcaabf09f04b624190a73e350ee158e739eecca74"
+    },
+    {
+      "path": "视频制作/assets/05edf015-1b97-49b7-90d6-8090756bafe5/content.md",
+      "bytes": 729,
+      "sha256": "d68bdbc793fcbd26860386fe3b3b2106fc75e9ec39f5a9534b11ce5dd03f17d5"
+    },
+    {
+      "path": "视频制作/assets/07f7dba7-79ba-4398-b2f0-404eb60c84ef/content.md",
+      "bytes": 2448,
+      "sha256": "7dccff6d538d91950a7a5d042bd7bc7b813b6e363f78cf10923b7c58417eae39"
+    },
+    {
+      "path": "视频制作/assets/0be61c97-68fe-4968-8dd9-abe7a04fa562/content.md",
+      "bytes": 9157,
+      "sha256": "edcab2ee9c41bfb6364d3f98e7be2c366af91ed66175d19b0b529513f51f5ef0"
+    },
+    {
+      "path": "视频制作/assets/0e152b64-0e18-4ba3-bb4e-661ce518ad39/content.md",
+      "bytes": 2590,
+      "sha256": "43ac1c1d42200188718140ab7db803934911521b86667f66c1332baf4da14684"
+    },
+    {
+      "path": "视频制作/assets/0e1bf2b7-30cb-4564-b097-b9769e1a8bbe/content.md",
+      "bytes": 2804,
+      "sha256": "48890ae7e5d174d14b10eeb600fc2a17c4fe5ce0d9afc011697f88f94dd738d5"
+    },
+    {
+      "path": "视频制作/assets/0e666157-c699-47aa-80d3-fb1cbc351f08/content.md",
+      "bytes": 3907,
+      "sha256": "9157713c1c26a4c4951dd1ef33964ca39ebc96f05bc7eb209ef436776da5885d"
+    },
+    {
+      "path": "视频制作/assets/107b62fb-5823-4c8d-8c7f-804ee03eae83/content.md",
+      "bytes": 2453,
+      "sha256": "7a82b2e6f8621e977f12f0945b7a6ca743d1e5a3571a847685a7731e474ab418"
+    },
+    {
+      "path": "视频制作/assets/182ee7e6-caf2-4b43-9eb4-868b158ef939/content.md",
+      "bytes": 1594,
+      "sha256": "ea7fd54c417c01464aa156ec140c9636364be843b9632df094a6093008aa88df"
+    },
+    {
+      "path": "视频制作/assets/1862d0d9-d0df-4570-bb98-bdb3e74148c8/content.md",
+      "bytes": 2049,
+      "sha256": "8da13bb639fd606bbc2177fbbd2adc892c34f39ca256c46c1ef9c531f21e53d9"
+    },
+    {
+      "path": "视频制作/assets/18c7a8e5-199b-4614-b50b-2e9d5883d1be/content.md",
+      "bytes": 2187,
+      "sha256": "a9e53b07ddaf9f7f3b91a7333d19ad9a2168189b8ede847894d2f964599ae9ee"
+    },
+    {
+      "path": "视频制作/assets/1a0a884b-5727-4655-b6ce-041dbbebf5dc/content.md",
+      "bytes": 1587,
+      "sha256": "a1fb77a3d1615e9192fdcb0de2d2e2b1287893946f627511c817731bbb012de0"
+    },
+    {
+      "path": "视频制作/assets/1a379660-80ad-48c5-b53a-d10001f5dab7/content.md",
+      "bytes": 2845,
+      "sha256": "9a5956844d5ffd1003f01cfcb4452d4b5f8860f9947f9139673a726ae40a9bbd"
+    },
+    {
+      "path": "视频制作/assets/1a8c7448-8f5b-491f-80f0-e3a8ab8b7c9c/content.md",
+      "bytes": 3618,
+      "sha256": "532b17287bc7c956032a4da2e4ef415ea9fc47b282c780c96fefba3bced0b65a"
+    },
+    {
+      "path": "视频制作/assets/2382393d-9bf5-4d72-95ea-7a2292fe2ca9/content.md",
+      "bytes": 5567,
+      "sha256": "2253cef7e6b049b9838a6f8c11ecce04d0c81485eeab778453fe2abb99f7aef9"
+    },
+    {
+      "path": "视频制作/assets/24297983-3748-4d9e-83d9-0159cb37197f/content.md",
+      "bytes": 3416,
+      "sha256": "1145d7fd6990721aa5c69474101600f5916d1c1ff240856a0da68e397d204e84"
+    },
+    {
+      "path": "视频制作/assets/2447acac-69db-4d6c-bffd-09d978557b64/content.md",
+      "bytes": 1804,
+      "sha256": "e81be60db5037b87658c8d048523cc53658ed0186ec3b66cc3d3da2f9724a0ba"
+    },
+    {
+      "path": "视频制作/assets/2466065e-c397-4512-aaea-f42afe70f368/content.md",
+      "bytes": 1177,
+      "sha256": "098f3e1782224fec4cef0c46914f9f7e558b9fc12b9d1722190c3c4bde20b2eb"
+    },
+    {
+      "path": "视频制作/assets/266446ce-5440-4d37-981e-1a41378a9622/content.md",
+      "bytes": 1769,
+      "sha256": "2a40d7290ddeed013632d561aa41d6d99cb64b2862eec6bb1e23b8000a5550dc"
+    },
+    {
+      "path": "视频制作/assets/28a9ea26-89a5-4d00-8f95-ae2db6fc78a7/content.md",
+      "bytes": 3091,
+      "sha256": "2c6ede496b36d019886e181c81d7a9d97c6ad3114e01c5e7c66b8e2a047749e6"
+    },
+    {
+      "path": "视频制作/assets/2d346ec0-3202-4969-b49d-d653d909d9f3/content.md",
+      "bytes": 1301,
+      "sha256": "a0a5913cce640ead1b380a684f0e557d9003ae1235643e38f6ffd9cdfa9c67d3"
+    },
+    {
+      "path": "视频制作/assets/2d5b24f1-45e8-48c6-a607-d6e9dede0d4b/content.md",
+      "bytes": 3500,
+      "sha256": "4d4e1abcccc846b270437584ae43aae5ea48ac00987ed4578dbd2f69538c222b"
+    },
+    {
+      "path": "视频制作/assets/30f12a19-17f5-4ccc-b14b-3146db81ba67/content.md",
+      "bytes": 7279,
+      "sha256": "ef0115115f747fd943f1bacbe719163083f44891e7353450fe246d0a8d4c3a9c"
+    },
+    {
+      "path": "视频制作/assets/345cbfd2-bd6c-4615-928b-da53122bd4de/content.md",
+      "bytes": 4447,
+      "sha256": "4eb726bc8ea48fe821af774c5bfe0d46efe40f36499e2aed5a1835b993755085"
+    },
+    {
+      "path": "视频制作/assets/36f82ea4-45d3-4a26-9fcb-9a65fdd87752/content.md",
+      "bytes": 3148,
+      "sha256": "41681d1c02ee863fe9a60c6cb619252897a45b4780fa931cfe408c828d6707dd"
+    },
+    {
+      "path": "视频制作/assets/37c2d287-0149-41dd-b194-c8e2330e4a6a/content.md",
+      "bytes": 2573,
+      "sha256": "57a9f39bcbb8180b6ebefb4b425cbb160e55891a17199283ba8dc1d5782f95cc"
+    },
+    {
+      "path": "视频制作/assets/3874c207-f63c-4777-a538-8b43371f8173/content.md",
+      "bytes": 5866,
+      "sha256": "bcddf9819d0df5855aa6ad56b0fafa8bda8ef7d1e4f3ffa7b191bb6afdcdb9ca"
+    },
+    {
+      "path": "视频制作/assets/41984b80-6630-472a-b4ad-c484855833bf/content.md",
+      "bytes": 2398,
+      "sha256": "7a77d21490575fa36d024e9d57b1370e9b973f19fdf8fa703bbc7f1703a01199"
+    },
+    {
+      "path": "视频制作/assets/41bf83dd-564c-4f54-a032-122257e55762/content.md",
+      "bytes": 3444,
+      "sha256": "66987e39c51ed5a956ade3e1a992f0c719ef56bfc79afc38e8ba9b521a481e44"
+    },
+    {
+      "path": "视频制作/assets/41d42a53-c34e-43da-8bcf-6cc52f8a67cd/content.md",
+      "bytes": 2124,
+      "sha256": "f2cbda278d5daddee8224fc4646214ef97a7131830580908c4bc5202dfa52bf5"
+    },
+    {
+      "path": "视频制作/assets/45237c3e-26cd-45b8-b10d-e1d128a1b102/content.md",
+      "bytes": 1346,
+      "sha256": "76a2aa1a6f46188f60d7b7a737bd73811ba15635420c8ecd4b5f21e5d218d9b8"
+    },
+    {
+      "path": "视频制作/assets/456e6cd5-1247-4f36-8016-c51263ebd4c4/content.md",
+      "bytes": 6513,
+      "sha256": "3b66f4e9c35f132fccdd6626d8e96aa4cb26359e6e2989ea577a9f0e20e08b71"
+    },
+    {
+      "path": "视频制作/assets/4f3e4b3f-c2fa-459d-9836-23772f321da2/content.md",
+      "bytes": 4043,
+      "sha256": "08418156a03d7ffb13410cf60226812157d283b395781ecdfef139fc60414b50"
+    },
+    {
+      "path": "视频制作/assets/521e9b86-5b2e-46c3-a2d0-45b1a4a21bcc/content.md",
+      "bytes": 727,
+      "sha256": "92f920257d40748dc93245af5818577845bc463a2bec4ab39329419262d178ac"
+    },
+    {
+      "path": "视频制作/assets/52774ef4-261e-4bf1-a599-3287b1774754/content.md",
+      "bytes": 17951,
+      "sha256": "951b07ce82c8cdc5db556d12972c07163db92e673bda6b0145fd0a78252b9df3"
+    },
+    {
+      "path": "视频制作/assets/53a52c1e-3f27-413a-bbf0-6f8c34ee8d17/content.md",
+      "bytes": 9400,
+      "sha256": "778c03f7047348717ec3aea86fe636d0a13de72bb044255e66ec4dde69a5204c"
+    },
+    {
+      "path": "视频制作/assets/552a1155-6d1f-4a26-b587-dcf5b013287f/content.md",
+      "bytes": 999,
+      "sha256": "7e071a6eb20c2b1ca15114aa70a4df7f1820d6b7acc188763f2531c1d72fb5de"
+    },
+    {
+      "path": "视频制作/assets/55ef7921-5704-4343-a4ef-730f5cd99a31/content.md",
+      "bytes": 24215,
+      "sha256": "c609a3aa68d9ab34224eceb7b26860db8cfe62fd65a601a5b50231a4dd3ba767"
+    },
+    {
+      "path": "视频制作/assets/573f85eb-b3f1-410b-8095-8d05203c40c4/content.md",
+      "bytes": 4672,
+      "sha256": "b7d94d879a7b07c1e9d0dfa0c2ab7bf7bc19f9a3fff8637b8b2b3a00c337f6f6"
+    },
+    {
+      "path": "视频制作/assets/5a46965d-e87b-462a-8ca0-c1a58f1f2445/content.md",
+      "bytes": 2247,
+      "sha256": "517b85da6e101d94fbc7cfea21a8f53b63e26bbf62cf949f6caf123cee68e3b6"
+    },
+    {
+      "path": "视频制作/assets/5bb00cab-57f4-4183-81d0-0263207d7057/content.md",
+      "bytes": 1020,
+      "sha256": "7f97b45dcca87311716a775cc6dc697d3047e9d05ea58af3fc30457d26bba961"
+    },
+    {
+      "path": "视频制作/assets/5d9e0020-0a89-4667-a5b0-b6972dfe863e/content.md",
+      "bytes": 2231,
+      "sha256": "e0d5b7a43ca661fe21db57cbf78fb51caaa9842449969df220746f4ee96cf2db"
+    },
+    {
+      "path": "视频制作/assets/5eac3291-3fc6-4345-8c7d-2fdff9b89a6f/content.md",
+      "bytes": 3619,
+      "sha256": "aed9eb5bec0eb185fcaab86b2bd6cf3f663bde598fd9f62e68a2d36b450aa93e"
+    },
+    {
+      "path": "视频制作/assets/601bde15-394e-4340-b3eb-ca6c23cab69e/content.md",
+      "bytes": 3369,
+      "sha256": "521737a75e12abda353374a7f1ea0357bda4856e04287fc0e6449fa670349477"
+    },
+    {
+      "path": "视频制作/assets/61d2b136-735a-440b-9a10-c5f20ff19397/content.md",
+      "bytes": 4690,
+      "sha256": "958313d44e1c33b83a426087e26f74aa279f5c241757b7c703a842ac9043ca20"
+    },
+    {
+      "path": "视频制作/assets/6341f20b-7e03-47a3-b1e9-960e629bbfab/content.md",
+      "bytes": 1231,
+      "sha256": "48125e0422e2dce423506d4dfe86b951f3ba0c8d07de541abf0654b00a5a45a2"
+    },
+    {
+      "path": "视频制作/assets/64fac844-166f-4213-8627-e7ab4110272d/content.md",
+      "bytes": 6967,
+      "sha256": "cb173151ff3b8d8e507b153eaaeaea13d252c12f33507231fd91b60dec95c15e"
+    },
+    {
+      "path": "视频制作/assets/658a750f-c28b-4ca4-a69e-1d6dc7624eea/content.md",
+      "bytes": 1357,
+      "sha256": "60bc7cf629ed7c781ff2f766f9777445ea558d7e6d26951cee404d01d2984fcc"
+    },
+    {
+      "path": "视频制作/assets/6840f8d2-f7cc-408a-9804-cae9fc00f171/content.md",
+      "bytes": 1490,
+      "sha256": "8a2b6418ca96d65a3392fe9b02d165325ab924fc9db41a3f6fcd513f1aef07ce"
+    },
+    {
+      "path": "视频制作/assets/6c2e1c3a-d5ec-4b00-b470-5d1c93e2b3e7/content.md",
+      "bytes": 4191,
+      "sha256": "51106584c59f58fb847576dae82e4a5b1018b305986a548979005ad76384b2ef"
+    },
+    {
+      "path": "视频制作/assets/72efab9b-87a5-497e-9d19-37b4442c0548/content.md",
+      "bytes": 12082,
+      "sha256": "b6283b287213d27b94894424772dd74be6992bd7e1dc12f4d526b7c2fe644524"
+    },
+    {
+      "path": "视频制作/assets/7346c760-43f6-4262-aa6f-ba2d0abba53d/content.md",
+      "bytes": 1312,
+      "sha256": "2315996bd7b2969e0168ff3fd01ba16dd639e8f67249681c165159356a82a209"
+    },
+    {
+      "path": "视频制作/assets/7404df1a-1bc8-4b85-b9a9-b0fe387af0b8/content.md",
+      "bytes": 2334,
+      "sha256": "60477babb3d7c82205e8974f1675eda313092e18679af229da0a01cdc15763a5"
+    },
+    {
+      "path": "视频制作/assets/75101b11-76f0-4e8b-a1b1-face069e4149/content.md",
+      "bytes": 2773,
+      "sha256": "7f6e035f860421d5d20a55566fb65baf4affa3d86bbf59c00610ff8606188823"
+    },
+    {
+      "path": "视频制作/assets/766fffcb-0bb7-46f0-8367-c3f1cb0c2372/content.md",
+      "bytes": 4097,
+      "sha256": "a48d8a7b072373814d4abd6fb8daec1a8b439d93ae84d3edfe828bcca25d9dcb"
+    },
+    {
+      "path": "视频制作/assets/76fa21f6-106c-4b44-91d8-70bf73aec3d3/content.md",
+      "bytes": 5781,
+      "sha256": "3f030c742ab638118f85ffe02dca4b510a772279b7d3892f365a6a342dc6bc8c"
+    },
+    {
+      "path": "视频制作/assets/80d9afbb-50b0-49f2-aba8-89b0eb5a017c/content.md",
+      "bytes": 8476,
+      "sha256": "1dd7953472f319312ca77c11253bc06a95746316810ab3ed31b5fbd056f0c312"
+    },
+    {
+      "path": "视频制作/assets/84a802cc-c2fb-4387-8010-72f28340a5f3/content.md",
+      "bytes": 1453,
+      "sha256": "05478e15807910ca28f05b2167276ea142dab3f8b6d164838c84e625423a9bfd"
+    },
+    {
+      "path": "视频制作/assets/885fbe0a-615f-4708-9661-69b90dabc4b4/content.md",
+      "bytes": 3322,
+      "sha256": "ef8e10c24952701926b3e8346a2797c41e7b86de092400565057df59d24c9684"
+    },
+    {
+      "path": "视频制作/assets/8c840e6e-1580-4a0a-a082-f50aba15aca1/content.md",
+      "bytes": 709,
+      "sha256": "30caf4f04251243d1dc7b7720dad249692b3c19ba3541b66ef2adcf816d600ef"
+    },
+    {
+      "path": "视频制作/assets/8c8b5988-003c-4b85-96db-382f586c0582/content.md",
+      "bytes": 936,
+      "sha256": "b334d60b318e9c7e14bcbf9320fe18612b90d84d6adeb0965a8f420e2b0e0b20"
+    },
+    {
+      "path": "视频制作/assets/8f25d03e-172f-4098-af0b-97ae447e05f0/content.md",
+      "bytes": 8495,
+      "sha256": "d3ad142580b11c5deedcd929dfa70524d4f22fb979f6306528f393837a4be9aa"
+    },
+    {
+      "path": "视频制作/assets/8ff6698b-1179-4156-b667-b74a3067ed52/content.md",
+      "bytes": 3435,
+      "sha256": "e36050ca6ff41fcf04a8c65c94612016c36df7c6b4f71df38b890a13fd678066"
+    },
+    {
+      "path": "视频制作/assets/92a0a84d-3402-4914-9cc3-a3d70a29fbe9/content.md",
+      "bytes": 962,
+      "sha256": "d2b57874fc1f4009a2d48a2afde34d2ddc791e3873df428fd1e7405c1097e7ae"
+    },
+    {
+      "path": "视频制作/assets/9339fd95-8735-4df2-a8a5-1874d20c428d/content.md",
+      "bytes": 3664,
+      "sha256": "19e1c5b14f453e8f51712f7de89d2a8825ba12366d246ccd7dd53084cb4539ca"
+    },
+    {
+      "path": "视频制作/assets/97d31e8a-7660-4317-a79b-01ca3fc9ff1a/content.md",
+      "bytes": 1386,
+      "sha256": "8c58f04eb6336a2e58bc275ddf7ec6d693501eb8e709d1a1b5cd0e24cbca413b"
+    },
+    {
+      "path": "视频制作/assets/9b0bf4c2-bb52-455e-8823-91dfec729293/content.md",
+      "bytes": 21345,
+      "sha256": "b327130ba550261f5cdbe500f50f467c844c917f0e356f15c10561841fac8457"
+    },
+    {
+      "path": "视频制作/assets/9b0d2b41-8158-4487-b210-664b6b7967fe/content.md",
+      "bytes": 40088,
+      "sha256": "964dac271c6a0a9a5a4130f9f04ab3d9f61a8deb48e64e71a6441f3d139b28cf"
+    },
+    {
+      "path": "视频制作/assets/9b0e95ae-cb8f-4723-a687-b1c6224f4b4a/content.md",
+      "bytes": 5921,
+      "sha256": "a65106c7d7d892a18947c8d6096dbb4917eb6df24228c7ef2408493e490b591f"
+    },
+    {
+      "path": "视频制作/assets/9b49c72f-2d75-4084-af1b-762193dfc821/content.md",
+      "bytes": 7689,
+      "sha256": "b5723b2ed3a0265adca4bf481047bef6efb4d5e261aaadb144168861353cca9b"
+    },
+    {
+      "path": "视频制作/assets/9b7f468e-e2f7-4c7e-ac83-3c0e94f9b2db/content.md",
+      "bytes": 2573,
+      "sha256": "14d17bdaf6ca10791376989492db35b6932ef438d5cee22c554750f52c521140"
+    },
+    {
+      "path": "视频制作/assets/9e8fcafa-9fd6-4d7e-9c20-e0f2ea76619f/content.md",
+      "bytes": 4238,
+      "sha256": "2e7600d044e2e838d077452400dd912b41468d2f14c2a49f4bb80d89e7567131"
+    },
+    {
+      "path": "视频制作/assets/9f997ffe-3dc0-4376-8aef-5c9260acf728/content.md",
+      "bytes": 5696,
+      "sha256": "2c88a758271696e3076ca63ba4eff9e1e746651eba2a18ee169cbb4ccf1429e7"
+    },
+    {
+      "path": "视频制作/assets/a01ab46a-d93b-4bf1-8458-f1e97e69f01e/content.md",
+      "bytes": 1047,
+      "sha256": "d494ab3947051b7093269f8195237eb6c3c6659f88015ef0dbd5d04bc21aa189"
+    },
+    {
+      "path": "视频制作/assets/a7eb4508-cfb4-45b2-b3d3-2814da92ab21/content.md",
+      "bytes": 3706,
+      "sha256": "a60972d8c407b1dea813b654783f5674e71c9ac37489cb87df6d3b4a25718bde"
+    },
+    {
+      "path": "视频制作/assets/a8b785ae-4d45-4fb3-aec6-e72b2d8f600f/content.md",
+      "bytes": 3686,
+      "sha256": "42441b0b8f215f89c19bcf40e9cb6de56f71f3fa5dabb393fc8e1c6a65d8018d"
+    },
+    {
+      "path": "视频制作/assets/a9187841-9a96-44f4-b279-79d1ba553ed8/content.md",
+      "bytes": 4925,
+      "sha256": "b4a72298fb78143bdff4a8ddad8b80b05af9ea0b3db22fb6856bf0472bcb037d"
+    },
+    {
+      "path": "视频制作/assets/ab88226d-5436-4668-8acc-9a4956facfd9/content.md",
+      "bytes": 1078,
+      "sha256": "5cd60a500094e7da87a4c8aa0e5f5650bed4bbda13aadc26601d04c7cd54c1a8"
+    },
+    {
+      "path": "视频制作/assets/b086c8ea-67be-4ed7-9e7e-95b15db2d697/content.md",
+      "bytes": 3974,
+      "sha256": "3e65dbcd0b04b065d2787ea4b8d48fd43244ec8791c1d2070b5b83e05b6c167c"
+    },
+    {
+      "path": "视频制作/assets/b12b3179-a078-4590-92f4-2b790915401b/content.md",
+      "bytes": 2777,
+      "sha256": "450e6983b8c68743d69a8f227f34c5970b24ac1c31d62f0f9d867aa8b0bfcfee"
+    },
+    {
+      "path": "视频制作/assets/b53e4d3a-26c9-4424-b5b1-2f749c07298e/content.md",
+      "bytes": 2537,
+      "sha256": "9f404558cb67b06f659b8bc6b73016f759fcee5accbf00b2447e86fdbadfb809"
+    },
+    {
+      "path": "视频制作/assets/bb110e31-cb67-4b22-b0ec-2d05c735828d/content.md",
+      "bytes": 2572,
+      "sha256": "c7bd1421fe1ff47bdbf1e0cb38c55822f683ce73c25b5759d51de109f2757290"
+    },
+    {
+      "path": "视频制作/assets/bc5157c3-e259-4ad4-ad4d-824b2473c731/content.md",
+      "bytes": 1963,
+      "sha256": "c92539219b4bbfe7f7da6ae6f9d083124d208ce3b817230408a47e6488c3b1d5"
+    },
+    {
+      "path": "视频制作/assets/bcaf3e63-bf00-4633-92c8-074d49309011/content.md",
+      "bytes": 3477,
+      "sha256": "5d86666ecb6edd5eeb2b4423ce3377e54c1db67d41646ef14760ab53c1285661"
+    },
+    {
+      "path": "视频制作/assets/bcb71f82-c6d3-4e31-b1b5-335180784e30/content.md",
+      "bytes": 1442,
+      "sha256": "461806f0c09e0926086519221369d38ab4a5ce63f029053b6d26be0a42d7df6e"
+    },
+    {
+      "path": "视频制作/assets/bceb1de5-93ce-40b1-88b7-3d80ee93e894/content.md",
+      "bytes": 7147,
+      "sha256": "af3bb98c60c9d7f07a7e416ca4e32e3f2a81f0d13aff5a78640ed1086e26a22e"
+    },
+    {
+      "path": "视频制作/assets/bd50388f-d07b-4952-b031-aed2cb1efeac/content.md",
+      "bytes": 2528,
+      "sha256": "2508c94ac719820fbfa9a2324985104ec5e3789df0d14d65bb4089f6d6e18f9c"
+    },
+    {
+      "path": "视频制作/assets/be75ca6c-5f88-4e7b-a476-ed9398054c7f/content.md",
+      "bytes": 5336,
+      "sha256": "dae08566393889e6fb63fb25011888d80c870f5c6c44e7e7b89d43035c553029"
+    },
+    {
+      "path": "视频制作/assets/bf62839c-30ef-4c19-83aa-b20921248ece/content.md",
+      "bytes": 3407,
+      "sha256": "26f73a7a636e37d1e8bcf859c788f3261d2f3e6cf49c32a899b261ceede4f146"
+    },
+    {
+      "path": "视频制作/assets/c0762481-b2cf-4c6b-82e8-54db7da09326/content.md",
+      "bytes": 647,
+      "sha256": "2f803ee4d5303ed1e6ae0dba8af491faa843226cabc5e3934c53a443ef93cc02"
+    },
+    {
+      "path": "视频制作/assets/c28684fc-3545-48a0-9fac-5de7a65a2377/content.md",
+      "bytes": 25989,
+      "sha256": "be0f649af93d728c31ffc9f51f79b6a6f5fa0dc5a35d01d7d15c93c3e571df15"
+    },
+    {
+      "path": "视频制作/assets/c28ba864-1d36-49d1-9f34-6021d6e3be7d/content.md",
+      "bytes": 683,
+      "sha256": "3dba34091b4bf0ada1a4c5194812e9c1995f0260177f88aa29a36adf03a71132"
+    },
+    {
+      "path": "视频制作/assets/c334987d-9bc8-43e9-bfa0-6a79c9cca6db/content.md",
+      "bytes": 5811,
+      "sha256": "8cca34f6d957d546d463534993b2c1e43bdcdb4a22d77768a4a13757306a4efc"
+    },
+    {
+      "path": "视频制作/assets/c343e78e-9c8e-4660-9943-86fe43081e60/content.md",
+      "bytes": 1319,
+      "sha256": "af6c0cdf054037650a7ff5c47a8e59a3facfe46d3a1de435af2b8fdd7e4767ec"
+    },
+    {
+      "path": "视频制作/assets/c3c1f550-82e6-4ac5-8acf-8f2d68e20969/content.md",
+      "bytes": 1402,
+      "sha256": "68aeffe0b9016a9e64828e6888a1fd86af181e4c68bf7f355838eba9ae6ada9d"
+    },
+    {
+      "path": "视频制作/assets/c518cb32-d49f-4214-b356-6cd529628460/content.md",
+      "bytes": 4593,
+      "sha256": "256c9696b2649f3ccd01629385361bbafc092a1da7d48d9341895ab67b8c5967"
+    },
+    {
+      "path": "视频制作/assets/c56be710-1f05-45c9-8f96-ea434bf0fdf4/content.md",
+      "bytes": 30603,
+      "sha256": "94a1b2857ab60086b48c82675e9721ba0f2c53229d1d1fe6539422210b941710"
+    },
+    {
+      "path": "视频制作/assets/c5859001-3bd6-47db-958e-8d6d467e0111/content.md",
+      "bytes": 22729,
+      "sha256": "c022c26a9754a5384173c22762419c2d2de9d05cc69f4588939f52d6e87526f1"
+    },
+    {
+      "path": "视频制作/assets/c80aa23c-7232-4719-badf-e163dc19313a/content.md",
+      "bytes": 1117,
+      "sha256": "3f4140248b2e5bcfab5b6bd6dfddc3103323e90fac67aec25de8ea0565c819fe"
+    },
+    {
+      "path": "视频制作/assets/cba8825e-13c4-4388-b939-8abe3abe7d32/content.md",
+      "bytes": 881,
+      "sha256": "e75396e77c98432740bad0fb74a06d93ba3dc0998f22fa9da4cad392affdd1ee"
+    },
+    {
+      "path": "视频制作/assets/d254e858-3a36-4a3a-8d98-5cb2d1143820/content.md",
+      "bytes": 1453,
+      "sha256": "55128aaa224d875c817ff1c02675903ac8612a851cb9431ed4e9b32caba2aeac"
+    },
+    {
+      "path": "视频制作/assets/d41a76f6-4c91-4eaf-a491-343ec8df9b41/content.md",
+      "bytes": 3886,
+      "sha256": "b7b9df8344f17e9a68df469e994f8af0b77c2b370c3d31c7895a3d91fd5882cb"
+    },
+    {
+      "path": "视频制作/assets/d50ed406-ba78-4d88-bdc8-4028de5ed386/content.md",
+      "bytes": 3594,
+      "sha256": "4c2c704dddd4280c3ff4522105eb2781b48642b084a8b6dadafa9e2de108f6ca"
+    },
+    {
+      "path": "视频制作/assets/d83682f2-7ee7-4772-b303-fcf75b3aa7c0/content.md",
+      "bytes": 3892,
+      "sha256": "4b6b7f3b94842b7dcfb75009f6548d76c4cb87081b93d19bc112cb33e4022de9"
+    },
+    {
+      "path": "视频制作/assets/d9ee263d-1a0b-4d11-821d-d6b716a729e3/content.md",
+      "bytes": 3722,
+      "sha256": "9ca04c1adbfabf4e2e6a06de39bee0f2c1cc42b42638e10315a68836aa19dae6"
+    },
+    {
+      "path": "视频制作/assets/da07437d-6744-4476-b7bc-ca5cea8169c4/content.md",
+      "bytes": 1038,
+      "sha256": "2d01e949f0dc513beeff6b74fe8b64ff471fe1b9d3c6cb8572554be2c8ad184c"
+    },
+    {
+      "path": "视频制作/assets/da8539dc-77d1-497f-b848-f2539aa7b279/content.md",
+      "bytes": 5865,
+      "sha256": "e3726cbb34cb01f521136514b7f872d9ab21b341e6c5b0a3ba4d758729bb3b78"
+    },
+    {
+      "path": "视频制作/assets/daf10f18-d9a5-4efc-b9f2-bd99a7ed6509/content.md",
+      "bytes": 2526,
+      "sha256": "ca1f451da45bc955cec78f1bb22027409579b76515b8b76ff40a8d9214a316c7"
+    },
+    {
+      "path": "视频制作/assets/db8d5531-a580-4d7c-a637-7bff6c449a1b/content.md",
+      "bytes": 6575,
+      "sha256": "84ceecc5ed4d1725ec75d5d8105e1e98cb546cb1e58f8d966cf5d773e7fc5c2e"
+    },
+    {
+      "path": "视频制作/assets/dc9749b4-6987-4980-a278-e2ac03dce5bd/content.md",
+      "bytes": 2788,
+      "sha256": "e20fba4f4540134370ea34abc66a1ed88f5942e947702ae0a2a1afdc565c1f43"
+    },
+    {
+      "path": "视频制作/assets/e2e58655-6df8-4e21-8c34-e4ce4e88cd7f/content.md",
+      "bytes": 4323,
+      "sha256": "256485c525b97dbc6e672ddbf674eaa0e70ebd2dcbb6d141fc3d7574da66153d"
+    },
+    {
+      "path": "视频制作/assets/e3b53b14-e776-45e9-9687-6f0c83a8ac85/content.md",
+      "bytes": 5043,
+      "sha256": "de7cb2b15b5296fb57010c3f3d2970dd576cf4908109179d9677cd3e0771847b"
+    },
+    {
+      "path": "视频制作/assets/e431fa2d-df45-44a5-8d21-c8a4d825827e/content.md",
+      "bytes": 3822,
+      "sha256": "3986db36e408d4fc8e590791ea49e55c714877866b31ab0589205f3fc19115b3"
+    },
+    {
+      "path": "视频制作/assets/e550f3db-9c1d-4d61-869c-f1326f1a543d/content.md",
+      "bytes": 1843,
+      "sha256": "8d6a35c485cfbdb98b510c5edbb5850f909ad48ae05588d084db0d22c1784d9a"
+    },
+    {
+      "path": "视频制作/assets/e6204ac6-9785-44dc-a235-fe3f37842ec6/content.md",
+      "bytes": 1707,
+      "sha256": "bc110322ad08f0ad503e807d385500178b8f207a34ede33c4dc08235bf2c1e2c"
+    },
+    {
+      "path": "视频制作/assets/e87920ed-5726-4c83-a4f7-952fcb2247d3/content.md",
+      "bytes": 3587,
+      "sha256": "777b8ccdf5f48163808a6fcaf7ef7f7c683f20016da79c8b4bd0b199a1a241db"
+    },
+    {
+      "path": "视频制作/assets/ecc8492c-e8f5-4bb8-8e8a-8945bf426e42/content.md",
+      "bytes": 7390,
+      "sha256": "717a469c3b26f89581486bc7c1174cf1cdec5d2e54fa8c7ac2b317cdf185f032"
+    },
+    {
+      "path": "视频制作/assets/ed7d2154-82e6-4295-bf4c-80b917116aee/content.md",
+      "bytes": 3470,
+      "sha256": "aed0b282f30da98b47f23f40077e0c42875843e8740a85c7a9dbf5c31f3fc529"
+    },
+    {
+      "path": "视频制作/assets/eec3adf2-962b-4345-a682-8cc57d5cf1d9/content.md",
+      "bytes": 2241,
+      "sha256": "dde0bd0abb355a9cbd4fa82e4764909e718d268034ce5061f1ef5d0f778e18e1"
+    },
+    {
+      "path": "视频制作/assets/f46ebef4-9a9c-4aef-849b-1b8f24f16e7d/content.md",
+      "bytes": 14205,
+      "sha256": "22b89d6bc4eebbe44faf88c3cb56b4ece08fc38509a1cbe1f9ad7bec78b5ba27"
+    },
+    {
+      "path": "视频制作/assets/f7931412-6ae9-46aa-bfdd-cbdfbd3844fa/content.md",
+      "bytes": 1373,
+      "sha256": "bbd01fa08db346d1357503697e3beeb21a028c511551733933fa11387df11234"
+    },
+    {
+      "path": "视频制作/assets/f8cbb4a1-7687-463b-96e4-2d7fce7ecef9/content.md",
+      "bytes": 1033,
+      "sha256": "ee0dfb1cfb342a17a19921795d2ac5851ddbea211ca4c52bc888b24b9bf98f0c"
+    },
+    {
+      "path": "视频制作/assets/f953618a-9a77-4f88-b3c5-27d1f11d83da/content.md",
+      "bytes": 2750,
+      "sha256": "8989b02539390dcd695edc2cc77cc60d77eee2c6c0d75877cbb15d673f138920"
+    },
+    {
+      "path": "视频制作/assets/f97d3717-669f-40fb-b0b0-2ee0af969b6f/content.md",
+      "bytes": 1100,
+      "sha256": "39cf831c3f7d420c1b2db03266983e77f90679bfc02ba7ac00aee2ec6a348aa4"
+    },
+    {
+      "path": "视频制作/assets/fb8b1447-512b-47dc-908d-dc35fb96ea73/content.md",
+      "bytes": 13751,
+      "sha256": "93d18bc045001296d5d2299961d24da06cf070352410f3f3d325e0667ca9e72b"
+    },
+    {
+      "path": "视频制作/assets/fdd798da-156b-4dcc-9c5e-f06ed42fb9e1/content.md",
+      "bytes": 1637,
+      "sha256": "c9544e59751466bb522444916fdff4d9358923d41589f40804af651bbc909737"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/00-面容依据/来源与提示词.md",
+      "bytes": 4193,
+      "sha256": "9eae7990e85538680fd492ada8a968095d500a75d3755af664e8da961516911a"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/00-面容依据/面容主参考-便服07.png",
+      "bytes": 1703940,
+      "sha256": "ce1d70cbd3e0d54feacb8691fece08550d8399d77be9f82a488fc81bc03aeda8"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/01-便服/00-定款原图.png",
+      "bytes": 1732830,
+      "sha256": "2d4887aef78a376bbed60ca3cc991e3f3d409881e3301103e1cd64f08af99476"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/01-便服/01-四视图.png",
+      "bytes": 2044610,
+      "sha256": "3c7881d0d7476535ef1df0cc86dd5f08bed92e781bba85569770d5e7f552c4aa"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/01-便服/02-穿搭分解.png",
+      "bytes": 1941370,
+      "sha256": "95ffd8c707cae1f90e36e9316371a9a2991f924440f9854bc48f3dbf91ea98fe"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/01-便服/03-妆造分解.png",
+      "bytes": 2277998,
+      "sha256": "0733af26984a0eeb990f1b6a1634c8d6abb8896be8c30c9084a11fa5cae3ea7c"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/01-便服/04-正面半身.png",
+      "bytes": 752340,
+      "sha256": "ba27cfdf54b34b7d0380cd3cefa6a9b53fe465655f2fd8d0151cc60d5d7ff81f"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/01-便服/05-左向侧面.png",
+      "bytes": 339491,
+      "sha256": "25fbfc5d623bf1f0117c24e4849e47b0ef6416bcdc345517debd09d9af25fd56"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/01-便服/06-背面.png",
+      "bytes": 399817,
+      "sha256": "1d9ef489aa942e6b8201a5bd71bb1e02d1ab7219302351a53268b56d7e4f5954"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/01-便服/07-右向侧面.png",
+      "bytes": 397248,
+      "sha256": "81779edcd87f5774b00a7f1edcf598e44834ea8cb617fa2551598b5d75dca030"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/01-便服/来源与提示词.md",
+      "bytes": 22731,
+      "sha256": "3a42943f6cf346c3c9e0a804396bcf6af471a9875d3228494dcc0712d0169510"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/02-校服/00-定款原图.png",
+      "bytes": 1738030,
+      "sha256": "ab1ead44fbefe225c45c1e2606f86f9c557b6bd5549e7795f0f6a49be35980f8"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/02-校服/01-四视图.png",
+      "bytes": 2036142,
+      "sha256": "5d079e1fa2b4fce5a64f4676e3f7c051f89fcb0ee5a5859119f3fe0a41d29bb4"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/02-校服/02-穿搭分解.png",
+      "bytes": 2045341,
+      "sha256": "0f7c2465c659dcca1dc6aa75d2952f7b524b788f154bd6edc2584785717a7ba6"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/02-校服/03-妆造分解.png",
+      "bytes": 2202574,
+      "sha256": "bd9d3b0dd50a93052dafdfa9da812a2e84c5c1f4ae12de75fb0c1756f6bf4138"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/02-校服/04-正面半身.png",
+      "bytes": 682484,
+      "sha256": "8724c09ceae033821543771f6de8b873155db12929f7abce59c5b590407ce997"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/02-校服/05-左向侧面.png",
+      "bytes": 360943,
+      "sha256": "fb6f353abb53836c3b15536a331548b221d7cba988e7450a0e7d25b4ec5d40ea"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/02-校服/06-背面.png",
+      "bytes": 460602,
+      "sha256": "a2688c8e718dc2241e6e7d9ff219ba52995fd9929b386d66df22968045832d0d"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/02-校服/07-右向侧面.png",
+      "bytes": 370604,
+      "sha256": "366b6852bd855ccade97b329817e31da14474fad7d6fa6ff25373abd8f77397e"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/02-校服/来源与提示词.md",
+      "bytes": 24217,
+      "sha256": "1c26ed2676098ffc0ecbe965aa99e87c3384121e9d5b709f021a89718fb55612"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/03-睡衣/00-定款09-青瓷绿短裤无云纹.png",
+      "bytes": 1635069,
+      "sha256": "21ff97b814fac72377daaa63b981dbf90318682bc003debede5a16ad4e315ea5"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/03-睡衣/来源与提示词.md",
+      "bytes": 5923,
+      "sha256": "eb3bb3df339ddf431e4f34f147cf6bd2fedcbebb3dbd5db5b657a38965bf8594"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/04-工作服/00-定款原图.png",
+      "bytes": 1798481,
+      "sha256": "a09926e7be60c74a68061e590e4eea139af86d372553bc9fe2ba89443f24a1d1"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/04-工作服/01-四视图.png",
+      "bytes": 2021709,
+      "sha256": "de0a634d43f439d66c68c3e6962ed7b421ce0e242052b0672d6e96af9d11fb95"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/04-工作服/02-穿搭分解.png",
+      "bytes": 2271130,
+      "sha256": "1f4d20adfef6740dbe61b061f6d9a240436d22ecc975f176d44e91daaad5a2cc"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/04-工作服/03-妆造分解.png",
+      "bytes": 2238509,
+      "sha256": "32f60fa0a01ce2d093cbaf11347c11cb9865305d3a2bf0e90e5a666fe173756c"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/04-工作服/04-正面半身.png",
+      "bytes": 777889,
+      "sha256": "19fe8cb6c853bd109030d8b7c50b3dd1dc35c2a9b39760cf50f4133e04131e6d"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/04-工作服/05-左向侧面.png",
+      "bytes": 350679,
+      "sha256": "2ae50d172c0d024f85ec96e4ff385cc9402bc43ef9ed991373bf3847dcd9c051"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/04-工作服/06-背面.png",
+      "bytes": 433944,
+      "sha256": "46902fb1c33ac8513c95d6da73532f58b8651b34a04ad4fe65d2639a862dbb73"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/04-工作服/07-右向侧面.png",
+      "bytes": 384423,
+      "sha256": "9176712e43bd489d39c61db85680c3a70137b68e1277a1e147653f35ef86f33d"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/04-工作服/来源与提示词.md",
+      "bytes": 14207,
+      "sha256": "0792bf1bbf35e14f4f54167ac53739525e89efa1ea56aa328cacbd957b333415"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/05-场景参考/01-半园卧室02.png",
+      "bytes": 2405972,
+      "sha256": "c743d449ce029074af3c1535b7c95abec442d60b5989e9809bcc2517cfd935f4"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/05-场景参考/02-半园修复工坊03.png",
+      "bytes": 2379657,
+      "sha256": "398255b872ba9b2df38e9cd54c5f9296cf8aac1dcbb3e3e99733dd4f421743bc"
+    },
+    {
+      "path": "视频制作/主角定稿素材-20261013/05-场景参考/来源与提示词.md",
+      "bytes": 5698,
+      "sha256": "00c1426e5da216ec49aae5cf08478e236a479039a4b81503538922bc1c70ae1d"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/00-主图.png",
+      "bytes": 1660241,
+      "sha256": "8ce6412ced353200181263c342f8857092dfd15efd9cd31286bdd3665f942873"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/01-四视图.png",
+      "bytes": 1877838,
+      "sha256": "23baffcf4359341a6a7f2add1a98bf74265beeb1ab62ed22faa0d6c67d730a0b"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/02-穿搭分解.png",
+      "bytes": 1934743,
+      "sha256": "903aa786498695e915bad70d5335072cc9f6c6c82cf83be206a6c3bc25176fd7"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/03-妆造分解.png",
+      "bytes": 2238923,
+      "sha256": "c31ba9c9a0a6987421dd5e948470fe42dd92348d1980727c0a477a565e42024f"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/makeup-author-update-prompt.txt",
+      "bytes": 1519,
+      "sha256": "efa8bf3b4f3af6a3fb8f9d37fa92a710d3746e3e8f3416e0193ed2118857a637"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/makeup-prompt.txt",
+      "bytes": 2630,
+      "sha256": "c6db1c17d1ae9418ec3b9fe02dd90bd5f3ea2c2a5c5812ca4e917ee9d148bd52"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/master-prompt.txt",
+      "bytes": 2434,
+      "sha256": "6e47571fb28e0679d4e74bfad5c23f64169f108475b2a4dbec73c1261e29587e"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/outfit-author-update-prompt.txt",
+      "bytes": 1377,
+      "sha256": "23d8dafde5b56f5b5fe7e42805d431d3d136290a7baaf24a9aa42f399ff29330"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/outfit-prompt.txt",
+      "bytes": 2506,
+      "sha256": "648b6e286c2a862036d230efb586cbee486ca3692119dbfeb9eef629c379df8c"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/README.md",
+      "bytes": 711,
+      "sha256": "d8fc67428ef2901c86b10a26c8aa11cb818c563695b1ff4f8f8a0882c180f9aa"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/turn-author-update-prompt.txt",
+      "bytes": 1392,
+      "sha256": "0cb2ad7fb522decf05ce12d169f78697dfb36f0f7ec9f998e2ebea7be05e21b0"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/turn-prompt.txt",
+      "bytes": 2742,
+      "sha256": "5ebe12dc74b184407fac9975940a4457e1a466ef95eba8c10303644327bf76a9"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/双短袜修改-prompt.txt",
+      "bytes": 816,
+      "sha256": "c2882a6127fc60df0e8a9ae630295833cd86f81580ca67bef0a72c2d33f05cbb"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/独立视图/01_front-half.png",
+      "bytes": 559536,
+      "sha256": "a0fb9c03eb308baf30c22d9f3908bcbb978c7a5499fbef45eae6339b2e8720c9"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/独立视图/02_facing-left.png",
+      "bytes": 268328,
+      "sha256": "42a2e94b10b9c430b456437a9bdacf5791d656ef786921ea1822e21244c40503"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/独立视图/03_back.png",
+      "bytes": 590901,
+      "sha256": "ed14ca245bdd9715a4ed8ce0c7d77e9d1bcc8d23abc18d122eace934b9f97b4e"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/独立视图/04_facing-right.png",
+      "bytes": 288184,
+      "sha256": "faa64b70ec714d989ec86246c106f61179005960c51e8ba7168e6368d53a3696"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/01-便服/独立视图/split-manifest.json",
+      "bytes": 1579,
+      "sha256": "7cf7960c6cc9bd026febcf287b8c4e320874692835cd14c5f13c96b0b02b7b57"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/00-主图.png",
+      "bytes": 1749268,
+      "sha256": "627e3033e02501a6d755b34ef41d193c99edfc4f8af9ce904d0517ee528487bc"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/01-四视图.png",
+      "bytes": 1881574,
+      "sha256": "2ca1a6bef157bb2f50100bd977436a20c250dbbfe5e15190422afb2fb028540d"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/02-穿搭分解.png",
+      "bytes": 2034108,
+      "sha256": "2734577a45b16fe51b48ec2a18658f72434f5fcee628bb60bc0e26d259a0375e"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/03-妆造分解.png",
+      "bytes": 2216030,
+      "sha256": "306138a847f6d998c5bd86d93ba7ff84ff08d1cd1e5f5b3bb3b1348377073979"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/makeup-prompt.txt",
+      "bytes": 2482,
+      "sha256": "5a610d4c67f00e462fe0360ca12c45e7cf445b0a63f0a8295365b0ee00c29465"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/master-prompt.txt",
+      "bytes": 2286,
+      "sha256": "66173b92782fcb17f8675b029f5aaa46ea83635aa9730e138692ae6215687a94"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/outfit-prompt.txt",
+      "bytes": 2358,
+      "sha256": "259078c747f4cde85127601484f0a0a90c3dd85ab37a9e9138351a85a1bd0c85"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/README.md",
+      "bytes": 649,
+      "sha256": "60ce525c3964aaecbe794073103de76b97a907578d12735b26838b27928b3fcd"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/turn-prompt.txt",
+      "bytes": 2594,
+      "sha256": "900b0104bd2de990f0a3b67328392d815167fa30d2cafedda8afd36b389552b3"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/独立视图/01_front-half.png",
+      "bytes": 562103,
+      "sha256": "752ace4d89aeaa714ea3d3324f7d106c99c0ac227a70c1549d01a57bc13b8fd6"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/独立视图/02_facing-left.png",
+      "bytes": 302670,
+      "sha256": "176581f306889c654871ff4cd16d4df0364e1ea6850923b42e0fc57b95c066af"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/独立视图/03_back.png",
+      "bytes": 553588,
+      "sha256": "3cb61f855752fe1572be36f9e11b9c6b9e2a3efea326607e7dcd8bdd4d12fd22"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/独立视图/04_facing-right.png",
+      "bytes": 297984,
+      "sha256": "23e2d51edda119821cd5b09c729cde346d440f79c997d301829fa77f09fe769c"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/02-校服/独立视图/split-manifest.json",
+      "bytes": 1570,
+      "sha256": "4b7f67e0d006138556ea8ad913c6e319271921295a489727b4910a71cb3e0ae5"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/00-主图.png",
+      "bytes": 1674257,
+      "sha256": "c50d4d98a6a877c6ac53bd6cdd383655e5d4860dfa17f05a1687819c4c6eb331"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/01-四视图.png",
+      "bytes": 1718545,
+      "sha256": "e875f61065b5c2405acbf647d93007b5f56bdca191ad62da797dc4c1c4283788"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/02-穿搭分解.png",
+      "bytes": 1881552,
+      "sha256": "a8fbe975869030f9df88bdc6c2603c256ee659d0ad3c5cc7ac38cdd78722c6c5"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/03-妆造分解.png",
+      "bytes": 2030709,
+      "sha256": "76ec557f470788d0429bcdd97753106eed622597a501f543f34e7e85a03e7307"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/makeup-fix-prompt.txt",
+      "bytes": 915,
+      "sha256": "e43f6bb89291d5666aba5226d3f0987003933b653865b0508ab2f03c2ded0856"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/makeup-prompt.txt",
+      "bytes": 2406,
+      "sha256": "454036f4165beab75a8cb3b41595aa71c5e4c2c7dde172c8ca59fbbb2e69cf92"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/outfit-prompt.txt",
+      "bytes": 2426,
+      "sha256": "84710c84c5684f9d1276c0875d8f93ac1886052605a490cd86bf99a648fd7892"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/README.md",
+      "bytes": 729,
+      "sha256": "7194ca2f0a1f4578f04c4f6ab220cf1dcbdd6816b076b8d62f1ad4efc3005f5f"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/turn-fix-prompt.txt",
+      "bytes": 495,
+      "sha256": "4bc52c6476c3806c1c1b6107d63b458a3a504a2dafad3cc330859c5c4956e9bc"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/turn-fix2-prompt.txt",
+      "bytes": 770,
+      "sha256": "9f3f13ff50905f65eb06a37100e6262d7ff295786ac6e7054d209c7308674247"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/turn-prompt.txt",
+      "bytes": 2596,
+      "sha256": "9793562e91d82f9f68bffbf9f30fc70ce36267136898a9d8e276314e6d7c54ad"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/独立视图/01_front-half.png",
+      "bytes": 511702,
+      "sha256": "dfe67e1ddb21d67cc930a5c4d7422de14402c5bb91fe9647355c1d79a9d7e73f"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/独立视图/02_facing-left.png",
+      "bytes": 249728,
+      "sha256": "41ac134f676110d14b4ee072c4d1f4cc3d94659640acfaf60771e16f9875a234"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/独立视图/03_back.png",
+      "bytes": 533748,
+      "sha256": "12809f552e670addf250cc8dfc9f289713732601514f962af3eb0edd57af774c"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/独立视图/04_facing-right.png",
+      "bytes": 255216,
+      "sha256": "63971c8a513d45c55dd53c10d9170641e937ac11d7724f4791e5b51eb31bb8d4"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/03-睡衣/独立视图/split-manifest.json",
+      "bytes": 1570,
+      "sha256": "82c7d97af80585cf8e68bded534282a6e92261a56c3f42ac57dc9407bc84016d"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/00-主图.png",
+      "bytes": 1784039,
+      "sha256": "fab351e53f5efaac387b71947a585619152c41febe0696ee18cf9d8a231fa596"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/01-四视图.png",
+      "bytes": 1961468,
+      "sha256": "4c510db41467543e9e44213b33ddaa8348ac66b25d567b51ca59311e7f6df386"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/02-穿搭分解.png",
+      "bytes": 2136114,
+      "sha256": "23c473822cf3ac4139758c12df4a1b2f3b8567a4267a6bfdc455b23fb8e1aaa0"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/03-妆造分解.png",
+      "bytes": 2131345,
+      "sha256": "9eedb6c8ca0d0eba768824b3ac3be221cf146f56ccb80f14f4c64827b3667b20"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/makeup-prompt.txt",
+      "bytes": 2876,
+      "sha256": "bac94750a0dd633d6b655ae942826134e18dab0209864a2dd917fe2afcaef78d"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/master-prompt.txt",
+      "bytes": 2511,
+      "sha256": "cab5b86d15f0826229c3f66dee327c4b02c26e2111e28515fb2de1f23995d3be"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/outfit-prompt.txt",
+      "bytes": 2752,
+      "sha256": "996706c73cd57c330ad47bcdb2f6829c24682f359bfaba00a0ff4894e2b0fcd7"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/README.md",
+      "bytes": 685,
+      "sha256": "53349387793a1328c8729925472586498a2a97b5404b932bcf6e535853d5209d"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/turn-prompt.txt",
+      "bytes": 2988,
+      "sha256": "0d7aef0823b188cd1ab2a4ce45c856c6ef850d0bffc482e0f2519cf92bb16bcf"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/四视图裁切间距-prompt.txt",
+      "bytes": 605,
+      "sha256": "bf21e669da062671b9e802b8392c16a3519160a8d3564df742564b3ef5ee7476"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/四视图裁切间距最终-prompt.txt",
+      "bytes": 649,
+      "sha256": "9c568a914967c86a8ee65726018bf39f4dc10603d9d5b3a1f83318f9b54be666"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/独立视图/01_front-half.png",
+      "bytes": 598042,
+      "sha256": "84a3257c16eb4855eafd786ba614b7b8cc9e53e4ec229d29ea41ded632467a84"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/独立视图/02_facing-left.png",
+      "bytes": 292371,
+      "sha256": "120580965d9e87a7b96779ffd6e8637c2c0b7980e1cd962e079b2f2be9a3e60e"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/独立视图/03_back.png",
+      "bytes": 626495,
+      "sha256": "3d702817fab1656b84605c0cc219b720a7791857515ffdbf07ec7a795fc8f6b8"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/独立视图/04_facing-right.png",
+      "bytes": 333638,
+      "sha256": "a3460b688a0d987c1f84202dcf6956d84a079cb1bb25a6159836fc119f27d51b"
+    },
+    {
+      "path": "视频制作/人物一致性修复-20261013-v1.0/04-工作服/独立视图/split-manifest.json",
+      "bytes": 1570,
+      "sha256": "2fdb45ed9d72db04c5d63f0eef9fb077b52520a077593c0086f27638967898ff"
+    },
+    {
+      "path": "视频制作/人物设计-修复前-20261013.json",
+      "bytes": 29873,
+      "sha256": "5db2eccdc589180d88d94b1481859fc774ea3fa389d89ce0e85f6bfa47ae0958"
+    },
+    {
+      "path": "视频制作/人物设计-历史过程-20261013.json",
+      "bytes": 46694,
+      "sha256": "c63799a470b964e43e68d59cd5557e0ffd49a20844b4ad9798f3acfbb77693f9"
+    },
+    {
+      "path": "视频制作/人物设计.json",
+      "bytes": 64056,
+      "sha256": "b3bbff060ba26c453959c7e2a11f7ebfe8b8d6ebb37e6f84b26dfeb749286529"
+    },
+    {
+      "path": "视频制作/修复作坊室内-20261014-v0.1/prompt.txt",
+      "bytes": 5698,
+      "sha256": "8938c70df6a92187a9d79de64fd44277b2ee12663932366e8b75264ad542e79d"
+    },
+    {
+      "path": "视频制作/修复作坊室内-20261014-v0.1/provenance.json",
+      "bytes": 683,
+      "sha256": "16ddde70e926dda4dc3e973cd589af2074864b71421cc3d2455278c249a27254"
+    },
+    {
+      "path": "视频制作/修复作坊室内-20261014-v0.1/README.md",
+      "bytes": 4086,
+      "sha256": "dc2ffe37e70f9b192f359f1acce3a2e196bdcea29fd8948fb0a0c8a3a8024f9e"
+    },
+    {
+      "path": "视频制作/修复作坊室内-20261014-v0.1/toonflow-sync-receipt.json",
+      "bytes": 1999,
+      "sha256": "be2d75661767d5ebdede47dbce4c171710daf073fcec620dcf4a774bc3bcaafc"
+    },
+    {
+      "path": "视频制作/修复作坊室内-20261014-v0.1/修复作坊-室内全景01.png",
+      "bytes": 2609331,
+      "sha256": "472d7f2bce8552bd78f72646bbcc774ebc4cc6cc35f7353d08213c713a6aebf9"
+    },
+    {
+      "path": "视频制作/半园两岸核心空间-20261014-v0.1/layout-proposal.json",
+      "bytes": 999,
+      "sha256": "78bb30c089539b5924c654b985217e0ea7fc3188ac01333567c28e7fef332e72"
+    },
+    {
+      "path": "视频制作/半园两岸核心空间-20261014-v0.1/prompt.txt",
+      "bytes": 4753,
+      "sha256": "c6b04d9df99f535113a0b019c757f7c5c7bfb07cf30563d28b972b0265764593"
+    },
+    {
+      "path": "视频制作/半园两岸核心空间-20261014-v0.1/provenance.json",
+      "bytes": 832,
+      "sha256": "c6ff88abc3c630ba0834cb5c11ca997666d4a67a313b30fa4a1e61003c6eeff9"
+    },
+    {
+      "path": "视频制作/半园两岸核心空间-20261014-v0.1/README.md",
+      "bytes": 2980,
+      "sha256": "ee4db3ce1318bb8b5bc6f47f952141773208d59a4ea15e281a386394625fb82f"
+    },
+    {
+      "path": "视频制作/半园两岸核心空间-20261014-v0.1/toonflow-sync-receipt.json",
+      "bytes": 2883,
+      "sha256": "fada6be9a5a95441e79bd3b5fbb4062f06b961cc341a9eea10615b3267e79e1a"
+    },
+    {
+      "path": "视频制作/半园两岸核心空间-20261014-v0.1/两岸空间关系-平面候选.png",
+      "bytes": 97103,
+      "sha256": "76d0f757735c0a7a8044262f91182d13cde47ca8c762cc6d38b8200f93009a63"
+    },
+    {
+      "path": "视频制作/半园两岸核心空间-20261014-v0.1/作坊望半园-概念01.png",
+      "bytes": 2962040,
+      "sha256": "f15f61f0879417337f9e331aaed402316d78f2d5000f7a1670555ca1aa6641e9"
+    },
+    {
+      "path": "视频制作/半园修复工坊试稿-v0.1/prompt-02.txt",
+      "bytes": 1763,
+      "sha256": "6013ec4c1b0e30bf3d968805ef4956f8bfa764369086353c0293e6e52844041b"
+    },
+    {
+      "path": "视频制作/半园修复工坊试稿-v0.1/prompt-03.txt",
+      "bytes": 3137,
+      "sha256": "960d86cf4487bfa3507b04e933fcd9cf0b5d0862533c5159b73153cc967db7e6"
+    },
+    {
+      "path": "视频制作/半园修复工坊试稿-v0.1/prompt.txt",
+      "bytes": 3506,
+      "sha256": "8a8959e9b844019082ca740d03b717c08e4e093901cc363096a04bdb5b3c1780"
+    },
+    {
+      "path": "视频制作/半园修复工坊试稿-v0.1/README.md",
+      "bytes": 3867,
+      "sha256": "2d75eb5e859802c39011ecbe6265159767aec04389d94fb7bd12e8b83fded15b"
+    },
+    {
+      "path": "视频制作/半园修复工坊试稿-v0.1/半园修复工坊-候选03.png",
+      "bytes": 2379657,
+      "sha256": "398255b872ba9b2df38e9cd54c5f9296cf8aac1dcbb3e3e99733dd4f421743bc"
+    },
+    {
+      "path": "视频制作/半园卧室试稿-v0.1/prompt-02.txt",
+      "bytes": 2132,
+      "sha256": "f1609911bb60ad1dcdd700a6ef5dd8715830dfd9000a77e3753790422a612e82"
+    },
+    {
+      "path": "视频制作/半园卧室试稿-v0.1/prompt.txt",
+      "bytes": 3158,
+      "sha256": "5279bdeb1d284baae61ca58d4e9c66b98180c3c04fad8ad41843c9c8206974ad"
+    },
+    {
+      "path": "视频制作/半园卧室试稿-v0.1/README.md",
+      "bytes": 3060,
+      "sha256": "36c74e000dd56e1d912da0042b6f11b4291cfe7cc294b9763b2430e7a4cb3e44"
+    },
+    {
+      "path": "视频制作/半园卧室试稿-v0.1/知夏卧室-清晨-候选02.png",
+      "bytes": 2405972,
+      "sha256": "c743d449ce029074af3c1535b7c95abec442d60b5989e9809bcc2517cfd935f4"
+    },
+    {
+      "path": "视频制作/半园空间概念-20261014-v0.1/prompt-标注修正.txt",
+      "bytes": 2158,
+      "sha256": "666f7cba4246f5ead2a7fe6f24f57b11ebd37f66838017512e7b24423c91c9bb"
+    },
+    {
+      "path": "视频制作/半园空间概念-20261014-v0.1/prompt.txt",
+      "bytes": 5055,
+      "sha256": "863e8f647dbe942c4218d99948d00daf1f12d1f0ea95b7ad70f92072c788d268"
+    },
+    {
+      "path": "视频制作/半园空间概念-20261014-v0.1/provenance.json",
+      "bytes": 766,
+      "sha256": "94da41640fe0e246c83c529e7b02c49a4f5a47a242f0fcf4d777f91ba21343f7"
+    },
+    {
+      "path": "视频制作/半园空间概念-20261014-v0.1/README.md",
+      "bytes": 2572,
+      "sha256": "b93ab595d970c7aada974ea25d8a5f78ee845a0e4fad0e428c632d5544a935ce"
+    },
+    {
+      "path": "视频制作/半园空间概念-20261014-v0.1/半园-云上园居-两岸分设概念01.png",
+      "bytes": 3350513,
+      "sha256": "b1067f818e153208c579240d965d09ab5fe8f9459c343265418fb7f39d551793"
+    },
+    {
+      "path": "视频制作/场景设计-半园两岸-20261014.json",
+      "bytes": 73067,
+      "sha256": "cc44a03a05de6dcc21c33d423434de511b4faed5aee49330463fdc06be76a682"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/00-全身主图.png",
+      "bytes": 1539048,
+      "sha256": "16ee4c713a5467b0bd0c5809824212060186bae05f8e3fa22a4fe38b3cc4c019"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/01-四视图.png",
+      "bytes": 1615066,
+      "sha256": "aa2d2db80ab871926f86e2bd7a95f82983fa29c916bf87f8d5c81b221ed0b8d7"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/artifact-manifest.json",
+      "bytes": 963,
+      "sha256": "2a2e9aa42557ec26c497eac6fe7c3970330d4f74dbdc3255e3e3ece07ee7cf27"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/generation-record.json",
+      "bytes": 1902,
+      "sha256": "eb79a4af2696dcc490f63961b6e1c2fdbd123b473638c62fdd148c58b067c284"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/README.md",
+      "bytes": 2125,
+      "sha256": "68a2353fa65628ba7e60f81b9a2999cebb60110e67dded67294573002d91a2f6"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/toonflow-sync-receipt.json",
+      "bytes": 8885,
+      "sha256": "3f15cbe08de47e53dcf46b9419bdcdfcd108d0e0735cdeb11c7f72d5b481a5b0"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/主图鞋袜修正提示词.txt",
+      "bytes": 1757,
+      "sha256": "fc7315b28a37d251c655a498d106e90321db2da860f47bcb7059ce0bc2d15289"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/四视图鞋袜修正提示词.txt",
+      "bytes": 2152,
+      "sha256": "e0a59ede47e2cb79a016337446d8474665804f5f9a68089459cedee760b6cafb"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/四视图鞋袜统一提示词.txt",
+      "bytes": 1598,
+      "sha256": "e222f4331765a4f874cf3b4488eb1d4720a31a62bdc7712c0b1aa69411d66172"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/旧稿状态说明.md",
+      "bytes": 652,
+      "sha256": "981e5a9bce242b3b6de573d8087eff8bf67581c95881eb03db840db0cb5da5af"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/独立视图/01_front-half.png",
+      "bytes": 439090,
+      "sha256": "f9105c662631057b335657b5bc98c868ff30ac9d388ffcb0dc8b5f2d252e248b"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/独立视图/02_facing-left.png",
+      "bytes": 224558,
+      "sha256": "2c77cc8ff710cbd82a6a4da0b1ffdde3a4704cd5c41a59f762acec1d09753d2a"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/独立视图/03_back.png",
+      "bytes": 487615,
+      "sha256": "3c4f9cda94873b7f958ea7ebefeed1a4648e089bd68332ae6a1429b8f13314f4"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/独立视图/04_facing-right.png",
+      "bytes": 252300,
+      "sha256": "947c78855ba098430763a0610aaa98bacb3d8515dc6d5d1786162862a898f4f5"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/独立视图/split-manifest.json",
+      "bytes": 1570,
+      "sha256": "43b3ab53cb0e6d4ed4d96d109a28150a74ab1f0870f80c143e2d40b84914e760"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/采用与阶段状态-20261014.md",
+      "bytes": 657,
+      "sha256": "97208a641701d379497321810cd0584607c1505e4cfaffb9c27ffe0630b9b9fa"
+    },
+    {
+      "path": "视频制作/安清意现代练功服-20261014-v0.2/阶段采用同步回执.json",
+      "bytes": 1365,
+      "sha256": "49a44086b638365f847ad033e7dd52305a8f49c21181170d4bacc3c967c68357"
+    },
+    {
+      "path": "视频制作/山水书院总景-20261015-v0.1/prompt.txt",
+      "bytes": 4772,
+      "sha256": "912f089a7da3958acd744b5c326dd73a0f8b9119e16134e6a3f73f62d2307125"
+    },
+    {
+      "path": "视频制作/山水书院总景-20261015-v0.1/provenance.json",
+      "bytes": 791,
+      "sha256": "38a2dfab7117380d2979837023b0cae550709918ab0e95a5b8bc29053d3cfc24"
+    },
+    {
+      "path": "视频制作/山水书院总景-20261015-v0.1/README.md",
+      "bytes": 2520,
+      "sha256": "238992dac21cce7a84aa27377ab3dcf6a0b7ad8c60edd60743397e27642c76e0"
+    },
+    {
+      "path": "视频制作/山水书院总景-20261015-v0.1/toonflow-sync-receipt.json",
+      "bytes": 2697,
+      "sha256": "6a9a99813a0c164b6786c3a023b23529aba68b6dd1130a61fafa9c442dd2e485"
+    },
+    {
+      "path": "视频制作/山水书院总景-20261015-v0.1/山水书院-宿舍水庭舞院总景01.png",
+      "bytes": 3060131,
+      "sha256": "827604027b90c23963797c7a7f12b1d8d9e8ceb0a0c814e1c26b361466f830a5"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.1/prompt-01.txt",
+      "bytes": 3193,
+      "sha256": "51e630dc16a7f6be61a839795c63cbea0e132803868b62a25e40d23fd950fe9f"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.1/prompt-02.txt",
+      "bytes": 2773,
+      "sha256": "8b6a30acc93f1cf4583a472b2923c3243a0d64da1031d3668ef7168188a339df"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.1/provenance.json",
+      "bytes": 1263,
+      "sha256": "310076498f0aab5fb34ed1907fd188b239cd636f619bd695a184a1941a284c57"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.1/README.md",
+      "bytes": 3221,
+      "sha256": "32fb0983a5f4d9cafef4ee31b82761859ccffb0854aa267dbe290922b81cf7c3"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.1/toonflow-sync-receipt.json",
+      "bytes": 3046,
+      "sha256": "47345e2fafecdbc3be2169265eb72dc367886fe52f243034bb1d7748aeaac53f"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.1/舞蹈室01-日常练功.png",
+      "bytes": 2286113,
+      "sha256": "e329e6d211663de024dfb1b7bee8e58b030df9990508e5a560dd259f624b7f64"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.1/舞蹈室02-荷塘仿真.png",
+      "bytes": 2230072,
+      "sha256": "68addeaa889a18cba402b7f5dd7e20cc128b47af2310ee6f181b7e4b8e01f213"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.2/prompt-03.txt",
+      "bytes": 3887,
+      "sha256": "df4274336ebff91df26047412f34363dd4b4b3dd1c301563b2e427c4af281e0c"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.2/provenance.json",
+      "bytes": 662,
+      "sha256": "126d6450b187e59f209252b5d347d44a82ffb991b30a14f8e5cf287c34772197"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.2/README.md",
+      "bytes": 2311,
+      "sha256": "3fe77fd1b80d5bb74331c79294b865da7cdf59a9eac257b52534a4d544485a74"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.2/toonflow-sync-receipt.json",
+      "bytes": 2547,
+      "sha256": "43a6c7a34bdef94fff147e8dff82356efb0e7a418bae86e53435ba6915e467c2"
+    },
+    {
+      "path": "视频制作/山水书院舞蹈室-20261015-v0.2/舞蹈室03-顶地墙全沉浸.png",
+      "bytes": 2622742,
+      "sha256": "44f6ea0026d1f965623d11e90394e86f28257ae5255d706ba51a1fac7cbf729b"
+    },
+    {
+      "path": "视频制作/日常电影感试验-20261015-v0.1/01-清晨卧室-光影试验.png",
+      "bytes": 2256640,
+      "sha256": "cfad9f9fccc569c3dd23f9a43f3f3fe641b46eab4e9bd87056706751e2f51f00"
+    },
+    {
+      "path": "视频制作/日常电影感试验-20261015-v0.1/02-旧舞鞋-桌面近景试验.png",
+      "bytes": 2255713,
+      "sha256": "c5ccc8691f378f9aa979f81ca7335c585cc87410d8c60e416ea515c4f93a3607"
+    },
+    {
+      "path": "视频制作/日常电影感试验-20261015-v0.1/03-临水作坊-暮色借景试验.png",
+      "bytes": 2506279,
+      "sha256": "993f10ee9b403d4942617b9557462f40ce926e1496640437dcfcb8bf1593b73e"
+    },
+    {
+      "path": "视频制作/日常电影感试验-20261015-v0.1/prompt-01.txt",
+      "bytes": 2628,
+      "sha256": "4e77429d9c14794150752ca62eb4e87d663d72b0e27ac4efaddcae4ff10aeab2"
+    },
+    {
+      "path": "视频制作/日常电影感试验-20261015-v0.1/prompt-02.txt",
+      "bytes": 2840,
+      "sha256": "3064128093d3ae288a098fb0f4260999c704fd8f430bf8f06d7845940b61adc5"
+    },
+    {
+      "path": "视频制作/日常电影感试验-20261015-v0.1/prompt-02b.txt",
+      "bytes": 869,
+      "sha256": "31866f128ad553b3012b9621e7acc8bc20991ef8794658b6108030cd25c590e3"
+    },
+    {
+      "path": "视频制作/日常电影感试验-20261015-v0.1/prompt-03.txt",
+      "bytes": 2716,
+      "sha256": "e1fb69cdc8d54b2aefa38e952517e63440044618b054fd6c9c2026ecf2c4bbee"
+    },
+    {
+      "path": "视频制作/日常电影感试验-20261015-v0.1/provenance.json",
+      "bytes": 2558,
+      "sha256": "c95174dc8e3bff43fc5eaa3536fbb795bfbd7dcfeafdc46f2001f41b364b55c3"
+    },
+    {
+      "path": "视频制作/日常电影感试验-20261015-v0.1/README.md",
+      "bytes": 4540,
+      "sha256": "fb717ce76445371919612a9674c2b62e7d59022afcebedced1072a5e478dd807"
+    },
+    {
+      "path": "视频制作/日常电影感试验-20261015-v0.1/toonflow-sync-receipt.json",
+      "bytes": 3728,
+      "sha256": "1caf3ff637320b086fddaed2db734c99a535b95073c0b86757f1e0ef68c23b6b"
+    },
+    {
+      "path": "视频制作/晨起发夹母版-20261017/README.md",
+      "bytes": 655,
+      "sha256": "6ff65e60c51e29a0b7dd30180ef41082a1a514abaae0cbfe0224bb552f70fda1"
+    },
+    {
+      "path": "视频制作/晨起发夹母版-20261017/作者指定-蝴蝶结状发夹.png",
+      "bytes": 1991628,
+      "sha256": "f7d21e0492dfbb49d08737a161fbcf93a7a35a03407b1bde6a49e166888d8fc1"
+    },
+    {
+      "path": "视频制作/水墨学院宿舍-20261015-v0.1/prompt.txt",
+      "bytes": 5218,
+      "sha256": "e138bc4c08a7b7f387f2fb1059c802e273e40714dc9b81290bdb17a5771f57b9"
+    },
+    {
+      "path": "视频制作/水墨学院宿舍-20261015-v0.1/provenance.json",
+      "bytes": 512,
+      "sha256": "cdb10e3a5e29e1134aa579a40dce2e0e850db5fdc2e343c4aa48909c24311e03"
+    },
+    {
+      "path": "视频制作/水墨学院宿舍-20261015-v0.1/README.md",
+      "bytes": 3168,
+      "sha256": "8d95734a1e373ddb41dbcbd9574e94cba141e1e41163d3a5f8e8997ec55e0be7"
+    },
+    {
+      "path": "视频制作/水墨学院宿舍-20261015-v0.1/toonflow-sync-receipt.json",
+      "bytes": 2406,
+      "sha256": "357587dd6bc356257367172f05ebdbd797a75801d20643099c210455be7d2181"
+    },
+    {
+      "path": "视频制作/水墨学院宿舍-20261015-v0.1/水墨学院宿舍-门内外01.png",
+      "bytes": 2448600,
+      "sha256": "cd88d13e7e2f9d2a5702c7e149fda8f59d79caf10c5a4ac50d827ec9786ba4f2"
+    },
+    {
+      "path": "视频制作/水墨学院宿舍-20261015-v0.2/prompt.txt",
+      "bytes": 2441,
+      "sha256": "d4484f06358e239f3f1603f55f9ff987270bfb9b8171bb088579b9d26a3236ff"
+    },
+    {
+      "path": "视频制作/水墨学院宿舍-20261015-v0.2/provenance.json",
+      "bytes": 645,
+      "sha256": "f534ce1da1f0480432407feab2587415535f68ea3a1c02d518c7d04a0158c48d"
+    },
+    {
+      "path": "视频制作/水墨学院宿舍-20261015-v0.2/README.md",
+      "bytes": 1983,
+      "sha256": "3465c1ee1df2034fe691d06d8bee98a064595c6aadc8b05d26b55c1716465bcc"
+    },
+    {
+      "path": "视频制作/水墨学院宿舍-20261015-v0.2/toonflow-sync-receipt.json",
+      "bytes": 2564,
+      "sha256": "ec6dedac71cc7d7ca88e80c719075cd6a456b32a0812885500f8268857d99f00"
+    },
+    {
+      "path": "视频制作/水墨学院宿舍-20261015-v0.2/山水书院-水墨世界与彩色宿舍02.png",
+      "bytes": 2393698,
+      "sha256": "94633cbdfcc7a06450548c297a2839a0d6d22e2f98964118a0f8e61abdc5b131"
+    },
+    {
+      "path": "视频制作/汤圆设计-20261013-v0.1/README.md",
+      "bytes": 2694,
+      "sha256": "081613c643445e2e9d149ee6db4d584b280b138a75f3d309fdbe0ad0409f8132"
+    },
+    {
+      "path": "视频制作/汤圆设计-20261013-v0.1/toonflow-sync-receipt.json",
+      "bytes": 852,
+      "sha256": "10bc217fe222d4add8c8964cfa66f073ff0facdd3fa7ac95a39ef8435c983288"
+    },
+    {
+      "path": "视频制作/汤圆设计-20261013-v0.1/参考/真实汤圆-TingTingsNest.jpg",
+      "bytes": 37966,
+      "sha256": "1d82ff82ac90df1b44e960fd464cfd2a1ef5f3ba99382fa3382110b48ae8bfc0"
+    },
+    {
+      "path": "视频制作/汤圆设计-20261013-v0.1/汤圆01-糯玉团子候选.png",
+      "bytes": 1660138,
+      "sha256": "d460ffd61bf6e98e8ec64ec66e8931e0cd361ccc2a9b60ca1cd3a11cae3d0201"
+    },
+    {
+      "path": "视频制作/汤圆设计-20261013-v0.1/生成提示词.txt",
+      "bytes": 3777,
+      "sha256": "b637745f6a533060c9e92a707a15a4ad971272abc280a84b4f541804e532fda8"
+    },
+    {
+      "path": "视频制作/汤圆设计-20261013-v0.2/README.md",
+      "bytes": 1907,
+      "sha256": "f3846ffe9c894eb8aa370a521a44e3c32c208cabd7fc8e9c98b83521c1f8d2fb"
+    },
+    {
+      "path": "视频制作/汤圆设计-20261013-v0.2/toonflow-speech-update-receipt.json",
+      "bytes": 504,
+      "sha256": "cf254ca3d25a0162c36aacc899e90ee5e1102dbe68610b113ad76e708c7b94e3"
+    },
+    {
+      "path": "视频制作/汤圆设计-20261013-v0.2/toonflow-sync-receipt.json",
+      "bytes": 699,
+      "sha256": "45596ecb8d5f1570f3a445e7df01211e4f0adf6e73fe5d3845444f29b84a3e7f"
+    },
+    {
+      "path": "视频制作/汤圆设计-20261013-v0.2/汤圆02-柔光温润候选.png",
+      "bytes": 1610112,
+      "sha256": "9ee8a4fe80af769348e917919bd23dacce3ef4233c8b52ba5bf41bab0b29207b"
+    },
+    {
+      "path": "视频制作/汤圆设计-20261013-v0.2/生成提示词.txt",
+      "bytes": 1583,
+      "sha256": "f7903c36d9f172546f98287bbd5e55f5572a85271d4fc649fd66df43848cafec"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/artifact-manifest.json",
+      "bytes": 1485,
+      "sha256": "8d206dade6cdfc34bbdca69faf028d9d24e5e0bdd5b052910e83281957ad1e08"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/eagle-annotation-receipt.json",
+      "bytes": 834,
+      "sha256": "47b85271158a1010727cfb97e426036fc9c72a7f81055048d805fd8357dd41cf"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/eagle-annotation-update.json",
+      "bytes": 11162,
+      "sha256": "3c567d8ed393569a77134ee2a8060f81a9baa188439ec8a4759e45081f35199f"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/eagle-folders-receipt.json",
+      "bytes": 734,
+      "sha256": "6b4711487b523e74bf88a318f88fa8b12a755eb9937b8f4106687f8ba197d933"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/eagle-import-plan.json",
+      "bytes": 13289,
+      "sha256": "5af47423ba1d05040cf22d11aa22547730b9e91a186028380104f27ce676dbb9"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/eagle-import-receipt.json",
+      "bytes": 1637,
+      "sha256": "a0f65f42a1a2b01faff9e64dd2ddd71049f067b5fddb6a600f2f2da1a2d99acb"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/eagle-parent-receipt.json",
+      "bytes": 353,
+      "sha256": "9af52c264d13d367aa9899b7362261587d1466492d6994e7cc2585911a6c8d4d"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/eagle-readback.json",
+      "bytes": 26781,
+      "sha256": "966d5095fd180fb88a7073308588b82a03c337b92809a3bed4913a02e56b4cd0"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/eagle-verification.json",
+      "bytes": 6993,
+      "sha256": "8b8ca42a90cd27012803f695078abc9acd46c132202bbb78a8814f14652b858f"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/eagle-withdrawal-readback.json",
+      "bytes": 230,
+      "sha256": "de236fe2a5d40a7a74208edaa8fb955ca53f11ff3fe824b865f8bae9bceb92db"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/eagle-withdrawal-receipt.json",
+      "bytes": 827,
+      "sha256": "c01e7f3947b44f743f2d9d1cf3091f08353f3a03134c76026641e1b8737c2dcd"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/eagle-withdrawal-verification.json",
+      "bytes": 1338,
+      "sha256": "1e1c56669b4863d3a92d5f130ae182eb868db6693e8f030b65556d1b571d990e"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/makeup-侧面发簪修正提示词.txt",
+      "bytes": 1521,
+      "sha256": "5d857bc509e2b7493fa0893feea96519af19dcd25ce021341bf74760b0df7a8f"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/makeup-实际提示词.txt",
+      "bytes": 4498,
+      "sha256": "4e026cc2aab6f6328bfb8f3836567b80f47f52ca3b84a83f1b63bc186333ec13"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/outfit-完整袜型与领口修正提示词.txt",
+      "bytes": 2593,
+      "sha256": "26556a543b582dcfd126d5e5cd5b783b0551d0dc307c52ab256ba1d679388625"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/outfit-实际提示词.txt",
+      "bytes": 5270,
+      "sha256": "e998ea3bf01e26ca07d798f766d2f41b0780360685e05a085577e9b61b9a5cc7"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/README.md",
+      "bytes": 4959,
+      "sha256": "cc9d3fedf7b7c15871f00c3a59e4e1e10aaa7bbeb05c1e4c21931732366e57b0"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/toonflow-added-nodes.json",
+      "bytes": 6310,
+      "sha256": "8c679d5639c1f41184c2f47a42aba1eca237a69f4e90e1b2276dab76f17582af"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/toonflow-before-sync.snapshot.json",
+      "bytes": 18505,
+      "sha256": "133d5966a24ad14148127d0f4518195a57abd1e21b67b3d5704f2c58911c63c5"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/toonflow-file-verification.json",
+      "bytes": 1873,
+      "sha256": "7da3f1d1ef0b5f2b640dc99c9600c6ca67569b1f083c370cce729b3db349cd34"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/toonflow-sync-receipt.json",
+      "bytes": 6957,
+      "sha256": "64616a3ccdb5b1bf4a41abdbbd93f664cdf94da08321d54501238cf4427e4106"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/turnaround-实际提示词.txt",
+      "bytes": 4915,
+      "sha256": "d1beefc9fac446c48ca9ba58c18e8d46cd7d373339fce2fa32ea45bcec523033"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/四视图独立图/01_front-half.png",
+      "bytes": 752340,
+      "sha256": "ba27cfdf54b34b7d0380cd3cefa6a9b53fe465655f2fd8d0151cc60d5d7ff81f"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/四视图独立图/02_facing-left.png",
+      "bytes": 339491,
+      "sha256": "25fbfc5d623bf1f0117c24e4849e47b0ef6416bcdc345517debd09d9af25fd56"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/四视图独立图/03_back.png",
+      "bytes": 399817,
+      "sha256": "1d9ef489aa942e6b8201a5bd71bb1e02d1ab7219302351a53268b56d7e4f5954"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/四视图独立图/04_facing-right.png",
+      "bytes": 397248,
+      "sha256": "81779edcd87f5774b00a7f1edcf598e44834ea8cb617fa2551598b5d75dca030"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/四视图独立图/split-manifest.json",
+      "bytes": 1594,
+      "sha256": "797c21820d161d7bf69a0dba82f1642ef73c9cdc67b1c61c7a508a2919385f5f"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/知夏-便服四视图-v3.0.png",
+      "bytes": 2044610,
+      "sha256": "3c7881d0d7476535ef1df0cc86dd5f08bed92e781bba85569770d5e7f552c4aa"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/知夏-便服妆造分解-v3.0.png",
+      "bytes": 2277998,
+      "sha256": "0733af26984a0eeb990f1b6a1634c8d6abb8896be8c30c9084a11fa5cae3ea7c"
+    },
+    {
+      "path": "视频制作/知夏便服定款三件套-20261012-v3.0/知夏-便服穿搭分解-v3.0.png",
+      "bytes": 1941370,
+      "sha256": "95ffd8c707cae1f90e36e9316371a9a2991f924440f9854bc48f3dbf91ea98fe"
+    },
+    {
+      "path": "视频制作/知夏卧室-20261015-v0.1/prompt.txt",
+      "bytes": 5343,
+      "sha256": "34bebb5b8571e81088ac86abd02396a1b24d62be2eecf5affbe5822e93b28b18"
+    },
+    {
+      "path": "视频制作/知夏卧室-20261015-v0.1/provenance.json",
+      "bytes": 1122,
+      "sha256": "35f4c8129da26686b0aa9733a38d2546ab362d756f3f94508a68e66060641655"
+    },
+    {
+      "path": "视频制作/知夏卧室-20261015-v0.1/README.md",
+      "bytes": 3481,
+      "sha256": "df76d96785f02cb062662e03ca15a63c2ef5885c3b6fea8333f10deffcb95a61"
+    },
+    {
+      "path": "视频制作/知夏卧室-20261015-v0.1/toonflow-sync-receipt.json",
+      "bytes": 6237,
+      "sha256": "31d1c8c7466705c9a02b8d6752539d232c08bd3e255f7c71c5c439fe14b78017"
+    },
+    {
+      "path": "视频制作/知夏卧室-20261015-v0.1/知夏卧室-清晨抱枕汤圆01.png",
+      "bytes": 2565473,
+      "sha256": "47961357ecd38fed30b9e52f66c6442a739c211c21616d49f88d37205a61dbc1"
+    },
+    {
+      "path": "视频制作/知夏卧室-20261015-v0.2/image-provenance.json",
+      "bytes": 963,
+      "sha256": "74c87c81a6a9d404ce4e96a2f49c042a17967e549754bf033b761cccb22f532c"
+    },
+    {
+      "path": "视频制作/知夏卧室-20261015-v0.2/prompt-pose-fix.txt",
+      "bytes": 2627,
+      "sha256": "89839a809e8bdf90a6fac1fcb209631f093eade2558b7ec538dcefdd3ea4e0fa"
+    },
+    {
+      "path": "视频制作/知夏卧室-20261015-v0.2/prompt-pose-visible.txt",
+      "bytes": 3346,
+      "sha256": "979bec2b96e849087b89f7fa6177118533048a9d33b76e1ec49c220ad956d62b"
+    },
+    {
+      "path": "视频制作/知夏卧室-20261015-v0.2/prompt.txt",
+      "bytes": 4722,
+      "sha256": "f0a9cbd42e665a1259d54badd6da8555abfaebfdef0ab3e0017820f7c989f4fd"
+    },
+    {
+      "path": "视频制作/知夏卧室-20261015-v0.2/README.md",
+      "bytes": 2981,
+      "sha256": "e5a34f8d834274928a6977597611a653dd0993790676fbd0d5c66c63d8e156c6"
+    },
+    {
+      "path": "视频制作/知夏卧室-20261015-v0.2/toonflow-sync-receipt.json",
+      "bytes": 2389,
+      "sha256": "1d8d7ae4f8453289991bf7f65034af013f0d4a1e0580734b38e7e2f28a39660c"
+    },
+    {
+      "path": "视频制作/知夏卧室-20261015-v0.2/卧室02合景-纵向侧卧候选03.png",
+      "bytes": 2387764,
+      "sha256": "eb26711602b897a7a1a8a3da3120b3aa53ff2a05c7c3f96bdb32583fd5f329d3"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/README.md",
+      "bytes": 2242,
+      "sha256": "2f7b8570f5cdf1bdbe3aeea89be92b3bc3495e27ccaf26caa9046aaf474ed07f"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/便服05-日常新中式-原始提示词.md",
+      "bytes": 1587,
+      "sha256": "a1fb77a3d1615e9192fdcb0de2d2e2b1287893946f627511c817731bbb012de0"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/便服05-日常新中式-实际生成提示词.txt",
+      "bytes": 2056,
+      "sha256": "6b0cf76508ea02ce0a03ae4b885af664ff5be20a3f1a6ff463081f35e9285c10"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/工作服09-旧工具袋-原始提示词.md",
+      "bytes": 1963,
+      "sha256": "c92539219b4bbfe7f7da6ae6f9d083124d208ce3b817230408a47e6488c3b1d5"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/工作服09-旧工具袋-实际生成提示词.txt",
+      "bytes": 2432,
+      "sha256": "c01ab69628e4c05bd5b8f978c3fbd248bbc40c78c4692f819a12a7e84363dd4c"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/校服01-中国结花窗-原始提示词.md",
+      "bytes": 1453,
+      "sha256": "05478e15807910ca28f05b2167276ea142dab3f8b6d164838c84e625423a9bfd"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/校服01-中国结花窗-实际生成提示词.txt",
+      "bytes": 1922,
+      "sha256": "7d607cd470c2bc58febb0f66c5ef8cae95e1a8fda68cb31bbd8bea8d5b8687c6"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/校服02-清青蓝朱红-记录.md",
+      "bytes": 1460,
+      "sha256": "7f41ee5cd43245828eaf61c049f67ef0a6b97d765ede9fef11bc35f2c8e99f7e"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/校服03-浅天蓝花卉短衫-记录.md",
+      "bytes": 1702,
+      "sha256": "51a0a12066f137a7d90a605738563862f71eaf98b780fc71f7b6cd38973462b1"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/校服03认可后-三套服装延展记录.md",
+      "bytes": 4052,
+      "sha256": "08dfc19cbe931f399e124cf793ec80fa17ed077b49a7023733cc4317dcb7d703"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/睡衣01-锦鲤荷叶云朵-原始提示词.md",
+      "bytes": 1346,
+      "sha256": "76a2aa1a6f46188f60d7b7a737bd73811ba15635420c8ecd4b5f21e5d218d9b8"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/睡衣01-锦鲤荷叶云朵-实际生成提示词.txt",
+      "bytes": 1815,
+      "sha256": "565fa00985b4f90f4464a7c9839239ee4a1c616cca2453981f950aa4811972f8"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/睡衣02-交领右衽-实际生成提示词.txt",
+      "bytes": 3323,
+      "sha256": "bdbe96c154cd641d0eb461371c1c7b061e56af722ead07f4b032aba0d4155233"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/睡衣02-交领右衽-记录.md",
+      "bytes": 1035,
+      "sha256": "36d85a26735245c8e44cb0ad4f405fff4a14b89a0d8840a43a0e627b15a92d52"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/睡衣03-短款吊带睡裙-实际生成提示词.txt",
+      "bytes": 2335,
+      "sha256": "0a101d099ddce5f230d5ebb40c8f95ba4bb32f1e8f06a0c7b67919fde8d35a95"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/睡衣03-短款吊带睡裙-记录.md",
+      "bytes": 1109,
+      "sha256": "4dd9260be211cd8c1a606aee1cc874e1d951c0b17c8fc653c7220794e98c7059"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/知夏-便服06-珊瑚红水青花卉-实际生成提示词.txt",
+      "bytes": 2850,
+      "sha256": "71eab69a46adec764ae364e8488bd7848b226f6d92d35937b6cd4d2ec7f65aef"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/知夏-便服06-珊瑚红水青花卉.png",
+      "bytes": 1695718,
+      "sha256": "6453fd1209c07c26b3b0607898af113c50386f1eb490d2602852593f7070c84d"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/知夏-工作服10-竹绿杏黄竹纹-实际生成提示词.txt",
+      "bytes": 3187,
+      "sha256": "4123b80033655f3ecc00f8682cb26902cdd15f8520f2e43b0cff5fa9759c85a1"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/知夏-工作服10-竹绿杏黄竹纹.png",
+      "bytes": 1714421,
+      "sha256": "196d05294bca8670572ada7bd67efdcc4c8332b67415c37de2ea0ea0bc25bfe4"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/知夏-校服02-实际生成提示词.txt",
+      "bytes": 3014,
+      "sha256": "2c8a29abad50af007efef3ebf1823b037033e97b0c6c19dab92193dc6af728d8"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/知夏-校服03-实际生成提示词.txt",
+      "bytes": 3842,
+      "sha256": "f2092419775cd61c28504dd14b1c3dabb42cc27b9f41082ba84c10805b9d7695"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/知夏-睡衣04-桃粉荷绿锦鲤-实际生成提示词.txt",
+      "bytes": 2916,
+      "sha256": "84dab2adbc6af39a3cb390bba351cc28d63b5cd21afed67181b540115a84f058"
+    },
+    {
+      "path": "视频制作/知夏四套服装试稿-20261011-v0.1/知夏-睡衣04-桃粉荷绿锦鲤.png",
+      "bytes": 1694419,
+      "sha256": "61315486d1cee3792a47b5468752153d77a9773156ea0881bff186f98441976e"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/artifact-manifest.json",
+      "bytes": 2254,
+      "sha256": "8fde09d2f1a5dae988bb8ccfc5839fbb1cf6a7f84f4707816d5756ae211bb991"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/README.md",
+      "bytes": 3457,
+      "sha256": "4290b1e96c2eb5a7b2421b5e151c393746c7bc59542d8723c28d74e6cee47d47"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/toonflow-sync-receipt.json",
+      "bytes": 5487,
+      "sha256": "6fd100a1c2bf0c66069d31f80bdbd380eae7bd901360786e01f0e1b11435bd91"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/四视图独立图/01_front-half.png",
+      "bytes": 777889,
+      "sha256": "19fe8cb6c853bd109030d8b7c50b3dd1dc35c2a9b39760cf50f4133e04131e6d"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/四视图独立图/02_facing-left.png",
+      "bytes": 350679,
+      "sha256": "2ae50d172c0d024f85ec96e4ff385cc9402bc43ef9ed991373bf3847dcd9c051"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/四视图独立图/03_back.png",
+      "bytes": 433944,
+      "sha256": "46902fb1c33ac8513c95d6da73532f58b8651b34a04ad4fe65d2639a862dbb73"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/四视图独立图/04_facing-right.png",
+      "bytes": 384423,
+      "sha256": "9176712e43bd489d39c61db85680c3a70137b68e1277a1e147653f35ef86f33d"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/四视图独立图/split-manifest.json",
+      "bytes": 1588,
+      "sha256": "c929312a0d881c43b87e6e464e6385bf34383cc09d09240f76ccdcd5f574736c"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/知夏-工作服四视图-v1.0-实际修正提示词.txt",
+      "bytes": 1211,
+      "sha256": "e24bbe86ba2b907e96b8e55a1632dbc2328acaf120b50f9b40175e2c04087ae7"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/知夏-工作服四视图-v1.0-实际提示词.txt",
+      "bytes": 3022,
+      "sha256": "441b564c0edfae8fad12d44949d10eccc87d62ea427494f91f91c607b6860cc3"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/知夏-工作服四视图-v1.0.png",
+      "bytes": 2021709,
+      "sha256": "de0a634d43f439d66c68c3e6962ed7b421ce0e242052b0672d6e96af9d11fb95"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/知夏-工作服妆造分解-v1.0-实际提示词.txt",
+      "bytes": 3484,
+      "sha256": "e1132ef443b6389a3bf26506b32bc66b02ab4a71120632134dcb6cf39b02f71b"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/知夏-工作服妆造分解-v1.0.png",
+      "bytes": 2238509,
+      "sha256": "32f60fa0a01ce2d093cbaf11347c11cb9865305d3a2bf0e90e5a666fe173756c"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/知夏-工作服穿搭分解-v1.0-实际提示词.txt",
+      "bytes": 3632,
+      "sha256": "0a35e7ab8b98611c1d9f8600e4da679d64673f68dce7ee79d50bf3319f2118dc"
+    },
+    {
+      "path": "视频制作/知夏工作服定款三件套-20261013-v1.0/知夏-工作服穿搭分解-v1.0.png",
+      "bytes": 2271130,
+      "sha256": "1f4d20adfef6740dbe61b061f6d9a240436d22ecc975f176d44e91daaad5a2cc"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261012-v0.1/artifact-manifest.json",
+      "bytes": 495,
+      "sha256": "17e830b964a7bccb3e51925b9e89177bda8a12e26432af8a41e643c8b6e1b219"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261012-v0.1/toonflow-sync-receipt.json",
+      "bytes": 2678,
+      "sha256": "0131ec3d4311ac621d42f2ab71078f9357e2b15dbfad53a559cad5e85a30983e"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261012-v0.1/工作服11-记录.md",
+      "bytes": 1197,
+      "sha256": "1382d2b7b8e7a1387f36d418663f23e9e4ab727469dcb1f066b67826f4058dc6"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261012-v0.1/知夏-工作服11-实际生成提示词.txt",
+      "bytes": 3980,
+      "sha256": "0a600c810ecb18fc8fb1d978a51a368f656fee6df232a544d8e19f2ea5af0b31"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261012-v0.1/知夏-工作服11-针线围腰与低盘发.png",
+      "bytes": 1740382,
+      "sha256": "22d63c9286e47f9a1243bddcfe8255644b6df6c8a18a3396617634708eb36486"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/artifact-manifest.json",
+      "bytes": 487,
+      "sha256": "3d77ee2d0f7d3caf52a8b6769e911b7580f45609ab7f7b74e2e6c63850e05142"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/toonflow-sync-receipt.json",
+      "bytes": 993,
+      "sha256": "67609a9780fd45d1c11c60dfc2cf14c814d5afac370f2ebe2d0ddc9a8a3b919b"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/工作服12-记录.md",
+      "bytes": 1222,
+      "sha256": "ed97486f89a8787e12c3d79186305fd57b02d7521ee657db65bb1ee50ea6136b"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/工作服13-artifact-manifest.json",
+      "bytes": 493,
+      "sha256": "bc2c8b460fc32aca8f844e0b99156f26d67181ee8d183c9935be97540a2bfee8"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/工作服13-toonflow-sync-receipt.json",
+      "bytes": 1013,
+      "sha256": "6d3b1e798fa81fffd56a3de003a137fdb3d940f31d35b3855505ea017ac088c5"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/工作服13-记录.md",
+      "bytes": 902,
+      "sha256": "ff0b3c8c6dd42b3b659a3d99f8fa56ea7ec7370f5ed44f29c567369c41a301f8"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/工作服14与15-artifact-manifest.json",
+      "bytes": 1000,
+      "sha256": "7a844ece7955c02587634b3d5c38ff4911fea8904d91773058a0a3066ba65beb"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/工作服14与15-袜纹修正记录.md",
+      "bytes": 694,
+      "sha256": "c61e2e1da10e127d397eeb61f18d0f5fbbfa346d25ff27334acee4dd7672be0c"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/工作服15-toonflow-sync-receipt.json",
+      "bytes": 1488,
+      "sha256": "7766f6a5dbfe7fa6815dadc357ddcfb9ec02a5771d89b3e68da0ef94332a5aa3"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/工作服16-artifact-manifest.json",
+      "bytes": 627,
+      "sha256": "e674007891946b1e8477ef52a729e4c507dbd8477d52eec597da3cd5a02b591f"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/工作服16-toonflow-sync-receipt.json",
+      "bytes": 463,
+      "sha256": "2e73393deb6e1b626a18b63615b4b39aa8467c84a8bd1253141176c5d31a54a4"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/工作服16-记录.md",
+      "bytes": 965,
+      "sha256": "46a06ef1fd12c2125f51b6f4a835dd11a61e45f9f5956d937dfa7f1051f48682"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/知夏-工作服12-实际生成提示词.txt",
+      "bytes": 3608,
+      "sha256": "2db6ad73b2a2ad7f479442b670ad67a6c7ef55277d7e98068497998ff8a2b670"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/知夏-工作服12-水彩泼墨围腰裙.png",
+      "bytes": 1850709,
+      "sha256": "612f3cb488d8dc82b3f3062536b122128877a8db896e9a6c24da6b00bb72a13f"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/知夏-工作服13-实际修正提示词.txt",
+      "bytes": 3197,
+      "sha256": "1842e242b7a12a552b0a9b863f14f4e6b785ae97b3414abfba7efa92d882c554"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/知夏-工作服13-抽象泼墨与盘扣布靴.png",
+      "bytes": 1835210,
+      "sha256": "b5af3ca1eb6e7700c36e422022217bccad45fc48ebda03a1c8fb45b8dae9a621"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/知夏-工作服14-全身泼墨与印花长袜.png",
+      "bytes": 1818118,
+      "sha256": "f24ed07e9a5a4d9a23c957401ba28aee21f702a4378cb67366ea7baab930bc11"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/知夏-工作服14-实际修正提示词.txt",
+      "bytes": 2018,
+      "sha256": "002e4cd4bd1bdc606b60e116806459ec93a581bf22901e64e1b3ec7d8882d810"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/知夏-工作服15-实际修正提示词.txt",
+      "bytes": 1937,
+      "sha256": "f3479b47b31ac03818480abde24f085f5f37bf292278f6fd345903488ca5d431"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/知夏-工作服15-简约点染长袜.png",
+      "bytes": 1817295,
+      "sha256": "88a8c66e467e3b6f069ca26e7dec3c2ae0fe91bc47b3d7e67a24631e903e6b55"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/知夏-工作服16-实际修正提示词.txt",
+      "bytes": 2078,
+      "sha256": "964d456dc81a1fdbf313133dbb6e902451f3b294caaa98253484d0b7ba2a078e"
+    },
+    {
+      "path": "视频制作/知夏工作服精修-20261013-v0.2/知夏-工作服16-花叶绣纹布靴.png",
+      "bytes": 1798481,
+      "sha256": "a09926e7be60c74a68061e590e4eea139af86d372553bc9fe2ba89443f24a1d1"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261011-v2.0/artifact-manifest.json",
+      "bytes": 5675,
+      "sha256": "e40567844d9e4af960c8074ed83717287e23fad5ee69fed88f0ca6a5f510be03"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261011-v2.0/canvas-nodes.json",
+      "bytes": 2216,
+      "sha256": "c6c0c224815171c3a0e6cfe8e06130740278819ede78b1fcc7c642fff80dc2f7"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261011-v2.0/makeup-实际提示词.txt",
+      "bytes": 4728,
+      "sha256": "1673710d23578f49df1aeb02a911e1ccc79c907ec6cbc11212a090c2c7ca6e51"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261011-v2.0/makeup-校验修正提示词.txt",
+      "bytes": 1417,
+      "sha256": "d9acee4b76c7bef8d6abd6072f27a2922dd6a591338cf4966ba28f4148d24b32"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261011-v2.0/outfit-实际提示词.txt",
+      "bytes": 4870,
+      "sha256": "f736accd24f156bf890cf37c6b296399bc26dcd357f90a664184061c2c421088"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261011-v2.0/outfit-校验修正提示词.txt",
+      "bytes": 1205,
+      "sha256": "32efa49ffe9ab3fc008d2c2f1d02685db76aa7bacc62a835bb40ee40fd9979ea"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261011-v2.0/README.md",
+      "bytes": 4277,
+      "sha256": "d7a2a0bd7ba39290c033cf1d0ee4adfef0dd1530e96242be9cdbea452f80a6a2"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261011-v2.0/turnaround-实际提示词.txt",
+      "bytes": 4528,
+      "sha256": "1f5e36ddf9d944da3efc282c3da3a865037b31787d9f5631de772b88218dceb1"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261011-v2.0/turnaround-校验修正提示词.txt",
+      "bytes": 1809,
+      "sha256": "d49ca8ceb7f1f958d4a32eff99882c00c887a6504afb41e1903a7b754a77aba2"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261011-v2.0/turnaround-水杯修正提示词.txt",
+      "bytes": 1420,
+      "sha256": "ac56a8d5870e0d7731b343dbf48e6f2afae68936ffe69d3a38847cfd44024086"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261011-v2.0/知夏-妆造分解-v2.0.png",
+      "bytes": 2025533,
+      "sha256": "cd76d565749f0d3866de4b2e8a832ccc4768fe3476ef647bebaa9656295769dd"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/artifact-manifest.json",
+      "bytes": 1949,
+      "sha256": "8b656442ae3e14a58c985a615c2aa78fd2bcaabc220e0527a60f2b31594af3e1"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/README.md",
+      "bytes": 2626,
+      "sha256": "7e080d6369e0509f4cf12c6f814a74bae8204fe6d7ad70b37afd46b04a47dae7"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/toonflow-before-sync.snapshot.json",
+      "bytes": 30873,
+      "sha256": "01755f38b0a9a31c05e51a5c2b1856864722a9f9ed41c5ccc7ff75ef90a9d582"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/toonflow-before-targets.json",
+      "bytes": 30043,
+      "sha256": "2d57c5103dd235f0da50a8078831c503bbe158d9965a7a2bf2f5c7e8dde3f13b"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/toonflow-sync-receipt.json",
+      "bytes": 6577,
+      "sha256": "c9921eed1394bb6305d0318a5cd6e0f9f80257b5919f40ae151e794ce8166e38"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/四视图独立图/01_front-half.png",
+      "bytes": 599184,
+      "sha256": "716a4644a3cefb7a76d7d2eafd2955e7a015302d0906916eb0afe661d4a2c1a6"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/四视图独立图/02_facing-left.png",
+      "bytes": 298054,
+      "sha256": "7149d1b01db72a5e9422efba97872efbd2c0f24e47858518f58f47ade49e3ec3"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/四视图独立图/03_back.png",
+      "bytes": 371666,
+      "sha256": "dbebc2d486d3dd4f5334d489e5f0fae9e2b5074c0a59895e083e1c0cb84b192d"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/四视图独立图/04_facing-right.png",
+      "bytes": 344894,
+      "sha256": "6c43cbc23a4d71bf4be1eaef0c010944ebdc204909d4e6a3e47a9b50aba5a1bf"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/四视图独立图/split-manifest.json",
+      "bytes": 1594,
+      "sha256": "507204b55b62a5e25410a20e79cd071525f9becef807bb40ea65b7e288a2145f"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/知夏-校服四视图-v2.1-实际修正提示词.txt",
+      "bytes": 1519,
+      "sha256": "598b7b608d3cc2369bee359b53f36bc8cba85749a9802aa7c6e3bafe981565ce"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/知夏-校服四视图-v2.1.png",
+      "bytes": 1792531,
+      "sha256": "c8c3e3c1b4b47058d8cb2769d711c7fca0169c19a13c465166cacf109edf2aec"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/知夏-校服比例05-无腿部云纹-实际修正提示词.txt",
+      "bytes": 1183,
+      "sha256": "bc3d7537b09857d67fccf0c6fc6c9f6e2c350f33ba971a92e68f9027d1d7e86b"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/知夏-校服比例05-无腿部云纹.png",
+      "bytes": 1743716,
+      "sha256": "6c0875d0d8469203945407e6bd6ca56dedb3a87bf88d82563ba0ba5a2f3d9a16"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/知夏-校服穿搭分解-v2.1-实际修正提示词.txt",
+      "bytes": 1346,
+      "sha256": "bd92a1b2dfb86cac4f3ade9d03e8aca2a2776e1e496b6af98bb6dcdb07f0caab"
+    },
+    {
+      "path": "视频制作/知夏校服定款三件套-20261012-v2.1/知夏-校服穿搭分解-v2.1.png",
+      "bytes": 1774870,
+      "sha256": "c1688784c9a8dc90a201cee8feb6f2dfff9a71d04e838afac97fecd874764050"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/manifest.json",
+      "bytes": 396,
+      "sha256": "916c4e217c1c6f0af26597aeb26bc51a1fa78d326d359aa055ec47ec88f21eb7"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/README.md",
+      "bytes": 2189,
+      "sha256": "345e2892217c4cae731567b3626d3347715d7a9627ad060e5f1a4b327e1ab35a"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/toonflow-receipt.json",
+      "bytes": 1989,
+      "sha256": "f2b29493f9c37f7233dcfb6dc90743a883053d30bd5bd871d9866c8d63c62b89"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣05-实际生成提示词.txt",
+      "bytes": 3122,
+      "sha256": "4f18d9553e825bef269649065cdfa09652d5afd94235832e4f66fd432949d66d"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣06-manifest.json",
+      "bytes": 400,
+      "sha256": "4e41e8a5159d10d28a0d61400dcc885b285f6402926973d78485855921147aa8"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣06-toonflow-receipt.json",
+      "bytes": 2041,
+      "sha256": "78bf70e8ffc4e36387c97adfece279ae708b57b3ab3fe79bba8553a2f4696bbb"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣06-实际生成提示词.txt",
+      "bytes": 3677,
+      "sha256": "0e63640ded01448c41764e726e089088b95dae14acdad32e46572e0ad1bffc23"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣06-记录.md",
+      "bytes": 1293,
+      "sha256": "96cd2d67c3a0bc2800f6ef6b3eb22f328e3707a587f3b53aadb2d5654d52beea"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣06-马尾顺滑修正提示词.txt",
+      "bytes": 1244,
+      "sha256": "caeb22a52380f9bce943ca0ed20b094c3904f3936f1e71ff880e115e8026497b"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣07-manifest.json",
+      "bytes": 472,
+      "sha256": "57609348ea9e706a3cbdb553a038c3aa2e2c9aac08bdc0cd3015d0335717e1a2"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣07-toonflow-receipt.json",
+      "bytes": 1187,
+      "sha256": "ea74c750f81ac85926e937a0483813ef48aac48125e253625d184857cb9e89ad"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣07-实际生成提示词.txt",
+      "bytes": 3229,
+      "sha256": "548d325f8ac65b64ed26722da24955654ed1d3865cf31b4ce0f35e5ae0a9733d"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣07-记录.md",
+      "bytes": 1479,
+      "sha256": "adead131c9c50a33819f479d7e061685f62c9092ccefb396f18603446dafcdac"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣08-manifest.json",
+      "bytes": 400,
+      "sha256": "35ef0a5dccf6e12d5819830590b41aeb700da9611d47916331f3d46088333ec8"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣08-toonflow-receipt.json",
+      "bytes": 1176,
+      "sha256": "9bfe47645a8a4cf4aeb1b52ca1a6b57cf161a6d310cd7ae01d65f71e4eb63875"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣08-实际生成提示词.txt",
+      "bytes": 4179,
+      "sha256": "fcb6f0c691b19afd84a8d2152fce0a40d6170d8e0e8482e5aea9b44c8f775faa"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣08-记录.md",
+      "bytes": 1610,
+      "sha256": "2a1d9ae891a962cf56add97ab29eb0c897418551b56e4fbc0948698ee07b1fc3"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣08-配色分析.md",
+      "bytes": 2407,
+      "sha256": "ae0fe044aad98f3d0f38a62cf51bd529d02f830d58915888d5573b0f519e2f23"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣08-配色测量与目标.json",
+      "bytes": 1387,
+      "sha256": "ec4330231724f9316b72913e83d7e218433b6eb3bbf8dc9e1817aa1060fb0b72"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/睡衣09-记录.md",
+      "bytes": 975,
+      "sha256": "59b11aed65d90723fa6bed0493b46582b8d67133dfda7fdf2276a62258539cdb"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/知夏-睡衣05-荷塘卡通短袖睡裙.png",
+      "bytes": 1712214,
+      "sha256": "67d211ec6d96f69a941df6b4cb532d3e5be0dacdec46c28f604cbca423ba67a6"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/知夏-睡衣06-绿白长裤与顺滑高马尾.png",
+      "bytes": 1666102,
+      "sha256": "4f2b24306d4a16e9394a88dfa33da6641dcad2de3bcc45d054ab157a4e8604f7"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/知夏-睡衣07-荷叶织纹与发箍.png",
+      "bytes": 1698046,
+      "sha256": "484a0723e745a30a3e89d3d2b0a113a8f1e8a5afbbaf87082aa4841b8c7556c8"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/知夏-睡衣09-青瓷绿短裤无云纹-实际修正提示词.txt",
+      "bytes": 1212,
+      "sha256": "19f1bfd74fac7715e1fe44b86ca36e2f871b58de8a7fe7d8df8ba65c32126c16"
+    },
+    {
+      "path": "视频制作/知夏睡衣精修-20261012-v0.1/知夏-睡衣09-青瓷绿短裤无云纹.png",
+      "bytes": 1635069,
+      "sha256": "21ff97b814fac72377daaa63b981dbf90318682bc003debede5a16ad4e315ea5"
+    },
+    {
+      "path": "视频制作/知夏睡衣重设计-20261013-v0.1/artifact-manifest-11-12.json",
+      "bytes": 947,
+      "sha256": "f67bf9c85509e7669391004f1d29f3bf5cee46226f5767bb932f98faa32e51b2"
+    },
+    {
+      "path": "视频制作/知夏睡衣重设计-20261013-v0.1/artifact-manifest.json",
+      "bytes": 700,
+      "sha256": "04545f579601f351a2c9913279545502f853eaf904a79950b310b96467a42f80"
+    },
+    {
+      "path": "视频制作/知夏睡衣重设计-20261013-v0.1/README.md",
+      "bytes": 1877,
+      "sha256": "79cbd0b50a652682847be0ab462989e8cb046d2f734f33483a3bf785da8b5adb"
+    },
+    {
+      "path": "视频制作/知夏睡衣重设计-20261013-v0.1/toonflow-sync-receipt-12.json",
+      "bytes": 1179,
+      "sha256": "2191078ea393d35927e08ad2d4c4c820a9a4038bcf2c04af543f103a32ba28d7"
+    },
+    {
+      "path": "视频制作/知夏睡衣重设计-20261013-v0.1/toonflow-sync-receipt.json",
+      "bytes": 853,
+      "sha256": "bbd5e5ddf63f012a4f57e57c41cf1f4d1a510266def6fdfce62a15b247bc5320"
+    },
+    {
+      "path": "视频制作/知夏睡衣重设计-20261013-v0.1/可爱睡衣设计调研.md",
+      "bytes": 2537,
+      "sha256": "40b38f1458dfb6dd473b6601afede3010fcd32e092fd6c10ac5ae445c344c0d2"
+    },
+    {
+      "path": "视频制作/知夏睡衣重设计-20261013-v0.1/睡衣10-实际生成提示词.txt",
+      "bytes": 4012,
+      "sha256": "d5a2e4b5a85835bfd5e78eb29f07c4505e44d015092ab9ddb1e54e16e842e1a4"
+    },
+    {
+      "path": "视频制作/知夏睡衣重设计-20261013-v0.1/睡衣11-实际生成提示词.txt",
+      "bytes": 4424,
+      "sha256": "194dd6d43f655e754a52d20aa6e1e496d447da4109f8456fd69bc7c3695eb831"
+    },
+    {
+      "path": "视频制作/知夏睡衣重设计-20261013-v0.1/睡衣12-实际修正提示词.txt",
+      "bytes": 2234,
+      "sha256": "f3182b304595be3b9e621862fc839b8a52dc8b5b3d06d3619ef4bc6a79a54c92"
+    },
+    {
+      "path": "视频制作/知夏睡衣重设计-20261013-v0.1/知夏-睡衣10-荷瓣袖与锦鲤口袋.png",
+      "bytes": 1689888,
+      "sha256": "f0f76714d708be5e5ee3c8842978a191e25d892706d3b130b77089cd6545336e"
+    },
+    {
+      "path": "视频制作/知夏睡衣重设计-20261013-v0.1/知夏-睡衣12-胸前锦鲤荷花-面容与杂纹修正.png",
+      "bytes": 1674257,
+      "sha256": "c50d4d98a6a877c6ac53bd6cdd383655e5d4860dfa17f05a1687819c4c6eb331"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/E01-A-010-送水回避.png",
+      "bytes": 2420694,
+      "sha256": "b9d05c50b66baea5064e1f38a3d19daff98fc6cd9a749ebf146893c4dc47b4f1"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/E01-A-011-整窗水巷-真实纵深.png",
+      "bytes": 2449673,
+      "sha256": "7562116e597c8fb5d22c34ea480e712e5bb811352e95330215ddbade7d1faae5"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/E01-A-014-喊停后全景.png",
+      "bytes": 2407870,
+      "sha256": "ca43ff855df2e71caa43e402dae981d2dd4b157ccaec8898ed10eefb33feb768"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/E01-A-015-躺回伸手.png",
+      "bytes": 2173331,
+      "sha256": "a40b3addd025feb01722b16206c5a56342b1b672d7e72268bc84518c6a81ec5a"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/manifest.json",
+      "bytes": 8397,
+      "sha256": "9020ae7939cf5669ecf0fc92222b18cd216dbfc909a9879470cccf78c59d7728"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/prompt-A010.txt",
+      "bytes": 1845,
+      "sha256": "fae38a1e49b52522782f97d8eeea5ab293198452542654a3089f385192888e91"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/prompt-A011-fix.txt",
+      "bytes": 1169,
+      "sha256": "8d87d947d26d6ec4b74248b0c86b8eaaf88c0f1656fb74dacd4d4fd8fbb74c5a"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/prompt-A011-full-window.txt",
+      "bytes": 2499,
+      "sha256": "e8638cff1b1dbcadf0d20cf813a34364ac60c1b0acc8f6870deb2df78a9a747a"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/prompt-A011.txt",
+      "bytes": 2214,
+      "sha256": "fb10f5ffd8ba4cf8d4db637535b38f0585905d6c80509193c04d693c46377be3"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/prompt-A014.txt",
+      "bytes": 2154,
+      "sha256": "b08a86743ee0b66634a8683712c40087838113620022e94bb3b4162d0705362e"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/prompt-A015.txt",
+      "bytes": 2029,
+      "sha256": "89ac1252594742c6bd41c51de14574c78f94120305816b066ae411f9db2a3911"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/README.md",
+      "bytes": 3338,
+      "sha256": "b4f017a7f439014a882d127584799bb1f1e0a5d4deeab28b4259345e4522ab84"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/toonflow-receipt.json",
+      "bytes": 2896,
+      "sha256": "45e48c3f6c70455024e91810982789a2218930da15e97a9618b807c079252817"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/toonflow-text-readback.json",
+      "bytes": 531,
+      "sha256": "cc6f22ac8e5b405e100704871a18f00ac2e4cd5d12cf84f1ac2e213c94efe80f"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/validation.json",
+      "bytes": 318,
+      "sha256": "5697d4bb5648a1b3e592af52a402dcf39a815db2a9fe888bfab94b2a82a577f0"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/审查记录.md",
+      "bytes": 1928,
+      "sha256": "6722ea302d0001554a0f5e1cb9745e66afe2a36d61595a1833e2b800fe47d0d5"
+    },
+    {
+      "path": "视频制作/第一幕四镜补帧-20261017-v0.1/画面核对.json",
+      "bytes": 2681,
+      "sha256": "832d64c93fb4ed14595eb9c5f53f9c218134b36502c3fe6c381ccbc2d44ee197"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/02-拖鞋到位.png",
+      "bytes": 2472080,
+      "sha256": "7bc4594125ff97269b33405652fde68e194a1926db9acb3e35af6d06ff0eb856"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/05-今日无安排.png",
+      "bytes": 1864792,
+      "sha256": "6aa600cf21c70a2bf2e497a878b55df6945c7b4e8214756272ce0bfdf155eee8"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/08-闹钟伸手.png",
+      "bytes": 1853622,
+      "sha256": "bb74e453168d4e051c27aee24bed0166d47d3b089f59a3c4fab7b751e3e14845"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/manifest.json",
+      "bytes": 21597,
+      "sha256": "eebdcff9ad4c0bd0af2a606a12988d11dff0758a4aa01dfcba1006bda7060b27"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/pending-toonflow.json",
+      "bytes": 3853,
+      "sha256": "e1592a46272dcf715a3ba2fb90aaaa90637058f10e702aeabd003021019c40f6"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/prompt-01-wide.txt",
+      "bytes": 3392,
+      "sha256": "cd5d40464df476991e23cb3d53e6cead84e9fcc9e8a6de3eaa3c2bbaa6a14afb"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/prompt-02-slippers.txt",
+      "bytes": 1245,
+      "sha256": "0b40940b68983d907769d67b8d7dc2d0fd0dac7c56fdabc6ba335f5be28ace9c"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/prompt-03-wardrobe.txt",
+      "bytes": 1424,
+      "sha256": "7495ae3364e4e74d65011d520dee599cd669e077fe48b0d451a9a2bf1395760f"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/prompt-04-cup.txt",
+      "bytes": 1103,
+      "sha256": "bb56390ee98d330e59200960e9db7363593cf6dff48dc023782db09c3b0dcf6e"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/prompt-05-calendar.txt",
+      "bytes": 1176,
+      "sha256": "1acf4849aa3dc1a5849b5a2477303a871b940b65c8561fc30385388f9b0c939f"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/prompt-06-stop.txt",
+      "bytes": 1602,
+      "sha256": "9ca953c159af964e20091bd86ceac4232b47ca743c78c98c8db04200e86423e6"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/prompt-07-ending.txt",
+      "bytes": 1827,
+      "sha256": "307b4506430f01a8153e962736ea63a1812b718fb6b4545bd60ee40d35ab6aa9"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/prompt-08-clock.txt",
+      "bytes": 1242,
+      "sha256": "0af59c0b03f39d890fc17eed9a6642d44561172e561eb43d02722c91a21d6b3b"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/README.md",
+      "bytes": 5435,
+      "sha256": "ee99686c185f6e4bce807df9f598da67968342bd7524b2871f470a00e6372e71"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/validation.json",
+      "bytes": 3258,
+      "sha256": "d934f374e6888ab95f9dd145ce5ef4becc62eba8791be9602d475cbc832f4549"
+    },
+    {
+      "path": "视频制作/第一幕完整镜头包-20261016-v0.1/审查记录.md",
+      "bytes": 2336,
+      "sha256": "f2f9a7ef9ec6d97eec8dccf05306d7ed2d431dfbeba558fa37b12107da18cdc0"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/01-床头玉璧与回应光纹.png",
+      "bytes": 2343198,
+      "sha256": "2368893a42bd3a556f0427acd8d9234ee03d7b24eba74c2e492100f5c4750d87"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/02-衣柜玉扣与等待亮弧.png",
+      "bytes": 2176443,
+      "sha256": "dfa9dbed824fde0d2f8c1d42daa1072ad819e2c8c5f50172c8d56ea6644dc802"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/03-杯托玉芯与叶脉光.png",
+      "bytes": 1886934,
+      "sha256": "e922eff6096c9e51db2b11c5e822aef5ea276202d1a3bc753f1f0ae567c70ac1"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/canvas-before-sync.local.json",
+      "bytes": 36721,
+      "sha256": "7fca37b69928776c1a3bea42c372f90493a2c6ffc038ad185309bd2c8386bd9a"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/manifest.json",
+      "bytes": 27135,
+      "sha256": "74fd701eea15f9c49e86fc82c8b670b0f35e525514a1e369a9cd50ac191e2226"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/prompt-01-bed.txt",
+      "bytes": 1605,
+      "sha256": "ba4c0e684e747665b13459472d552712714877c2bde09dcd2fc1bb98e8750314"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/prompt-02-wardrobe.txt",
+      "bytes": 1794,
+      "sha256": "65cab83658de08b61737c619d77b47f65f7668b7df37757edca6201390fbd1ef"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/prompt-02b-wardrobe-clean.txt",
+      "bytes": 699,
+      "sha256": "9bcbe65d5e763c59abeaca8cb425fdec12ca195040bdb0c0634f9ca11daa3138"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/prompt-03-tray.txt",
+      "bytes": 1307,
+      "sha256": "f8d11b584ccb17522e84729320feb25a919b05b302ef6b5341c1ab8658bc75d3"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/README.md",
+      "bytes": 2963,
+      "sha256": "4d99159ed68f9d9a422c5fcd4194f312ab4f8e2944589ea89203b5d8318576c7"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/toonflow-sync.json",
+      "bytes": 1168,
+      "sha256": "7c1c028714aee9fc449250981984885b3c52653162c43e0309e53e2c139ed9ba"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/validation.json",
+      "bytes": 817,
+      "sha256": "12f3b0c75b00ba8d9b4fcefaa6ece1d4c3ecc47f357e08a37a3866f095b173d1"
+    },
+    {
+      "path": "视频制作/第一幕家具智能形制-20261016-v0.3/审查记录.md",
+      "bytes": 1401,
+      "sha256": "1b74678301c285f45a46f344cc57ff623f6f87c6af9786af7cfa0158e5986883"
+    },
+    {
+      "path": "视频制作/第一幕家具表演修订-20261016-v0.2/01-床托住知夏.png",
+      "bytes": 2389343,
+      "sha256": "f8852a5d6afd0212ed14abd53a759324c6e34a42eafefc3eb6f5f3b44e7dc26f"
+    },
+    {
+      "path": "视频制作/第一幕家具表演修订-20261016-v0.2/02-衣柜递出昨晚搭配.png",
+      "bytes": 2262021,
+      "sha256": "e64cc235951a3b5afdbd74412b7080271502c0f45abdefda596f96752d3f809c"
+    },
+    {
+      "path": "视频制作/第一幕家具表演修订-20261016-v0.2/03-床替他们盖好被子.png",
+      "bytes": 2145733,
+      "sha256": "7d5f62cc873c1f3141ce9ee79f1057daa88967691baafff5d3a9fd58cdf84093"
+    },
+    {
+      "path": "视频制作/第一幕家具表演修订-20261016-v0.2/canvas-before-sync.local.json",
+      "bytes": 33697,
+      "sha256": "508aa8dc82069b68ec4b424dd232c783abc33258fccffa993496f52b1652da6f"
+    },
+    {
+      "path": "视频制作/第一幕家具表演修订-20261016-v0.2/manifest.json",
+      "bytes": 20372,
+      "sha256": "53d882ecd641c46a65c1f3976c0b7242e4af60e59059f206041c2e4e92f19d56"
+    },
+    {
+      "path": "视频制作/第一幕家具表演修订-20261016-v0.2/prompt-01-bed.txt",
+      "bytes": 1631,
+      "sha256": "122bfc6fb025c59f4acb1709d02fee84a093b270c89c6575d9cb0c53f826832e"
+    },
+    {
+      "path": "视频制作/第一幕家具表演修订-20261016-v0.2/prompt-02-wardrobe.txt",
+      "bytes": 1582,
+      "sha256": "a40cded77dfc874be61133418e17fd19410ae984a58385fc456c8b9c549a35b7"
+    },
+    {
+      "path": "视频制作/第一幕家具表演修订-20261016-v0.2/prompt-03-ending.txt",
+      "bytes": 1621,
+      "sha256": "7ca18d1bfb9d7428003f4c29cd72675d3d69b596726c7fade86245bb90a8a38b"
+    },
+    {
+      "path": "视频制作/第一幕家具表演修订-20261016-v0.2/README.md",
+      "bytes": 3242,
+      "sha256": "91e4312427394ddc1a22472d54f1fbabb903bb65160a776471cd12aa4390b66c"
+    },
+    {
+      "path": "视频制作/第一幕家具表演修订-20261016-v0.2/toonflow-sync.json",
+      "bytes": 2026,
+      "sha256": "46924d9e4611f1b6f93c3881d9b4f372048c4cb078e9f809b13771a9f0e8c65d"
+    },
+    {
+      "path": "视频制作/第一幕家具表演修订-20261016-v0.2/validation.json",
+      "bytes": 1048,
+      "sha256": "7013143d8b0ae6d54a2cbfe1421adeb01cdf1ac8861a2b3dfa04cddbf4f9b696"
+    },
+    {
+      "path": "视频制作/第一幕家具表演修订-20261016-v0.2/审查记录.md",
+      "bytes": 1205,
+      "sha256": "3ac298f145b08e5eed8987d7f976cc6dff56ba279bfe47535eed9beb68024f47"
+    },
+    {
+      "path": "视频制作/第一幕家居忙碌表演-20261017-v0.1/E01-A-009-衣柜主动推荐.png",
+      "bytes": 2272220,
+      "sha256": "ebce89c65aedcb1d7dcd5ad561f1e65dba39269a3dfe11273c9425cd0831a0e8"
+    },
+    {
+      "path": "视频制作/第一幕家居忙碌表演-20261017-v0.1/E01-A-011-全屋忙碌-去支架.png",
+      "bytes": 2494565,
+      "sha256": "09aa45a36105114e4a075e5294d2338c7db4a727124115b6617d245ff601c68d"
+    },
+    {
+      "path": "视频制作/第一幕家居忙碌表演-20261017-v0.1/E01-A-014-全屋停在半途-去支架.png",
+      "bytes": 2449683,
+      "sha256": "223e7c82a6a0d9627e653a345927a02caee04ecb4ac149575d99d0096247783e"
+    },
+    {
+      "path": "视频制作/第一幕家居忙碌表演-20261017-v0.1/manifest.json",
+      "bytes": 5064,
+      "sha256": "37df3a27061e0a32e2ba34701d315cdf0ba3eb560e947e04a6d46ae481c44904"
+    },
+    {
+      "path": "视频制作/第一幕家居忙碌表演-20261017-v0.1/prompt-A009.txt",
+      "bytes": 1816,
+      "sha256": "cb029a79a87717d3359142951a0a74b19678159b58dbc1b96daf4458fe8d31ff"
+    },
+    {
+      "path": "视频制作/第一幕家居忙碌表演-20261017-v0.1/prompt-A011.txt",
+      "bytes": 3245,
+      "sha256": "ad9fdca53b2f60d60f4c357d08626865d083a2787c135f03ec4ee4b51198c90f"
+    },
+    {
+      "path": "视频制作/第一幕家居忙碌表演-20261017-v0.1/prompt-A014.txt",
+      "bytes": 2610,
+      "sha256": "3b205c6e0f931632b4bf3b6aa7732258f2af4ae3bd909fe8bc8db44f35c7649a"
+    },
+    {
+      "path": "视频制作/第一幕家居忙碌表演-20261017-v0.1/prompt-去支架.txt",
+      "bytes": 970,
+      "sha256": "b715698251b5fc958aca67d772eb4a7ff695ca32e112d55069cec0c3eabc33ba"
+    },
+    {
+      "path": "视频制作/第一幕家居忙碌表演-20261017-v0.1/README.md",
+      "bytes": 3043,
+      "sha256": "a45b690e192139ff16c0694e9e0384988b3e784bd17b2b1bd314cf5ead1f718a"
+    },
+    {
+      "path": "视频制作/第一幕家居忙碌表演-20261017-v0.1/toonflow-sync-receipt.json",
+      "bytes": 6582,
+      "sha256": "6cb85fd9d8a89d6f74b4f3cb17711c70127b7fcd0c061430791515760cd2bdb0"
+    },
+    {
+      "path": "视频制作/第一幕家居忙碌表演-20261017-v0.1/核对记录.md",
+      "bytes": 1573,
+      "sha256": "f1d33b2f504b355785ded1f19585f69147fd9a066959c1a969177f9acc87b306"
+    },
+    {
+      "path": "视频制作/第一幕拖鞋蚂蚁视角-20261017-v0.1/E01-A-008-PRE-贴地跟随.png",
+      "bytes": 2272005,
+      "sha256": "84be6206f6eb78fb584f9166e981d33ec0129b7d59188eeed84ec2bf8c767545"
+    },
+    {
+      "path": "视频制作/第一幕拖鞋蚂蚁视角-20261017-v0.1/manifest.json",
+      "bytes": 1822,
+      "sha256": "40658b8d6a7a37ad6e8324c84b00e59ab31c02f83e65adc03662489004e3f654"
+    },
+    {
+      "path": "视频制作/第一幕拖鞋蚂蚁视角-20261017-v0.1/prompt-fix-direction.txt",
+      "bytes": 1616,
+      "sha256": "83ccd66afcc32c84e607350993d877459ae19b46733214ba31ef841fd752e8f7"
+    },
+    {
+      "path": "视频制作/第一幕拖鞋蚂蚁视角-20261017-v0.1/prompt.txt",
+      "bytes": 2515,
+      "sha256": "3f5c08bc9f2126d73918dd52b5da725901ff345e22ab08deabafbc7c146bab2f"
+    },
+    {
+      "path": "视频制作/第一幕拖鞋蚂蚁视角-20261017-v0.1/README.md",
+      "bytes": 1450,
+      "sha256": "763fa370b9315e6f3dcdb1137eacefd929017801afeb2b9363e65534defb3ba2"
+    },
+    {
+      "path": "视频制作/第一幕拖鞋蚂蚁视角-20261017-v0.1/toonflow-receipt.json",
+      "bytes": 1295,
+      "sha256": "239437281ba2dabc49fe702c6f6704b14eafdd57fa4f6181c09abad3c8ebd2aa"
+    },
+    {
+      "path": "视频制作/第一幕拖鞋蚂蚁视角-20261017-v0.1/validation.json",
+      "bytes": 359,
+      "sha256": "df8492404ff6f4325b98e901d80a567396879551def683e15c11aec3362fcdf6"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02床侧近景-20261015-v0.1/canvas-before-sync.local.json",
+      "bytes": 21133,
+      "sha256": "bf31fe39fa9e6599aa309c0b63e9d07c3551bc0fecb1cacdc75a535dc987549d"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02床侧近景-20261015-v0.1/E01-A-K02-催醒前床侧近景01.png",
+      "bytes": 2068679,
+      "sha256": "4fbb79a73c640e1fa614da9ab93c4e30f8d8926504e70b16c1b7d98c29afc4f3"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02床侧近景-20261015-v0.1/prompt.txt",
+      "bytes": 4803,
+      "sha256": "51bc79bca32886e32c560e4e1f8b5ecc9d9b347b570070b7ddcff15fc3336e50"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02床侧近景-20261015-v0.1/provenance.json",
+      "bytes": 1266,
+      "sha256": "df41fa4e24fea5631b4b0aad3b2a6bea5a9802056222593cd3051ed0c61897a1"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02床侧近景-20261015-v0.1/README.md",
+      "bytes": 3494,
+      "sha256": "6b3dc40e9b4c2b559e5639c2b1c23460967a59aebabbb60f7af15e1bee08e9eb"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02床侧近景-20261015-v0.1/toonflow-sync-receipt.json",
+      "bytes": 2428,
+      "sha256": "614ed9ddefbc8dfc162196a200048b17f44bfe35dffa6bbfad950b08878452f4"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第一拳-20261015-v0.1/E01-A-K02-P1-第一拳碰头01.png",
+      "bytes": 2052753,
+      "sha256": "61b0626cb4033b8512c9cf6e7af6b406da21c0573a7845d4eafdf9129184d999"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第一拳-20261015-v0.1/prompt.txt",
+      "bytes": 3372,
+      "sha256": "d61f7f658892940eba34d097df20cf6e214c7b0ebabe9cbfdfc26530190fb3e6"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第一拳-20261015-v0.1/provenance.json",
+      "bytes": 595,
+      "sha256": "e4c770f8dda39e9ca9dd41290f40df14c81594fe3591aba58e368bde96ac2115"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第一拳-20261015-v0.1/README.md",
+      "bytes": 1492,
+      "sha256": "77796c50872e6d1c675d2e1855d30fd72314a8df7a24cb4bd1de5b6e867b9307"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第一拳-20261015-v0.1/toonflow-sync-receipt.json",
+      "bytes": 386,
+      "sha256": "44e087c54d10833a8eea96e66012326b43f8fc0cdd3a8f36a830ce4a4a011a8a"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第三拳-20261015-v0.1/E01-A-K02-STOP-第三拳按停01.png",
+      "bytes": 2432791,
+      "sha256": "863f27dc115051e950fd67e1bef2bd09cdaad03f25274161c983161e86347200"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第三拳-20261015-v0.1/prompt.txt",
+      "bytes": 4521,
+      "sha256": "f3e44a1410045aa367cfc49d3e7a614990d9b6a615e319a8027a3543543ef9a5"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第三拳-20261015-v0.1/provenance.json",
+      "bytes": 582,
+      "sha256": "3db6be6048cb7ca53065e012b32b131c5ce528970adaacca873545381036831f"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第三拳-20261015-v0.1/README.md",
+      "bytes": 1374,
+      "sha256": "7f45397de951f341645a3b2cd7a3ae28ce4618083a8e8d1e9b758d22b931cc46"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第三拳-20261015-v0.1/toonflow-sync-receipt.json",
+      "bytes": 429,
+      "sha256": "2ef5aa28fb97562c75b3b2bdb2c506c710f14116312287c83ca1ca834d3b6169"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第二拳-20261015-v0.1/E01-A-K02-P2-举汤圆挡拳01.png",
+      "bytes": 2257907,
+      "sha256": "9fd2ad0f68f293dae79b47f8a29c63149d37a50308cf784a53e7d6e591fce1fc"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第二拳-20261015-v0.1/prompt-unexecuted-shoulder.txt",
+      "bytes": 4281,
+      "sha256": "89bc2980fdbea6ada3c6ccc4b7156f3ec7cab187a75f25befba9d662e0788c78"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第二拳-20261015-v0.1/prompt.txt",
+      "bytes": 4279,
+      "sha256": "3412c519e76e12c908025a609de59ac069fb041cec7283177c94bc6b9d106f3a"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第二拳-20261015-v0.1/provenance.json",
+      "bytes": 669,
+      "sha256": "6ca540708e855f118b72bf83c1fec87cd9af592eedf33552dc96d19065fad60b"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第二拳-20261015-v0.1/README.md",
+      "bytes": 1761,
+      "sha256": "a1b76e8f03f63137c43fbd2806e1b4f6b2c5f3ef1a1de6ac5aeffdd15f70b40c"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02第二拳-20261015-v0.1/toonflow-sync-receipt.json",
+      "bytes": 428,
+      "sha256": "468b1323b6cacedd47c178a1b2eb110fff2941c60d1b8efc0cdd843c07903234"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02轻捶被子-20261015-v0.1/E01-A-K02-轻捶被子01.png",
+      "bytes": 2116514,
+      "sha256": "5265a45120e053488f5573e91f6194a0dd0990df6c1ae1c555da02cf72040296"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02轻捶被子-20261015-v0.1/prompt.txt",
+      "bytes": 3079,
+      "sha256": "40b53e9d9ea6fe7ebbc2fe9f7a7184c217daab51086b6384260de7d134282244"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02轻捶被子-20261015-v0.1/provenance.json",
+      "bytes": 559,
+      "sha256": "cf0b7061f9078ccb921fbf39558b31fb3c002e1e6c3a12652af1817cef237325"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02轻捶被子-20261015-v0.1/README.md",
+      "bytes": 1426,
+      "sha256": "31f1164dc48165052d1a871df2897850b486426c57a2df3c72fb7f6fb817923b"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02轻捶被子-20261015-v0.1/toonflow-sync-receipt.json",
+      "bytes": 386,
+      "sha256": "90ad7cf7b9add768b5bce9fe453468533e62b4927ca1cbf3bd2e2e045be35f1f"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02长手闹钟-20261015-v0.2/E01-A-K02-长手闹钟催醒前02.png",
+      "bytes": 2106197,
+      "sha256": "53bf4619ecbb409d4ed8ea02e13a5da4a1d1a0f826d02e86d1d9cb295094a82b"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02长手闹钟-20261015-v0.2/prompt.txt",
+      "bytes": 3122,
+      "sha256": "4c369beaf71fea93ea946b1505cbe623c4d4e246bf47ffdcc035bcc1be50d073"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02长手闹钟-20261015-v0.2/provenance.json",
+      "bytes": 613,
+      "sha256": "cc892cda69d220996e2ec81aada8c80ebce8d08c2439784f47326a79c354a0b5"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02长手闹钟-20261015-v0.2/README.md",
+      "bytes": 1474,
+      "sha256": "67e223c92cb54e78cf375e4a549844a13e2c87c206133bae7f8ea7a8720f0868"
+    },
+    {
+      "path": "视频制作/第一幕晨起-K02长手闹钟-20261015-v0.2/toonflow-sync-receipt.json",
+      "bytes": 481,
+      "sha256": "ed2543d5c79271a788a4ee55bd799dbc025b62e1754903a8cc770cde8833f53f"
+    },
+    {
+      "path": "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/01-K02-P1-半醒偷看.png",
+      "bytes": 1991628,
+      "sha256": "f7d21e0492dfbb49d08737a161fbcf93a7a35a03407b1bde6a49e166888d8fc1"
+    },
+    {
+      "path": "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/02-K02-P2-受拳错愕.png",
+      "bytes": 2227041,
+      "sha256": "b214d85f690de3a43df02384673d06aaf63caec305024c1aa4e892d1b7b6c067"
+    },
+    {
+      "path": "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/03-K02-STOP-侧眼埋怨.png",
+      "bytes": 2178254,
+      "sha256": "60102d529e95248787619f69ef22e7424f5151baa646feb06acc6bcb9687f862"
+    },
+    {
+      "path": "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/prompt-01.txt",
+      "bytes": 1738,
+      "sha256": "170c484cf7c6271fb1d0b35f4da8274b64aabe8fb906c6c7e73ba1b8e327aa9a"
+    },
+    {
+      "path": "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/prompt-02.txt",
+      "bytes": 1689,
+      "sha256": "ece15ac79b10abf4dd81917fc8f356d58707a339b0c29029c04c9f3724e0a1ef"
+    },
+    {
+      "path": "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/prompt-03.txt",
+      "bytes": 1852,
+      "sha256": "9728c26bb0745139e74f946058f1ff412d5c540246ac37d686d68434446eeb74"
+    },
+    {
+      "path": "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/prompt-03b.txt",
+      "bytes": 1212,
+      "sha256": "ffe00c788bcf46fdbb1eb9a394c56192db078e16b436ff0862dc5a0043dfffcf"
+    },
+    {
+      "path": "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/provenance.json",
+      "bytes": 2233,
+      "sha256": "3bff7b2ae1e22fffe2586f1e96e12cd2a79ab1c2e082d85349c90259f74eda8b"
+    },
+    {
+      "path": "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/README.md",
+      "bytes": 1913,
+      "sha256": "82efb782228de001515d1d170bdbe46d1a6f541c77441cdffd06da377a118d02"
+    },
+    {
+      "path": "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/toonflow-sync-receipt.json",
+      "bytes": 488,
+      "sha256": "1877621fddfd930c5a8edd724ecc9d5d1d010e1a4d2249d9446e31279897f241"
+    },
+    {
+      "path": "视频制作/第一幕智能日历-20261017-v0.1/E01-A-012-智能日历.png",
+      "bytes": 1955757,
+      "sha256": "98f9b6298403bdc31e90b19aaf9d2088131747e37db4ed923e070b987a86cb12"
+    },
+    {
+      "path": "视频制作/第一幕智能日历-20261017-v0.1/manifest.json",
+      "bytes": 1315,
+      "sha256": "4a280c568a3788f19896f94c9cd3cd256b67745a55c209a9497e211f29505de0"
+    },
+    {
+      "path": "视频制作/第一幕智能日历-20261017-v0.1/prompt.txt",
+      "bytes": 2023,
+      "sha256": "c6438e62bdbb75e8e33c0ff34de7eecdc221b8bf9a6c40f935f50edff69ea843"
+    },
+    {
+      "path": "视频制作/第一幕智能日历-20261017-v0.1/README.md",
+      "bytes": 1595,
+      "sha256": "aab8aa69e64cca70abdae41831926d97fd5c5cc49d3b241e48998f66100cbc16"
+    },
+    {
+      "path": "视频制作/第一幕智能日历-20261017-v0.1/toonflow-sync-receipt.json",
+      "bytes": 2024,
+      "sha256": "2d326a2cb5ddabb65e0ed8fc321062639a9c2afd9eb6a86dfabdedb70464b2a2"
+    },
+    {
+      "path": "视频制作/第一幕智能日历-20261017-v0.1/validation.json",
+      "bytes": 225,
+      "sha256": "362876712d54a8a900ab2999d110caff945e91ec06d176b45f14d74bc5c19332"
+    },
+    {
+      "path": "视频制作/第一幕智能水杯-20261017-v0.1/01-杯身温度读数.png",
+      "bytes": 1866771,
+      "sha256": "5fa560b7ac9519b8fdb0df722fa851cc0732fc76a419857ac740a5983bbe9f7f"
+    },
+    {
+      "path": "视频制作/第一幕智能水杯-20261017-v0.1/manifest.json",
+      "bytes": 27745,
+      "sha256": "a2e774b8f5fd4381395cf1d9abd1c81ed1f2b921186cf4b5d96a6b83e4a5a236"
+    },
+    {
+      "path": "视频制作/第一幕智能水杯-20261017-v0.1/prompt.txt",
+      "bytes": 1330,
+      "sha256": "973cea1b7190c85432f39e707fecf1e65d122280b1961fce4f5afdb88b89addc"
+    },
+    {
+      "path": "视频制作/第一幕智能水杯-20261017-v0.1/README.md",
+      "bytes": 1093,
+      "sha256": "b8c5f5c38944403a16cfb1f90701c91be9f6be120a3300ab6c8626b38fb3a3f8"
+    },
+    {
+      "path": "视频制作/第一幕智能水杯-20261017-v0.1/toonflow-sync.json",
+      "bytes": 526,
+      "sha256": "9d1f7ee880d45e0f857364a82e8198be46c9ca05d2784a3ea728b5a9a1fb73a3"
+    },
+    {
+      "path": "视频制作/第一幕智能水杯-20261017-v0.2/01-保留荷叶托盘-杯身读数.png",
+      "bytes": 1841754,
+      "sha256": "c8731efcf8997b74f2ab318657184ea7df0e0b9f7529c151b273763b0bd2a945"
+    },
+    {
+      "path": "视频制作/第一幕智能水杯-20261017-v0.2/manifest.json",
+      "bytes": 34922,
+      "sha256": "d5b293f15497bbbe718e389bea8edeb0bc2531e905020c9319e1967fa6bbc0f8"
+    },
+    {
+      "path": "视频制作/第一幕智能水杯-20261017-v0.2/presentation-validation.json",
+      "bytes": 391,
+      "sha256": "ee8c3226a68c6a719c7bfdd10ca4c0dc64c168e7b01267f3f3dc97e51554a5dd"
+    },
+    {
+      "path": "视频制作/第一幕智能水杯-20261017-v0.2/prompt.txt",
+      "bytes": 1016,
+      "sha256": "ff336badce6337b7110f9d5aecbde17fc130960db5679454a66e0212f3ad098e"
+    },
+    {
+      "path": "视频制作/第一幕智能水杯-20261017-v0.2/README.md",
+      "bytes": 1216,
+      "sha256": "5e7303d170e612e8695358896a662e1aae034fe3a75c386ef5a61fa76afcde5f"
+    },
+    {
+      "path": "视频制作/第一幕智能水杯-20261017-v0.2/toonflow-sync.json",
+      "bytes": 398,
+      "sha256": "89ad4ed4d333add6f60595df6d6921f2931489820d6057545a7d5c35cfbd9594"
+    },
+    {
+      "path": "视频制作/第一幕智能水杯-20261017-v0.2/图文核对记录.md",
+      "bytes": 1090,
+      "sha256": "0f7fab9b306fded633dd7e119816fa72a138423ffe267069385404fafdbe1b44"
+    },
+    {
+      "path": "视频制作/第一幕智能镜与表情被子-20261017-v0.1/02-被角动态材质-显像态.png",
+      "bytes": 2352078,
+      "sha256": "4052f9786790124ef2f1d4e8bee3ccf210dbfe54d4bbe9ca6c6f47b43a1894e8"
+    },
+    {
+      "path": "视频制作/第一幕智能镜与表情被子-20261017-v0.1/manifest.json",
+      "bytes": 38674,
+      "sha256": "3a73dda9a410760545969a05a3085257b6b8bb270bd6ed38b55c7fcd11b875e8"
+    },
+    {
+      "path": "视频制作/第一幕智能镜与表情被子-20261017-v0.1/prompt-01-智能镜.txt",
+      "bytes": 1469,
+      "sha256": "0f25e31f20d413c2958980bee83b732180e22edbef4d92fc58f7efbfc9f89c2d"
+    },
+    {
+      "path": "视频制作/第一幕智能镜与表情被子-20261017-v0.1/prompt-02-被子表情.txt",
+      "bytes": 1495,
+      "sha256": "a89b440945b6cef9e9edfa600eb015cfe1732f59ee2313be83ff7200aa3b6eaf"
+    },
+    {
+      "path": "视频制作/第一幕智能镜与表情被子-20261017-v0.1/prompt-02b-动态材质.txt",
+      "bytes": 1363,
+      "sha256": "0837df029595f658dd9ac6a4438d24b82c3bd4aa882f94ffff300072bbe3375b"
+    },
+    {
+      "path": "视频制作/第一幕智能镜与表情被子-20261017-v0.1/prompt-02c-显像膜修正.txt",
+      "bytes": 1337,
+      "sha256": "4bebe8a7342c1f70746620617225f3587524129f730fc392e2c506d58d1b48e8"
+    },
+    {
+      "path": "视频制作/第一幕智能镜与表情被子-20261017-v0.1/README.md",
+      "bytes": 1059,
+      "sha256": "485b2185bdd12853ef6b174f63e830995718b2012d1b31b6ada38dca959cfd4d"
+    },
+    {
+      "path": "视频制作/第一幕智能镜与表情被子-20261017-v0.1/toonflow-sync.json",
+      "bytes": 327,
+      "sha256": "d9f9502c1bfa3654113670fa30515a895aca7d3402904c55ff3de9f6a0ae01c0"
+    },
+    {
+      "path": "视频制作/第一幕智能镜与表情被子-20261017-v0.1/validation.json",
+      "bytes": 335,
+      "sha256": "580ce0335c54b94cbd9bf58d789b3d2f19f37186d0a0cd13a9a47d7b32f8cea1"
+    },
+    {
+      "path": "视频制作/第一幕智能镜与表情被子-20261017-v0.1/审查记录.md",
+      "bytes": 1131,
+      "sha256": "f79c4687799fa5181fdc203239032b99835f12cfa28d2e8cde62fc4419ed0903"
+    },
+    {
+      "path": "视频制作/第一幕智能镜与表情被子-20261017-v0.1/设计说明.md",
+      "bytes": 3439,
+      "sha256": "1ac0e1a48310f8b61d3d3bfc013df2d72a1c49eeecbf48dc0a42668fac62ed77"
+    },
+    {
+      "path": "视频制作/第一幕智能镜云上花园-20261017-v0.1/01-智能镜-云上花园.png",
+      "bytes": 2253349,
+      "sha256": "2b04e1a8c4b3eda64532daf2007245fb84bbf3b7d86e4b4b4c2994034dbfd24e"
+    },
+    {
+      "path": "视频制作/第一幕智能镜云上花园-20261017-v0.1/manifest.json",
+      "bytes": 38343,
+      "sha256": "49e63539e3f8076a4176615429a739536921f23e3ff3298ca0b70560ac6ec88e"
+    },
+    {
+      "path": "视频制作/第一幕智能镜云上花园-20261017-v0.1/prompt.txt",
+      "bytes": 1764,
+      "sha256": "34af46e6c7cfb60b1f9595fb930077e1ae12856af5b42fbc3e8d4d541152bd43"
+    },
+    {
+      "path": "视频制作/第一幕智能镜云上花园-20261017-v0.1/README.md",
+      "bytes": 804,
+      "sha256": "bcb52d8fcaf79a2a0afe1679550a2633857ba6c3c02b2a7e761d2442e7e727e5"
+    },
+    {
+      "path": "视频制作/第一幕智能镜云上花园-20261017-v0.1/validation.json",
+      "bytes": 275,
+      "sha256": "eeb8d757e61b8ca16e91096a128494345b836ea7168559524cad3e9548661f11"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-008-床边踱步.png",
+      "bytes": 2410994,
+      "sha256": "f6dec193a208c39756676c08aa95b3bed216969e91f0f053a7d41c259cca768c"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-009-旋杆递衣.png",
+      "bytes": 2244637,
+      "sha256": "59be59887bb42fc0577f077f36f5b87e24210e7d0228db37790518a44cd75643"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-011-旋杆与步履.png",
+      "bytes": 2463090,
+      "sha256": "3bb85a15e9268912933c0bfb38b74d00c2814a43385544c2eb4f71376b6699e0"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-012-今日无事宜休沐.png",
+      "bytes": 1830968,
+      "sha256": "06cc12a5020754c03b71e179581c2630a1aa31682edae9d6245464740c8786b3"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-014-踱步喊停.png",
+      "bytes": 2408626,
+      "sha256": "b1d22961122fc40a289c2ec5369e1fc32c0898211e8161ab646ea4b8cad543ab"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/generation-inputs.json",
+      "bytes": 1672,
+      "sha256": "f5158aaf5ce961c789034ea0f17b34a5083b383037a87f20744f6942667bd2d5"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/manifest.json",
+      "bytes": 5609,
+      "sha256": "3e7bc99c4696ef163e732e050ea436508885f43f793bf4903eda19522934ce8a"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/prompt-008.txt",
+      "bytes": 886,
+      "sha256": "015c0bec39398b6fc12c5bfd2f3b378ba8ecd1216c4681bbe1aa66646eed6910"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/prompt-009.txt",
+      "bytes": 1309,
+      "sha256": "a28eafb6582217ec41ed12916f7e7937ef9e454d6e480a3644c94571d516ec44"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/prompt-011.txt",
+      "bytes": 1606,
+      "sha256": "6b9808a521e002d16b6efda2bb42d36cf533ae2e6fe53eab2ad4f834552935be"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/prompt-012.txt",
+      "bytes": 801,
+      "sha256": "80adb256ab62123573e5f72d7e647d15d8a7a21d3d7534dfee686e1a0b8ff9e4"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/prompt-014-恢复包头拖鞋.txt",
+      "bytes": 981,
+      "sha256": "45bf35b7aaecbff8b8db15e96e021583d2d498395a976547f672f18be6e1a0ee"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/prompt-014.txt",
+      "bytes": 1647,
+      "sha256": "2d58dc4a707b97d7ce661c2e8b7c3a251cb6e0cc83134a24a707e6f607e1e5fa"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/README.md",
+      "bytes": 2778,
+      "sha256": "acc08ac57ae3a170d96eb0c0fdd786b8119e518c395dbf7c8c01ad2f6e524d87"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/toonflow-sync-receipt.json",
+      "bytes": 8169,
+      "sha256": "db73321fc96952c926e12ce76bf8faa17f8c9488349f9be17936968b58090f00"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/validation.json",
+      "bytes": 175,
+      "sha256": "deac81563dc62c67c16d353f9a73c8ba64475110473011778758133a9916e087"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/拖鞋连续动作.md",
+      "bytes": 730,
+      "sha256": "c76ec52d930bb9d3d9ac0b752c39a5660a8aba55b89d55293111973090e3e203"
+    },
+    {
+      "path": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/核对记录.md",
+      "bytes": 1315,
+      "sha256": "d6de97b23e3b6032a48ac0377f7c10d1b49e3bdbfc00d195ebf5c6d7bd2e7059"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/01-床托背-发夹统一.png",
+      "bytes": 2317388,
+      "sha256": "c271cd716f7618df4c8d9a9a4af791c95c3882b401700a09f1e0fe2a07d30d67"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/02-第二拳-发夹统一.png",
+      "bytes": 2117960,
+      "sha256": "82333de76fe75a771aa8161c2ee27dd2115f7f5c72a89be8f818673e138b6638"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/03-第三拳-发夹统一.png",
+      "bytes": 2191848,
+      "sha256": "2aa9f5d88ab9de161fe09c294e9c6c80fee4dcc7a776edf733ff55fc7096669c"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/04-坐稳-发夹统一.png",
+      "bytes": 2211281,
+      "sha256": "b32d213de6d350020842dea38eec2405026feef9e5ab6a5f6d9774f3787c2e13"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/05-喊停-发夹统一.png",
+      "bytes": 2056699,
+      "sha256": "835e9021ec02e4f2a3da24fe09d7a2ccf8e46642e246f0b3f669d221af32bd4a"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/06-相拥盖被-发夹统一.png",
+      "bytes": 2018144,
+      "sha256": "71e418caf57cfd8819dca9dfbbcaaae123f18441b7cd35024a00715632db7830"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/07-全景布局-发夹统一.png",
+      "bytes": 2265840,
+      "sha256": "84bf8cf2b3bd2496e635f1e5d3e7f4802c8f9e1fe435808866595b7d0a403d1b"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/canvas-before-sync.local.json",
+      "bytes": 41325,
+      "sha256": "b546a6f7841c0afccc870e2d84d47749363ad6bff1ad09e6ea62d8c684c3fdc7"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/edit-jobs.json",
+      "bytes": 2055,
+      "sha256": "e090cac4f5d79c33d57dde0de7beaac54ca90eeb3da80938cb789df45dcd7c79"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/manifest.json",
+      "bytes": 38229,
+      "sha256": "8b147c5c40e74987e48d133c460535af0102e09521d8fcd479394ff42b8f38d5"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/prompt-01.txt",
+      "bytes": 1480,
+      "sha256": "68c556e399b6cd635a365f3dc4d9e8384f376f3510862b850c2461ba8e4ac815"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/prompt-02.txt",
+      "bytes": 1480,
+      "sha256": "68c556e399b6cd635a365f3dc4d9e8384f376f3510862b850c2461ba8e4ac815"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/prompt-03.txt",
+      "bytes": 1480,
+      "sha256": "68c556e399b6cd635a365f3dc4d9e8384f376f3510862b850c2461ba8e4ac815"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/prompt-04.txt",
+      "bytes": 1480,
+      "sha256": "68c556e399b6cd635a365f3dc4d9e8384f376f3510862b850c2461ba8e4ac815"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/prompt-05.txt",
+      "bytes": 1480,
+      "sha256": "68c556e399b6cd635a365f3dc4d9e8384f376f3510862b850c2461ba8e4ac815"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/prompt-06.txt",
+      "bytes": 1480,
+      "sha256": "68c556e399b6cd635a365f3dc4d9e8384f376f3510862b850c2461ba8e4ac815"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/prompt-07.txt",
+      "bytes": 1480,
+      "sha256": "68c556e399b6cd635a365f3dc4d9e8384f376f3510862b850c2461ba8e4ac815"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/prompt-07b-wide-fix.txt",
+      "bytes": 1059,
+      "sha256": "9c69567ef36bd55c1f90d19f645a539b0e567c04ce66515ff7390f081d44a61a"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/README.md",
+      "bytes": 2327,
+      "sha256": "237ebb9e8b9c0d35c2921d5137d6b8871cd0aa1e72bd09dc9d6dea6ef0fcbe14"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/toonflow-sync.json",
+      "bytes": 3777,
+      "sha256": "1e4691ccca9dac572462dd8e7bee906d5bbca8080461f7cd3bfd4326d883dc6a"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/validation.json",
+      "bytes": 485,
+      "sha256": "e57461eaae2491b260bf139adecb058d3bf4dc95f9192df1d5dac65c0897833c"
+    },
+    {
+      "path": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/审查记录.md",
+      "bytes": 840,
+      "sha256": "4bc4cdbf30e3416d243fcda510f950aa89add15cecbdb73cb7ec8bb18c23b954"
+    },
+    {
+      "path": "视频制作/起居室智能家居-20261015-v0.1/prompt.txt",
+      "bytes": 5872,
+      "sha256": "e6060179b281a82017287d4124af3334ca1186961a55a53db860d2b41258f1ce"
+    },
+    {
+      "path": "视频制作/起居室智能家居-20261015-v0.1/provenance.json",
+      "bytes": 687,
+      "sha256": "2df23d1e44099c3f7e67ebd96a0d3edebf81d7d2c2b24f65cef57239d0137daa"
+    },
+    {
+      "path": "视频制作/起居室智能家居-20261015-v0.1/README.md",
+      "bytes": 3040,
+      "sha256": "ff97ede80a6af0e9b8c6a3be96a1d5756fde91be9859b60c642ee14762ca5d76"
+    },
+    {
+      "path": "视频制作/起居室智能家居-20261015-v0.1/toonflow-sync-receipt.json",
+      "bytes": 1984,
+      "sha256": "26ad0081d325cea59611e86af90b9e5cf999ddacc44fd3bc576a3cb1b8091ce1"
+    },
+    {
+      "path": "视频制作/起居室智能家居-20261015-v0.1/起居室-夜海观星01.png",
+      "bytes": 2751858,
+      "sha256": "8b6b63e52dd5e3c8db1da29e156df83a90a061b707637da66e948c417a4a0e19"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/01-学院女生/01-四视图.png",
+      "bytes": 1691400,
+      "sha256": "0613700886fcfd4bc3ad8e6c4299387197422c73c9a048e7421f5ee0dbbb1082"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/01_front-half.png",
+      "bytes": 564517,
+      "sha256": "20f7903d69f0aca79a40ede3b7ec7efacd8d893ad91cdf4d0d224a42f73bfd09"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/02_facing-left.png",
+      "bytes": 210142,
+      "sha256": "1d6dcf36c25a6f7485ce614b4b5ac579af19c38ebaa3d250f8220f7dd6d795ca"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/03_back.png",
+      "bytes": 514820,
+      "sha256": "4a650e71aa3708eb80f72b5156db223db806c10815b8d6672efaab8afe43ef24"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/04_facing-right.png",
+      "bytes": 243586,
+      "sha256": "9d66e7703166dfe4861407e3dd988680fc797da440d9cde8e5ae9ef95ba88133"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/split-manifest.json",
+      "bytes": 1570,
+      "sha256": "cdc91aa2f5585b1b7fcb650fe66333240de4825c92c86d2eab8ab6989c8c724c"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/01-学院女生/生成提示词.txt",
+      "bytes": 2396,
+      "sha256": "339dfc4da06e6d70a2597228907998d59a369e4cf4dc66f832d44d7a2b390a76"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/02-学院男生/01-四视图.png",
+      "bytes": 1702500,
+      "sha256": "c0b6f3db6af4d30c30ce443cc08a2c04f3fe0a27d7c96bac10e596f9c2ee7f69"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/01_front-half.png",
+      "bytes": 582766,
+      "sha256": "a02d822cf94601208f34c8742b54165f03845422cf52fe5915d81a25bb04f1ab"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/02_facing-left.png",
+      "bytes": 203039,
+      "sha256": "69148bfea4f9308b83b164ba8437f0d89ba90ac138a7662f40562e2d7214560d"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/03_back.png",
+      "bytes": 501388,
+      "sha256": "4c21b2a57837994876c9834dde14201d5a764be21ddb039a2f9cb1186a2867f6"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/04_facing-right.png",
+      "bytes": 235927,
+      "sha256": "05747be55780d8b5ea971c6d463185fb7bebe17e3e589fdbd214bff3236b91cb"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/split-manifest.json",
+      "bytes": 1570,
+      "sha256": "37d5169c25245154c2ad43416b1a15452217ecad6ca9c68abd1dea436a749faf"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/02-学院男生/生成提示词.txt",
+      "bytes": 2358,
+      "sha256": "218d59eb5a25e425521accea35bf8e03d39d50bead6a1d1fdf2bac1f21fa84da"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/03-生活园女居民/01-四视图.png",
+      "bytes": 1756895,
+      "sha256": "0fbe047b9ebbbba4941faab93d30f8ea521d255a37c039c15a6925b70d56aa7f"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/01_front-half.png",
+      "bytes": 593315,
+      "sha256": "4b83559d112741cc909079d2f728f0f73ae3bacc827219d1f1c0b72468733e08"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/02_facing-left.png",
+      "bytes": 218290,
+      "sha256": "f17ce7dab653d1bd5338d1c9dab82c69afc7e4909f716536e6ce323f2a2a07be"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/03_back.png",
+      "bytes": 529283,
+      "sha256": "32758d63df0c506f8d2dd05afd582e5c82af892e5064e309c320fbd827d29b9a"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/04_facing-right.png",
+      "bytes": 251619,
+      "sha256": "f0ae963fdd8f097e605f436c4e84d5b05f585714f84076d06cf91b432124e9ee"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/split-manifest.json",
+      "bytes": 1570,
+      "sha256": "e4008f9aded3e7a53359b1ce58155c67d68f7c00c029fb1947bd8c45111f4969"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/03-生活园女居民/生成提示词.txt",
+      "bytes": 2435,
+      "sha256": "f9826edbe18c116474fb1ae8b73bff4667f25a638b76bbf234722b0dc8d587d8"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/01-四视图.png",
+      "bytes": 1886073,
+      "sha256": "8c87ead1b3e9ab6effea1e07f7a89afc4065956dfb24eeeb7bcb48d3254fe7c3"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/01_front-half.png",
+      "bytes": 645109,
+      "sha256": "4b04b437a2d0d190660adb2b9bedd99ebe28d9fbe2eda15bc696d559e7863948"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/02_facing-left.png",
+      "bytes": 235584,
+      "sha256": "9b9250523bb1c6381a3fc596448cc34d8c9b650d886aba4a1f7735a1d1a696ed"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/03_back.png",
+      "bytes": 559429,
+      "sha256": "789715cc8383f5b7eb754b669ea8a29c81becdd42ba8e347876cdb41a4ae6ee3"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/04_facing-right.png",
+      "bytes": 269145,
+      "sha256": "795fe964336a6baf5872639c0d4d807dcac0ce95e8cc91e6f19293da15bd914e"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/split-manifest.json",
+      "bytes": 1570,
+      "sha256": "bc565259fc414b01eae0678f819a10a6cf64ede03b8b290b7ff6e2c3adee91fc"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/生成提示词.txt",
+      "bytes": 2456,
+      "sha256": "7d10a369f13c32d4628709628ab12a34e0d90e2bcbf31f0536ce2344b1c213fa"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/05-人工生命居民/01-四视图.png",
+      "bytes": 1613796,
+      "sha256": "c95c6640307d36db2dab7a5cab67fbcc9a25e0367fdd906fceee314fe7217789"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/01_front-half.png",
+      "bytes": 497192,
+      "sha256": "4fee63667b55bb793d4738211fe00c3e6cfa6d32aee4230d55ab920b9abcad64"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/02_facing-left.png",
+      "bytes": 195753,
+      "sha256": "3421d7978d02a98ce2c2df4c90ce809e704aedea71bbbcbd73dcd9ca7f33312f"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/03_back.png",
+      "bytes": 488614,
+      "sha256": "2ea1c3885036e4384653c5fd9ef285b367181208ad16d06427a25c6bfe04ecbb"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/04_facing-right.png",
+      "bytes": 227309,
+      "sha256": "e144a8903edaf5d6313c50441eae83fc5039dca9cc963c320d3ab4956ac5904f"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/split-manifest.json",
+      "bytes": 1570,
+      "sha256": "a5697e1fa0e407893701a7dcb02fdc6076d61215e2ab5d4603d624e4340917eb"
+    },
+    {
+      "path": "视频制作/首集背景群像四视图-20261014-v1.0/05-人工生命居民/生成提示词.txt",
+      "bytes": 3025,
+      "sha256": "96d59e94c5563ecf25ec33491d2572c3bf1fb9b7a0503b427dca6e192cab850d"
+    }
+  ],
+  "zip_sha256": "a1d88da4a152b1d0121c97ad3c02f6be7117a7b5facb396154124c10e807fd3a",
+  "all_entries_verified": true,
+  "missing": [],
+  "active_cleanup_done": true
+}

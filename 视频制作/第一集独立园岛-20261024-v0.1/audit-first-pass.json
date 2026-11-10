@@ -1,0 +1,1744 @@
+{
+  "hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集独立园岛-20261024-v0.1\\island-garden-masterplan-v16.blend": "5e6956084afd112a4f4ea4743cfced3d12ecb8acc0fdc54ec6e984cf01ab9b27",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集独立园岛-20261024-v0.1\\planning-data.json": "f51c65073ace5ae74193a95ce21708dcda9a9b5c60fe81cf7d22ff085e74cbb0",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集独立园岛-v0.1\\build.py": "09f2a04636a5715fe21d7affdef43dea9a1cb12b85d23a8a38fee51bd743aab6",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集独立园岛-v0.1\\plan.py": "20edf4ea2c3841b009862df146b1d131b14a2715488e729d39a986cd0d210c8f"
+  },
+  "stable": true,
+  "island_support_intersections": [],
+  "waterfall_checks": [
+    {
+      "id": "W1",
+      "freefall_hits": []
+    },
+    {
+      "id": "W2",
+      "freefall_hits": []
+    },
+    {
+      "id": "W3",
+      "freefall_hits": []
+    }
+  ],
+  "pool_beds": [
+    {
+      "id": "W1",
+      "island": "A",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W1",
+      "island": "B",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W2",
+      "island": "B",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W2",
+      "island": "C",
+      "bed_missing": [
+        {
+          "xy": [
+            -79.5670321304874,
+            53.21436865636955
+          ],
+          "bed_z": null,
+          "bed_depth": null
+        },
+        {
+          "xy": [
+            -81.72487480627439,
+            49.98492887286123
+          ],
+          "bed_z": null,
+          "bed_depth": null
+        }
+      ],
+      "min_depth": 1.0999992370605476,
+      "max_depth": 1.0999992370605476
+    },
+    {
+      "id": "W3",
+      "island": "F",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W3",
+      "island": "G",
+      "bed_missing": [],
+      "min_depth": 1.099999237060544,
+      "max_depth": 1.099999237060544
+    }
+  ],
+  "walking_checks": [
+    {
+      "name": "A internal garden path 0",
+      "missing_floor": [
+        [
+          -228.2978342680071,
+          108.06059714433275,
+          126.14
+        ],
+        [
+          -228.33224806111056,
+          108.47356266157412,
+          126.14
+        ],
+        [
+          -228.36666185421402,
+          108.8865281788155,
+          126.14
+        ],
+        [
+          -228.40107564731747,
+          109.29949369605689,
+          126.14
+        ],
+        [
+          -228.43548944042092,
+          109.71245921329826,
+          126.14
+        ]
+      ],
+      "body_clearance_hits": {
+        "A rooted edge rock.013": {
+          "point": [
+            -264.89825439453125,
+            106.72822570800781,
+            126.56002044677734
+          ],
+          "above_floor": 0.42002105712890625
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "A internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "A internal garden path 2",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "C internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "L2 change-level pavilion stair tread.005": {
+          "point": [
+            -56.073123931884766,
+            9.67696762084961,
+            32.7889518737793
+          ],
+          "above_floor": 0.6489524841308594
+        },
+        "L2 change-level pavilion stair tread.004": {
+          "point": [
+            -55.970237731933594,
+            9.285998344421387,
+            32.6141242980957
+          ],
+          "above_floor": 0.4741249084472656
+        },
+        "C rooted edge rock.008": {
+          "point": [
+            -44.13264846801758,
+            -26.895029067993164,
+            32.46017074584961
+          ],
+          "above_floor": 0.3201713562011719
+        },
+        "C clustered understory.024": {
+          "point": [
+            -43.926876068115234,
+            -27.67696762084961,
+            32.70963668823242
+          ],
+          "above_floor": 0.5696372985839844
+        },
+        "C clustered understory.026": {
+          "point": [
+            -41.794883728027344,
+            -29.40293312072754,
+            32.73434829711914
+          ],
+          "above_floor": 0.5943489074707031
+        },
+        "C tree trunk.008": {
+          "point": [
+            -39.64839172363281,
+            -28.465356826782227,
+            33.59410095214844
+          ],
+          "above_floor": 1.4541015625
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "C internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "C rooted edge rock.011": {
+          "point": [
+            -2.880000114440918,
+            -21.947072982788086,
+            33.77750778198242
+          ],
+          "above_floor": 1.6375083923339844
+        },
+        "C clustered understory.033": {
+          "point": [
+            -2.880000114440918,
+            -19.112173080444336,
+            32.31544876098633
+          ],
+          "above_floor": 0.17544937133789062
+        },
+        "C clustered understory.035": {
+          "point": [
+            -2.880000114440918,
+            -17.897216796875,
+            33.31802749633789
+          ],
+          "above_floor": 1.1780281066894531
+        },
+        "C clustered understory.034": {
+          "point": [
+            -2.880000114440918,
+            -17.08724594116211,
+            32.27070236206055
+          ],
+          "above_floor": 0.13070297241210938
+        },
+        "L3 change-level pavilion stair tread.001": {
+          "point": [
+            -5.119999885559082,
+            0.7321159243583679,
+            32.3636360168457
+          ],
+          "above_floor": 0.22363662719726562
+        },
+        "L3 change-level pavilion stair tread.002": {
+          "point": [
+            -5.119999885559082,
+            1.5420869588851929,
+            32.28545379638672
+          ],
+          "above_floor": 0.14545440673828125
+        },
+        "L3 change-level pavilion stair tread.003": {
+          "point": [
+            -5.119999885559082,
+            2.352057933807373,
+            32.4672737121582
+          ],
+          "above_floor": 0.3272743225097656
+        },
+        "L3 change-level pavilion stair tread.004": {
+          "point": [
+            -5.119999885559082,
+            3.1620290279388428,
+            32.64908981323242
+          ],
+          "above_floor": 0.5090904235839844
+        },
+        "L3 change-level pavilion stair tread.005": {
+          "point": [
+            -5.119999885559082,
+            3.9719998836517334,
+            32.830909729003906
+          ],
+          "above_floor": 0.6909103393554688
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "D planted mountain shoulder": {
+          "point": [
+            82.42642211914062,
+            151.8643035888672,
+            105.06565856933594
+          ],
+          "above_floor": 0.9256591796875
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "E internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "E internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "L4 change-level pavilion stair tread.005": {
+          "point": [
+            88.87999725341797,
+            -10.038000106811523,
+            72.8309097290039
+          ],
+          "above_floor": 0.6909103393554688
+        },
+        "L4 change-level pavilion stair tread.004": {
+          "point": [
+            88.87999725341797,
+            -10.441447257995605,
+            72.64909362792969
+          ],
+          "above_floor": 0.50909423828125
+        },
+        "L4 change-level pavilion stair tread.003": {
+          "point": [
+            88.87999725341797,
+            -11.248340606689453,
+            72.46726989746094
+          ],
+          "above_floor": 0.3272705078125
+        },
+        "L4 change-level pavilion stair tread.002": {
+          "point": [
+            88.87999725341797,
+            -12.0552339553833,
+            72.28545379638672
+          ],
+          "above_floor": 0.14545440673828125
+        },
+        "L4 change-level pavilion stair tread.001": {
+          "point": [
+            88.87999725341797,
+            -12.862127304077148,
+            72.36363983154297
+          ],
+          "above_floor": 0.22364044189453125
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "F internal garden path 0",
+      "missing_floor": [
+        [
+          190.36917509793884,
+          -136.05752529381658,
+          66.14
+        ],
+        [
+          190.7631224663599,
+          -135.9262095043429,
+          66.14
+        ],
+        [
+          191.15706983478094,
+          -135.7948937148692,
+          66.14
+        ],
+        [
+          191.551017203202,
+          -135.66357792539551,
+          66.14
+        ],
+        [
+          191.94496457162305,
+          -135.53226213592185,
+          66.14
+        ]
+      ],
+      "body_clearance_hits": {
+        "L5 change-level pavilion stair tread.004": {
+          "point": [
+            188.93943786621094,
+            -82.63924407958984,
+            66.57333374023438
+          ],
+          "above_floor": 0.4333343505859375
+        },
+        "L5 change-level pavilion stair tread.003": {
+          "point": [
+            188.51922607421875,
+            -83.79483032226562,
+            66.40666961669922
+          ],
+          "above_floor": 0.26667022705078125
+        },
+        "L5 change-level pavilion stair tread.002": {
+          "point": [
+            188.23907470703125,
+            -84.56521606445312,
+            66.5
+          ],
+          "above_floor": 0.3600006103515625
+        },
+        "L5 change-level pavilion stair tread.001": {
+          "point": [
+            187.81886291503906,
+            -85.72079467773438,
+            66.33333587646484
+          ],
+          "above_floor": 0.19333648681640625
+        },
+        "F clustered understory.025": {
+          "point": [
+            182.77633666992188,
+            -99.58773803710938,
+            66.42847442626953
+          ],
+          "above_floor": 0.28847503662109375
+        },
+        "F clustered understory.024": {
+          "point": [
+            182.216064453125,
+            -101.12850952148438,
+            66.35112762451172
+          ],
+          "above_floor": 0.21112823486328125
+        },
+        "F rooted edge rock.008": {
+          "point": [
+            185.02154541015625,
+            -99.96804809570312,
+            67.7868423461914
+          ],
+          "above_floor": 1.6468429565429688
+        },
+        "F rooted edge rock.009": {
+          "point": [
+            202.18759155273438,
+            -132.11805725097656,
+            66.39266967773438
+          ],
+          "above_floor": 0.2526702880859375
+        },
+        "F clustered understory.027": {
+          "point": [
+            202.58154296875,
+            -131.9867401123047,
+            66.3288803100586
+          ],
+          "above_floor": 0.18888092041015625
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "F internal garden path 1",
+      "missing_floor": [
+        [
+          269.12,
+          -124.97,
+          66.14
+        ],
+        [
+          269.12,
+          -124.5654054054054,
+          66.14
+        ],
+        [
+          269.12,
+          -124.16081081081082,
+          66.14
+        ],
+        [
+          269.12,
+          -123.75621621621622,
+          66.14
+        ],
+        [
+          269.12,
+          -123.35162162162162,
+          66.14
+        ]
+      ],
+      "body_clearance_hits": {
+        "F clustered understory.027": {
+          "point": [
+            205.151611328125,
+            -131.1114959716797,
+            67.33674621582031
+          ],
+          "above_floor": 1.196746826171875
+        },
+        "F clustered understory.028": {
+          "point": [
+            205.9576873779297,
+            -131.04751586914062,
+            66.77519226074219
+          ],
+          "above_floor": 0.63519287109375
+        },
+        "F rooted edge rock.009": {
+          "point": [
+            211.1971893310547,
+            -130.63168334960938,
+            67.89635467529297
+          ],
+          "above_floor": 1.7563552856445312
+        },
+        "F rooted edge rock.010": {
+          "point": [
+            216.8397216796875,
+            -130.18386840820312,
+            66.62364959716797
+          ],
+          "above_floor": 0.48365020751953125
+        },
+        "F clustered understory.030": {
+          "point": [
+            219.25794982910156,
+            -129.991943359375,
+            66.86187744140625
+          ],
+          "above_floor": 0.7218780517578125
+        },
+        "F rooted edge rock.011": {
+          "point": [
+            240.21595764160156,
+            -128.32859802246094,
+            66.7344741821289
+          ],
+          "above_floor": 0.5944747924804688
+        },
+        "F clustered understory.033": {
+          "point": [
+            247.06761169433594,
+            -127.78482055664062,
+            66.951171875
+          ],
+          "above_floor": 0.8111724853515625
+        },
+        "F clustered understory.037": {
+          "point": [
+            263.5921936035156,
+            -126.47335052490234,
+            66.37317657470703
+          ],
+          "above_floor": 0.23317718505859375
+        },
+        "F rooted edge rock.012": {
+          "point": [
+            266.4134521484375,
+            -126.24943542480469,
+            66.64653015136719
+          ],
+          "above_floor": 0.50653076171875
+        },
+        "F clustered understory.038": {
+          "point": [
+            266.8164978027344,
+            -126.21745300292969,
+            66.67066955566406
+          ],
+          "above_floor": 0.530670166015625
+        },
+        "F tree trunk.009": {
+          "point": [
+            206.67515563964844,
+            -129.86705017089844,
+            66.50519561767578
+          ],
+          "above_floor": 0.36519622802734375
+        },
+        "F clustered understory.029": {
+          "point": [
+            208.6903533935547,
+            -129.70712280273438,
+            66.30264282226562
+          ],
+          "above_floor": 0.1626434326171875
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "G internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "G rooted edge rock.008": {
+          "point": [
+            325.3495178222656,
+            -102.92607879638672,
+            48.754703521728516
+          ],
+          "above_floor": 0.6147041320800781
+        },
+        "G clustered understory.024": {
+          "point": [
+            328.8718566894531,
+            -100.87137603759766,
+            48.8436279296875
+          ],
+          "above_floor": 0.7036285400390625
+        },
+        "G clustered understory.026": {
+          "point": [
+            329.2240905761719,
+            -100.66590118408203,
+            48.417964935302734
+          ],
+          "above_floor": 0.2779655456542969
+        },
+        "G clustered understory.025": {
+          "point": [
+            324.5730895996094,
+            -100.7857437133789,
+            48.94953536987305
+          ],
+          "above_floor": 0.8095359802246094
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "L1 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "A internal garden path 0": {
+          "point": [
+            -227.75035095214844,
+            104.22592163085938,
+            126.13999938964844
+          ],
+          "above_floor": 0.1399993896484375
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L2 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "L2 change-level pavilion side viewing eave.003": {
+          "point": [
+            -63.91426467895508,
+            11.91645622253418,
+            82.26663208007812
+          ],
+          "above_floor": 0.266632080078125
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L3 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "E internal garden path 0": {
+          "point": [
+            64.23741912841797,
+            -34.57558059692383,
+            72.13999938964844
+          ],
+          "above_floor": 0.1399993896484375
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L4 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L5 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L6 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "F internal garden path 1": {
+          "point": [
+            267.41400146484375,
+            -96.64910125732422,
+            66.13999938964844
+          ],
+          "above_floor": 0.1399993896484375
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    }
+  ],
+  "tower_stair_headroom": [
+    {
+      "link": "L1",
+      "treads_and_halves": 253,
+      "minimum_detected_headroom_m": 0.18181610107421875,
+      "headroom_hits": [
+        {
+          "blocking_object": "L1 change-level pavilion landing.003",
+          "standing_on": "L1 change-level pavilion half landing",
+          "point": [
+            -160.60000610351562,
+            66.69999694824219,
+            85.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 84.0
+        },
+        {
+          "blocking_object": "L1 change-level pavilion landing.005",
+          "standing_on": "L1 change-level pavilion half landing.001",
+          "point": [
+            -160.60000610351562,
+            66.69999694824219,
+            89.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 88.0
+        },
+        {
+          "blocking_object": "L1 change-level pavilion landing.007",
+          "standing_on": "L1 change-level pavilion half landing.002",
+          "point": [
+            -160.60000610351562,
+            66.69999694824219,
+            93.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 92.0
+        },
+        {
+          "blocking_object": "L1 change-level pavilion side viewing eave",
+          "standing_on": "L1 change-level pavilion stair tread.073",
+          "point": [
+            -162.5,
+            62.599998474121094,
+            97.06666564941406
+          ],
+          "headroom_m": 1.61212158203125,
+          "floor_z": 95.45454406738281
+        },
+        {
+          "blocking_object": "L1 change-level pavilion landing.009",
+          "standing_on": "L1 change-level pavilion half landing.003",
+          "point": [
+            -160.60000610351562,
+            66.69999694824219,
+            97.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 96.0
+        },
+        {
+          "blocking_object": "L1 change-level pavilion landing.011",
+          "standing_on": "L1 change-level pavilion half landing.004",
+          "point": [
+            -160.60000610351562,
+            66.69999694824219,
+            101.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 100.0
+        },
+        {
+          "blocking_object": "L1 change-level pavilion landing.013",
+          "standing_on": "L1 change-level pavilion half landing.005",
+          "point": [
+            -160.60000610351562,
+            66.69999694824219,
+            105.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 104.0
+        },
+        {
+          "blocking_object": "L1 change-level pavilion side viewing eave.001",
+          "standing_on": "L1 change-level pavilion stair tread.139",
+          "point": [
+            -162.5,
+            62.599998474121094,
+            109.06666564941406
+          ],
+          "headroom_m": 1.61212158203125,
+          "floor_z": 107.45454406738281
+        },
+        {
+          "blocking_object": "L1 change-level pavilion landing.015",
+          "standing_on": "L1 change-level pavilion half landing.006",
+          "point": [
+            -160.60000610351562,
+            66.69999694824219,
+            109.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 108.0
+        },
+        {
+          "blocking_object": "L1 change-level pavilion landing.017",
+          "standing_on": "L1 change-level pavilion half landing.007",
+          "point": [
+            -160.60000610351562,
+            66.69999694824219,
+            113.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 112.0
+        },
+        {
+          "blocking_object": "L1 change-level pavilion landing.019",
+          "standing_on": "L1 change-level pavilion half landing.008",
+          "point": [
+            -160.60000610351562,
+            66.69999694824219,
+            117.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 116.0
+        },
+        {
+          "blocking_object": "L1 change-level pavilion side viewing eave.002",
+          "standing_on": "L1 change-level pavilion stair tread.205",
+          "point": [
+            -162.5,
+            62.599998474121094,
+            121.06666564941406
+          ],
+          "headroom_m": 1.61212158203125,
+          "floor_z": 119.45454406738281
+        },
+        {
+          "blocking_object": "L1 change-level pavilion landing.021",
+          "standing_on": "L1 change-level pavilion half landing.009",
+          "point": [
+            -160.60000610351562,
+            66.69999694824219,
+            121.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 120.0
+        },
+        {
+          "blocking_object": "L1 structural cloud keel.001",
+          "standing_on": "L1 change-level pavilion stair tread.226",
+          "point": [
+            -162.5,
+            61.80000305175781,
+            123.86387634277344
+          ],
+          "headroom_m": 0.5911483764648438,
+          "floor_z": 123.2727279663086
+        },
+        {
+          "blocking_object": "L1 cross-cloud bridge",
+          "standing_on": "L1 change-level pavilion stair tread.229",
+          "point": [
+            -162.5,
+            64.19999694824219,
+            125.4000015258789
+          ],
+          "headroom_m": 1.581817626953125,
+          "floor_z": 123.81818389892578
+        },
+        {
+          "blocking_object": "L1 change-level pavilion top bridge landing",
+          "standing_on": "L1 change-level pavilion stair tread.240",
+          "point": [
+            -158.6999969482422,
+            57.80000305175781,
+            126.0
+          ],
+          "headroom_m": 0.18181610107421875,
+          "floor_z": 125.81818389892578
+        }
+      ]
+    },
+    {
+      "link": "L2",
+      "treads_and_halves": 299,
+      "minimum_detected_headroom_m": 0.1644744873046875,
+      "headroom_hits": [
+        {
+          "blocking_object": "L2 change-level pavilion landing.003",
+          "standing_on": "L2 change-level pavilion half landing",
+          "point": [
+            -55.599998474121094,
+            15.699999809265137,
+            35.526153564453125
+          ],
+          "headroom_m": 1.6030769348144531,
+          "floor_z": 33.92307662963867
+        },
+        {
+          "blocking_object": "L2 change-level pavilion landing.005",
+          "standing_on": "L2 change-level pavilion half landing.001",
+          "point": [
+            -55.599998474121094,
+            15.699999809265137,
+            39.37230682373047
+          ],
+          "headroom_m": 1.6030769348144531,
+          "floor_z": 37.769229888916016
+        },
+        {
+          "blocking_object": "L2 change-level pavilion landing.007",
+          "standing_on": "L2 change-level pavilion half landing.002",
+          "point": [
+            -55.599998474121094,
+            15.699999809265137,
+            43.21846008300781
+          ],
+          "headroom_m": 1.6030769348144531,
+          "floor_z": 41.61538314819336
+        },
+        {
+          "blocking_object": "L2 change-level pavilion side viewing eave",
+          "standing_on": "L2 change-level pavilion stair tread.073",
+          "point": [
+            -57.5,
+            11.600000381469727,
+            46.605125427246094
+          ],
+          "headroom_m": 1.6680641174316406,
+          "floor_z": 44.93706130981445
+        },
+        {
+          "blocking_object": "L2 change-level pavilion landing.009",
+          "standing_on": "L2 change-level pavilion half landing.003",
+          "point": [
+            -55.599998474121094,
+            15.699999809265137,
+            47.06461715698242
+          ],
+          "headroom_m": 1.6030769348144531,
+          "floor_z": 45.46154022216797
+        },
+        {
+          "blocking_object": "L2 change-level pavilion landing.011",
+          "standing_on": "L2 change-level pavilion half landing.004",
+          "point": [
+            -55.599998474121094,
+            15.699999809265137,
+            50.910770416259766
+          ],
+          "headroom_m": 1.6030769348144531,
+          "floor_z": 49.30769348144531
+        },
+        {
+          "blocking_object": "L2 change-level pavilion landing.013",
+          "standing_on": "L2 change-level pavilion half landing.005",
+          "point": [
+            -55.599998474121094,
+            15.699999809265137,
+            54.75692367553711
+          ],
+          "headroom_m": 1.6030769348144531,
+          "floor_z": 53.153846740722656
+        },
+        {
+          "blocking_object": "L2 change-level pavilion side viewing eave.001",
+          "standing_on": "L2 change-level pavilion stair tread.139",
+          "point": [
+            -57.5,
+            11.600000381469727,
+            58.14358901977539
+          ],
+          "headroom_m": 1.6680641174316406,
+          "floor_z": 56.47552490234375
+        },
+        {
+          "blocking_object": "L2 change-level pavilion landing.015",
+          "standing_on": "L2 change-level pavilion half landing.006",
+          "point": [
+            -55.599998474121094,
+            15.699999809265137,
+            58.60307693481445
+          ],
+          "headroom_m": 1.6030769348144531,
+          "floor_z": 57.0
+        },
+        {
+          "blocking_object": "L2 change-level pavilion landing.017",
+          "standing_on": "L2 change-level pavilion half landing.007",
+          "point": [
+            -55.599998474121094,
+            15.699999809265137,
+            62.4492301940918
+          ],
+          "headroom_m": 1.6030769348144531,
+          "floor_z": 60.846153259277344
+        },
+        {
+          "blocking_object": "L2 change-level pavilion landing.019",
+          "standing_on": "L2 change-level pavilion half landing.008",
+          "point": [
+            -55.599998474121094,
+            15.699999809265137,
+            66.2953872680664
+          ],
+          "headroom_m": 1.6030807495117188,
+          "floor_z": 64.69230651855469
+        },
+        {
+          "blocking_object": "L2 change-level pavilion side viewing eave.002",
+          "standing_on": "L2 change-level pavilion stair tread.205",
+          "point": [
+            -57.5,
+            11.600000381469727,
+            69.68205261230469
+          ],
+          "headroom_m": 1.6680679321289062,
+          "floor_z": 68.01398468017578
+        },
+        {
+          "blocking_object": "L2 change-level pavilion landing.021",
+          "standing_on": "L2 change-level pavilion half landing.009",
+          "point": [
+            -55.599998474121094,
+            15.699999809265137,
+            70.14154052734375
+          ],
+          "headroom_m": 1.6030807495117188,
+          "floor_z": 68.53845977783203
+        },
+        {
+          "blocking_object": "L2 change-level pavilion landing.023",
+          "standing_on": "L2 change-level pavilion half landing.010",
+          "point": [
+            -55.599998474121094,
+            15.699999809265137,
+            73.9876937866211
+          ],
+          "headroom_m": 1.6030807495117188,
+          "floor_z": 72.38461303710938
+        },
+        {
+          "blocking_object": "L2 change-level pavilion landing.025",
+          "standing_on": "L2 change-level pavilion half landing.011",
+          "point": [
+            -55.599998474121094,
+            15.699999809265137,
+            77.83384704589844
+          ],
+          "headroom_m": 1.6030807495117188,
+          "floor_z": 76.23076629638672
+        },
+        {
+          "blocking_object": "L2 structural cloud keel.001",
+          "standing_on": "L2 change-level pavilion stair tread.271",
+          "point": [
+            -57.5,
+            11.600000381469727,
+            79.96924591064453
+          ],
+          "headroom_m": 0.41680145263671875,
+          "floor_z": 79.55244445800781
+        },
+        {
+          "blocking_object": "L2 cross-cloud bridge",
+          "standing_on": "L2 change-level pavilion stair tread.273",
+          "point": [
+            -57.5,
+            13.19999885559082,
+            81.4000015258789
+          ],
+          "headroom_m": 1.4979019165039062,
+          "floor_z": 79.902099609375
+        },
+        {
+          "blocking_object": "L2 change-level pavilion top bridge landing",
+          "standing_on": "L2 change-level pavilion stair tread.282",
+          "point": [
+            -53.69999694824219,
+            8.399999618530273,
+            81.63999938964844
+          ],
+          "headroom_m": 0.1644744873046875,
+          "floor_z": 81.47552490234375
+        }
+      ]
+    },
+    {
+      "link": "L3",
+      "treads_and_halves": 230,
+      "minimum_detected_headroom_m": 0.1272735595703125,
+      "headroom_hits": [
+        {
+          "blocking_object": "L3 change-level pavilion landing.003",
+          "standing_on": "L3 change-level pavilion half landing",
+          "point": [
+            -4.599999904632568,
+            9.699999809265137,
+            35.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 34.0
+        },
+        {
+          "blocking_object": "L3 change-level pavilion landing.005",
+          "standing_on": "L3 change-level pavilion half landing.001",
+          "point": [
+            -4.599999904632568,
+            9.699999809265137,
+            39.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 38.0
+        },
+        {
+          "blocking_object": "L3 change-level pavilion landing.007",
+          "standing_on": "L3 change-level pavilion half landing.002",
+          "point": [
+            -4.599999904632568,
+            9.699999809265137,
+            43.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 42.0
+        },
+        {
+          "blocking_object": "L3 change-level pavilion side viewing eave",
+          "standing_on": "L3 change-level pavilion stair tread.073",
+          "point": [
+            -6.5,
+            5.599999904632568,
+            47.06666564941406
+          ],
+          "headroom_m": 1.61212158203125,
+          "floor_z": 45.45454406738281
+        },
+        {
+          "blocking_object": "L3 change-level pavilion landing.009",
+          "standing_on": "L3 change-level pavilion half landing.003",
+          "point": [
+            -4.599999904632568,
+            9.699999809265137,
+            47.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 46.0
+        },
+        {
+          "blocking_object": "L3 change-level pavilion landing.011",
+          "standing_on": "L3 change-level pavilion half landing.004",
+          "point": [
+            -4.599999904632568,
+            9.699999809265137,
+            51.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 50.0
+        },
+        {
+          "blocking_object": "L3 change-level pavilion landing.013",
+          "standing_on": "L3 change-level pavilion half landing.005",
+          "point": [
+            -4.599999904632568,
+            9.699999809265137,
+            55.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 54.0
+        },
+        {
+          "blocking_object": "L3 change-level pavilion side viewing eave.001",
+          "standing_on": "L3 change-level pavilion stair tread.139",
+          "point": [
+            -6.5,
+            5.599999904632568,
+            59.06666564941406
+          ],
+          "headroom_m": 1.61212158203125,
+          "floor_z": 57.45454406738281
+        },
+        {
+          "blocking_object": "L3 change-level pavilion landing.015",
+          "standing_on": "L3 change-level pavilion half landing.006",
+          "point": [
+            -4.599999904632568,
+            9.699999809265137,
+            59.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 58.0
+        },
+        {
+          "blocking_object": "L3 change-level pavilion landing.017",
+          "standing_on": "L3 change-level pavilion half landing.007",
+          "point": [
+            -4.599999904632568,
+            9.699999809265137,
+            63.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 62.0
+        },
+        {
+          "blocking_object": "L3 change-level pavilion landing.019",
+          "standing_on": "L3 change-level pavilion half landing.008",
+          "point": [
+            -4.599999904632568,
+            9.699999809265137,
+            67.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 66.0
+        },
+        {
+          "blocking_object": "L3 change-level pavilion side viewing eave.002",
+          "standing_on": "L3 change-level pavilion stair tread.205",
+          "point": [
+            -6.5,
+            5.599999904632568,
+            71.06666564941406
+          ],
+          "headroom_m": 1.61212158203125,
+          "floor_z": 69.45454406738281
+        },
+        {
+          "blocking_object": "L3 change-level pavilion top bridge landing",
+          "standing_on": "L3 change-level pavilion stair tread.216",
+          "point": [
+            -2.700000047683716,
+            2.3999998569488525,
+            71.63999938964844
+          ],
+          "headroom_m": 0.185455322265625,
+          "floor_z": 71.45454406738281
+        },
+        {
+          "blocking_object": "L3 cross-cloud bridge",
+          "standing_on": "L3 change-level pavilion stair tread.215",
+          "point": [
+            -2.700000047683716,
+            3.200000047683716,
+            71.4000015258789
+          ],
+          "headroom_m": 0.1272735595703125,
+          "floor_z": 71.2727279663086
+        }
+      ]
+    },
+    {
+      "link": "L4",
+      "treads_and_halves": 184,
+      "minimum_detected_headroom_m": 0.17125701904296875,
+      "headroom_hits": [
+        {
+          "blocking_object": "L4 change-level pavilion landing.003",
+          "standing_on": "L4 change-level pavilion half landing",
+          "point": [
+            89.39999389648438,
+            -4.300000190734863,
+            75.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 74.0
+        },
+        {
+          "blocking_object": "L4 change-level pavilion landing.005",
+          "standing_on": "L4 change-level pavilion half landing.001",
+          "point": [
+            89.39999389648438,
+            -4.300000190734863,
+            79.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 78.0
+        },
+        {
+          "blocking_object": "L4 change-level pavilion landing.007",
+          "standing_on": "L4 change-level pavilion half landing.002",
+          "point": [
+            89.39999389648438,
+            -4.300000190734863,
+            83.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 82.0
+        },
+        {
+          "blocking_object": "L4 change-level pavilion side viewing eave",
+          "standing_on": "L4 change-level pavilion stair tread.073",
+          "point": [
+            87.5,
+            -8.399999618530273,
+            87.06666564941406
+          ],
+          "headroom_m": 1.61212158203125,
+          "floor_z": 85.45454406738281
+        },
+        {
+          "blocking_object": "L4 change-level pavilion landing.009",
+          "standing_on": "L4 change-level pavilion half landing.003",
+          "point": [
+            89.39999389648438,
+            -4.300000190734863,
+            87.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 86.0
+        },
+        {
+          "blocking_object": "L4 change-level pavilion landing.011",
+          "standing_on": "L4 change-level pavilion half landing.004",
+          "point": [
+            89.39999389648438,
+            -4.300000190734863,
+            91.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 90.0
+        },
+        {
+          "blocking_object": "L4 change-level pavilion landing.013",
+          "standing_on": "L4 change-level pavilion half landing.005",
+          "point": [
+            89.39999389648438,
+            -4.300000190734863,
+            95.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 94.0
+        },
+        {
+          "blocking_object": "L4 change-level pavilion side viewing eave.001",
+          "standing_on": "L4 change-level pavilion stair tread.139",
+          "point": [
+            87.5,
+            -8.399999618530273,
+            99.06666564941406
+          ],
+          "headroom_m": 1.61212158203125,
+          "floor_z": 97.45454406738281
+        },
+        {
+          "blocking_object": "L4 change-level pavilion landing.015",
+          "standing_on": "L4 change-level pavilion half landing.006",
+          "point": [
+            89.39999389648438,
+            -4.300000190734863,
+            99.68000030517578
+          ],
+          "headroom_m": 1.6800003051757812,
+          "floor_z": 98.0
+        },
+        {
+          "blocking_object": "L4 change-level pavilion top bridge landing",
+          "standing_on": "L4 change-level pavilion stair tread.174",
+          "point": [
+            91.30000305175781,
+            -13.199999809265137,
+            104.0
+          ],
+          "headroom_m": 0.18181610107421875,
+          "floor_z": 103.81818389892578
+        },
+        {
+          "blocking_object": "L4 structural cloud keel",
+          "standing_on": "L4 change-level pavilion stair tread.168",
+          "point": [
+            91.30000305175781,
+            -8.399999618530273,
+            102.89852905273438
+          ],
+          "headroom_m": 0.17125701904296875,
+          "floor_z": 102.7272720336914
+        },
+        {
+          "blocking_object": "L4 cross-cloud bridge",
+          "standing_on": "L4 change-level pavilion stair tread.170",
+          "point": [
+            91.30000305175781,
+            -10.0,
+            103.4000015258789
+          ],
+          "headroom_m": 0.30908966064453125,
+          "floor_z": 103.09091186523438
+        }
+      ]
+    },
+    {
+      "link": "L5",
+      "treads_and_halves": 38,
+      "minimum_detected_headroom_m": 0.1399993896484375,
+      "headroom_hits": [
+        {
+          "blocking_object": "L5 change-level pavilion landing.003",
+          "standing_on": "L5 change-level pavilion half landing",
+          "point": [
+            189.39999389648438,
+            -77.30000305175781,
+            68.68000030517578
+          ],
+          "headroom_m": 1.1800003051757812,
+          "floor_z": 67.5
+        },
+        {
+          "blocking_object": "L5 cross-cloud bridge",
+          "standing_on": "L5 change-level pavilion stair tread.026",
+          "point": [
+            187.5,
+            -79.0888900756836,
+            71.4000015258789
+          ],
+          "headroom_m": 0.9000015258789062,
+          "floor_z": 70.5
+        },
+        {
+          "blocking_object": "L5 structural cloud keel.001",
+          "standing_on": "L5 change-level pavilion stair tread.024",
+          "point": [
+            187.5,
+            -81.04444885253906,
+            71.33612060546875
+          ],
+          "headroom_m": 1.1694564819335938,
+          "floor_z": 70.16666412353516
+        },
+        {
+          "blocking_object": "L5 change-level pavilion top bridge landing",
+          "standing_on": "L5 change-level pavilion stair tread.032",
+          "point": [
+            191.29998779296875,
+            -83.97777557373047,
+            71.63999938964844
+          ],
+          "headroom_m": 0.1399993896484375,
+          "floor_z": 71.5
+        }
+      ]
+    },
+    {
+      "link": "L6",
+      "treads_and_halves": 105,
+      "minimum_detected_headroom_m": 0.18000030517578125,
+      "headroom_hits": [
+        {
+          "blocking_object": "L6 change-level pavilion landing.003",
+          "standing_on": "L6 change-level pavilion half landing",
+          "point": [
+            306.3999938964844,
+            -86.30000305175781,
+            51.279998779296875
+          ],
+          "headroom_m": 1.4799995422363281,
+          "floor_z": 49.79999923706055
+        },
+        {
+          "blocking_object": "L6 change-level pavilion landing.005",
+          "standing_on": "L6 change-level pavilion half landing.001",
+          "point": [
+            306.3999938964844,
+            -86.30000305175781,
+            54.880001068115234
+          ],
+          "headroom_m": 1.4799995422363281,
+          "floor_z": 53.400001525878906
+        },
+        {
+          "blocking_object": "L6 change-level pavilion landing.007",
+          "standing_on": "L6 change-level pavilion half landing.002",
+          "point": [
+            306.3999938964844,
+            -86.30000305175781,
+            58.47999954223633
+          ],
+          "headroom_m": 1.4799995422363281,
+          "floor_z": 57.0
+        },
+        {
+          "blocking_object": "L6 change-level pavilion landing.009",
+          "standing_on": "L6 change-level pavilion half landing.003",
+          "point": [
+            306.3999938964844,
+            -86.30000305175781,
+            62.08000183105469
+          ],
+          "headroom_m": 1.4800033569335938,
+          "floor_z": 60.599998474121094
+        },
+        {
+          "blocking_object": "L6 structural cloud keel.001",
+          "standing_on": "L6 change-level pavilion stair tread.083",
+          "point": [
+            304.5,
+            -93.31999969482422,
+            63.86387634277344
+          ],
+          "headroom_m": 0.7438774108886719,
+          "floor_z": 63.119998931884766
+        },
+        {
+          "blocking_object": "L6 cross-cloud bridge",
+          "standing_on": "L6 change-level pavilion stair tread.086",
+          "point": [
+            304.5,
+            -90.67999267578125,
+            65.4000015258789
+          ],
+          "headroom_m": 1.7400016784667969,
+          "floor_z": 63.65999984741211
+        },
+        {
+          "blocking_object": "L6 change-level pavilion top bridge landing",
+          "standing_on": "L6 change-level pavilion stair tread.096",
+          "point": [
+            308.29998779296875,
+            -93.31999969482422,
+            65.63999938964844
+          ],
+          "headroom_m": 0.18000030517578125,
+          "floor_z": 65.45999908447266
+        }
+      ]
+    }
+  ],
+  "courtyard_support": [
+    {
+      "name": "A reused School-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "A reused School-+1-01 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "A reused School-+1-02 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "B reused Water-bay-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "C reused Water-bay-+1-02 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "D reused Slope-neighbourhood-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "D reused Slope-neighbourhood--1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "F reused Zhixia-home court floor",
+      "support_issues": []
+    },
+    {
+      "name": "G reused Repair-workshop court floor",
+      "support_issues": []
+    }
+  ],
+  "pool_architecture_surface_intersections": [],
+  "scope": "Static saved geometry only. No inherited flight check. Sampled clearances, not structural or hydraulic certification.",
+  "actual_stair_platform_seams": [
+    {
+      "link": "L1",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L2",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L3",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L4",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L5",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L6",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    }
+  ],
+  "bridge_endpoints": [
+    {
+      "link": "L1",
+      "point": [
+        -229,
+        103,
+        126
+      ],
+      "contact": "A internal garden path 0",
+      "support_z": 126.13999938964844
+    },
+    {
+      "link": "L1",
+      "point": [
+        -160,
+        61,
+        126
+      ],
+      "contact": "L1 change-level pavilion top bridge landing",
+      "support_z": 126.0
+    },
+    {
+      "link": "L2",
+      "point": [
+        -107,
+        55,
+        82
+      ],
+      "contact": "B internal garden path 1",
+      "support_z": 82.13999938964844
+    },
+    {
+      "link": "L2",
+      "point": [
+        -55,
+        10,
+        82
+      ],
+      "contact": "L2 change-level pavilion top bridge landing",
+      "support_z": 82.0
+    },
+    {
+      "link": "L3",
+      "point": [
+        -4,
+        4,
+        72
+      ],
+      "contact": "L3 change-level pavilion top bridge landing",
+      "support_z": 72.0
+    },
+    {
+      "link": "L3",
+      "point": [
+        65,
+        -33,
+        72
+      ],
+      "contact": "E internal garden path 0",
+      "support_z": 72.13999938964844
+    },
+    {
+      "link": "L4",
+      "point": [
+        90,
+        -10,
+        104
+      ],
+      "contact": "L4 change-level pavilion top bridge landing",
+      "support_z": 104.0
+    },
+    {
+      "link": "L4",
+      "point": [
+        65,
+        137,
+        104
+      ],
+      "contact": "D internal garden path 0",
+      "support_z": 104.13999938964844
+    },
+    {
+      "link": "L5",
+      "point": [
+        120,
+        -48,
+        72
+      ],
+      "contact": "E separate cloud support",
+      "support_z": 72.0
+    },
+    {
+      "link": "L5",
+      "point": [
+        190,
+        -83,
+        72
+      ],
+      "contact": "L5 change-level pavilion top bridge landing",
+      "support_z": 72.0
+    },
+    {
+      "link": "L6",
+      "point": [
+        268,
+        -95,
+        66
+      ],
+      "contact": "F separate cloud support",
+      "support_z": 66.0
+    },
+    {
+      "link": "L6",
+      "point": [
+        307,
+        -92,
+        66
+      ],
+      "contact": "L6 change-level pavilion top bridge landing",
+      "support_z": 66.0
+    }
+  ]
+}

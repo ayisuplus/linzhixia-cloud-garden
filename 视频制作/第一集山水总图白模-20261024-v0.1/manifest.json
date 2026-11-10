@@ -1,0 +1,139 @@
+{
+  "files": {
+    "landscape-masterplan-v08.blend": {
+      "bytes": 5027312,
+      "sha256": "c59a0b2db4093a17bdc11d8b4b9b6d4dbda0a41c348c358f3ca2af2fccce3206"
+    },
+    "landscape-route-58s-v08.blend": {
+      "bytes": 5187365,
+      "sha256": "ce87da18cafe8e480aa1029c5d431c04fe7122e2f8bf8abebc85c706a6f58b16"
+    },
+    "batch-A-00-30.mp4": {
+      "bytes": 1901696,
+      "sha256": "1f358c4f6bc8c895108d32594ef6f80953713d1b0a39ef0d3b09f720424da74a"
+    },
+    "batch-B-28-58.mp4": {
+      "bytes": 2268463,
+      "sha256": "4f4cbaf2b02d96d6532700c8824a01e467ebc0460046bc3c231a80448b30d88c"
+    },
+    "landscape-blockout-flight-58s-v08.mp4": {
+      "bytes": 4102644,
+      "sha256": "11bd80295a5fa40edbcf44e5fbbdbe4a03062cf200f75ba28c2303e83b0b3e57"
+    },
+    "independent-blockout-audit-final-03.json": {
+      "bytes": 41128,
+      "sha256": "55a9f7aee7135c60beef3c794bff07f947adce9a28b5ad5e9ac73bf15a772b7b"
+    },
+    "independent-blockout-audit-final-04.json": {
+      "bytes": 49178,
+      "sha256": "f7f57e1a7b008c9d4802c980b12699035295fb762f0cd27dc50c0dd7f4e066c0"
+    },
+    "independent-blockout-audit-interim-02.json": {
+      "bytes": 29553,
+      "sha256": "5ab948b1eb27de640561369e0a017df3f0d6e1e0db9d55eb92336cb6a6a82bea"
+    },
+    "independent-blockout-audit.json": {
+      "bytes": 29553,
+      "sha256": "5ab948b1eb27de640561369e0a017df3f0d6e1e0db9d55eb92336cb6a6a82bea"
+    },
+    "independent-foundation-detail-final-04.json": {
+      "bytes": 335,
+      "sha256": "628519811874fa59f2d66126fc8c28b0e2060d3ab64c7af90aaa1f751536f67a"
+    },
+    "independent-local-check-final-05.json": {
+      "bytes": 19717,
+      "sha256": "1e3902b3c93811f18e23968bcb9b7bd1a1def472c977d34b2e8c1b229b303352"
+    },
+    "independent-local-check-final-06.json": {
+      "bytes": 9447,
+      "sha256": "1ae5fa0e64b0a9ad216a438b759be45278580a028175c551b4cd5d9798c69773"
+    },
+    "independent-middle-detail-final-03.json": {
+      "bytes": 1581,
+      "sha256": "87493cf107f1c42b17a1223d5531cd71e38d8fcdc2210757b7c24af4a358e906"
+    },
+    "independent-middle-detail-final-04.json": {
+      "bytes": 756,
+      "sha256": "89e9f1c00592b480f050508782ffa4ff0bde83e0c16065ec4d0457d33d5dfdeb"
+    },
+    "independent-middle-detail-final-05.json": {
+      "bytes": 374,
+      "sha256": "60bd01ff2186fd1ef88d2f8d4f76a49dae223d7a4d93012ffb0ea0dec97988b9"
+    },
+    "independent-middle-detail-final-06.json": {
+      "bytes": 374,
+      "sha256": "9899303c735852787774bc77d04ca9841c5ed57ea7fa93b9de986ae67ee4196e"
+    },
+    "layout-plan.json": {
+      "bytes": 899521,
+      "sha256": "83dec79123aea5921328a2a8ab26f7cc8760592a729530ba295ab1132c087bea"
+    },
+    "local-geometry-fixes.json": {
+      "bytes": 802,
+      "sha256": "d1a2ce258528273922c08ddc4ee723b77fc428646c8c548bbe427a11ff684c0c"
+    },
+    "map-labels.json": {
+      "bytes": 320,
+      "sha256": "39bf794960a97f0c780f0eb6da466c1732cc568b762cbfaff64d43ae41716738"
+    },
+    "route-chapters.json": {
+      "bytes": 451,
+      "sha256": "933a9004c60a70abc7beff5cd0de7fba31824add22abc87748a058c4ca539065"
+    },
+    "route-check.json": {
+      "bytes": 524,
+      "sha256": "bea50af7af66cd6a2d9c706975ff9cefc27aa18b95abf38c701e9e772ef29f76"
+    },
+    "route-poses.json": {
+      "bytes": 294803,
+      "sha256": "30c253069c51b321f8d9b80d7c19ca1294cb937e6d6bf084fe7e9ae39ad7e8af"
+    },
+    "video-validation.json": {
+      "bytes": 2752,
+      "sha256": "ab83b52d5b6f45a698714d20ff7dc62c77f5489ce6f30b66bb4039a2f4f80d08"
+    },
+    "whitebox\\01-masterplan.png": {
+      "bytes": 1826068,
+      "sha256": "7e1db8705cc7701d9b5326d54695f9317dcfb07a360ed0ddd0c5fb535ec3dece"
+    },
+    "whitebox\\02-valley-overview.png": {
+      "bytes": 999628,
+      "sha256": "01f793836136043ec2c909a188494e2f84f249b45deb0480eb17e28e672fd8e4"
+    },
+    "whitebox\\03-school-to-valley.png": {
+      "bytes": 882364,
+      "sha256": "1141813c9fb398dc12a6093bc93ab362266b3a815f8dcdb271a03e2eb24c2f6d"
+    },
+    "whitebox\\04-water-bay.png": {
+      "bytes": 938638,
+      "sha256": "264b6768eebecb82ec8c9584a25315d97b1bdb4d3c755db38f39b0dee5791bc3"
+    },
+    "whitebox\\05-two-level-court.png": {
+      "bytes": 934533,
+      "sha256": "ffd153bfbf4b1779175ed452edfe14122b06c8587fbd6a03bb45a18bbc6a2e81"
+    },
+    "whitebox\\06-home-workshop.png": {
+      "bytes": 919598,
+      "sha256": "d9bcbe4e1e217d0fe1c772fbc5aad815eeaf5077fd40d265f2c5bb0aadeb782f"
+    },
+    "whitebox\\07-longitudinal-section.png": {
+      "bytes": 171488,
+      "sha256": "8250448d249c66441744a95a98b0846895815c06d66f8361f0cc4096bde8645a"
+    },
+    "whitebox\\08-upper-entry-view.png": {
+      "bytes": 906546,
+      "sha256": "b3468d6e633339792e93aa24fb920e1adcec79ec3341c349904d6a9b476ba4a4"
+    },
+    "whitebox\\09-lower-water-view.png": {
+      "bytes": 905932,
+      "sha256": "dc0a5b6a59aad2602dc905d03c682ce00194c23257a16f1012670296c0c41c29"
+    },
+    "review.html": {
+      "bytes": 7415,
+      "sha256": "9f5a293c927f47447bfb575aa199f299ed448a02a11cc116a1b77299d5e021f8"
+    }
+  },
+  "old_v07_sha256": "a298118ba9aa76998825dcc18dc9ab7b9a324c7cccb3dd1a012f388a96a1894d",
+  "html_local_links_exist": true,
+  "browser_ui_verified": false
+}

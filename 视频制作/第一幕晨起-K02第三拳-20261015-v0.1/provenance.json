@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-15",
+  "tool": "image_gen.imagegen",
+  "calls": 1,
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-c9369c40-657f-47df-a42f-ac90330a2011.png",
+  "output": "E01-A-K02-STOP-第三拳按停01.png",
+  "reference": "视频制作/第一幕晨起-K02第二拳-20261015-v0.1/E01-A-K02-P2-举汤圆挡拳01.png",
+  "size": [
+    1672,
+    941
+  ],
+  "sha256": "863f27dc115051e950fd67e1bef2bd09cdaad03f25274161c983161e86347200",
+  "status": "第三拳截停瞬间候选待审",
+  "prompt": "prompt.txt"
+}

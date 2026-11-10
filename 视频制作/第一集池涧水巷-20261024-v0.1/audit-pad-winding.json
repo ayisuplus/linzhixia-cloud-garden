@@ -1,0 +1,26 @@
+[
+  {
+    "name": "West-neighbourhood-+1-00 court floor",
+    "triangles": 7190,
+    "positive": 7190,
+    "negative": 0,
+    "min_z": 51.96488952636719,
+    "max_z": 51.96488952636719
+  },
+  {
+    "name": "Two-level-water-court court floor",
+    "triangles": 10934,
+    "positive": 10934,
+    "negative": 0,
+    "min_z": 41.619998931884766,
+    "max_z": 41.619998931884766
+  },
+  {
+    "name": "Lower-lane--1-02 court floor",
+    "triangles": 7181,
+    "positive": 0,
+    "negative": 7181,
+    "min_z": 23.700000762939453,
+    "max_z": 23.700000762939453
+  }
+]

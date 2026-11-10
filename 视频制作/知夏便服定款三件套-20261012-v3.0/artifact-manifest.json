@@ -1,0 +1,39 @@
+{
+  "status": "generated_pending_author_review",
+  "originalCopiesVerified": true,
+  "cropPixelsVerified": true,
+  "finalBoards": [
+    {
+      "file": "知夏-便服四视图-v3.0.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-9857cf67-d2e8-4849-ad73-22a2903ad9a4.png",
+      "sha256": "3c7881d0d7476535ef1df0cc86dd5f08bed92e781bba85569770d5e7f552c4aa",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "知夏-便服妆造分解-v3.0.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-0ae17982-415f-438c-8a25-f3eeb478377a.png",
+      "sha256": "0733af26984a0eeb990f1b6a1634c8d6abb8896be8c30c9084a11fa5cae3ea7c",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "知夏-便服穿搭分解-v3.0.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-23a93fc4-4a7f-4d79-9dc1-60868128d864.png",
+      "sha256": "95ffd8c707cae1f90e36e9316371a9a2991f924440f9854bc48f3dbf91ea98fe",
+      "size": [
+        1536,
+        1024
+      ]
+    }
+  ],
+  "eagleReceipt": "eagle-verification.json",
+  "cropManifest": "四视图独立图/split-manifest.json",
+  "storage": "project_directory_only",
+  "eagleStatus": "withdrawn_to_trash_per_author",
+  "eagleWithdrawalVerification": "eagle-withdrawal-verification.json"
+}

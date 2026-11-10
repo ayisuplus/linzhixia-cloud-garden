@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "底稿",
+      "success": true,
+      "id": "MV4VW6GTT5RIU",
+      "parentId": "MV4VOAZ1XOHH2"
+    },
+    {
+      "name": "人物四视图专一",
+      "success": true,
+      "id": "MV4VW6H0BXW3H",
+      "parentId": "MV4VOAZ1XOHH2"
+    },
+    {
+      "name": "穿搭",
+      "success": true,
+      "id": "MV4VW6HGZMHGQ",
+      "parentId": "MV4VOAZ1XOHH2"
+    },
+    {
+      "name": "妆造",
+      "success": true,
+      "id": "MV4VW6HNC4SFO",
+      "parentId": "MV4VOAZ1XOHH2"
+    }
+  ],
+  "message": "Successfully created 4/4 folders",
+  "timestamp": "2026-10-12T06:41:36.736Z",
+  "totalFolders": 4,
+  "successCount": 4,
+  "failureCount": 0
+}

@@ -1,0 +1,12 @@
+Edit the provided image as the exact base for one revised full-body character design of Lin Zhixia. Preserve the established approachable, gentle Japanese-inspired healing 3D game-CG appearance and the same girl.
+
+The user approved a refined bamboo-themed work outfit. Make these specific clothing and accessory edits:
+- Change the current gray-green lightweight waist-length jacket to a fresh soft bamboo green, subtly cool green with restrained saturation, clearly greener than the source. Preserve the open front, small Chinese stand collar, neat elbow-length sleeves, lightweight cotton texture, refined fit and waist-length hem.
+- Change the brown shorts to a deeper bamboo/jade green, visibly darker than the jacket. Preserve their exact non-denim fabric character, cut, length, cuffs, waistband and fit.
+- Keep the ivory camisole to separate the two greens and brighten the palette.
+- Introduce bamboo through carefully made small functional details: replace the jacket's existing fastening details with tiny natural warm bamboo-segment toggle buttons and fine matching loops; add delicate subtle tone-on-tone bamboo-leaf embroidery only on one sleeve cuff and a small collar-edge area. No dense patterns, no all-over bamboo print, no giant leaves.
+- Replace the existing leaf-shaped wooden hair ornament with one simple refined slender bamboo hairpin, with a discreet bamboo-node detail. Preserve the hairstyle and its placement.
+- Keep the waist tool pouch practical soft warm bamboo-tan woven fabric, with one small bamboo fastening detail away from the open tool slots; preserve its position, shape and all tools. Keep the existing warm dark brown ankle work boots and light sock edges unchanged as warm neutral balance.
+This should feel like refined everyday workwear in an abundant garden city: comfortable, youthful, practical, precise craftsmanship, softly luminous textile materials. Bamboo details should be small and plausible. No costume, armor, hard bamboo clothing, heavy embroidery, oversized decorative accessories or additional dangling tools.
+
+Strict invariants: preserve the girl's exact face and facial proportions, natural eye size, warm friendly smile, age, body proportions, hair color, braided updo, pose, hands, existing background, soft lighting, full-body framing and rendering style. No glasses or monocle of any kind. Do not make her more photographic, change her identity, enlarge her eyes, or make her chibi. Entire head and boots visible, one character only, no text, no logo, no collage.

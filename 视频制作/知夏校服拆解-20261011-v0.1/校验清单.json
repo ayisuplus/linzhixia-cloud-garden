@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-11",
+  "assets": [
+    {
+      "file": "知夏-校服-妆造01.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "5c15276e0ce1f6e4f546028b77637eac23bfb09e8e2e22c7ac6ed8f92a5e48d8",
+      "sourceFile": "exec-00d9a730-33b1-4559-a232-680d0164d5b6.png",
+      "status": "draft-footwear-revision-pending"
+    },
+    {
+      "file": "知夏-校服-穿搭01.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "5bf84e14a9f9c891147c04b8a3db586e1f3884b77ee59f01088831b63de3f123",
+      "sourceFile": "exec-c2426388-1333-4837-a665-7d158a6cf16d.png",
+      "status": "draft-footwear-revision-pending"
+    }
+  ],
+  "canvasNodes": [
+    "0e1bf2b7-30cb-4564-b097-b9769e1a8bbe",
+    "18c7a8e5-199b-4614-b50b-2e9d5883d1be",
+    "a6d1e999-dea0-48c7-afba-39df8889f799",
+    "baa7adb2-5487-46b6-918c-1f590745aa32"
+  ]
+}

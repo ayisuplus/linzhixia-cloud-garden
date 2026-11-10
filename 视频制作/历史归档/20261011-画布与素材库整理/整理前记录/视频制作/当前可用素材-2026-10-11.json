@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-11",
+  "workspace": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+  "canvas": "人物设计.json",
+  "indexNode": "5a46965d-e87b-462a-8ca0-c1a58f1f2445",
+  "pathBase": "paths are relative to ToonFlow workspace 视频制作",
+  "style": "日系治愈3D CG（游戏CG感）",
+  "assets": [
+    {
+      "key": "school",
+      "name": "知夏校服03",
+      "file": "知夏四套服装试稿-20261011-v0.1/知夏-校服03-浅天蓝花卉短衫.png",
+      "prompts": [
+        "知夏四套服装试稿-20261011-v0.1/知夏-校服03-实际生成提示词.txt"
+      ],
+      "status": "作者认可；现行面容与画风主参考",
+      "imageNode": "d43bdb40-57d9-4f2f-85b1-2e977b33f103",
+      "promptNode": "573f85eb-b3f1-410b-8095-8d05203c40c4",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "1C1DAC209933FBB9309EC1391839BFCC49D29D9CA8A18B13735F78A3B68C9C40",
+      "bytes": 1696717
+    },
+    {
+      "key": "daily",
+      "name": "知夏便服06",
+      "file": "知夏四套服装试稿-20261011-v0.1/知夏-便服06-珊瑚红水青花卉.png",
+      "prompts": [
+        "知夏四套服装试稿-20261011-v0.1/知夏-便服06-珊瑚红水青花卉-实际生成提示词.txt"
+      ],
+      "status": "初稿认可，可继续使用",
+      "imageNode": "3bfccabb-4acb-4493-95e8-8b75b6843f9d",
+      "promptNode": "e87920ed-5726-4c83-a4f7-952fcb2247d3",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "6453FD1209C07C26B3B0607898AF113C50386F1EB490D2602852593F7070C84D",
+      "bytes": 1695718
+    },
+    {
+      "key": "work",
+      "name": "知夏工作服10",
+      "file": "知夏四套服装试稿-20261011-v0.1/知夏-工作服10-竹绿杏黄竹纹.png",
+      "prompts": [
+        "知夏四套服装试稿-20261011-v0.1/知夏-工作服10-竹绿杏黄竹纹-实际生成提示词.txt"
+      ],
+      "status": "初稿认可，可继续使用",
+      "imageNode": "d8f916c8-4587-457c-968a-b5953c2e9227",
+      "promptNode": "d83682f2-7ee7-4772-b303-fcf75b3aa7c0",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "196D05294BCA8670572ADA7BD67EFDCC4C8332B67415C37DE2EA0EA0BC25BFE4",
+      "bytes": 1714421
+    },
+    {
+      "key": "sleep",
+      "name": "知夏睡衣04",
+      "file": "知夏四套服装试稿-20261011-v0.1/知夏-睡衣04-桃粉荷绿锦鲤.png",
+      "prompts": [
+        "知夏四套服装试稿-20261011-v0.1/知夏-睡衣04-桃粉荷绿锦鲤-实际生成提示词.txt"
+      ],
+      "status": "初稿认可，可继续使用",
+      "imageNode": "bd775695-4f57-4f4b-9b93-24e9059ed187",
+      "promptNode": "5eac3291-3fc6-4345-8c7d-2fdff9b89a6f",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "61315486D1CEE3792A47B5468752153D77A9773156EA0881BFF186F98441976E",
+      "bytes": 1694419
+    },
+    {
+      "key": "bedroom",
+      "name": "半园卧室02",
+      "file": "半园卧室试稿-v0.1/知夏卧室-清晨-候选02.png",
+      "prompts": [
+        "半园卧室试稿-v0.1/prompt.txt",
+        "半园卧室试稿-v0.1/prompt-02.txt"
+      ],
+      "status": "已认可场景与风格方向参考；非多机位定稿",
+      "imageNode": "7a2bbe17-b0c4-4165-abcf-6c51a4fd8468",
+      "promptNode": "3874c207-f63c-4777-a538-8b43371f8173",
+      "width": 1672,
+      "height": 941,
+      "sha256": "C743D449CE029074AF3C1535B7C95ABEC442D60B5989E9809BCC2517CFD935F4",
+      "bytes": 2405972
+    },
+    {
+      "key": "workshop",
+      "name": "半园修复工坊03",
+      "file": "半园修复工坊试稿-v0.1/半园修复工坊-候选03.png",
+      "prompts": [
+        "半园修复工坊试稿-v0.1/prompt.txt",
+        "半园修复工坊试稿-v0.1/prompt-03.txt"
+      ],
+      "status": "已认可场景与氛围参考；非多机位定稿",
+      "imageNode": "44fe7f6a-584a-45cc-8693-2e18c01988ab",
+      "promptNode": "30f12a19-17f5-4ccc-b14b-3146db81ba67",
+      "width": 1672,
+      "height": 941,
+      "sha256": "398255B872BA9B2DF38E9CD54C5F9296CF8AAC1DCBB3E3E99733DD4F421743BC",
+      "bytes": 2379657
+    }
+  ],
+  "assetLibrary": {
+    "folder": "未来女孩林知夏-当前可用素材",
+    "savedAt": "2026-10-11",
+    "scope": "ToonFlow global asset library, separate from project workspace",
+    "items": [
+      {
+        "key": "school",
+        "name": "知夏校服03",
+        "path": "未来女孩林知夏-当前可用素材/人物/知夏-校服03-浅天蓝花卉短衫.png",
+        "promptPath": "未来女孩林知夏-当前可用素材/人物/知夏校服03-提示词与状态.md",
+        "sha256": "1C1DAC209933FBB9309EC1391839BFCC49D29D9CA8A18B13735F78A3B68C9C40",
+        "verifiedIdentical": true
+      },
+      {
+        "key": "daily",
+        "name": "知夏便服06",
+        "path": "未来女孩林知夏-当前可用素材/人物/知夏-便服06-珊瑚红水青花卉.png",
+        "promptPath": "未来女孩林知夏-当前可用素材/人物/知夏便服06-提示词与状态.md",
+        "sha256": "6453FD1209C07C26B3B0607898AF113C50386F1EB490D2602852593F7070C84D",
+        "verifiedIdentical": true
+      },
+      {
+        "key": "work",
+        "name": "知夏工作服10",
+        "path": "未来女孩林知夏-当前可用素材/人物/知夏-工作服10-竹绿杏黄竹纹.png",
+        "promptPath": "未来女孩林知夏-当前可用素材/人物/知夏工作服10-提示词与状态.md",
+        "sha256": "196D05294BCA8670572ADA7BD67EFDCC4C8332B67415C37DE2EA0EA0BC25BFE4",
+        "verifiedIdentical": true
+      },
+      {
+        "key": "sleep",
+        "name": "知夏睡衣04",
+        "path": "未来女孩林知夏-当前可用素材/人物/知夏-睡衣04-桃粉荷绿锦鲤.png",
+        "promptPath": "未来女孩林知夏-当前可用素材/人物/知夏睡衣04-提示词与状态.md",
+        "sha256": "61315486D1CEE3792A47B5468752153D77A9773156EA0881BFF186F98441976E",
+        "verifiedIdentical": true
+      },
+      {
+        "key": "bedroom",
+        "name": "半园卧室02",
+        "path": "未来女孩林知夏-当前可用素材/场景/知夏卧室-清晨-候选02.png",
+        "promptPath": "未来女孩林知夏-当前可用素材/场景/半园卧室02-提示词与状态.md",
+        "sha256": "C743D449CE029074AF3C1535B7C95ABEC442D60B5989E9809BCC2517CFD935F4",
+        "verifiedIdentical": true
+      },
+      {
+        "key": "workshop",
+        "name": "半园修复工坊03",
+        "path": "未来女孩林知夏-当前可用素材/场景/半园修复工坊-候选03.png",
+        "promptPath": "未来女孩林知夏-当前可用素材/场景/半园修复工坊03-提示词与状态.md",
+        "sha256": "398255B872BA9B2DF38E9CD54C5F9296CF8AAC1DCBB3E3E99733DD4F421743BC",
+        "verifiedIdentical": true
+      }
+    ]
+  }
+}

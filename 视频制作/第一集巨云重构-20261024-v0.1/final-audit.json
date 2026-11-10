@@ -1,0 +1,9 @@
+{
+  "saved_camera_frames": 1392,
+  "saved_curve_vs_report_max_error_m": 0.0,
+  "final_camera_hits": [],
+  "linked_courtyard_count": 39,
+  "all_courtyard_bounds_fit_32m_foundations": true,
+  "minimum_continuous_envelope_to_instance_AABB_lower_bound_m": 66.2671506320222,
+  "method": "Conservative AABB lower bound for distant instances, subtract half max frame travel and 1.2m envelope; final saved camera swept against nearby actual geometry including arrival patch."
+}

@@ -1,0 +1,131 @@
+{
+  "artifact": "episode1-floating-garden-v03",
+  "files": [
+    {
+      "path": "A-sequence.jpg",
+      "bytes": 55381,
+      "sha256": "310cde862e768072bf494529503aff84b2a172441b008d39ea4335a0a08b22ad"
+    },
+    {
+      "path": "all-views.jpg",
+      "bytes": 272786,
+      "sha256": "b6bab558f909b61d4c27e8e7a505c84dd47d3e45b74b457ffa74cd09e973d28f"
+    },
+    {
+      "path": "B-sequence.jpg",
+      "bytes": 65356,
+      "sha256": "0318d53fb22b3913e342f738cb7045e6b4849fae9a3ecbdffe0d764c389c6690"
+    },
+    {
+      "path": "C-sequence.jpg",
+      "bytes": 92724,
+      "sha256": "4073a43d43b363e82cc2310e0a915841a83dda88b6fd3731347386eeff8c9037"
+    },
+    {
+      "path": "episode1-floating-garden-v03.blend",
+      "bytes": 10242547,
+      "sha256": "3e4f78a13a526da6212defb6ed34b018f338f143dd90a8722b1d6583200422a0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3233,
+      "sha256": "017c743fdb9a97e45137379d278f95073d347a0c8fc2a89bb3a9ff51bfbe16fa"
+    },
+    {
+      "path": "review.html",
+      "bytes": 5257,
+      "sha256": "9dc91dc1087f89d67a317e8bafff7fa372526c271da978f4bbce2fd91e414919"
+    },
+    {
+      "path": "route-checks.json",
+      "bytes": 3067,
+      "sha256": "8072f705f6abf196951e726c7fc6d10c452b6eba2d963369e9cd55e4cc57cdcb"
+    },
+    {
+      "path": "route-layout.json",
+      "bytes": 54065,
+      "sha256": "cda18f3d544c570f7d7294ff20169935427f2bcff7f7759a5d1689828f82001e"
+    },
+    {
+      "path": "route-plan.svg",
+      "bytes": 4039,
+      "sha256": "a415e876242fd66b19797afbe45811bf2cbfc9d1d2606ea1d810647753af124a"
+    },
+    {
+      "path": "V03-A0.png",
+      "bytes": 901693,
+      "sha256": "9d9e204d11cf898f812191e83ad5f56b369cba08978d629cccb5781428551388"
+    },
+    {
+      "path": "V03-A1.png",
+      "bytes": 954460,
+      "sha256": "af3408b39ef2e0dd4c729d61048edc8dca4dd1d893a5c913f57d3d2a0078916e"
+    },
+    {
+      "path": "V03-AM.png",
+      "bytes": 976217,
+      "sha256": "fbc3cc5ec218b1f49b3f9506cce278b55a32f8062bd93e600c8f22d9c38e1ffa"
+    },
+    {
+      "path": "V03-B0.png",
+      "bytes": 969988,
+      "sha256": "b55c957731bcca75195d96931c1ac462b8119edfdcacf3b9597e9ca75b85b72e"
+    },
+    {
+      "path": "V03-B1.png",
+      "bytes": 1017060,
+      "sha256": "ca429dc73d3cace06431c77d885f678f8c1850ba9c3a0036205d48404e843d21"
+    },
+    {
+      "path": "V03-BM.png",
+      "bytes": 1034123,
+      "sha256": "0eb0f24d45c53e98d6926a3234c4f803a67926d7fa8aa86e686eaae6ab4fbeef"
+    },
+    {
+      "path": "V03-C0.png",
+      "bytes": 954045,
+      "sha256": "914c670734a6028a879eca60040c4ef3ff5a2a0c7ba1920ae904a4f386c0f804"
+    },
+    {
+      "path": "V03-C1.png",
+      "bytes": 1013798,
+      "sha256": "7b47981af7cffc41f06de1442e5c2b95be7fa59ed6c77054dcbc966bbca38006"
+    },
+    {
+      "path": "V03-C2.png",
+      "bytes": 1026354,
+      "sha256": "97c32d605b032e554c357c9868d1dde82491a942205822782e90beacc5cd9e88"
+    },
+    {
+      "path": "V03-CM.png",
+      "bytes": 1026250,
+      "sha256": "b0ecc372d130515bf56b13167489b36c9282a6fad21ccf9de57a9317fd97e2d9"
+    },
+    {
+      "path": "V03-HOME.png",
+      "bytes": 1300367,
+      "sha256": "0a5d7ae9b8bb9eede7f46045b90433c5c5e0826249da1e171aab55ba4076be4c"
+    },
+    {
+      "path": "V03-MID.png",
+      "bytes": 1029455,
+      "sha256": "01ef124a7c421fd8d56fd9238df6d7e5045425efa8c6a0a5cfd6556e205e76c8"
+    },
+    {
+      "path": "V03-OV.png",
+      "bytes": 1034973,
+      "sha256": "b06e58c285cf80ec722ac82d0db75e3ba219cc28aee9bcfdcb15fb42b9322f6a"
+    },
+    {
+      "path": "V03-SIDE.png",
+      "bytes": 1023404,
+      "sha256": "f3a84fafa2f09a62a935b1c08b994a021faa549aff8e0d8ac4212d1fb5c2a565"
+    },
+    {
+      "path": "V03-WATER.png",
+      "bytes": 1014529,
+      "sha256": "5c7b1a714cb1b16fb3d5cfd64478c1df0520a3e0ce100a87bd41226162bbf7c6"
+    }
+  ],
+  "images_reviewed_as": "Static geometric candidate; not final art, animation or author adoption"
+}

@@ -1,0 +1,400 @@
+{
+  "roof_intersections": [
+    [
+      "Refined Learning garden roof curved tiled roof",
+      "Refined Learning garden roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Learning garden roof.001 curved tiled roof",
+      "Refined Learning garden roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Learning garden roof.003 curved tiled roof",
+      "Refined Learning garden roof.005 curved tiled roof"
+    ],
+    [
+      "Refined Learning garden roof.004 curved tiled roof",
+      "Refined Learning garden roof.005 curved tiled roof"
+    ],
+    [
+      "Refined Upper east court roof curved tiled roof",
+      "Refined Upper east court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Upper east court roof.001 curved tiled roof",
+      "Refined Upper east court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Upper west court roof curved tiled roof",
+      "Refined Upper west court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Upper west court roof.001 curved tiled roof",
+      "Refined Upper west court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Middle dwelling court roof curved tiled roof",
+      "Refined Middle dwelling court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Middle dwelling court roof.001 curved tiled roof",
+      "Refined Middle dwelling court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Lower east court roof curved tiled roof",
+      "Refined Lower east court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Lower east court roof.001 curved tiled roof",
+      "Refined Lower east court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Lower west court roof curved tiled roof",
+      "Refined Lower west court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined Lower west court roof.001 curved tiled roof",
+      "Refined Lower west court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined West quiet court roof curved tiled roof",
+      "Refined West quiet court roof.002 curved tiled roof"
+    ],
+    [
+      "Refined West quiet court roof.001 curved tiled roof",
+      "Refined West quiet court roof.002 curved tiled roof"
+    ],
+    [
+      "Academy north study principal hall curved tiled roof",
+      "Academy north study side study curved tiled roof"
+    ],
+    [
+      "Academy west study principal hall curved tiled roof",
+      "Academy west study side study curved tiled roof"
+    ],
+    [
+      "Upper west annex principal hall curved tiled roof",
+      "Upper west annex side study curved tiled roof"
+    ],
+    [
+      "Upper east annex principal hall curved tiled roof",
+      "Upper east annex side study curved tiled roof"
+    ],
+    [
+      "Middle south court principal hall curved tiled roof",
+      "Middle south court side study curved tiled roof"
+    ],
+    [
+      "Middle north study principal hall curved tiled roof",
+      "Middle north study side study curved tiled roof"
+    ],
+    [
+      "Quiet west study principal hall curved tiled roof",
+      "Quiet west study side study curved tiled roof"
+    ],
+    [
+      "Quiet east residence principal hall curved tiled roof",
+      "Quiet east residence side study curved tiled roof"
+    ],
+    [
+      "East waterside court principal hall curved tiled roof",
+      "East waterside court side study curved tiled roof"
+    ],
+    [
+      "West bamboo court principal hall curved tiled roof",
+      "West bamboo court side study curved tiled roof"
+    ]
+  ],
+  "residual_above_new_roofs": [
+    {
+      "object": "Roof ridge cap",
+      "center": [
+        -1310.0,
+        999.0000610351562,
+        46.29999542236328
+      ],
+      "top_z": 46.43314743041992,
+      "roof": "Refined Learning garden roof curved tiled roof",
+      "roof_at_center_z": 44.139984130859375,
+      "roof_top_z": 44.139984130859375,
+      "excess_m": 2.1600112915039062
+    },
+    {
+      "object": "Roof ridge cap.001",
+      "center": [
+        -1270.0,
+        999.0000610351562,
+        46.29999542236328
+      ],
+      "top_z": 46.43314743041992,
+      "roof": "Refined Learning garden roof.001 curved tiled roof",
+      "roof_at_center_z": 44.139984130859375,
+      "roof_top_z": 44.139984130859375,
+      "excess_m": 2.1600112915039062
+    },
+    {
+      "object": "Roof ridge cap.004",
+      "center": [
+        -1160.0,
+        894.0000610351562,
+        52.29999542236328
+      ],
+      "top_z": 52.43314743041992,
+      "roof": "Refined Learning garden roof.004 curved tiled roof",
+      "roof_at_center_z": 50.139984130859375,
+      "roof_top_z": 50.139984130859375,
+      "excess_m": 2.1600112915039062
+    },
+    {
+      "object": "Roof ridge cap.013",
+      "center": [
+        -698.0,
+        775.0000610351562,
+        68.5
+      ],
+      "top_z": 68.63314819335938,
+      "roof": "Refined Upper east court roof.001 curved tiled roof",
+      "roof_at_center_z": 66.3399887084961,
+      "roof_top_z": 66.3399887084961,
+      "excess_m": 2.1600112915039062
+    },
+    {
+      "object": "Roof ridge cap.015",
+      "center": [
+        -852.0,
+        785.0000610351562,
+        68.5
+      ],
+      "top_z": 68.63314819335938,
+      "roof": "Refined Upper west court roof curved tiled roof",
+      "roof_at_center_z": 66.3399887084961,
+      "roof_top_z": 66.3399887084961,
+      "excess_m": 2.1600112915039062
+    },
+    {
+      "object": "Roof ridge cap.018",
+      "center": [
+        -647.0,
+        610.0000610351562,
+        33.5
+      ],
+      "top_z": 33.633148193359375,
+      "roof": "Refined Middle dwelling court roof curved tiled roof",
+      "roof_at_center_z": 31.339984893798828,
+      "roof_top_z": 31.339984893798828,
+      "excess_m": 2.160015106201172
+    },
+    {
+      "object": "Roof ridge cap.019",
+      "center": [
+        -613.0,
+        610.0000610351562,
+        33.5
+      ],
+      "top_z": 33.633148193359375,
+      "roof": "Refined Middle dwelling court roof.001 curved tiled roof",
+      "roof_at_center_z": 31.339984893798828,
+      "roof_top_z": 31.339984893798828,
+      "excess_m": 2.160015106201172
+    },
+    {
+      "object": "Roof ridge cap.021",
+      "center": [
+        -362.0,
+        350.0,
+        14.5
+      ],
+      "top_z": 14.633148193359375,
+      "roof": "Refined Lower east court roof curved tiled roof",
+      "roof_at_center_z": 12.340003967285156,
+      "roof_top_z": 12.340003967285156,
+      "excess_m": 2.1599960327148438
+    },
+    {
+      "object": "Roof ridge cap.025",
+      "center": [
+        -528.0,
+        175.0,
+        2.5
+      ],
+      "top_z": 2.633147954940796,
+      "roof": "Refined Lower west court roof.001 curved tiled roof",
+      "roof_at_center_z": 0.3399829864501953,
+      "roof_top_z": 0.33998537063598633,
+      "excess_m": 2.1600170135498047
+    },
+    {
+      "object": "Roof ridge cap.027",
+      "center": [
+        -1067.0,
+        520.0000610351562,
+        -4.5
+      ],
+      "top_z": -4.366851806640625,
+      "roof": "Refined West quiet court roof curved tiled roof",
+      "roof_at_center_z": -6.660015106201172,
+      "roof_top_z": -6.660014629364014,
+      "excess_m": 2.160015106201172
+    },
+    {
+      "object": "Roof ridge cap.028",
+      "center": [
+        -1033.0,
+        520.0000610351562,
+        -4.5
+      ],
+      "top_z": -4.366851806640625,
+      "roof": "Refined West quiet court roof.001 curved tiled roof",
+      "roof_at_center_z": -6.660015106201172,
+      "roof_top_z": -6.660014629364014,
+      "excess_m": 2.160015106201172
+    },
+    {
+      "object": "Filled roof gable",
+      "center": [
+        -1310.0,
+        999.0,
+        44.04999542236328
+      ],
+      "top_z": 46.29999923706055,
+      "roof": "Refined Learning garden roof curved tiled roof",
+      "roof_at_center_z": 44.139984130859375,
+      "roof_top_z": 44.139984130859375,
+      "excess_m": 2.160015106201172
+    },
+    {
+      "object": "Filled roof gable.001",
+      "center": [
+        -1270.0,
+        999.0,
+        44.04999542236328
+      ],
+      "top_z": 46.29999923706055,
+      "roof": "Refined Learning garden roof.001 curved tiled roof",
+      "roof_at_center_z": 44.139984130859375,
+      "roof_top_z": 44.139984130859375,
+      "excess_m": 2.160015106201172
+    },
+    {
+      "object": "Filled roof gable.004",
+      "center": [
+        -1160.0,
+        894.0,
+        50.04999542236328
+      ],
+      "top_z": 52.29999923706055,
+      "roof": "Refined Learning garden roof.004 curved tiled roof",
+      "roof_at_center_z": 50.139984130859375,
+      "roof_top_z": 50.139984130859375,
+      "excess_m": 2.160015106201172
+    },
+    {
+      "object": "Filled roof gable.007",
+      "center": [
+        -697.9999389648438,
+        775.0,
+        66.25
+      ],
+      "top_z": 68.5,
+      "roof": "Refined Upper east court roof.001 curved tiled roof",
+      "roof_at_center_z": 66.33993530273438,
+      "roof_top_z": 66.3399887084961,
+      "excess_m": 2.1600112915039062
+    },
+    {
+      "object": "Filled roof gable.009",
+      "center": [
+        -851.9999389648438,
+        785.0,
+        66.25
+      ],
+      "top_z": 68.5,
+      "roof": "Refined Upper west court roof curved tiled roof",
+      "roof_at_center_z": 66.33993530273438,
+      "roof_top_z": 66.3399887084961,
+      "excess_m": 2.1600112915039062
+    },
+    {
+      "object": "Filled roof gable.012",
+      "center": [
+        -646.9999389648438,
+        610.0,
+        31.25
+      ],
+      "top_z": 33.5,
+      "roof": "Refined Middle dwelling court roof curved tiled roof",
+      "roof_at_center_z": 31.339933395385742,
+      "roof_top_z": 31.339984893798828,
+      "excess_m": 2.160015106201172
+    },
+    {
+      "object": "Filled roof gable.013",
+      "center": [
+        -612.9999389648438,
+        610.0,
+        31.25
+      ],
+      "top_z": 33.5,
+      "roof": "Refined Middle dwelling court roof.001 curved tiled roof",
+      "roof_at_center_z": 31.339933395385742,
+      "roof_top_z": 31.339984893798828,
+      "excess_m": 2.160015106201172
+    },
+    {
+      "object": "Filled roof gable.015",
+      "center": [
+        -361.9999694824219,
+        350.0000305175781,
+        12.25
+      ],
+      "top_z": 14.5,
+      "roof": "Refined Lower east court roof curved tiled roof",
+      "roof_at_center_z": 12.339977264404297,
+      "roof_top_z": 12.340003967285156,
+      "excess_m": 2.1599960327148438
+    },
+    {
+      "object": "Filled roof gable.019",
+      "center": [
+        -527.9999389648438,
+        175.0,
+        0.25
+      ],
+      "top_z": 2.5,
+      "roof": "Refined Lower west court roof.001 curved tiled roof",
+      "roof_at_center_z": 0.3399333953857422,
+      "roof_top_z": 0.33998537063598633,
+      "excess_m": 2.1600146293640137
+    },
+    {
+      "object": "Filled roof gable.021",
+      "center": [
+        -1067.0,
+        520.0,
+        -6.75
+      ],
+      "top_z": -4.5,
+      "roof": "Refined West quiet court roof curved tiled roof",
+      "roof_at_center_z": -6.660015106201172,
+      "roof_top_z": -6.660014629364014,
+      "excess_m": 2.1600146293640137
+    },
+    {
+      "object": "Filled roof gable.022",
+      "center": [
+        -1033.0,
+        520.0,
+        -6.75
+      ],
+      "top_z": -4.5,
+      "roof": "Refined West quiet court roof.001 curved tiled roof",
+      "roof_at_center_z": -6.660015106201172,
+      "roof_top_z": -6.660014629364014,
+      "excess_m": 2.1600146293640137
+    }
+  ],
+  "limits": [
+    "Roof intersection list includes potentially intended principal/side-building junctions; inspect by architectural intent.",
+    "Residual test uses bounding center/top against nearest refined roof; geometry screening, not rendered review."
+  ]
+}

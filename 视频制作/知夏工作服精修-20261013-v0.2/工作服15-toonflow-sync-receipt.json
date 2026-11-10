@@ -1,0 +1,49 @@
+{
+  "target": {
+    "connectionId": "f617bd89-16e6-4e7b-8725-4b5116956896",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "人物设计.json"
+  },
+  "imageNode": "5655b281-ee8c-4cfc-868d-bbc8c68db55e",
+  "textNode": "daf10f18-d9a5-4efc-b9f2-bd99a7ed6509",
+  "promptMatches": true,
+  "read": {
+    "details": {
+      "canvasId": "人物设计.json",
+      "nodes": [
+        {
+          "id": "5655b281-ee8c-4cfc-868d-bbc8c68db55e",
+          "label": "知夏｜工作服15｜简约点染长袜·候选",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏工作服精修-20261013-v0.2/知夏-工作服15-简约点染长袜.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        },
+        {
+          "id": "9afd8f77-3c69-490a-a397-46817d3cb269",
+          "label": "工作服14｜袜纹过密·未采用·历史",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏工作服精修-20261013-v0.2/知夏-工作服14-全身泼墨与印花长袜.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        }
+      ],
+      "hasMore": false,
+      "nextCursor": null
+    }
+  }
+}

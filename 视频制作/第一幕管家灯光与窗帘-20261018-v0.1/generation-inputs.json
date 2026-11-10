@@ -1,0 +1,209 @@
+{
+  "E01-A-000-闭帘暗室.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/open.txt",
+    "references": [
+      "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-014-全景窗喊停.png",
+      "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/06-相拥盖被-发夹统一.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-6a425bf0-5c5e-420b-8462-cfa101ed6657.png",
+    "status": "superseded_corridor_daylight_not_blocked"
+  },
+  "E01-A-001-低光闹钟.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/clock.txt",
+    "references": [
+      "视频制作/第一幕完整镜头包-20261016-v0.1/08-闹钟伸手.png",
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-cf88bafa-b699-4120-bad9-c5a70fc01501.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-002-闭帘熟睡.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/sleep.txt",
+    "references": [
+      "视频制作/第一幕晨起-K02长手闹钟-20261015-v0.2/E01-A-K02-长手闹钟催醒前02.png",
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-2bba8947-402e-494e-b40e-370169653eba.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-003-低光第一拳.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/punch1.txt",
+    "references": [
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/历史候选/E01-A-003-低光第一拳-双闭眼未用.png",
+      "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/01-K02-P1-半醒偷看.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-a1e643f9-13f3-4f39-9715-9c62a6a42ac4.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-004-低光第二拳.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/punch2.txt",
+    "references": [
+      "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/02-第二拳-发夹统一.png",
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-002-闭帘熟睡.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-b0b3a2e4-4b3d-4ab5-9448-73879f3e5feb.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-005-低光第三拳.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/punch3.txt",
+    "references": [
+      "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/03-第三拳-发夹统一.png",
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-002-闭帘熟睡.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-968895e8-8435-4242-8b11-4b229b916141.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-006-低光坐稳.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/sit.txt",
+    "references": [
+      "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/04-坐稳-发夹统一.png",
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-002-闭帘熟睡.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-de0c0866-1d96-4fac-bcd8-f5f78fc94856.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-007-闭帘托背.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/support.txt",
+    "references": [
+      "视频制作/第一幕智能镜与表情被子-20261017-v0.1/02-被角动态材质-显像态.png",
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-006-低光坐稳.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-fb01d380-d69a-4c49-aeb5-1837ecdaef5c.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-007-L-01-亮灯开厚帘.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/wake_mid.txt",
+    "references": [
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室.png",
+      "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-014-全景窗喊停.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-10c15953-6234-49f6-9826-0a6d0383662f.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-007-L-02-双帘全开.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/wake_end.txt",
+    "references": [
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-L-01-亮灯开厚帘.png",
+      "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-014-全景窗喊停.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-248b41da-ecf9-43fd-a53e-6b59b2daade4.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-011-开帘忙碌.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/busy.txt",
+    "references": [
+      "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-011-全景窗忙碌.png",
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-L-02-双帘全开.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-ae3e9705-ff98-46e6-949e-94465926ad6d.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-012-周末闹钟开启.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/calendar.txt",
+    "references": [
+      "视频制作/第一幕智能日历-20261017-v0.1/E01-A-012-智能日历.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-594057c2-8292-4cec-a167-bb4dd4df621f.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-014-喊停保留灯光.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/stop.txt",
+    "references": [
+      "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-014-全景窗喊停.png",
+      "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-011-全景窗忙碌.png",
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-L-02-双帘全开.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-d444c3aa-f1bf-4259-b182-e2e6b4dd495b.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-015-合帘躺回.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/return.txt",
+    "references": [
+      "视频制作/第一幕四镜补帧-20261017-v0.1/E01-A-015-躺回伸手.png",
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-L-01-亮灯开厚帘.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-faae6f9c-62a8-458d-8afd-d8a7c01c3356.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-016-床灯相拥.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/cuddle.txt",
+    "references": [
+      "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/06-相拥盖被-发夹统一.png",
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-015-合帘躺回.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-a5b857e4-a884-42b0-9e45-1f4788f2ed74.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-016-L-最后熄灯.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/final.txt",
+    "references": [
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-014-喊停保留灯光.png",
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-57099822-9261-4022-8a08-2149b650622b.png",
+    "status": "superseded_corridor_daylight_not_blocked"
+  },
+  "历史候选/E01-A-003-低光第一拳-双闭眼未用.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/punch1-rejected.txt",
+    "references": [
+      "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/01-K02-P1-半醒偷看.png",
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-002-闭帘熟睡.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-29cb1451-2c94-4b54-9223-0b8198561191.png",
+    "status": "rejected_robot_peek_lost"
+  },
+  "E01-A-000-闭帘暗室-通廊遮光修订.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/open-shade.txt",
+    "references": [
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-575bd6a8-87b9-448d-9a75-0f703fc3c9f9.png",
+    "status": "candidate_not_author_approved"
+  },
+  "E01-A-016-L-最后熄灯-通廊遮光修订.png": {
+    "tool": "image_gen.imagegen",
+    "date": "2026-10-18",
+    "prompt_path": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/prompts/final-shade.txt",
+    "references": [
+      "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-016-L-最后熄灯.png"
+    ],
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-d59d089c-bbd6-4cae-a5cb-87dff0b4ffe2.png",
+    "status": "candidate_not_author_approved"
+  }
+}

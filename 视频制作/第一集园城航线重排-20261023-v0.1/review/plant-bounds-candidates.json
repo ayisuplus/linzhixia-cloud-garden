@@ -1,0 +1,1822 @@
+[
+  {
+    "plant": "Replan 00 compound 00 court pine flat needle mass",
+    "wall": "Replan 00 compound 00 east wing wall",
+    "overlap": [
+      0.5799560546875,
+      0.3900146484375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 00 court pine flat needle mass.001",
+    "wall": "Replan 00 compound 00 east wing wall",
+    "overlap": [
+      1.419921875,
+      0.7939453125,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 00 court pine flat needle mass.002",
+    "wall": "Replan 00 compound 00 east wing wall",
+    "overlap": [
+      2.2598876953125,
+      0.8265380859375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 00 court rock weathered garden stone.002",
+    "wall": "Replan 00 compound 00 east wing wall",
+    "overlap": [
+      0.974365234375,
+      0.9859619140625,
+      1.3210258483886719
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 02 court pine flat needle mass.004",
+    "wall": "Replan 00 compound 02 east wing wall",
+    "overlap": [
+      0.240478515625,
+      0.21923828125,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 02 court pine flat needle mass.005",
+    "wall": "Replan 00 compound 02 east wing wall",
+    "overlap": [
+      1.0804443359375,
+      0.2518310546875,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 02 court rock weathered garden stone.001",
+    "wall": "Replan 00 compound 02 east wing wall",
+    "overlap": [
+      0.5941162109375,
+      0.5792236328125,
+      2.9097557067871094
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 02 court rock weathered garden stone.002",
+    "wall": "Replan 00 compound 02 east wing wall",
+    "overlap": [
+      1.4053955078125,
+      1.0274658203125,
+      1.3043289184570312
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 03 court pine flat needle mass.001",
+    "wall": "Replan 00 compound 03 east wing wall",
+    "overlap": [
+      0.2999267578125,
+      0.10394287109375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 03 court pine flat needle mass.002",
+    "wall": "Replan 00 compound 03 east wing wall",
+    "overlap": [
+      1.139892578125,
+      0.136474609375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 05 court pine flat needle mass.004",
+    "wall": "Replan 00 compound 05 east wing wall",
+    "overlap": [
+      0.240478515625,
+      0.21923828125,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 05 court pine flat needle mass.005",
+    "wall": "Replan 00 compound 05 east wing wall",
+    "overlap": [
+      1.08056640625,
+      0.2518310546875,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 05 court rock weathered garden stone.001",
+    "wall": "Replan 00 compound 05 east wing wall",
+    "overlap": [
+      0.5966796875,
+      0.5828857421875,
+      2.9286575317382812
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 05 court rock weathered garden stone.002",
+    "wall": "Replan 00 compound 05 east wing wall",
+    "overlap": [
+      1.43798828125,
+      0.904296875,
+      1.3099746704101562
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 06 court pine flat needle mass.001",
+    "wall": "Replan 00 compound 06 east wing wall",
+    "overlap": [
+      0.2999267578125,
+      0.79388427734375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 06 court pine flat needle mass.002",
+    "wall": "Replan 00 compound 06 east wing wall",
+    "overlap": [
+      1.139892578125,
+      0.82647705078125,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 08 court pine flat needle mass.001",
+    "wall": "Replan 00 compound 08 east wing wall",
+    "overlap": [
+      0.300048828125,
+      0.7939453125,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 08 court pine flat needle mass.002",
+    "wall": "Replan 00 compound 08 east wing wall",
+    "overlap": [
+      1.1400146484375,
+      0.8265380859375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 09 court pine flat needle mass.001",
+    "wall": "Replan 00 compound 09 east wing wall",
+    "overlap": [
+      1.419921875,
+      0.1038818359375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 09 court pine flat needle mass.002",
+    "wall": "Replan 00 compound 09 east wing wall",
+    "overlap": [
+      2.260009765625,
+      0.136474609375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 09 court rock weathered garden stone.002",
+    "wall": "Replan 00 compound 09 east wing wall",
+    "overlap": [
+      0.8726806640625,
+      0.99755859375,
+      1.3174781799316406
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 11 court pine flat needle mass.001",
+    "wall": "Replan 00 compound 11 east wing wall",
+    "overlap": [
+      2.5399169921875,
+      0.10394287109375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 11 court pine flat needle mass.002",
+    "wall": "Replan 00 compound 11 east wing wall",
+    "overlap": [
+      2.639892578125,
+      0.136474609375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 11 court pine flat needle mass.004",
+    "wall": "Replan 00 compound 11 east wing wall",
+    "overlap": [
+      0.240478515625,
+      0.9093017578125,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 11 court pine flat needle mass.005",
+    "wall": "Replan 00 compound 11 east wing wall",
+    "overlap": [
+      1.08056640625,
+      0.94183349609375,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 11 court rock weathered garden stone.001",
+    "wall": "Replan 00 compound 11 east wing wall",
+    "overlap": [
+      0.6722412109375,
+      1.0250244140625,
+      2.868793487548828
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 11 court rock weathered garden stone.002",
+    "wall": "Replan 00 compound 11 east wing wall",
+    "overlap": [
+      1.548828125,
+      1.02764892578125,
+      1.2507400512695312
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 11 court rock weathered garden stone.003",
+    "wall": "Replan 00 compound 11 east wing wall",
+    "overlap": [
+      1.0335693359375,
+      1.013671875,
+      0.6481361389160156
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 12 court rock weathered garden stone.002",
+    "wall": "Replan 00 compound 12 east wing wall",
+    "overlap": [
+      0.8936767578125,
+      1.0238037109375,
+      1.3170280456542969
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 14 court rock weathered garden stone.002",
+    "wall": "Replan 00 compound 14 east wing wall",
+    "overlap": [
+      1.0098876953125,
+      1.0023193359375,
+      1.3087577819824219
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 15 court pine flat needle mass.001",
+    "wall": "Replan 00 compound 15 east wing wall",
+    "overlap": [
+      2.5399169921875,
+      0.1038818359375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 15 court pine flat needle mass.002",
+    "wall": "Replan 00 compound 15 east wing wall",
+    "overlap": [
+      2.639892578125,
+      0.136474609375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 15 court pine flat needle mass.004",
+    "wall": "Replan 00 compound 15 east wing wall",
+    "overlap": [
+      0.240478515625,
+      0.9093017578125,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 15 court pine flat needle mass.005",
+    "wall": "Replan 00 compound 15 east wing wall",
+    "overlap": [
+      1.0804443359375,
+      0.94189453125,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 15 court rock weathered garden stone.001",
+    "wall": "Replan 00 compound 15 east wing wall",
+    "overlap": [
+      0.656982421875,
+      1.005615234375,
+      2.921161651611328
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 15 court rock weathered garden stone.002",
+    "wall": "Replan 00 compound 15 east wing wall",
+    "overlap": [
+      1.56591796875,
+      1.0599365234375,
+      1.314300537109375
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 15 court rock weathered garden stone.003",
+    "wall": "Replan 00 compound 15 east wing wall",
+    "overlap": [
+      0.93310546875,
+      0.895751953125,
+      0.648834228515625
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 17 court pine flat needle mass.004",
+    "wall": "Replan 00 compound 17 east wing wall",
+    "overlap": [
+      0.240478515625,
+      0.21923828125,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 17 court pine flat needle mass.005",
+    "wall": "Replan 00 compound 17 east wing wall",
+    "overlap": [
+      1.08056640625,
+      0.2518310546875,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 17 court rock weathered garden stone.001",
+    "wall": "Replan 00 compound 17 east wing wall",
+    "overlap": [
+      0.6763916015625,
+      0.6236572265625,
+      2.9271163940429688
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 17 court rock weathered garden stone.002",
+    "wall": "Replan 00 compound 17 east wing wall",
+    "overlap": [
+      1.65869140625,
+      0.982421875,
+      1.3178329467773438
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 20 court rock weathered garden stone.002",
+    "wall": "Replan 00 compound 20 east wing wall",
+    "overlap": [
+      0.8988037109375,
+      0.9632568359375,
+      1.31109619140625
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 21 court pine flat needle mass.004",
+    "wall": "Replan 00 compound 21 east wing wall",
+    "overlap": [
+      0.240478515625,
+      0.21923828125,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 21 court pine flat needle mass.005",
+    "wall": "Replan 00 compound 21 east wing wall",
+    "overlap": [
+      1.08056640625,
+      0.2518310546875,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 21 court rock weathered garden stone.001",
+    "wall": "Replan 00 compound 21 east wing wall",
+    "overlap": [
+      0.5797119140625,
+      0.544921875,
+      2.826416015625
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 21 court rock weathered garden stone.002",
+    "wall": "Replan 00 compound 21 east wing wall",
+    "overlap": [
+      1.4674072265625,
+      0.97149658203125,
+      1.3090248107910156
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 00 compound 23 court pine flat needle mass",
+    "wall": "Replan 00 compound 23 east wing wall",
+    "overlap": [
+      0.5799560546875,
+      0.3900146484375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 23 court pine flat needle mass.001",
+    "wall": "Replan 00 compound 23 east wing wall",
+    "overlap": [
+      1.419921875,
+      0.7939453125,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 23 court pine flat needle mass.002",
+    "wall": "Replan 00 compound 23 east wing wall",
+    "overlap": [
+      2.2598876953125,
+      0.82647705078125,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 00 compound 23 court rock weathered garden stone.002",
+    "wall": "Replan 00 compound 23 east wing wall",
+    "overlap": [
+      0.9501953125,
+      0.9931640625,
+      1.3013877868652344
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 01 compound 00 court rock weathered garden stone.002",
+    "wall": "Replan 01 compound 00 east wing wall",
+    "overlap": [
+      0.8515625,
+      0.98846435546875,
+      1.3169174194335938
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 00 court pine flat needle mass.004",
+    "wall": "Replan 02 compound 00 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      0.21929931640625,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 00 court pine flat needle mass.005",
+    "wall": "Replan 02 compound 00 east wing wall",
+    "overlap": [
+      1.08056640625,
+      0.25189208984375,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 00 court rock weathered garden stone.001",
+    "wall": "Replan 02 compound 00 east wing wall",
+    "overlap": [
+      0.5799560546875,
+      0.53094482421875,
+      2.856670379638672
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 00 court rock weathered garden stone.002",
+    "wall": "Replan 02 compound 00 east wing wall",
+    "overlap": [
+      1.6728515625,
+      0.94293212890625,
+      1.3026657104492188
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 02 court pine flat needle mass",
+    "wall": "Replan 02 compound 02 east wing wall",
+    "overlap": [
+      1.70001220703125,
+      0.3900146484375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 02 court pine flat needle mass.001",
+    "wall": "Replan 02 compound 02 east wing wall",
+    "overlap": [
+      2.5400390625,
+      0.79388427734375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 02 court pine flat needle mass.002",
+    "wall": "Replan 02 compound 02 east wing wall",
+    "overlap": [
+      2.6400146484375,
+      0.82647705078125,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 02 court pine layered branch.001",
+    "wall": "Replan 02 compound 02 east wing wall",
+    "overlap": [
+      0.42529296875,
+      0.1796875,
+      1.2539138793945312
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 02 court pine flat needle mass.004",
+    "wall": "Replan 02 compound 02 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      1.5992431640625,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 02 court pine flat needle mass.005",
+    "wall": "Replan 02 compound 02 east wing wall",
+    "overlap": [
+      1.08056640625,
+      1.6318359375,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 02 court rock weathered garden stone.001",
+    "wall": "Replan 02 compound 02 east wing wall",
+    "overlap": [
+      0.58209228515625,
+      0.9803466796875,
+      2.9186973571777344
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 02 court rock weathered garden stone.002",
+    "wall": "Replan 02 compound 02 east wing wall",
+    "overlap": [
+      1.6524658203125,
+      1.01055908203125,
+      1.244232177734375
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 02 court rock weathered garden stone.003",
+    "wall": "Replan 02 compound 02 east wing wall",
+    "overlap": [
+      0.929931640625,
+      0.98956298828125,
+      0.6602096557617188
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 03 court pine flat needle mass",
+    "wall": "Replan 02 compound 03 east wing wall",
+    "overlap": [
+      1.70001220703125,
+      0.3900146484375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 03 court pine flat needle mass.001",
+    "wall": "Replan 02 compound 03 east wing wall",
+    "overlap": [
+      2.5400390625,
+      0.7939453125,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 03 court pine flat needle mass.002",
+    "wall": "Replan 02 compound 03 east wing wall",
+    "overlap": [
+      2.6400146484375,
+      0.82647705078125,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 03 court pine layered branch.001",
+    "wall": "Replan 02 compound 03 east wing wall",
+    "overlap": [
+      0.42523193359375,
+      0.1796875,
+      1.2539138793945312
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 03 court pine flat needle mass.004",
+    "wall": "Replan 02 compound 03 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      1.59930419921875,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 03 court pine flat needle mass.005",
+    "wall": "Replan 02 compound 03 east wing wall",
+    "overlap": [
+      1.08056640625,
+      1.6318359375,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 03 court rock weathered garden stone.001",
+    "wall": "Replan 02 compound 03 east wing wall",
+    "overlap": [
+      0.62213134765625,
+      1.06231689453125,
+      2.893444061279297
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 03 court rock weathered garden stone.002",
+    "wall": "Replan 02 compound 03 east wing wall",
+    "overlap": [
+      1.46673583984375,
+      0.96307373046875,
+      1.2999000549316406
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 03 court rock weathered garden stone.003",
+    "wall": "Replan 02 compound 03 east wing wall",
+    "overlap": [
+      0.9185791015625,
+      1.04449462890625,
+      0.633941650390625
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 05 court pine flat needle mass.004",
+    "wall": "Replan 02 compound 05 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      0.21929931640625,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 05 court pine flat needle mass.005",
+    "wall": "Replan 02 compound 05 east wing wall",
+    "overlap": [
+      1.08050537109375,
+      0.2518310546875,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 05 court rock weathered garden stone.001",
+    "wall": "Replan 02 compound 05 east wing wall",
+    "overlap": [
+      0.649658203125,
+      0.643798828125,
+      2.8176612854003906
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 05 court rock weathered garden stone.002",
+    "wall": "Replan 02 compound 05 east wing wall",
+    "overlap": [
+      1.60186767578125,
+      1.07647705078125,
+      1.2933311462402344
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 06 court pine flat needle mass.001",
+    "wall": "Replan 02 compound 06 east wing wall",
+    "overlap": [
+      0.29998779296875,
+      0.1038818359375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 06 court pine flat needle mass.002",
+    "wall": "Replan 02 compound 06 east wing wall",
+    "overlap": [
+      1.1400146484375,
+      0.136474609375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 08 court pine flat needle mass.001",
+    "wall": "Replan 02 compound 08 east wing wall",
+    "overlap": [
+      2.5400390625,
+      0.10394287109375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 08 court pine flat needle mass.002",
+    "wall": "Replan 02 compound 08 east wing wall",
+    "overlap": [
+      2.6400146484375,
+      0.136474609375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 08 court pine flat needle mass.004",
+    "wall": "Replan 02 compound 08 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      0.9093017578125,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 08 court pine flat needle mass.005",
+    "wall": "Replan 02 compound 08 east wing wall",
+    "overlap": [
+      1.08056640625,
+      0.94183349609375,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 08 court rock weathered garden stone.001",
+    "wall": "Replan 02 compound 08 east wing wall",
+    "overlap": [
+      0.61395263671875,
+      1.06671142578125,
+      2.863170623779297
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 08 court rock weathered garden stone.002",
+    "wall": "Replan 02 compound 08 east wing wall",
+    "overlap": [
+      1.5767822265625,
+      0.9195556640625,
+      1.3198661804199219
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 08 court rock weathered garden stone.003",
+    "wall": "Replan 02 compound 08 east wing wall",
+    "overlap": [
+      1.0269775390625,
+      0.947509765625,
+      0.6513862609863281
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 09 court pine flat needle mass.004",
+    "wall": "Replan 02 compound 09 east wing wall",
+    "overlap": [
+      0.2406005859375,
+      0.21929931640625,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 09 court pine flat needle mass.005",
+    "wall": "Replan 02 compound 09 east wing wall",
+    "overlap": [
+      1.08056640625,
+      0.2518310546875,
+      0.6899986267089844
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 02 compound 09 court rock weathered garden stone.001",
+    "wall": "Replan 02 compound 09 east wing wall",
+    "overlap": [
+      0.614990234375,
+      0.5887451171875,
+      2.878814697265625
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 02 compound 09 court rock weathered garden stone.002",
+    "wall": "Replan 02 compound 09 east wing wall",
+    "overlap": [
+      1.44696044921875,
+      0.97332763671875,
+      1.3191604614257812
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 03 compound 00 court pine flat needle mass.004",
+    "wall": "Replan 03 compound 00 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      0.21929931640625,
+      0.6900005340576172
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 00 court pine flat needle mass.005",
+    "wall": "Replan 03 compound 00 east wing wall",
+    "overlap": [
+      1.08056640625,
+      0.2518310546875,
+      0.6900005340576172
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 00 court rock weathered garden stone.001",
+    "wall": "Replan 03 compound 00 east wing wall",
+    "overlap": [
+      0.61639404296875,
+      0.561279296875,
+      2.7921104431152344
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 03 compound 00 court rock weathered garden stone.002",
+    "wall": "Replan 03 compound 00 east wing wall",
+    "overlap": [
+      1.61444091796875,
+      0.96453857421875,
+      1.281881332397461
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 03 compound 02 court pine flat needle mass.001",
+    "wall": "Replan 03 compound 02 east wing wall",
+    "overlap": [
+      0.29998779296875,
+      0.10394287109375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 02 court pine flat needle mass.002",
+    "wall": "Replan 03 compound 02 east wing wall",
+    "overlap": [
+      1.1400146484375,
+      0.136474609375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 03 court pine flat needle mass.001",
+    "wall": "Replan 03 compound 03 east wing wall",
+    "overlap": [
+      1.4200439453125,
+      0.10394287109375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 03 court pine flat needle mass.002",
+    "wall": "Replan 03 compound 03 east wing wall",
+    "overlap": [
+      2.260009765625,
+      0.136474609375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 03 court rock weathered garden stone.002",
+    "wall": "Replan 03 compound 03 east wing wall",
+    "overlap": [
+      0.86187744140625,
+      0.980224609375,
+      1.2402973175048828
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 03 compound 05 court pine flat needle mass.004",
+    "wall": "Replan 03 compound 05 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      0.21929931640625,
+      0.6900005340576172
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 05 court pine flat needle mass.005",
+    "wall": "Replan 03 compound 05 east wing wall",
+    "overlap": [
+      1.08050537109375,
+      0.2518310546875,
+      0.6900005340576172
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 05 court rock weathered garden stone.001",
+    "wall": "Replan 03 compound 05 east wing wall",
+    "overlap": [
+      0.69677734375,
+      0.51849365234375,
+      2.9221878051757812
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 03 compound 05 court rock weathered garden stone.002",
+    "wall": "Replan 03 compound 05 east wing wall",
+    "overlap": [
+      1.4259033203125,
+      0.9417724609375,
+      1.2899589538574219
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 03 compound 06 court pine flat needle mass",
+    "wall": "Replan 03 compound 06 east wing wall",
+    "overlap": [
+      0.58001708984375,
+      0.3900146484375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 06 court pine flat needle mass.001",
+    "wall": "Replan 03 compound 06 east wing wall",
+    "overlap": [
+      1.41998291015625,
+      0.79388427734375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 06 court pine flat needle mass.002",
+    "wall": "Replan 03 compound 06 east wing wall",
+    "overlap": [
+      2.260009765625,
+      0.82647705078125,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 06 court rock weathered garden stone.002",
+    "wall": "Replan 03 compound 06 east wing wall",
+    "overlap": [
+      0.99151611328125,
+      0.9173583984375,
+      1.276611328125
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 03 compound 08 court pine flat needle mass.001",
+    "wall": "Replan 03 compound 08 east wing wall",
+    "overlap": [
+      0.29998779296875,
+      0.1038818359375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 08 court pine flat needle mass.002",
+    "wall": "Replan 03 compound 08 east wing wall",
+    "overlap": [
+      1.1400146484375,
+      0.136474609375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 09 court pine flat needle mass.001",
+    "wall": "Replan 03 compound 09 east wing wall",
+    "overlap": [
+      2.53997802734375,
+      0.10394287109375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 09 court pine flat needle mass.002",
+    "wall": "Replan 03 compound 09 east wing wall",
+    "overlap": [
+      2.6400146484375,
+      0.136474609375,
+      0.9000015258789062
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 09 court pine flat needle mass.004",
+    "wall": "Replan 03 compound 09 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      0.9093017578125,
+      0.6900005340576172
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 09 court pine flat needle mass.005",
+    "wall": "Replan 03 compound 09 east wing wall",
+    "overlap": [
+      1.08050537109375,
+      0.94183349609375,
+      0.6900005340576172
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 03 compound 09 court rock weathered garden stone.001",
+    "wall": "Replan 03 compound 09 east wing wall",
+    "overlap": [
+      0.5994873046875,
+      1.02337646484375,
+      2.924863815307617
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 03 compound 09 court rock weathered garden stone.002",
+    "wall": "Replan 03 compound 09 east wing wall",
+    "overlap": [
+      1.6131591796875,
+      1.07196044921875,
+      1.3032646179199219
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 03 compound 09 court rock weathered garden stone.003",
+    "wall": "Replan 03 compound 09 east wing wall",
+    "overlap": [
+      0.96270751953125,
+      0.8912353515625,
+      0.6482334136962891
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 04 compound 03 court pine flat needle mass.004",
+    "wall": "Replan 04 compound 03 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      0.21929931640625,
+      0.6899995803833008
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 03 court pine flat needle mass.005",
+    "wall": "Replan 04 compound 03 east wing wall",
+    "overlap": [
+      1.08056640625,
+      0.2518310546875,
+      0.6899995803833008
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 03 court rock weathered garden stone.001",
+    "wall": "Replan 04 compound 03 east wing wall",
+    "overlap": [
+      0.610595703125,
+      0.63922119140625,
+      2.917520523071289
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 04 compound 03 court rock weathered garden stone.002",
+    "wall": "Replan 04 compound 03 east wing wall",
+    "overlap": [
+      1.46539306640625,
+      0.97088623046875,
+      1.277491569519043
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 04 compound 05 court pine flat needle mass.001",
+    "wall": "Replan 04 compound 05 east wing wall",
+    "overlap": [
+      2.5399169921875,
+      0.1038818359375,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 05 court pine flat needle mass.002",
+    "wall": "Replan 04 compound 05 east wing wall",
+    "overlap": [
+      2.63995361328125,
+      0.136474609375,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 05 court pine flat needle mass.004",
+    "wall": "Replan 04 compound 05 east wing wall",
+    "overlap": [
+      0.240478515625,
+      0.90924072265625,
+      0.6899995803833008
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 05 court pine flat needle mass.005",
+    "wall": "Replan 04 compound 05 east wing wall",
+    "overlap": [
+      1.0804443359375,
+      0.94183349609375,
+      0.6899995803833008
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 05 court rock weathered garden stone.001",
+    "wall": "Replan 04 compound 05 east wing wall",
+    "overlap": [
+      0.6358642578125,
+      1.00347900390625,
+      2.933420181274414
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 04 compound 05 court rock weathered garden stone.002",
+    "wall": "Replan 04 compound 05 east wing wall",
+    "overlap": [
+      1.54443359375,
+      0.9320068359375,
+      1.3089828491210938
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 04 compound 05 court rock weathered garden stone.003",
+    "wall": "Replan 04 compound 05 east wing wall",
+    "overlap": [
+      0.88525390625,
+      0.9398193359375,
+      0.6576633453369141
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 04 compound 06 court pine flat needle mass.001",
+    "wall": "Replan 04 compound 06 east wing wall",
+    "overlap": [
+      1.4200439453125,
+      0.103912353515625,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 06 court pine flat needle mass.002",
+    "wall": "Replan 04 compound 06 east wing wall",
+    "overlap": [
+      2.260009765625,
+      0.136474609375,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 06 court rock weathered garden stone.002",
+    "wall": "Replan 04 compound 06 east wing wall",
+    "overlap": [
+      0.8433837890625,
+      0.932647705078125,
+      1.31707763671875
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 04 compound 08 court pine flat needle mass.004",
+    "wall": "Replan 04 compound 08 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      0.21929931640625,
+      0.6899995803833008
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 08 court pine flat needle mass.005",
+    "wall": "Replan 04 compound 08 east wing wall",
+    "overlap": [
+      1.08056640625,
+      0.2518310546875,
+      0.6899995803833008
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 08 court rock weathered garden stone.001",
+    "wall": "Replan 04 compound 08 east wing wall",
+    "overlap": [
+      0.57049560546875,
+      0.505859375,
+      2.912358283996582
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 04 compound 08 court rock weathered garden stone.002",
+    "wall": "Replan 04 compound 08 east wing wall",
+    "overlap": [
+      1.54205322265625,
+      1.00927734375,
+      1.3122711181640625
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 04 compound 09 court rock weathered garden stone.002",
+    "wall": "Replan 04 compound 09 east wing wall",
+    "overlap": [
+      0.9495849609375,
+      0.955780029296875,
+      1.2976608276367188
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 04 compound 11 court pine flat needle mass.004",
+    "wall": "Replan 04 compound 11 east wing wall",
+    "overlap": [
+      0.240478515625,
+      0.219268798828125,
+      0.6899995803833008
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 11 court pine flat needle mass.005",
+    "wall": "Replan 04 compound 11 east wing wall",
+    "overlap": [
+      1.0804443359375,
+      0.2518310546875,
+      0.6899995803833008
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 11 court rock weathered garden stone.001",
+    "wall": "Replan 04 compound 11 east wing wall",
+    "overlap": [
+      0.6214599609375,
+      0.597076416015625,
+      2.9096879959106445
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 04 compound 11 court rock weathered garden stone.002",
+    "wall": "Replan 04 compound 11 east wing wall",
+    "overlap": [
+      1.5262451171875,
+      0.9808349609375,
+      1.2954378128051758
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 04 compound 12 court pine flat needle mass",
+    "wall": "Replan 04 compound 12 east wing wall",
+    "overlap": [
+      0.5799560546875,
+      0.3900146484375,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 12 court pine flat needle mass.001",
+    "wall": "Replan 04 compound 12 east wing wall",
+    "overlap": [
+      1.419921875,
+      0.79388427734375,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 12 court pine flat needle mass.002",
+    "wall": "Replan 04 compound 12 east wing wall",
+    "overlap": [
+      2.2598876953125,
+      0.82647705078125,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 04 compound 12 court rock weathered garden stone.002",
+    "wall": "Replan 04 compound 12 east wing wall",
+    "overlap": [
+      0.8175048828125,
+      0.96856689453125,
+      1.2941837310791016
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 05 compound 00 court pine flat needle mass",
+    "wall": "Replan 05 compound 00 east wing wall",
+    "overlap": [
+      0.58001708984375,
+      0.3900146484375,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 05 compound 00 court pine flat needle mass.001",
+    "wall": "Replan 05 compound 00 east wing wall",
+    "overlap": [
+      1.420013427734375,
+      0.793914794921875,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 05 compound 00 court pine flat needle mass.002",
+    "wall": "Replan 05 compound 00 east wing wall",
+    "overlap": [
+      2.260009765625,
+      0.82647705078125,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 05 compound 00 court rock weathered garden stone.002",
+    "wall": "Replan 05 compound 00 east wing wall",
+    "overlap": [
+      0.8392333984375,
+      1.001007080078125,
+      1.3144540786743164
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 05 compound 02 court pine flat needle mass",
+    "wall": "Replan 05 compound 02 east wing wall",
+    "overlap": [
+      0.579986572265625,
+      0.3900146484375,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 05 compound 02 court pine flat needle mass.001",
+    "wall": "Replan 05 compound 02 east wing wall",
+    "overlap": [
+      1.420013427734375,
+      0.793914794921875,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 05 compound 02 court pine flat needle mass.002",
+    "wall": "Replan 05 compound 02 east wing wall",
+    "overlap": [
+      2.260009765625,
+      0.82647705078125,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 05 compound 02 court rock weathered garden stone.002",
+    "wall": "Replan 05 compound 02 east wing wall",
+    "overlap": [
+      0.98455810546875,
+      0.99041748046875,
+      1.3145184516906738
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 06 compound 00 court pine flat needle mass.001",
+    "wall": "Replan 06 compound 00 east wing wall",
+    "overlap": [
+      0.29998779296875,
+      0.7939071655273438,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 00 court pine flat needle mass.002",
+    "wall": "Replan 06 compound 00 east wing wall",
+    "overlap": [
+      1.139984130859375,
+      0.8264617919921875,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 02 court pine flat needle mass.001",
+    "wall": "Replan 06 compound 02 east wing wall",
+    "overlap": [
+      0.29998779296875,
+      0.103912353515625,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 02 court pine flat needle mass.002",
+    "wall": "Replan 06 compound 02 east wing wall",
+    "overlap": [
+      1.1400146484375,
+      0.136474609375,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 03 court pine flat needle mass",
+    "wall": "Replan 06 compound 03 east wing wall",
+    "overlap": [
+      1.70001220703125,
+      0.3899993896484375,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 03 court pine flat needle mass.001",
+    "wall": "Replan 06 compound 03 east wing wall",
+    "overlap": [
+      2.53997802734375,
+      0.7938995361328125,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 03 court pine flat needle mass.002",
+    "wall": "Replan 06 compound 03 east wing wall",
+    "overlap": [
+      2.6400146484375,
+      0.8264617919921875,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 03 court pine layered branch.001",
+    "wall": "Replan 06 compound 03 east wing wall",
+    "overlap": [
+      0.42523193359375,
+      0.179718017578125,
+      1.2539129257202148
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 03 court pine flat needle mass.004",
+    "wall": "Replan 06 compound 03 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      1.5992584228515625,
+      0.690000057220459
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 03 court pine flat needle mass.005",
+    "wall": "Replan 06 compound 03 east wing wall",
+    "overlap": [
+      1.08050537109375,
+      1.6318206787109375,
+      0.690000057220459
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 03 court rock weathered garden stone.001",
+    "wall": "Replan 06 compound 03 east wing wall",
+    "overlap": [
+      0.56695556640625,
+      0.978607177734375,
+      2.9314284324645996
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 06 compound 03 court rock weathered garden stone.002",
+    "wall": "Replan 06 compound 03 east wing wall",
+    "overlap": [
+      1.56427001953125,
+      1.0653533935546875,
+      1.315122127532959
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 06 compound 03 court rock weathered garden stone.003",
+    "wall": "Replan 06 compound 03 east wing wall",
+    "overlap": [
+      0.87493896484375,
+      1.06524658203125,
+      0.6543240547180176
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 06 compound 05 court pine flat needle mass",
+    "wall": "Replan 06 compound 05 east wing wall",
+    "overlap": [
+      1.70001220703125,
+      0.3899993896484375,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 05 court pine flat needle mass.001",
+    "wall": "Replan 06 compound 05 east wing wall",
+    "overlap": [
+      2.53997802734375,
+      0.7939071655273438,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 05 court pine flat needle mass.002",
+    "wall": "Replan 06 compound 05 east wing wall",
+    "overlap": [
+      2.6400146484375,
+      0.8264617919921875,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 05 court pine layered branch.001",
+    "wall": "Replan 06 compound 05 east wing wall",
+    "overlap": [
+      0.42523193359375,
+      0.17971038818359375,
+      1.2539129257202148
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 05 court pine flat needle mass.004",
+    "wall": "Replan 06 compound 05 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      1.5992660522460938,
+      0.690000057220459
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 05 court pine flat needle mass.005",
+    "wall": "Replan 06 compound 05 east wing wall",
+    "overlap": [
+      1.08050537109375,
+      1.6318206787109375,
+      0.690000057220459
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 05 court rock weathered garden stone.001",
+    "wall": "Replan 06 compound 05 east wing wall",
+    "overlap": [
+      0.51898193359375,
+      1.0576019287109375,
+      2.9363083839416504
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 06 compound 05 court rock weathered garden stone.002",
+    "wall": "Replan 06 compound 05 east wing wall",
+    "overlap": [
+      1.68780517578125,
+      0.9832382202148438,
+      1.3080034255981445
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 06 compound 05 court rock weathered garden stone.003",
+    "wall": "Replan 06 compound 05 east wing wall",
+    "overlap": [
+      0.9493408203125,
+      0.9478912353515625,
+      0.6600127220153809
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 06 compound 06 court pine flat needle mass",
+    "wall": "Replan 06 compound 06 east wing wall",
+    "overlap": [
+      1.70001220703125,
+      0.3899993896484375,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 06 court pine flat needle mass.001",
+    "wall": "Replan 06 compound 06 east wing wall",
+    "overlap": [
+      2.53997802734375,
+      0.7938995361328125,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 06 court pine flat needle mass.002",
+    "wall": "Replan 06 compound 06 east wing wall",
+    "overlap": [
+      2.6400146484375,
+      0.8264617919921875,
+      0.8999996185302734
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 06 court pine layered branch.001",
+    "wall": "Replan 06 compound 06 east wing wall",
+    "overlap": [
+      0.42523193359375,
+      0.1797027587890625,
+      1.2539148330688477
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 06 court pine flat needle mass.004",
+    "wall": "Replan 06 compound 06 east wing wall",
+    "overlap": [
+      0.24053955078125,
+      1.5992584228515625,
+      0.690000057220459
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 06 court pine flat needle mass.005",
+    "wall": "Replan 06 compound 06 east wing wall",
+    "overlap": [
+      1.08056640625,
+      1.6318206787109375,
+      0.690000057220459
+    ],
+    "center_inside": false
+  },
+  {
+    "plant": "Replan 06 compound 06 court rock weathered garden stone.001",
+    "wall": "Replan 06 compound 06 east wing wall",
+    "overlap": [
+      0.657958984375,
+      0.967193603515625,
+      2.8669819831848145
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 06 compound 06 court rock weathered garden stone.002",
+    "wall": "Replan 06 compound 06 east wing wall",
+    "overlap": [
+      1.54315185546875,
+      0.9522705078125,
+      1.3117914199829102
+    ],
+    "center_inside": true
+  },
+  {
+    "plant": "Replan 06 compound 06 court rock weathered garden stone.003",
+    "wall": "Replan 06 compound 06 east wing wall",
+    "overlap": [
+      0.89105224609375,
+      0.9922943115234375,
+      0.6528172492980957
+    ],
+    "center_inside": true
+  }
+]

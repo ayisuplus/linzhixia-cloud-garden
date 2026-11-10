@@ -1,0 +1,5 @@
+*.log
+*.blend1
+frames/
+*.npz
+render-only*.blend

@@ -1,0 +1,7 @@
+frames/
+compact-probe/
+rejected-arrival/
+*.log
+*.blend1
+__pycache__/
+preview-check.jpg

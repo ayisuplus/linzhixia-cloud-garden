@@ -1,0 +1,17 @@
+{
+  "images": 7,
+  "shots": 16,
+  "budgetSeconds": 90,
+  "allHtmlLinksExist": true,
+  "allScriptAndManifestReferencesExist": true,
+  "all16AnchorsExist": true,
+  "timelineContinuous": true,
+  "imageSourcesAndHashesMatch": true,
+  "rejectedEarReferencesAbsent": true,
+  "videoProduced": false,
+  "limits": [
+    "新图候选待作者审阅",
+    "未处理原有枕头玉件等其他状态差异",
+    "发夹折面背侧仍受透视遮挡与生成重绘影响"
+  ]
+}

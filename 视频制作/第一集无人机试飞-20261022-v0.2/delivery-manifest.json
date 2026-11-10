@@ -1,0 +1,141 @@
+{
+  "artifact": "episode1-drone-rehearsal-v02",
+  "source_sha256": "47cf60dbfe3a4853461068291b668bf33b2b65e1cfec922e0ffc57b219c545bd",
+  "encoding": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.64001e",
+        "width": 640,
+        "height": 360,
+        "coded_width": 640,
+        "coded_height": 360,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 30,
+        "color_range": "tv",
+        "color_transfer": "iec61966-2-1",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 294912,
+        "duration": "24.000000",
+        "bit_rate": "520633",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "576",
+        "extradata_size": 51,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc62.28.100 libx264"
+        }
+      }
+    ],
+    "format": {
+      "filename": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集无人机试飞-20261022-v0.2\\drone-garden-flight-v02.mp4",
+      "nb_streams": 1,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "24.000000",
+      "size": "1569691",
+      "bit_rate": "523230",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.12.100"
+      }
+    }
+  },
+  "all_pngs_decodable": true,
+  "video_full_decode_pass": true,
+  "frames_sha256": "229aef029bf37644bcbdd8da769d7f4ee82f261bbbd0f41c8ec86cc8f9fe6f05",
+  "files": [
+    {
+      "path": "episode1-drone-rehearsal-v02.blend",
+      "bytes": 30889322,
+      "sha256": "43edbd110d05569433776d589899aa3458766d41dd258ad16f9f8eb5345bf1da"
+    },
+    {
+      "path": "drone-garden-flight-v02.mp4",
+      "bytes": 1569691,
+      "sha256": "07243f06fd91e0958dc897935b468b83242255f7a45e8a02b1598d9302a3976e"
+    },
+    {
+      "path": "cloud-audit.json",
+      "bytes": 1635,
+      "sha256": "379ba37b91333cbc9f1b52dc87917af836fa7d781262114fe62f10b555c6eba3"
+    },
+    {
+      "path": "flight-checks.json",
+      "bytes": 339413,
+      "sha256": "f842eedf2e5d67673c20f43e3c940cf7c2ff5437a94588c55f5b6e283462fd29"
+    },
+    {
+      "path": "flight-contact-sheet.jpg",
+      "bytes": 176119,
+      "sha256": "4c191d5e679d453b942f2eee647e062fe17e436e08cb9ab90f5d15b210ab3885"
+    },
+    {
+      "path": "cloud-before-after.jpg",
+      "bytes": 248351,
+      "sha256": "d4aac1cffeaa92ac31b0004ea9d5559d323fc910b87591d59aa9f0f7ad40ad0c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2389,
+      "sha256": "dfd81f1cd92d00a10e3ab48bb148d696502cdd795f5f512347778cee67b7d2d6"
+    },
+    {
+      "path": "review.html",
+      "bytes": 1906,
+      "sha256": "7fc353bd2ed1f3d0bbebf727e14e0b1fcc56a2f3fceafbb43dc999ee01c3abba"
+    },
+    {
+      "path": "review-notes.md",
+      "bytes": 995,
+      "sha256": "a2cc22e0efb47f6119c10e797d4a992e07805213258e8f308aed2255d74da8cc"
+    }
+  ]
+}

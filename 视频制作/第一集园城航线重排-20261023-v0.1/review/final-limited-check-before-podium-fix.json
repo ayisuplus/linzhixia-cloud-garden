@@ -1,0 +1,683 @@
+{
+  "sources": {
+    "garden-city-space-v01.blend": {
+      "sha256_at_open": "10175a5cba4d1894a772219a36556ef9ad1a69675f53f9276b7402e868c64945",
+      "remaining_bad_court_objects_visible": [],
+      "removed_grove_checks": [
+        {
+          "index": 26,
+          "visible_trunks": []
+        },
+        {
+          "index": 70,
+          "visible_trunks": []
+        },
+        {
+          "index": 71,
+          "visible_trunks": []
+        },
+        {
+          "index": 124,
+          "visible_trunks": []
+        },
+        {
+          "index": 153,
+          "visible_trunks": []
+        },
+        {
+          "index": 157,
+          "visible_trunks": []
+        }
+      ],
+      "podiums": [
+        {
+          "name": "Replan canal 0 stone retaining podium",
+          "bounds": [
+            -315.5,
+            -29.5,
+            -3.5999999046325684,
+            -292.5,
+            -10.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 1,
+          "corner_missing": [
+            [
+              -315.5,
+              -29.5
+            ]
+          ],
+          "ground_z_range": [
+            -3.500000476837158,
+            -3.4650001525878906
+          ]
+        },
+        {
+          "name": "Replan canal 1 stone retaining podium",
+          "bounds": [
+            -273.5,
+            -29.5,
+            -3.5999999046325684,
+            -246.5,
+            -10.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 0,
+          "corner_missing": [],
+          "ground_z_range": [
+            -3.500000476837158,
+            -3.4649996757507324
+          ]
+        },
+        {
+          "name": "Replan canal 2 stone retaining podium",
+          "bounds": [
+            -207.5,
+            -29.5,
+            -3.5999999046325684,
+            -180.5,
+            -10.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 0,
+          "corner_missing": [],
+          "ground_z_range": [
+            -3.465000629425049,
+            -3.4649996757507324
+          ]
+        },
+        {
+          "name": "Replan canal 3 stone retaining podium",
+          "bounds": [
+            -162.5,
+            -29.5,
+            -3.5999999046325684,
+            -137.5,
+            -10.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 0,
+          "corner_missing": [],
+          "ground_z_range": [
+            -3.465000629425049,
+            -3.4649996757507324
+          ]
+        },
+        {
+          "name": "Replan canal 4 stone retaining podium",
+          "bounds": [
+            -117.5,
+            -29.5,
+            -3.5999999046325684,
+            -94.5,
+            -10.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 0,
+          "corner_missing": [],
+          "ground_z_range": [
+            -3.465000629425049,
+            -3.4649996757507324
+          ]
+        },
+        {
+          "name": "Replan canal 5 stone retaining podium",
+          "bounds": [
+            -75.5,
+            -29.5,
+            -3.5999999046325684,
+            -48.5,
+            -10.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 12,
+          "corner_missing": [
+            [
+              -48.5,
+              -29.5
+            ]
+          ],
+          "ground_z_range": [
+            -3.5,
+            -3.4649996757507324
+          ]
+        },
+        {
+          "name": "Replan canal 6 stone retaining podium",
+          "bounds": [
+            -315.5,
+            38.5,
+            -3.5999999046325684,
+            -292.5,
+            57.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 0,
+          "corner_missing": [],
+          "ground_z_range": [
+            -3.5,
+            -3.4649996757507324
+          ]
+        },
+        {
+          "name": "Replan canal 7 stone retaining podium",
+          "bounds": [
+            -228.5,
+            38.5,
+            -3.5999999046325684,
+            -203.5,
+            57.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 0,
+          "corner_missing": [],
+          "ground_z_range": [
+            -3.465000629425049,
+            -3.4649996757507324
+          ]
+        }
+      ],
+      "podium_support_flags": [
+        {
+          "podium": "Replan canal 0 stone retaining podium",
+          "point": [
+            -315.5,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -68.75,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -65.375,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -62.0,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -58.625,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -58.625,
+            -27.125
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -55.25,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -55.25,
+            -27.125
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -51.875,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -51.875,
+            -27.125
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -48.5,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -48.5,
+            -27.125
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -48.5,
+            -24.75
+          ],
+          "reason": "outside_actual_bank"
+        }
+      ],
+      "sha256_at_end": "10175a5cba4d1894a772219a36556ef9ad1a69675f53f9276b7402e868c64945"
+    },
+    "garden-city-flight-58s-v04.blend": {
+      "sha256_at_open": "bef7c8734d15b8d5950a0ebcbfcf56b678c746420e49084f119f3a6cc9a230ca",
+      "remaining_bad_court_objects_visible": [],
+      "removed_grove_checks": [
+        {
+          "index": 26,
+          "visible_trunks": []
+        },
+        {
+          "index": 70,
+          "visible_trunks": []
+        },
+        {
+          "index": 71,
+          "visible_trunks": []
+        },
+        {
+          "index": 124,
+          "visible_trunks": []
+        },
+        {
+          "index": 153,
+          "visible_trunks": []
+        },
+        {
+          "index": 157,
+          "visible_trunks": []
+        }
+      ],
+      "podiums": [
+        {
+          "name": "Replan canal 0 stone retaining podium",
+          "bounds": [
+            -315.5,
+            -29.5,
+            -3.5999999046325684,
+            -292.5,
+            -10.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 1,
+          "corner_missing": [
+            [
+              -315.5,
+              -29.5
+            ]
+          ],
+          "ground_z_range": [
+            -3.500000476837158,
+            -3.4650001525878906
+          ]
+        },
+        {
+          "name": "Replan canal 1 stone retaining podium",
+          "bounds": [
+            -273.5,
+            -29.5,
+            -3.5999999046325684,
+            -246.5,
+            -10.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 0,
+          "corner_missing": [],
+          "ground_z_range": [
+            -3.500000476837158,
+            -3.4649996757507324
+          ]
+        },
+        {
+          "name": "Replan canal 2 stone retaining podium",
+          "bounds": [
+            -207.5,
+            -29.5,
+            -3.5999999046325684,
+            -180.5,
+            -10.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 0,
+          "corner_missing": [],
+          "ground_z_range": [
+            -3.465000629425049,
+            -3.4649996757507324
+          ]
+        },
+        {
+          "name": "Replan canal 3 stone retaining podium",
+          "bounds": [
+            -162.5,
+            -29.5,
+            -3.5999999046325684,
+            -137.5,
+            -10.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 0,
+          "corner_missing": [],
+          "ground_z_range": [
+            -3.465000629425049,
+            -3.4649996757507324
+          ]
+        },
+        {
+          "name": "Replan canal 4 stone retaining podium",
+          "bounds": [
+            -117.5,
+            -29.5,
+            -3.5999999046325684,
+            -94.5,
+            -10.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 0,
+          "corner_missing": [],
+          "ground_z_range": [
+            -3.465000629425049,
+            -3.4649996757507324
+          ]
+        },
+        {
+          "name": "Replan canal 5 stone retaining podium",
+          "bounds": [
+            -75.5,
+            -29.5,
+            -3.5999999046325684,
+            -48.5,
+            -10.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 12,
+          "corner_missing": [
+            [
+              -48.5,
+              -29.5
+            ]
+          ],
+          "ground_z_range": [
+            -3.5,
+            -3.4649996757507324
+          ]
+        },
+        {
+          "name": "Replan canal 6 stone retaining podium",
+          "bounds": [
+            -315.5,
+            38.5,
+            -3.5999999046325684,
+            -292.5,
+            57.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 0,
+          "corner_missing": [],
+          "ground_z_range": [
+            -3.5,
+            -3.4649996757507324
+          ]
+        },
+        {
+          "name": "Replan canal 7 stone retaining podium",
+          "bounds": [
+            -228.5,
+            38.5,
+            -3.5999999046325684,
+            -203.5,
+            57.5,
+            0.019999980926513672
+          ],
+          "missing_samples": 0,
+          "corner_missing": [],
+          "ground_z_range": [
+            -3.465000629425049,
+            -3.4649996757507324
+          ]
+        }
+      ],
+      "podium_support_flags": [
+        {
+          "podium": "Replan canal 0 stone retaining podium",
+          "point": [
+            -315.5,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -68.75,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -65.375,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -62.0,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -58.625,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -58.625,
+            -27.125
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -55.25,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -55.25,
+            -27.125
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -51.875,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -51.875,
+            -27.125
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -48.5,
+            -29.5
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -48.5,
+            -27.125
+          ],
+          "reason": "outside_actual_bank"
+        },
+        {
+          "podium": "Replan canal 5 stone retaining podium",
+          "point": [
+            -48.5,
+            -24.75
+          ],
+          "reason": "outside_actual_bank"
+        }
+      ],
+      "sha256_at_end": "bef7c8734d15b8d5950a0ebcbfcf56b678c746420e49084f119f3a6cc9a230ca"
+    }
+  },
+  "limits": [
+    "Ground support uses 9x9 downward samples per new podium, not exact continuous footprint coverage.",
+    "Camera paths tested at subframe 1/8 steps with a 0.1m offset cube; not an exact swept camera frustum.",
+    "Gate projection is geometric field of view; visual occlusion/readability still requires renders."
+  ],
+  "tail_camera": {
+    "frames": [
+      1321,
+      1392
+    ],
+    "substeps_per_frame": 8,
+    "rays": 11448,
+    "nearby_obstacles": 0,
+    "hits": [],
+    "end_position": [
+      10.800000190734863,
+      16.200000762939453,
+      2.5999999046325684
+    ]
+  },
+  "gate_approach_projections": [
+    {
+      "id": "gateA",
+      "tested_frames": 49,
+      "out_of_view": [],
+      "first": {
+        "frame": 194,
+        "time_s": 8.041666666666666,
+        "normal_distance_m": 63.18201446533203,
+        "cross_axis_distance_m": 0.9078070443427712,
+        "ndc_xy": [
+          0.039025649743529775,
+          0.035080189928962134
+        ],
+        "in_fov": true
+      },
+      "last": {
+        "frame": 242,
+        "time_s": 10.041666666666666,
+        "normal_distance_m": 5.310258865356445,
+        "cross_axis_distance_m": 0.34000398212847127,
+        "ndc_xy": [
+          -3.089463065523611e-05,
+          -0.13912219846620122
+        ],
+        "in_fov": true
+      },
+      "max_abs_ndc_x": 0.039025649743529775,
+      "max_abs_ndc_y": 0.13912219846620122
+    },
+    {
+      "id": "gateB",
+      "tested_frames": 49,
+      "out_of_view": [],
+      "first": {
+        "frame": 439,
+        "time_s": 18.25,
+        "normal_distance_m": 63.679622650146484,
+        "cross_axis_distance_m": 1.1852830596453807,
+        "ndc_xy": [
+          -0.053577419218946,
+          0.0563425038660571
+        ],
+        "in_fov": true
+      },
+      "last": {
+        "frame": 487,
+        "time_s": 20.25,
+        "normal_distance_m": 5.531805634498596,
+        "cross_axis_distance_m": 0.3400001578613692,
+        "ndc_xy": [
+          -2.0412448766579504e-05,
+          -0.1335486757868487
+        ],
+        "in_fov": true
+      },
+      "max_abs_ndc_x": 0.053577419218946,
+      "max_abs_ndc_y": 0.1335486757868487
+    },
+    {
+      "id": "gateC",
+      "tested_frames": 43,
+      "out_of_view": [],
+      "first": {
+        "frame": 976,
+        "time_s": 40.625,
+        "normal_distance_m": 38.1488037109375,
+        "cross_axis_distance_m": 2.9100150054859375,
+        "ndc_xy": [
+          -0.3075564378678122,
+          0.0725526445387537
+        ],
+        "in_fov": true
+      },
+      "last": {
+        "frame": 1018,
+        "time_s": 42.375,
+        "normal_distance_m": 5.012664794921875,
+        "cross_axis_distance_m": 0.3400001494849101,
+        "ndc_xy": [
+          0.0,
+          -0.1473798440282736
+        ],
+        "in_fov": true
+      },
+      "max_abs_ndc_x": 0.3075564378678122,
+      "max_abs_ndc_y": 0.1473798440282736
+    }
+  ]
+}

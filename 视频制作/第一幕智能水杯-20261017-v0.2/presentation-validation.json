@@ -1,0 +1,21 @@
+{
+  "shots": 16,
+  "seconds": 90,
+  "correctedPrimaryImages": [
+    3,
+    5,
+    6,
+    7
+  ],
+  "missingCompleteFrames": [
+    10,
+    11,
+    14,
+    15
+  ],
+  "linksExist": true,
+  "textAssetMatches": true,
+  "newImagesGenerated": 0,
+  "browserRenderVerified": false,
+  "browserLimitation": "Browser tool blocks file URL; local files and HTML references verified"
+}

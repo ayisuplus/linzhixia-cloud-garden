@@ -1,0 +1,324 @@
+{
+  "source": "视频制作\\第一集云中园城-20261024-v0.4\\cloud-city-layered-58s-v06.blend",
+  "source_sha256": "171e9b615fea0990a125457cee0a614455923f93660ea65a653852148e2ee214",
+  "added_objects": [
+    "LANDSCAPE07 Main-cloud-stone",
+    "LANDSCAPE07 Rock shoulder reservoir",
+    "LANDSCAPE07 Shoulder spill channel",
+    "LANDSCAPE07 Spillway stone bed",
+    "LANDSCAPE07 Spillway edge",
+    "LANDSCAPE07 Spillway edge.001",
+    "LANDSCAPE07 High rock waterfall",
+    "LANDSCAPE07 Rockfall receiving runnel",
+    "LANDSCAPE07 Receiving rock bed",
+    "LANDSCAPE07 Receiving runnel stone bank",
+    "LANDSCAPE07 Receiving runnel stone bank.001",
+    "LANDSCAPE07 Waterfall foam",
+    "LANDSCAPE07 Waterfall foam.001",
+    "LANDSCAPE07 Waterfall foam.002",
+    "LANDSCAPE07 Waterfall foam.003",
+    "LANDSCAPE07 Waterfall foam.004",
+    "LANDSCAPE07 Waterfall foam.005",
+    "LANDSCAPE07 Waterfall foam.006",
+    "LANDSCAPE07 Waterfall foam.007",
+    "LANDSCAPE07 Waterfall foam.008",
+    "LANDSCAPE07 Waterfall foam.009",
+    "LANDSCAPE07 Waterfall foam.010",
+    "LANDSCAPE07 Waterfall foam.011",
+    "LANDSCAPE07 Waterfall foam.012",
+    "LANDSCAPE07 Waterfall foam.013",
+    "LANDSCAPE07 Waterfall foam.014",
+    "LANDSCAPE07 Waterfall foam.015",
+    "LANDSCAPE07 Waterfall foam.016",
+    "LANDSCAPE07 Waterfall foam.017",
+    "LANDSCAPE07 Upper rim to grotto walk",
+    "LANDSCAPE07 Cliff walk rail",
+    "LANDSCAPE07 Cliff walk post",
+    "LANDSCAPE07 Cliff walk post.001",
+    "LANDSCAPE07 Cliff walk post.002",
+    "LANDSCAPE07 Cliff walk post.003",
+    "LANDSCAPE07 Cliff walk post.004",
+    "LANDSCAPE07 Cliff walk post.005",
+    "LANDSCAPE07 Cliff walk post.006",
+    "LANDSCAPE07 Cliff walk post.007",
+    "LANDSCAPE07 Cliff walk post.008",
+    "LANDSCAPE07 Cliff walk post.009",
+    "LANDSCAPE07 Cliff walk post.010",
+    "LANDSCAPE07 Cliff walk post.011",
+    "LANDSCAPE07 Cliff walk post.012",
+    "LANDSCAPE07 Cliff walk post.013",
+    "LANDSCAPE07 Cliff walk post.014",
+    "LANDSCAPE07 Cliff walk post.015",
+    "LANDSCAPE07 Cliff walk post.016",
+    "LANDSCAPE07 Cliff walk post.017",
+    "LANDSCAPE07 Cliff walk post.018",
+    "LANDSCAPE07 Cliff walk post.019",
+    "LANDSCAPE07 Cliff walk post.020",
+    "LANDSCAPE07 Cliff walk post.021",
+    "LANDSCAPE07 Cliff walk post.022",
+    "LANDSCAPE07 Cliff walk post.023",
+    "LANDSCAPE07 Cliff walk post.024",
+    "LANDSCAPE07 Cliff walk post.025",
+    "LANDSCAPE07 Cliff walk post.026",
+    "LANDSCAPE07 Cliff walk post.027",
+    "LANDSCAPE07 Cliff walk post.028",
+    "LANDSCAPE07 Cliff walk post.029",
+    "LANDSCAPE07 Cliff walk post.030",
+    "LANDSCAPE07 Cliff walk post.031",
+    "LANDSCAPE07 Cliff walk post.032",
+    "LANDSCAPE07 Cliff walk post.033",
+    "LANDSCAPE07 Cliff walk post.034",
+    "LANDSCAPE07 Cliff walk post.035",
+    "LANDSCAPE07 Cliff walk post.036",
+    "LANDSCAPE07 Cliff walk post.037",
+    "LANDSCAPE07 Cliff walk post.038",
+    "LANDSCAPE07 Cliff walk post.039",
+    "LANDSCAPE07 Cliff walk post.040",
+    "LANDSCAPE07 Cliff walk post.041",
+    "LANDSCAPE07 Cliff walk post.042",
+    "LANDSCAPE07 Cliff walk post.043",
+    "LANDSCAPE07 Cliff walk post.044",
+    "LANDSCAPE07 Cliff walk post.045",
+    "LANDSCAPE07 Cliff walk post.046",
+    "LANDSCAPE07 Cliff walk post.047",
+    "LANDSCAPE07 Cliff walk post.048",
+    "LANDSCAPE07 Cliff walk post.049",
+    "LANDSCAPE07 Cliff walk post.050",
+    "LANDSCAPE07 Cliff walk post.051",
+    "LANDSCAPE07 Cliff walk post.052",
+    "LANDSCAPE07 Cliff walk post.053",
+    "LANDSCAPE07 Cliff walk post.054",
+    "LANDSCAPE07 Cliff walk post.055",
+    "LANDSCAPE07 Cliff walk post.056",
+    "LANDSCAPE07 Cliff walk post.057",
+    "LANDSCAPE07 Cliff walk post.058",
+    "LANDSCAPE07 Cliff walk rail.001",
+    "LANDSCAPE07 Cliff walk post.059",
+    "LANDSCAPE07 Cliff walk post.060",
+    "LANDSCAPE07 Cliff walk post.061",
+    "LANDSCAPE07 Cliff walk post.062",
+    "LANDSCAPE07 Cliff walk post.063",
+    "LANDSCAPE07 Cliff walk post.064",
+    "LANDSCAPE07 Cliff walk post.065",
+    "LANDSCAPE07 Cliff walk post.066",
+    "LANDSCAPE07 Cliff walk post.067",
+    "LANDSCAPE07 Cliff walk post.068",
+    "LANDSCAPE07 Cliff walk post.069",
+    "LANDSCAPE07 Cliff walk post.070",
+    "LANDSCAPE07 Cliff walk post.071",
+    "LANDSCAPE07 Cliff walk post.072",
+    "LANDSCAPE07 Cliff walk post.073",
+    "LANDSCAPE07 Cliff walk post.074",
+    "LANDSCAPE07 Cliff walk post.075",
+    "LANDSCAPE07 Cliff walk post.076",
+    "LANDSCAPE07 Cliff walk post.077",
+    "LANDSCAPE07 Cliff walk post.078",
+    "LANDSCAPE07 Cliff walk post.079",
+    "LANDSCAPE07 Cliff walk post.080",
+    "LANDSCAPE07 Cliff walk post.081",
+    "LANDSCAPE07 Cliff walk post.082",
+    "LANDSCAPE07 Cliff walk post.083",
+    "LANDSCAPE07 Cliff walk post.084",
+    "LANDSCAPE07 Cliff walk post.085",
+    "LANDSCAPE07 Cliff walk post.086",
+    "LANDSCAPE07 Cliff walk post.087",
+    "LANDSCAPE07 Cliff walk post.088",
+    "LANDSCAPE07 Cliff walk post.089",
+    "LANDSCAPE07 Cliff walk post.090",
+    "LANDSCAPE07 Cliff walk post.091",
+    "LANDSCAPE07 Cliff walk post.092",
+    "LANDSCAPE07 Cliff walk post.093",
+    "LANDSCAPE07 Cliff walk post.094",
+    "LANDSCAPE07 Cliff walk post.095",
+    "LANDSCAPE07 Cliff walk post.096",
+    "LANDSCAPE07 Cliff walk post.097",
+    "LANDSCAPE07 Cliff walk post.098",
+    "LANDSCAPE07 Cliff walk post.099",
+    "LANDSCAPE07 Cliff walk post.100",
+    "LANDSCAPE07 Cliff walk post.101",
+    "LANDSCAPE07 Cliff walk post.102",
+    "LANDSCAPE07 Cliff walk post.103",
+    "LANDSCAPE07 Cliff walk post.104",
+    "LANDSCAPE07 Cliff walk post.105",
+    "LANDSCAPE07 Cliff walk post.106",
+    "LANDSCAPE07 Cliff walk post.107",
+    "LANDSCAPE07 Cliff walk post.108",
+    "LANDSCAPE07 Cliff walk post.109",
+    "LANDSCAPE07 Cliff walk post.110",
+    "LANDSCAPE07 Cliff walk post.111",
+    "LANDSCAPE07 Cliff walk post.112",
+    "LANDSCAPE07 Cliff walk post.113",
+    "LANDSCAPE07 Cliff walk post.114",
+    "LANDSCAPE07 Cliff walk post.115",
+    "LANDSCAPE07 Cliff walk post.116",
+    "LANDSCAPE07 Cliff walk post.117",
+    "LANDSCAPE07 Cliff walk post.118",
+    "LANDSCAPE07 Cliff walk pier",
+    "LANDSCAPE07 Cliff walk pier.001",
+    "LANDSCAPE07 Cliff walk pier.002",
+    "LANDSCAPE07 Main mountain foot",
+    "LANDSCAPE07 Main mountain front foot",
+    "LANDSCAPE07 Main mountain rear saddle",
+    "LANDSCAPE07 High cloud ridge",
+    "LANDSCAPE07 High ridge receding"
+  ],
+  "existing_objects_modified": [],
+  "walk_points": [
+    [
+      -1016.0,
+      823.0,
+      45.29999923706055
+    ],
+    [
+      -1017.7579956054688,
+      852.00732421875,
+      45.29999923706055
+    ],
+    [
+      -1017.752197265625,
+      852.943115234375,
+      45.29999923706055
+    ],
+    [
+      -1017.6138916015625,
+      853.754150390625,
+      45.29999923706055
+    ],
+    [
+      -1017.3429565429688,
+      854.4403686523438,
+      45.29999923706055
+    ],
+    [
+      -1016.9395141601562,
+      855.0018310546875,
+      45.29999923706055
+    ],
+    [
+      -1016.4034423828125,
+      855.4385375976562,
+      45.29999923706055
+    ],
+    [
+      -1015.73486328125,
+      855.75048828125,
+      45.29999542236328
+    ],
+    [
+      -1014.9337158203125,
+      855.9376220703125,
+      45.29999923706055
+    ],
+    [
+      -1014.0,
+      856.0,
+      45.29999923706055
+    ],
+    [
+      -995.0,
+      856.0,
+      45.29999923706055
+    ],
+    [
+      -994.0625,
+      855.9375,
+      45.29999923706055
+    ],
+    [
+      -993.25,
+      855.75,
+      45.29999923706055
+    ],
+    [
+      -992.5625,
+      855.4375,
+      45.29999923706055
+    ],
+    [
+      -992.0,
+      855.0,
+      45.29999923706055
+    ],
+    [
+      -991.5625,
+      854.4375,
+      45.29999923706055
+    ],
+    [
+      -991.25,
+      853.75,
+      45.29999542236328
+    ],
+    [
+      -991.0625,
+      852.9375,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      852.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      816.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      815.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      814.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      813.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      812.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      811.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      810.0,
+      45.29999542236328
+    ],
+    [
+      -991.0,
+      809.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      808.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      790.0,
+      45.29999923706055
+    ]
+  ],
+  "water_chain": [
+    "Rock shoulder reservoir z68",
+    "High rock waterfall to z45",
+    "Receiving runnel into existing catchment basin0",
+    "Existing waterfall to catchment1 z23",
+    "Existing waterfall to catchment2 z0"
+  ],
+  "duration_s": 58,
+  "fps": 24,
+  "frames": 1392,
+  "scope": "Reference geometry and visible water continuity; not fluid simulation, final game asset or construction engineering"
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-15",
+  "target": {
+    "connectionId": "f617bd89-16e6-4e7b-8725-4b5116956896",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "场景设计-半园两岸-20261014.json"
+  },
+  "beforeNodes": 10,
+  "afterNodes": 12,
+  "reopened": true,
+  "readback": {
+    "canvasId": "场景设计-半园两岸-20261014.json",
+    "nodes": [
+      {
+        "id": "c6bed2ef-1e5d-42f8-99d0-8fe99b9eda09",
+        "label": "卧室02原场景合景｜纵向侧卧03·待审",
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏卧室-20261015-v0.2/卧室02合景-纵向侧卧候选03.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "2466065e-c397-4512-aaea-f42afe70f368",
+        "label": "卧室纠偏｜原房间与睡姿",
+        "outputs": {
+          "text": {
+            "dataType": "STRING",
+            "value": "2026-10-15 卧室纠偏｜待作者审看\n作者指出上一张人物躺向/姿态错误，且房间与原方案不同。确认遗漏的既有依据是半园卧室试稿-v0.1/知夏卧室-清晨-候选02.png：衣柜在窗左，书桌在窗右，窗下矮书架，右门通有顶廊与独立洗漱处。后续沿用这张底图，不以另画房间替代。\n本轮内置imagegen三次编辑：01恢复原房间但被子遮住身体走向；02局部改姿仍未充分生效；03从原空房底图重做，拨开被子，显示睡衣腰腿和朝前景床尾的屈腿方向。最新：知夏卧室-20261015-v0.2/卧室02合景-纵向侧卧候选03.png。\n03为姿势验证候选，并非定稿：身体与床的纵向关系更可读，但仍侧蜷，脚靠近床尾；服装印花、汤圆手脚和受压细节需复核，智能窗图标发生局部漂移。房间主体布局保持，不声称逐像素不变或动作已验证。\n三张均已保存，来源和SHA见image-provenance.json；实际提示词见prompt.txt、prompt-pose-fix.txt、prompt-pose-visible.txt。上一轮知夏卧室-20261015-v0.1保留为作者指出问题的历史稿，不能作为当前空间依据。"
+          }
+        },
+        "selected": false,
+        "truncated": []
+      }
+    ],
+    "hasMore": false,
+    "nextCursor": null
+  }
+}

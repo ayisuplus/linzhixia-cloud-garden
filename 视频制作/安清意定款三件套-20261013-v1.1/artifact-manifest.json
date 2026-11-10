@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-13",
+  "name": "安清意",
+  "previous_creative_name": "安萌萌",
+  "version": "v1.1",
+  "original_package": "视频制作/安萌萌定款三件套-20261013-v1.0",
+  "master_name_only_no_character_redesign": true,
+  "unchanged_files_hash_verified": [
+    "00-采用主图.png",
+    "01-四视图.png",
+    "独立视图/01_front-half.png",
+    "独立视图/02_facing-left.png",
+    "独立视图/03_back.png",
+    "独立视图/04_facing-right.png"
+  ],
+  "independent_crops_pixel_verified": true,
+  "edited_titles": {
+    "02-穿搭分解.png": "安清意 · 舞衣",
+    "03-妆造分解.png": "安清意 · 妆造"
+  },
+  "artifacts": [
+    {
+      "file": "00-采用主图.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "16c25910fed1e1b4b962621fe672c413ef5177ce943c8cb667f9f8e38191c263",
+      "operation": "byte-identical copy"
+    },
+    {
+      "file": "01-四视图.png",
+      "size": [
+        2076,
+        757
+      ],
+      "sha256": "1e83bb68a57856b594f1cf2d11a9b4f30095b16b98c05440547064c958664167",
+      "operation": "byte-identical copy"
+    },
+    {
+      "file": "02-穿搭分解.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "a1ae50b56b45de9dd7a013287e9b7456f0efcb2be3f60da414f843012e4f8462",
+      "operation": "image_gen title-text edit"
+    },
+    {
+      "file": "03-妆造分解.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "3397e7e05c42c28c1b8bae073f88328b936f8c147c5ae75d30182bd282e85a45",
+      "operation": "image_gen title-text edit"
+    },
+    {
+      "file": "独立视图/01_front-half.png",
+      "size": [
+        510,
+        757
+      ],
+      "sha256": "3d5cb9144bff710e624a5385fdfa9f17e579c8aacc4eb97469a509fb18eff954",
+      "operation": "byte-identical copy"
+    },
+    {
+      "file": "独立视图/02_facing-left.png",
+      "size": [
+        466,
+        757
+      ],
+      "sha256": "df0659fc5771704dd1924a15345e010212c3be9c19786941ca50a87a7490fc14",
+      "operation": "byte-identical copy"
+    },
+    {
+      "file": "独立视图/03_back.png",
+      "size": [
+        704,
+        757
+      ],
+      "sha256": "aa4d1af9f237ebb549c29a2a92f9bf0c077d6a7e67919f160b126f8abeed7475",
+      "operation": "byte-identical copy"
+    },
+    {
+      "file": "独立视图/04_facing-right.png",
+      "size": [
+        396,
+        757
+      ],
+      "sha256": "4f99120ba07fde011c9c34c0671f74caa316e8b4f6622df40ef02cc9031f9e3e",
+      "operation": "byte-identical copy"
+    }
+  ],
+  "generator": "Codex built-in image_gen",
+  "title_edit_prompts": [
+    "outfit-rename-prompt.txt",
+    "makeup-rename-prompt.txt"
+  ],
+  "visual_review": "New name legible; no evident appearance, clothing, palette or layout drift. Edited boards are not claimed pixel-identical outside title.",
+  "original_prompts_preserved_in_source_package": true,
+  "toonflow_status": "not_synced_transport_closed"
+}

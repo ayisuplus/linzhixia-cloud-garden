@@ -1,0 +1,289 @@
+{
+  "input_hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山水总图白模-20261024-v0.1\\landscape-masterplan-v08.blend": "c59a0b2db4093a17bdc11d8b4b9b6d4dbda0a41c348c358f3ca2af2fccce3206",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山水总图白模-20261024-v0.1\\layout-plan.json": "83dec79123aea5921328a2a8ab26f7cc8760592a729530ba295ab1132c087bea",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山水总图白模-20261024-v0.1\\local-geometry-fixes.json": "d1a2ce258528273922c08ddc4ee723b77fc428646c8c548bbe427a11ff684c0c"
+  },
+  "inputs_stable": true,
+  "trimmed_court_actual_top": [
+    {
+      "id": "West-neighbourhood-+1-00",
+      "actual_floor_vertices": 21514,
+      "sample_count": 14351,
+      "maximum_intrusion_m": -0.04674530029296875,
+      "worst": {
+        "xy": [
+          6.701738512612657,
+          160.86135540091414
+        ],
+        "local_uv": [
+          -14.5,
+          0.75
+        ],
+        "floor_top": 51.96489715576172,
+        "terrain_z": 51.91815185546875,
+        "intrusion_m": -0.04674530029296875
+      },
+      "examples_over_015m": [],
+      "intruding_local_bounds": null,
+      "existing_vertex_and_face_center_maximum_intrusion_m": -0.0400238037109375,
+      "existing_vertex_and_face_center_worst": {
+        "point": [
+          8.778509140014648,
+          160.06890869140625,
+          51.96488952636719
+        ],
+        "terrain_z": 51.92486572265625,
+        "intrusion_m": -0.0400238037109375
+      },
+      "room_floor_checks": [
+        {
+          "room": "West-neighbourhood-+1-00 / back hall",
+          "sample_count": 81,
+          "paving_missing": []
+        },
+        {
+          "room": "West-neighbourhood-+1-00 / left wing",
+          "sample_count": 81,
+          "paving_missing": []
+        },
+        {
+          "room": "West-neighbourhood-+1-00 / right wing",
+          "sample_count": 81,
+          "paving_missing": []
+        }
+      ]
+    },
+    {
+      "id": "Two-level-water-court",
+      "actual_floor_vertices": 32772,
+      "sample_count": 21913,
+      "maximum_intrusion_m": -0.06317138671875,
+      "worst": {
+        "xy": [
+          64.45417539288061,
+          -31.938083165350424
+        ],
+        "local_uv": [
+          -13.5,
+          18.0
+        ],
+        "floor_top": 41.6199951171875,
+        "terrain_z": 41.55682373046875,
+        "intrusion_m": -0.06317138671875
+      },
+      "examples_over_015m": [],
+      "intruding_local_bounds": null,
+      "existing_vertex_and_face_center_maximum_intrusion_m": -0.039981842041015625,
+      "existing_vertex_and_face_center_worst": {
+        "point": [
+          64.46269226074219,
+          -31.940004348754883,
+          41.619998931884766
+        ],
+        "terrain_z": 41.58001708984375,
+        "intrusion_m": -0.039981842041015625
+      },
+      "room_floor_checks": [
+        {
+          "room": "Two-level-water-court lower hall",
+          "sample_count": 81,
+          "paving_missing": []
+        },
+        {
+          "room": "Two-level-water-court / left wing",
+          "sample_count": 81,
+          "paving_missing": []
+        },
+        {
+          "room": "Two-level-water-court / right wing",
+          "sample_count": 81,
+          "paving_missing": []
+        }
+      ]
+    },
+    {
+      "id": "Lower-lane--1-02",
+      "actual_floor_vertices": 21499,
+      "sample_count": 14378,
+      "maximum_intrusion_m": -0.0995330810546875,
+      "worst": {
+        "xy": [
+          267.51442129311044,
+          -427.8270180552931
+        ],
+        "local_uv": [
+          13.75,
+          -1.75
+        ],
+        "floor_top": 23.699996948242188,
+        "terrain_z": 23.6004638671875,
+        "intrusion_m": -0.0995330810546875
+      },
+      "examples_over_015m": [],
+      "intruding_local_bounds": null,
+      "existing_vertex_and_face_center_maximum_intrusion_m": -0.061084747314453125,
+      "existing_vertex_and_face_center_worst": {
+        "point": [
+          267.54144287109375,
+          -427.8309631347656,
+          23.700000762939453
+        ],
+        "terrain_z": 23.638916015625,
+        "intrusion_m": -0.061084747314453125
+      },
+      "room_floor_checks": [
+        {
+          "room": "Lower-lane--1-02 / back hall",
+          "sample_count": 81,
+          "paving_missing": []
+        },
+        {
+          "room": "Lower-lane--1-02 / left wing",
+          "sample_count": 81,
+          "paving_missing": []
+        },
+        {
+          "room": "Lower-lane--1-02 / right wing",
+          "sample_count": 81,
+          "paving_missing": []
+        }
+      ]
+    }
+  ],
+  "fill_bottom_checks": [
+    {
+      "name": "Bank to slope connector 1 0.423 supported fill",
+      "sample_count": 3200,
+      "maximum_bottom_above_terrain_m": -0.230072021484375,
+      "worst": {
+        "point": [
+          -14.972248077392578,
+          181.86569213867188,
+          51.287750244140625
+        ],
+        "terrain_z": 51.517822265625,
+        "gap_m": -0.230072021484375,
+        "fill_segment": 10
+      },
+      "actual_saved_triangle_maximum_bottom_gap_m": -0.23004150390625,
+      "actual_saved_triangle_worst": {
+        "point": [
+          -14.972248077392578,
+          181.86569213867188,
+          51.28778076171875
+        ],
+        "terrain_z": 51.517822265625,
+        "gap_m": -0.23004150390625
+      }
+    },
+    {
+      "name": "Bank to slope connector 1 0.752 supported fill",
+      "sample_count": 3200,
+      "maximum_bottom_above_terrain_m": 0.033061981201171875,
+      "worst": {
+        "point": [
+          220.11459350585938,
+          -221.3411102294922,
+          40.85953903198242
+        ],
+        "terrain_z": 40.82647705078125,
+        "gap_m": 0.033061981201171875,
+        "fill_segment": 71
+      },
+      "actual_saved_triangle_maximum_bottom_gap_m": 0.032958984375,
+      "actual_saved_triangle_worst": {
+        "point": [
+          220.0225067138672,
+          -221.47500610351562,
+          40.84759521484375
+        ],
+        "terrain_z": 40.81463623046875,
+        "gap_m": 0.032958984375
+      }
+    },
+    {
+      "name": "Bank to slope connector -1 0.433 supported fill",
+      "sample_count": 3200,
+      "maximum_bottom_above_terrain_m": -0.1238250732421875,
+      "worst": {
+        "point": [
+          -62.37861633300781,
+          195.0867462158203,
+          50.65119934082031
+        ],
+        "terrain_z": 50.7750244140625,
+        "gap_m": -0.1238250732421875,
+        "fill_segment": 8
+      },
+      "actual_saved_triangle_maximum_bottom_gap_m": -0.12384033203125,
+      "actual_saved_triangle_worst": {
+        "point": [
+          -62.37861633300781,
+          195.0867462158203,
+          50.65118408203125
+        ],
+        "terrain_z": 50.7750244140625,
+        "gap_m": -0.12384033203125
+      }
+    },
+    {
+      "name": "Bank to slope connector -1 0.568 supported fill",
+      "sample_count": 3200,
+      "maximum_bottom_above_terrain_m": -0.19455718994140625,
+      "worst": {
+        "point": [
+          -140.91908264160156,
+          -96.58943939208984,
+          45.617027282714844
+        ],
+        "terrain_z": 45.81158447265625,
+        "gap_m": -0.19455718994140625,
+        "fill_segment": 60
+      },
+      "actual_saved_triangle_maximum_bottom_gap_m": -0.2034912109375,
+      "actual_saved_triangle_worst": {
+        "point": [
+          -158.51754760742188,
+          -107.71344757080078,
+          53.09295654296875
+        ],
+        "terrain_z": 53.29644775390625,
+        "gap_m": -0.2034912109375
+      }
+    },
+    {
+      "name": "Bank to slope connector -1 0.852 supported fill",
+      "sample_count": 3200,
+      "maximum_bottom_above_terrain_m": -0.10817718505859375,
+      "worst": {
+        "point": [
+          256.1739501953125,
+          -443.6759033203125,
+          28.007545471191406
+        ],
+        "terrain_z": 28.11572265625,
+        "gap_m": -0.10817718505859375,
+        "fill_segment": 75
+      },
+      "actual_saved_triangle_maximum_bottom_gap_m": -0.1951904296875,
+      "actual_saved_triangle_worst": {
+        "point": [
+          281.60540771484375,
+          -426.7483215332031,
+          22.59637451171875
+        ],
+        "terrain_z": 22.79156494140625,
+        "gap_m": -0.1951904296875
+      }
+    }
+  ],
+  "scope": "Final-06 targeted saved-geometry audit: three slope-fitted paving tops sampled on 0.25m grid plus all existing vertices/face centers; nine room floor footprints 9x9 points inset 5%; five connector-fill bottoms sampled against actual saved triangulation. Removed paving excluded.",
+  "limits": [
+    "Read-only CPU. No source modification, GPU, render or Git.",
+    "Discrete samples, not a mathematical continuous intersection proof. No repeat of unchanged complete-route/building audit.",
+    "Fill gaps reported as measured; whitebox local seam allowance does not certify engineering construction or final game collision geometry.",
+    "Gallery checked independently in independent-middle-detail-final-06.json; flight and continuous visual acceptance excluded."
+  ],
+  "paving_and_room_samples_passed": true
+}

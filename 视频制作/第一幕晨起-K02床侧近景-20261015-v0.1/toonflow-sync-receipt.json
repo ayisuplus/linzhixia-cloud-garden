@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-15",
+  "beforeNodes": 27,
+  "afterNodes": 29,
+  "reopened": true,
+  "textMatches": true,
+  "preexistingCanvasDirty": true,
+  "canvasExcludedFromCommit": true,
+  "readback": {
+    "canvasId": "场景设计-半园两岸-20261014.json",
+    "nodes": [
+      {
+        "id": "479903bd-0fd8-4279-9557-00c4f72c754b",
+        "label": "E01-A K02｜催醒前床侧近景01·待审",
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕晨起-K02床侧近景-20261015-v0.1/E01-A-K02-催醒前床侧近景01.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      },
+      {
+        "id": "04840f84-346b-46d4-907c-b85728d5648b",
+        "label": "K02｜机位与动作衔接",
+        "outputs": {
+          "text": {
+            "dataType": "STRING",
+            "value": "E01-A K02｜催醒前床侧中近景01（候选，待审）\n2026-10-15。内置imagegen一次生成。三输入：清晨卧室电影感01负责空间/光影/睡姿；当前睡衣主图负责人物身份与衣着；汤圆02负责外形。\n知夏侧卧抱汤圆闭眼，汤圆眼屏闭眼且无嘴。小软拳套已经伸出，停在枕边尚未触碰。对应K02起始状态候选，可衔接A001展开后与A003起始；不是已经完成催醒或抗议。\n目视：脸、手、汤圆和拳套连接关系可读，背景木床头、圆灯与柜窗延续旧空间语言。主要材质/服装色族保持，但光更暖，仍需前后镜匹配。耳饰偏蝴蝶结形，需统一；汤圆抱压与尺寸尚待比较。\n拳套底座落在床头板左侧正面，未严格实现侧边安装。轻戳目标、路径和伸展行程未验证。腿脚出框，本图不能证明全景床长方向或脚位置问题已解决。无三维相机匹配，手与脸无逐像素核对。\n图像1672×941，项目副本与源文件SHA256一致。\n图像：第一幕晨起-K02床侧近景-20261015-v0.1/E01-A-K02-催醒前床侧近景01.png\n实际完整提示词：同目录prompt.txt；来源与审看：provenance.json、README.md。\n本轮仅此静态帧，无声音/视频。画布原有未提交修改保留，新节点通过实时工具追加。"
+          }
+        },
+        "selected": false,
+        "truncated": []
+      }
+    ],
+    "hasMore": false,
+    "nextCursor": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "artifact": "episode1-floating-garden-v04",
+  "files": [
+    {
+      "path": "appearance-audit.json",
+      "bytes": 1948,
+      "sha256": "fe03b79af4a12a2e01789f39fb84c08a60a91a6f100bd23285ac8988ae2baf94"
+    },
+    {
+      "path": "compare-B1.jpg",
+      "bytes": 94232,
+      "sha256": "9fea91c03150919bec253af8a7cbf509924f378c0ca78ae6d39fc02bc0b708d5"
+    },
+    {
+      "path": "compare-C1.jpg",
+      "bytes": 98515,
+      "sha256": "852bfde6efd01db346f52ca3ac823a3abedf102e39ee30f08dde72ed921602b5"
+    },
+    {
+      "path": "compare-WATER.jpg",
+      "bytes": 103986,
+      "sha256": "0bcc9999847c8d1c0e70cf6800286812510d6baef8d81337a712a156a4696b49"
+    },
+    {
+      "path": "episode1-floating-garden-v04.blend",
+      "bytes": 30580616,
+      "sha256": "a03be2c7c570160e994a2ab1a6aebe3d24f8e85faad087117151f67f017f25d7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3442,
+      "sha256": "1c9ce600aa3dcc4a69878a315077160509c4288e8a926cbfee4c5081e5c2c7fd"
+    },
+    {
+      "path": "reveal-sequence.jpg",
+      "bytes": 94125,
+      "sha256": "f9d98b87a77e7cf899f5066f869acc8b90022b25baba81e8cac450c0aefa9e61"
+    },
+    {
+      "path": "review.html",
+      "bytes": 3656,
+      "sha256": "42b904af7a140787338ddee8a57dda0bc0b28cd798671a2f8ebff6132e7242da"
+    },
+    {
+      "path": "route-checks.json",
+      "bytes": 3164,
+      "sha256": "04227dbfefecc68e236f28bac6733f25ff3da763dee36a927550bc3999af7653"
+    },
+    {
+      "path": "route-layout.json",
+      "bytes": 54785,
+      "sha256": "759c0f1cfa9c72ec143d2b60dc6f52c6c39700bc60f93ae0809641ca41873e79"
+    },
+    {
+      "path": "V04-B0.png",
+      "bytes": 989508,
+      "sha256": "62ce87d1daa605254cbbcf5bdb77077ee71c741b66c9d890e7663377dfde9f6e"
+    },
+    {
+      "path": "V04-B1.png",
+      "bytes": 970194,
+      "sha256": "0309e5a9818133b6e76dc0a96deb58f061ae532645299789b360729d247a3760"
+    },
+    {
+      "path": "V04-BM.png",
+      "bytes": 983760,
+      "sha256": "d75d87d9ab484c410ddd321713c8da6f9a68bcb5e4065042838cb7caaea5d7a7"
+    },
+    {
+      "path": "V04-C1.png",
+      "bytes": 967910,
+      "sha256": "5f33021c51b54e7652637ff59ab318fcb5d9abd607777c92bf4f4a6cea774959"
+    },
+    {
+      "path": "V04-HOME.png",
+      "bytes": 1309355,
+      "sha256": "bfb788d02149a51c078ba174c32e51010dfdf55052ce5502c3b411d3721a15e8"
+    },
+    {
+      "path": "V04-SIDE.png",
+      "bytes": 892349,
+      "sha256": "110d9cbfc8856c0ec55579f4ff169d78ecc3649d627c65a004fa2af1ab12bb57"
+    },
+    {
+      "path": "V04-WATER.png",
+      "bytes": 1047663,
+      "sha256": "6072832fa9b8a98743f16c96cbb48663121525ce54fbcb658d22838390160fb8"
+    }
+  ],
+  "downstream_video_model_tested": false
+}

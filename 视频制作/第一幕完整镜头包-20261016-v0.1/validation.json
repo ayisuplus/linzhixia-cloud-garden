@@ -1,0 +1,94 @@
+{
+  "scope": "文件与静态内容检查，不是动态视频验收",
+  "imageCount": 8,
+  "images": [
+    {
+      "path": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一幕完整镜头包-20261016-v0.1\\01-家具到位全景.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "c78291e88b44d84da1550d7bf26d0e820c65651fb397bad1116b7e7fd6f9db15",
+      "matchesOriginal": true,
+      "promptExists": true
+    },
+    {
+      "path": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一幕完整镜头包-20261016-v0.1\\02-拖鞋到位.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "7bc4594125ff97269b33405652fde68e194a1926db9acb3e35af6d06ff0eb856",
+      "matchesOriginal": true,
+      "promptExists": true
+    },
+    {
+      "path": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一幕完整镜头包-20261016-v0.1\\03-衣柜询问.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "e75588ed61c6097d209478c986ccd0f62dab2488fe321ac4abc580ff0ec0df94",
+      "matchesOriginal": true,
+      "promptExists": true
+    },
+    {
+      "path": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一幕完整镜头包-20261016-v0.1\\04-杯托送水.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "60430cf2d11c5d2b835ee8ebcc9e0d4935f41563c13ba0e7f693fea6031a93e0",
+      "matchesOriginal": true,
+      "promptExists": true
+    },
+    {
+      "path": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一幕完整镜头包-20261016-v0.1\\05-今日无安排.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "6aa600cf21c70a2bf2e497a878b55df6945c7b4e8214756272ce0bfdf155eee8",
+      "matchesOriginal": true,
+      "promptExists": true
+    },
+    {
+      "path": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一幕完整镜头包-20261016-v0.1\\06-知夏喊停.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "01b6cfa6b1f88d77e7f39c7988cd3e40a3e385594b21d78894f9457ff99e3c4b",
+      "matchesOriginal": true,
+      "promptExists": true
+    },
+    {
+      "path": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一幕完整镜头包-20261016-v0.1\\07-抱回汤圆.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "d08acc766b0c925c1a16515e9234d79a5271a90d974228f4608d5c11a20bb15f",
+      "matchesOriginal": true,
+      "promptExists": true
+    },
+    {
+      "path": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一幕完整镜头包-20261016-v0.1\\08-闹钟伸手.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "bb74e453168d4e051c27aee24bed0166d47d3b089f59a3c4fab7b751e3e14845",
+      "matchesOriginal": true,
+      "promptExists": true
+    }
+  ],
+  "shotCount": 16,
+  "budgetSeconds": 90,
+  "allShotIDsUnique": true,
+  "missingReferences": [],
+  "videoProduced": false,
+  "htmlCardCount": 16,
+  "missingHTMLLinks": [],
+  "independentReview": "审查记录.md"
+}

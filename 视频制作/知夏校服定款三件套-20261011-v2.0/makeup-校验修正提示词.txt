@@ -1,0 +1,6 @@
+Correct only the following continuity errors on image1 MAKEUP board, using image2 as finalized identity/hairclip reference. Do NOT change main face, cheek shape, eyes, lips, makeup, large portrait, layout or lighting.
+1. In module03's left small portrait (nose points screen right, near-side gardenia), label it “右侧视”. In module03's right profile (nose points screen left, near-side top clip), label it “左侧视”. These are anatomical side labels, currently reversed. Keep head views themselves unchanged.
+2. In middle rear-head view, add the SAME single white gardenia to the RIGHT low bun (viewer-right in rear view), modest natural size, and show only a little of the slim LEFT crown barrette if naturally visible. No extra flower or clip.
+3. Module04's isolated clip currently looks like a broad arched headband with a huge rectangular screen. Replace it with the exact slender shallow curved strip seen ON THE MAIN PORTRAIT and image2: a slim narrow silver/ivory rounded bar with a short small pale-blue flush inset, gentle shallow curve, no broad band, no large rectangular screen. It must visibly match the worn tiny clip.
+4. Remove the decorative slogan at upper-right “清风拂过 少女如夏”. Keep title, numbered detail labels, footnote and all other board information.
+Everything else unchanged, especially all facial proportions and existing visible off-center small blouse frogs.

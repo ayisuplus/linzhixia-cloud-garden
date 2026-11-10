@@ -1,0 +1,25 @@
+{
+  "source": "视频制作\\第一集云中园城-20261024-v0.3\\cloud-city-color-58s-v05.blend",
+  "source_sha256": "123dc11944f768ec908bb2f65fcd88810b93afc025df6eefc6206052f39ae03c",
+  "changed_cloud_materials": [
+    "MOTHER CLOUD connected supporting cloud",
+    "ENCLOSING CLOUD with open courtyards"
+  ],
+  "scope": "two existing lower-cloud shaders; density reduced only, fixed world-coordinate relief and undulating density ceiling. Original geometry, palette, lighting, camera and carrier retained.",
+  "height_blend_m": [
+    -15,
+    75
+  ],
+  "noise_world_scale": [
+    0.016,
+    0.012,
+    0.032
+  ],
+  "density_factor_range": [
+    0,
+    1
+  ],
+  "frames": 1392,
+  "fps": 24,
+  "duration_s": 58
+}

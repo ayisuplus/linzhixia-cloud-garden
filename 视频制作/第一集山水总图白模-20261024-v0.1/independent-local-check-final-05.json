@@ -1,0 +1,709 @@
+{
+  "input_hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山水总图白模-20261024-v0.1\\landscape-masterplan-v08.blend": "523ec56d556796607ae0821f149e6f1728e9a5f6cd130e9bfbdf8a2badc6f608",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山水总图白模-20261024-v0.1\\layout-plan.json": "83dec79123aea5921328a2a8ab26f7cc8760592a729530ba295ab1132c087bea",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山水总图白模-20261024-v0.1\\local-geometry-fixes.json": "817f12ed9b235a71792b04cc2b67635b26307dbc501aa4128428e082a3acf2e5"
+  },
+  "inputs_stable": true,
+  "trimmed_court_actual_top": [
+    {
+      "id": "West-neighbourhood-+1-00",
+      "actual_floor_vertices": 10,
+      "sample_count": 14419,
+      "maximum_intrusion_m": 2.0141677856445312,
+      "worst": {
+        "xy": [
+          16.112245039885018,
+          155.14363147437098
+        ],
+        "local_uv": [
+          -15.0,
+          11.75
+        ],
+        "floor_top": 51.96489715576172,
+        "terrain_z": 53.97906494140625,
+        "intrusion_m": 2.0141677856445312
+      },
+      "examples_over_015m": [
+        {
+          "xy": [
+            5.52772503643565,
+            162.25210784393008
+          ],
+          "local_uv": [
+            -15.0,
+            -1.0
+          ],
+          "floor_top": 51.964881896972656,
+          "terrain_z": 52.16937255859375,
+          "intrusion_m": 0.20449066162109375
+        },
+        {
+          "xy": [
+            5.9428042522571936,
+            161.97334406473166
+          ],
+          "local_uv": [
+            -15.0,
+            -0.5
+          ],
+          "floor_top": 51.96489715576172,
+          "terrain_z": 52.3275146484375,
+          "intrusion_m": 0.36261749267578125
+        },
+        {
+          "xy": [
+            6.357883468078738,
+            161.69458028553328
+          ],
+          "local_uv": [
+            -15.0,
+            0.0
+          ],
+          "floor_top": 51.96490478515625,
+          "terrain_z": 52.48565673828125,
+          "intrusion_m": 0.520751953125
+        },
+        {
+          "xy": [
+            6.56542307598951,
+            161.55519839593407
+          ],
+          "local_uv": [
+            -15.0,
+            0.25
+          ],
+          "floor_top": 51.964881896972656,
+          "terrain_z": 52.564697265625,
+          "intrusion_m": 0.5998153686523438
+        },
+        {
+          "xy": [
+            6.772962683900282,
+            161.4158165063349
+          ],
+          "local_uv": [
+            -15.0,
+            0.5
+          ],
+          "floor_top": 51.96489715576172,
+          "terrain_z": 52.643798828125,
+          "intrusion_m": 0.6789016723632812
+        },
+        {
+          "xy": [
+            6.980502291811053,
+            161.27643461673568
+          ],
+          "local_uv": [
+            -15.0,
+            0.75
+          ],
+          "floor_top": 51.96489715576172,
+          "terrain_z": 52.72265625,
+          "intrusion_m": 0.7577590942382812
+        },
+        {
+          "xy": [
+            7.188041899721825,
+            161.13705272713648
+          ],
+          "local_uv": [
+            -15.0,
+            1.0
+          ],
+          "floor_top": 51.96489715576172,
+          "terrain_z": 52.8017578125,
+          "intrusion_m": 0.8368606567382812
+        },
+        {
+          "xy": [
+            7.395581507632597,
+            160.9976708375373
+          ],
+          "local_uv": [
+            -15.0,
+            1.25
+          ],
+          "floor_top": 51.964881896972656,
+          "terrain_z": 52.88079833984375,
+          "intrusion_m": 0.9159164428710938
+        },
+        {
+          "xy": [
+            7.603121115543369,
+            160.8582889479381
+          ],
+          "local_uv": [
+            -15.0,
+            1.5
+          ],
+          "floor_top": 51.96489715576172,
+          "terrain_z": 52.84033203125,
+          "intrusion_m": 0.8754348754882812
+        },
+        {
+          "xy": [
+            7.810660723454141,
+            160.71890705833889
+          ],
+          "local_uv": [
+            -15.0,
+            1.75
+          ],
+          "floor_top": 51.964881896972656,
+          "terrain_z": 52.6785888671875,
+          "intrusion_m": 0.7137069702148438
+        },
+        {
+          "xy": [
+            8.018200331364913,
+            160.57952516873968
+          ],
+          "local_uv": [
+            -15.0,
+            2.0
+          ],
+          "floor_top": 51.96489715576172,
+          "terrain_z": 52.51702880859375,
+          "intrusion_m": 0.5521316528320312
+        },
+        {
+          "xy": [
+            8.225739939275686,
+            160.4401432791405
+          ],
+          "local_uv": [
+            -15.0,
+            2.25
+          ],
+          "floor_top": 51.964881896972656,
+          "terrain_z": 52.3553466796875,
+          "intrusion_m": 0.39046478271484375
+        }
+      ],
+      "intruding_local_bounds": [
+        [
+          -15.0,
+          -1.0
+        ],
+        [
+          -14.0,
+          13.0
+        ]
+      ],
+      "suggested_corner_chamfer_leg_to_exclude_sampled_intrusions_m": 16.5,
+      "recommendation_limit": "Chamfer estimate only; must separately protect building footprints before trimming. A long edge intrusion should use a narrow edge trim rather than this large diagonal chamfer."
+    },
+    {
+      "id": "Two-level-water-court",
+      "actual_floor_vertices": 10,
+      "sample_count": 21793,
+      "maximum_intrusion_m": 3.4664306640625,
+      "worst": {
+        "xy": [
+          64.3427082155929,
+          -30.825619652066734
+        ],
+        "local_uv": [
+          -14.5,
+          18.5
+        ],
+        "floor_top": 41.6199951171875,
+        "terrain_z": 45.08642578125,
+        "intrusion_m": 3.4664306640625
+      },
+      "examples_over_015m": [
+        {
+          "xy": [
+            62.562545768379636,
+            -29.880356904714603
+          ],
+          "local_uv": [
+            -16.25,
+            17.5
+          ],
+          "floor_top": 41.62000274658203,
+          "terrain_z": 42.14837646484375,
+          "intrusion_m": 0.5283737182617188
+        },
+        {
+          "xy": [
+            62.69608555516555,
+            -30.09170288964257
+          ],
+          "local_uv": [
+            -16.0,
+            17.5
+          ],
+          "floor_top": 41.62000274658203,
+          "terrain_z": 41.8680419921875,
+          "intrusion_m": 0.24803924560546875
+        },
+        {
+          "xy": [
+            62.90743154009352,
+            -29.95816310285666
+          ],
+          "local_uv": [
+            -16.0,
+            17.75
+          ],
+          "floor_top": 41.6199951171875,
+          "terrain_z": 43.08636474609375,
+          "intrusion_m": 1.46636962890625
+        },
+        {
+          "xy": [
+            63.040971326879436,
+            -30.169509087784625
+          ],
+          "local_uv": [
+            -15.75,
+            17.75
+          ],
+          "floor_top": 41.6199951171875,
+          "terrain_z": 42.809814453125,
+          "intrusion_m": 1.1898193359375
+        },
+        {
+          "xy": [
+            63.2523173118074,
+            -30.035969300998712
+          ],
+          "local_uv": [
+            -15.75,
+            18.0
+          ],
+          "floor_top": 41.62000274658203,
+          "terrain_z": 44.02593994140625,
+          "intrusion_m": 2.4059371948242188
+        },
+        {
+          "xy": [
+            63.174511113665346,
+            -30.380855072712592
+          ],
+          "local_uv": [
+            -15.5,
+            17.75
+          ],
+          "floor_top": 41.6199951171875,
+          "terrain_z": 42.53546142578125,
+          "intrusion_m": 0.91546630859375
+        },
+        {
+          "xy": [
+            63.38585709859331,
+            -30.24731528592668
+          ],
+          "local_uv": [
+            -15.5,
+            18.0
+          ],
+          "floor_top": 41.6199951171875,
+          "terrain_z": 43.7515869140625,
+          "intrusion_m": 2.131591796875
+        },
+        {
+          "xy": [
+            63.59720308352128,
+            -30.113775499140765
+          ],
+          "local_uv": [
+            -15.5,
+            18.25
+          ],
+          "floor_top": 41.6199951171875,
+          "terrain_z": 44.9676513671875,
+          "intrusion_m": 3.34765625
+        },
+        {
+          "xy": [
+            63.30805090045126,
+            -30.592201057640565
+          ],
+          "local_uv": [
+            -15.25,
+            17.75
+          ],
+          "floor_top": 41.6199951171875,
+          "terrain_z": 42.2611083984375,
+          "intrusion_m": 0.64111328125
+        },
+        {
+          "xy": [
+            63.51939688537923,
+            -30.458661270854652
+          ],
+          "local_uv": [
+            -15.25,
+            18.0
+          ],
+          "floor_top": 41.61997985839844,
+          "terrain_z": 43.477294921875,
+          "intrusion_m": 1.8573150634765625
+        },
+        {
+          "xy": [
+            63.730742870307196,
+            -30.325121484068738
+          ],
+          "local_uv": [
+            -15.25,
+            18.25
+          ],
+          "floor_top": 41.6199951171875,
+          "terrain_z": 44.693359375,
+          "intrusion_m": 3.0733642578125
+        },
+        {
+          "xy": [
+            63.44159068723717,
+            -30.803547042568532
+          ],
+          "local_uv": [
+            -15.0,
+            17.75
+          ],
+          "floor_top": 41.6199951171875,
+          "terrain_z": 41.98675537109375,
+          "intrusion_m": 0.36676025390625
+        }
+      ],
+      "intruding_local_bounds": [
+        [
+          -16.25,
+          17.5
+        ],
+        [
+          -11.5,
+          18.5
+        ]
+      ],
+      "suggested_corner_chamfer_leg_to_exclude_sampled_intrusions_m": 7.5,
+      "recommendation_limit": "Chamfer estimate only; must separately protect building footprints before trimming. A long edge intrusion should use a narrow edge trim rather than this large diagonal chamfer."
+    },
+    {
+      "id": "Lower-lane--1-02",
+      "actual_floor_vertices": 10,
+      "sample_count": 14194,
+      "maximum_intrusion_m": 1.2765579223632812,
+      "worst": {
+        "xy": [
+          260.8481272469146,
+          -433.10650891044696
+        ],
+        "local_uv": [
+          14.0,
+          6.75
+        ],
+        "floor_top": 23.70000457763672,
+        "terrain_z": 24.9765625,
+        "intrusion_m": 1.2765579223632812
+      },
+      "examples_over_015m": [
+        {
+          "xy": [
+            260.1995164660045,
+            -432.65450884973103
+          ],
+          "local_uv": [
+            13.25,
+            7.0
+          ],
+          "floor_top": 23.70000457763672,
+          "terrain_z": 23.935791015625,
+          "intrusion_m": 0.23578643798828125
+        },
+        {
+          "xy": [
+            260.54936079051174,
+            -432.7055867178354
+          ],
+          "local_uv": [
+            13.5,
+            6.75
+          ],
+          "floor_top": 23.699996948242188,
+          "terrain_z": 24.053466796875,
+          "intrusion_m": 0.3534698486328125
+        },
+        {
+          "xy": [
+            260.34889969420595,
+            -432.8549699460368
+          ],
+          "local_uv": [
+            13.5,
+            7.0
+          ],
+          "floor_top": 23.699996948242188,
+          "terrain_z": 24.38336181640625,
+          "intrusion_m": 0.6833648681640625
+        },
+        {
+          "xy": [
+            260.14843859790017,
+            -433.00435317423825
+          ],
+          "local_uv": [
+            13.5,
+            7.25
+          ],
+          "floor_top": 23.699996948242188,
+          "terrain_z": 23.92181396484375,
+          "intrusion_m": 0.2218170166015625
+        },
+        {
+          "xy": [
+            260.89920511501896,
+            -432.75666458593975
+          ],
+          "local_uv": [
+            13.75,
+            6.5
+          ],
+          "floor_top": 23.699989318847656,
+          "terrain_z": 24.17095947265625,
+          "intrusion_m": 0.47097015380859375
+        },
+        {
+          "xy": [
+            260.69874401871317,
+            -432.9060478141412
+          ],
+          "local_uv": [
+            13.75,
+            6.75
+          ],
+          "floor_top": 23.699996948242188,
+          "terrain_z": 24.51495361328125,
+          "intrusion_m": 0.8149566650390625
+        },
+        {
+          "xy": [
+            260.4982829224074,
+            -433.0554310423426
+          ],
+          "local_uv": [
+            13.75,
+            7.0
+          ],
+          "floor_top": 23.70000457763672,
+          "terrain_z": 24.72735595703125,
+          "intrusion_m": 1.0273513793945312
+        },
+        {
+          "xy": [
+            260.2978218261016,
+            -433.20481427054403
+          ],
+          "local_uv": [
+            13.75,
+            7.25
+          ],
+          "floor_top": 23.699981689453125,
+          "terrain_z": 24.26580810546875,
+          "intrusion_m": 0.565826416015625
+        },
+        {
+          "xy": [
+            257.69182757412614,
+            -435.1467962371624
+          ],
+          "local_uv": [
+            13.75,
+            10.5
+          ],
+          "floor_top": 23.699989318847656,
+          "terrain_z": 23.96624755859375,
+          "intrusion_m": 0.26625823974609375
+        },
+        {
+          "xy": [
+            268.06472671392345,
+            -427.728712695196
+          ],
+          "local_uv": [
+            14.0,
+            -2.25
+          ],
+          "floor_top": 23.699996948242188,
+          "terrain_z": 23.90533447265625,
+          "intrusion_m": 0.2053375244140625
+        },
+        {
+          "xy": [
+            267.86426561761766,
+            -427.87809592339744
+          ],
+          "local_uv": [
+            14.0,
+            -2.0
+          ],
+          "floor_top": 23.699989318847656,
+          "terrain_z": 24.09820556640625,
+          "intrusion_m": 0.39821624755859375
+        },
+        {
+          "xy": [
+            261.24904943952623,
+            -432.80774245404416
+          ],
+          "local_uv": [
+            14.0,
+            6.25
+          ],
+          "floor_top": 23.699996948242188,
+          "terrain_z": 24.28863525390625,
+          "intrusion_m": 0.5886383056640625
+        }
+      ],
+      "intruding_local_bounds": [
+        [
+          13.25,
+          -2.25
+        ],
+        [
+          14.0,
+          10.75
+        ]
+      ],
+      "suggested_corner_chamfer_leg_to_exclude_sampled_intrusions_m": 18.75,
+      "recommendation_limit": "Chamfer estimate only; must separately protect building footprints before trimming. A long edge intrusion should use a narrow edge trim rather than this large diagonal chamfer."
+    }
+  ],
+  "fill_bottom_checks": [
+    {
+      "name": "Bank to slope connector 1 0.423 supported fill",
+      "sample_count": 3200,
+      "maximum_bottom_above_terrain_m": 0.019927978515625,
+      "worst": {
+        "point": [
+          -14.972248077392578,
+          181.86569213867188,
+          51.537750244140625
+        ],
+        "terrain_z": 51.517822265625,
+        "gap_m": 0.019927978515625,
+        "fill_segment": 10
+      },
+      "actual_saved_triangle_maximum_bottom_gap_m": 0.01995849609375,
+      "actual_saved_triangle_worst": {
+        "point": [
+          -14.972248077392578,
+          181.86569213867188,
+          51.53778076171875
+        ],
+        "terrain_z": 51.517822265625,
+        "gap_m": 0.01995849609375
+      }
+    },
+    {
+      "name": "Bank to slope connector 1 0.752 supported fill",
+      "sample_count": 3200,
+      "maximum_bottom_above_terrain_m": 0.0331878662109375,
+      "worst": {
+        "point": [
+          215.05020141601562,
+          -228.70526123046875,
+          40.21415710449219
+        ],
+        "terrain_z": 40.18096923828125,
+        "gap_m": 0.0331878662109375,
+        "fill_segment": 57
+      },
+      "actual_saved_triangle_maximum_bottom_gap_m": 0.033203125,
+      "actual_saved_triangle_worst": {
+        "point": [
+          215.05020141601562,
+          -228.70526123046875,
+          40.21417236328125
+        ],
+        "terrain_z": 40.18096923828125,
+        "gap_m": 0.033203125
+      }
+    },
+    {
+      "name": "Bank to slope connector -1 0.433 supported fill",
+      "sample_count": 3200,
+      "maximum_bottom_above_terrain_m": 0.0455780029296875,
+      "worst": {
+        "point": [
+          -108.99950408935547,
+          226.23648071289062,
+          65.85594177246094
+        ],
+        "terrain_z": 65.81036376953125,
+        "gap_m": 0.0455780029296875,
+        "fill_segment": 94
+      },
+      "actual_saved_triangle_maximum_bottom_gap_m": 0.045654296875,
+      "actual_saved_triangle_worst": {
+        "point": [
+          -108.99950408935547,
+          226.23648071289062,
+          65.85601806640625
+        ],
+        "terrain_z": 65.81036376953125,
+        "gap_m": 0.045654296875
+      }
+    },
+    {
+      "name": "Bank to slope connector -1 0.568 supported fill",
+      "sample_count": 3200,
+      "maximum_bottom_above_terrain_m": 0.05544281005859375,
+      "worst": {
+        "point": [
+          -140.91908264160156,
+          -96.58943939208984,
+          45.867027282714844
+        ],
+        "terrain_z": 45.81158447265625,
+        "gap_m": 0.05544281005859375,
+        "fill_segment": 60
+      },
+      "actual_saved_triangle_maximum_bottom_gap_m": 0.0465087890625,
+      "actual_saved_triangle_worst": {
+        "point": [
+          -158.51754760742188,
+          -107.71344757080078,
+          53.34295654296875
+        ],
+        "terrain_z": 53.29644775390625,
+        "gap_m": 0.0465087890625
+      }
+    },
+    {
+      "name": "Bank to slope connector -1 0.852 supported fill",
+      "sample_count": 3200,
+      "maximum_bottom_above_terrain_m": 0.14182281494140625,
+      "worst": {
+        "point": [
+          256.1739501953125,
+          -443.6759033203125,
+          28.257545471191406
+        ],
+        "terrain_z": 28.11572265625,
+        "gap_m": 0.14182281494140625,
+        "fill_segment": 75
+      },
+      "actual_saved_triangle_maximum_bottom_gap_m": 0.0548095703125,
+      "actual_saved_triangle_worst": {
+        "point": [
+          281.60540771484375,
+          -426.7483215332031,
+          22.84637451171875
+        ],
+        "terrain_z": 22.79156494140625,
+        "gap_m": 0.0548095703125
+      }
+    }
+  ],
+  "scope": "Only three trimmed actual terrace tops and five added connector fills. Court rays 0.25m grid, original removed corners excluded. Fill bottom interior samples 4x4 per segment with two diagonal alternatives; positive gap requires actual saved triangulation confirmation before calling unsupported.",
+  "limits": [
+    "No source modification, render/GPU or Git. Not a repeat of complete route/building checks.",
+    "0.15m terrace threshold is a review tolerance, not building standard. Suggested extra corner trim is geometric and must not remove building supports."
+  ]
+}

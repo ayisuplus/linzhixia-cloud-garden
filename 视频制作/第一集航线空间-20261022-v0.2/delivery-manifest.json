@@ -1,0 +1,86 @@
+{
+  "version": "v0.2",
+  "status": "Expanded delivery corridor; geometry checks passed; final art pending",
+  "files": [
+    {
+      "path": "episode1-delivery-corridor-v02.blend",
+      "bytes": 6718770,
+      "sha256": "16375e408f1f2dd551b8a1ac8ac3cefa792c9d13252d399e0acbf0bf59cea453"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4035,
+      "sha256": "9279251c3de164b6011a660614190ec809d6dcdd03f33a70cd180e07734893f2"
+    },
+    {
+      "path": "review.html",
+      "bytes": 3379,
+      "sha256": "30e8bda60b393c1878eb1d29c62df78e2519fd2512dfed11f7877ba43824588b"
+    },
+    {
+      "path": "route-checks.json",
+      "bytes": 1109,
+      "sha256": "5d3a92936fb3a8b32332e7ce846c1ebe812e594459c3dc5752da57e596f15df7"
+    },
+    {
+      "path": "route-layout.json",
+      "bytes": 65157,
+      "sha256": "6aa31993c96232650710ad831cdb2241e90c14610e107308a3239b258f6c40b7"
+    },
+    {
+      "path": "route-plan.svg",
+      "bytes": 30820,
+      "sha256": "c6884b4520f7d658b0f6bee7f8554ce5f83ca95d475fc665b4b25bc5ad0e4d7d"
+    },
+    {
+      "path": "route-sheet.jpg",
+      "bytes": 212607,
+      "sha256": "0a459230a676874f74a6c3684a53a5b538c6dde098e9f23b1efa940bac7020da"
+    },
+    {
+      "path": "V02-ARRIVE.png",
+      "bytes": 1227593,
+      "sha256": "21ae018a9f3ad760a9b377ce6e80ca1462c3c1c8c3d4a07a034f422087c047c9"
+    },
+    {
+      "path": "V02-BOUNDARY.png",
+      "bytes": 1009172,
+      "sha256": "be5fb372f07eed9b1fdeb1889e1ad544dbd1fec49b3015ac6c9e3f28074e0bf3"
+    },
+    {
+      "path": "V02-CANAL.png",
+      "bytes": 900308,
+      "sha256": "5dd59fd60b4166a94c7d8a0fe68460c3d9c813f1fae8b80a99d1a13ef36dded9"
+    },
+    {
+      "path": "V02-EDGE.png",
+      "bytes": 848114,
+      "sha256": "47a460845b94de9a3c67ab001523fe9f55cba69ec2578b13ecfb07111677396b"
+    },
+    {
+      "path": "V02-LOWER.png",
+      "bytes": 940607,
+      "sha256": "06befaa82c846c20b331c6d2ff44fd7a2fe8963ae43690e1c19def6b3f89158a"
+    },
+    {
+      "path": "V02-MIDDLE.png",
+      "bytes": 973073,
+      "sha256": "61a434de850af9afa787be3838d1c468fb021a30a76a3f5c719e444e12cf62d7"
+    },
+    {
+      "path": "V02-OV.png",
+      "bytes": 908996,
+      "sha256": "cc549729eaadbb58769e443cda4099ca2205553ff56a1a657de52d569ffbc8de"
+    },
+    {
+      "path": "V02-SCHOOL.png",
+      "bytes": 857250,
+      "sha256": "aafd4e93d70a1eef5d35141bcfb437a874efd1d31f7b76dfcf974480fc9df3bf"
+    },
+    {
+      "path": "V02-UPPER.png",
+      "bytes": 1003957,
+      "sha256": "45390c8d01aa598275e71d9c3eb07ef84cc2edc65c9ab6ff65f36ec699ed9213"
+    }
+  ]
+}

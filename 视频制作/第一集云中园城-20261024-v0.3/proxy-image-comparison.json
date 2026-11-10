@@ -1,0 +1,17 @@
+{
+  "scope": "same camera and settings, original editable scene vs render derivative; object-level palette bindings preserved",
+  "samples": [
+    {
+      "frame": 600,
+      "mean_absolute_channel_difference_0_255": 0.04188978909465021,
+      "maximum_channel_difference": 15.0,
+      "p99_difference": 1.0
+    },
+    {
+      "frame": 1177,
+      "mean_absolute_channel_difference_0_255": 0.05061921296296296,
+      "maximum_channel_difference": 8.0,
+      "p99_difference": 1.0
+    }
+  ]
+}

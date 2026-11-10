@@ -1,0 +1,6 @@
+{
+  "source_hash": "5c103598af0c6676ab52e809694f7cbb40955cea0368189cf4e9a86b4aa84b69",
+  "stable": true,
+  "building_ground_intrusions": [],
+  "method": "7x7 points strictly inside actual wall-box XY footprints, 5%-95% extent; terrain ray versus box base/top. Includes split two-level hall wall parts; no roof solid assumption."
+}

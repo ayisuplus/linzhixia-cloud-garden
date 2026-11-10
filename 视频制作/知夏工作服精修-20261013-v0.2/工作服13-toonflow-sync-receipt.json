@@ -1,0 +1,34 @@
+{
+  "target": {
+    "connectionId": "f617bd89-16e6-4e7b-8725-4b5116956896",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "人物设计.json"
+  },
+  "imageNode": "c21befea-ab76-4bf5-b683-fe9f0554c7d2",
+  "textNode": "b086c8ea-67be-4ed7-9e7e-95b15db2d697",
+  "promptMatches": true,
+  "image": {
+    "details": {
+      "canvasId": "人物设计.json",
+      "nodes": [
+        {
+          "id": "c21befea-ab76-4bf5-b683-fe9f0554c7d2",
+          "label": "知夏｜工作服13｜抽象泼墨·长袜与盘扣布靴·候选",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏工作服精修-20261013-v0.2/知夏-工作服13-抽象泼墨与盘扣布靴.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        }
+      ],
+      "hasMore": false,
+      "nextCursor": null
+    }
+  }
+}

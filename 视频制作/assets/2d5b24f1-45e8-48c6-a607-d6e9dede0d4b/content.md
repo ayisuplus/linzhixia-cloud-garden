@@ -1,0 +1,15 @@
+# 校服比例03｜短衫与高腰裙衔接
+状态：生成候选，待作者审阅。作者明确要求短衫缩短、裙腰提高并收合，消除上衣盖住裙腰形成的臃肿重叠。
+本版上衣下摆与高腰裙腰头在自然腰线衔接，不露肤；上裙段平顺，褶量向下展开。继承面容身形02的柔椭圆脸、清秀五官、略长腿部，保持右侧襟小盘扣、发饰、书包水杯及不对称鞋袜。
+这是作者明确授权的服装比例调整，优先于先前长短衫下摆的约束；未授权改成居中大盘扣。
+当前只更新全身优化稿。四视图、穿搭拆解、妆造拆分v1.1尚未同步该腰线、脸和腿部修改，不作新比例参考。无精确人体尺寸测量，提示词比例只是生成意图。
+来源：面容身形02全身图（唯一编辑输入），内置image_gen；没有程序修图。
+
+实际提示词：
+Edit the supplied character design portrait in a precisely localized way: the AUTHOR has identified that the long flared blouse overlaps the skirt and causes a bulky waist. Fix the GARMENT LENGTH AND WAIST JOIN as requested, not the character's body.
+Keep this exact refined face, entire headshot inset, hairstyle, longer leg proportions, posture, camera, background and all accessories. No face or body redesign.
+SHORTEN THE IVORY BLOUSE so its finished lower hem ends at the character's NATURAL WAIST, about the level of the current lowest blue frog closure. Remove the extra flared ivory fabric tail that currently hangs below that level and covers the top of the skirt. The blouse should softly follow the existing torso and end neatly without a peplum, balloon, or outward flare.
+RAISE THE BLUE SKIRT WAISTLINE to meet the shortened blouse hem edge-to-edge at the SAME natural waist. Show a simple tailored matching pale-blue waistband about 2–3cm visually, gently fitted to the existing waist, comfortable and proportionate, not a belt. The skirt begins directly under the blouse with NO visible overhanging blouse and NO bunched/tucked fabric. NO exposed midriff: edges meet cleanly and modestly with full coverage.
+The upper skirt from waist through upper hip should lie smooth, with pleat tops neatly controlled/stitched for a short distance before releasing into soft pleats below the upper hip. Avoid instant triangular balloon flare starting at waist. Preserve the overall skirt hem location just above the knees, the single ivory flower sprig on wearer's left front, same pale blue fabric, same established pleated skirt identity. Do not make a tight pencil skirt or change it to shorts.
+Preserve the asymmetric blouse side opening on anatomical RIGHT/viewer LEFT, blue collar and cuff binding and TINY blue frog closures. Do not add center buttons or a central vertical blue band. Keep the lowest tiny frog just above the new blouse hem if needed. Capsule terminal stays discreetly clipped to the wearer's right waist at the new waistline, same size, do not hang it on bare skin. Backpack, straps, smart cup, bracelet, cloud calf mark, single left below-knee gauze sock, cloth shoes and hairstyle stay identical.
+The result should look like a clean coordinated SHORT BLOUSE + HIGH-WAIST PLEATED SKIRT with a natural subtly defined waist and smooth front, without changing bust/hip anatomy or constricting the waist. Show the original full portrait canvas and intact head-to-foot main figure plus unchanged face inset. No text, no arrows, no annotation lines. Keep fine clean CG rendering.

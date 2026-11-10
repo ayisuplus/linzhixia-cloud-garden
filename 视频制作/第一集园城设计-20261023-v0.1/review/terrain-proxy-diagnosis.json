@@ -1,0 +1,240 @@
+{
+  "source": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集全程快飞-20261023-v0.2\\episode1-full-route-58s-v02.blend",
+  "objects": [
+    {
+      "name": "Ink distant terrain PROXY",
+      "location": [
+        -1411.0,
+        973.7364501953125,
+        47.013763427734375
+      ],
+      "bounds_min": [
+        -1415.156982421875,
+        968.9364624023438,
+        42.0
+      ],
+      "bounds_max": [
+        -1406.843017578125,
+        978.5364379882812,
+        52.02752685546875
+      ],
+      "physical": false,
+      "hide_render": false,
+      "collections": [
+        "E01_SCHOOL_GROUND"
+      ]
+    },
+    {
+      "name": "Ink distant terrain PROXY.001",
+      "location": [
+        -1405.699951171875,
+        971.0258178710938,
+        49.0037841796875
+      ],
+      "bounds_min": [
+        -1409.85693359375,
+        966.225830078125,
+        42.0
+      ],
+      "bounds_max": [
+        -1401.54296875,
+        975.8258056640625,
+        56.007568359375
+      ],
+      "physical": false,
+      "hide_render": false,
+      "collections": [
+        "E01_SCHOOL_GROUND"
+      ]
+    },
+    {
+      "name": "Ink distant terrain PROXY.002",
+      "location": [
+        -1400.4000244140625,
+        970.2838134765625,
+        49.88164520263672
+      ],
+      "bounds_min": [
+        -1404.5570068359375,
+        965.4838256835938,
+        42.000003814697266
+      ],
+      "bounds_max": [
+        -1396.2430419921875,
+        975.0838012695312,
+        57.76328659057617
+      ],
+      "physical": false,
+      "hide_render": false,
+      "collections": [
+        "E01_SCHOOL_GROUND"
+      ]
+    },
+    {
+      "name": "Ink distant terrain PROXY.003",
+      "location": [
+        -1395.0999755859375,
+        973.822021484375,
+        46.20867919921875
+      ],
+      "bounds_min": [
+        -1399.2569580078125,
+        969.0220336914062,
+        41.999996185302734
+      ],
+      "bounds_max": [
+        -1390.9429931640625,
+        978.6220092773438,
+        50.417362213134766
+      ],
+      "physical": false,
+      "hide_render": false,
+      "collections": [
+        "E01_SCHOOL_GROUND"
+      ]
+    },
+    {
+      "name": "Ink distant terrain PROXY.004",
+      "location": [
+        -1389.800048828125,
+        973.4169921875,
+        48.51368713378906
+      ],
+      "bounds_min": [
+        -1393.95703125,
+        968.6170043945312,
+        42.0
+      ],
+      "bounds_max": [
+        -1385.64306640625,
+        978.2169799804688,
+        55.027374267578125
+      ],
+      "physical": false,
+      "hide_render": false,
+      "collections": [
+        "E01_SCHOOL_GROUND"
+      ]
+    },
+    {
+      "name": "Ink distant terrain PROXY.005",
+      "location": [
+        -1384.5,
+        973.17724609375,
+        50.76866149902344
+      ],
+      "bounds_min": [
+        -1388.656982421875,
+        968.3772583007812,
+        42.0
+      ],
+      "bounds_max": [
+        -1380.343017578125,
+        977.9772338867188,
+        59.537322998046875
+      ],
+      "physical": false,
+      "hide_render": false,
+      "collections": [
+        "E01_SCHOOL_GROUND"
+      ]
+    },
+    {
+      "name": "Ink distant terrain PROXY.006",
+      "location": [
+        -1379.199951171875,
+        974.9337768554688,
+        48.04570388793945
+      ],
+      "bounds_min": [
+        -1383.35693359375,
+        970.1337890625,
+        42.0
+      ],
+      "bounds_max": [
+        -1375.04296875,
+        979.7337646484375,
+        54.091407775878906
+      ],
+      "physical": false,
+      "hide_render": false,
+      "collections": [
+        "E01_SCHOOL_GROUND"
+      ]
+    },
+    {
+      "name": "Ink distant terrain PROXY.007",
+      "location": [
+        -1373.9000244140625,
+        974.220703125,
+        49.931522369384766
+      ],
+      "bounds_min": [
+        -1378.0570068359375,
+        969.4207153320312,
+        42.0
+      ],
+      "bounds_max": [
+        -1369.7430419921875,
+        979.0206909179688,
+        57.86304473876953
+      ],
+      "physical": false,
+      "hide_render": false,
+      "collections": [
+        "E01_SCHOOL_GROUND"
+      ]
+    },
+    {
+      "name": "Ink distant terrain PROXY.008",
+      "location": [
+        -1368.5999755859375,
+        974.8587646484375,
+        46.143959045410156
+      ],
+      "bounds_min": [
+        -1372.7569580078125,
+        970.0587768554688,
+        42.0
+      ],
+      "bounds_max": [
+        -1364.4429931640625,
+        979.6587524414062,
+        50.28791809082031
+      ],
+      "physical": false,
+      "hide_render": false,
+      "collections": [
+        "E01_SCHOOL_GROUND"
+      ]
+    },
+    {
+      "name": "Ink distant terrain PROXY.009",
+      "location": [
+        -1363.300048828125,
+        974.689453125,
+        47.11140823364258
+      ],
+      "bounds_min": [
+        -1367.45703125,
+        969.8894653320312,
+        42.0
+      ],
+      "bounds_max": [
+        -1359.14306640625,
+        979.4894409179688,
+        52.222816467285156
+      ],
+      "physical": false,
+      "hide_render": false,
+      "collections": [
+        "E01_SCHOOL_GROUND"
+      ]
+    }
+  ],
+  "image_evidence": [
+    "views/before/01-school.png",
+    "views/after/01-school.png"
+  ],
+  "finding": "Same old terrain proxies visibly present in both comparison images; not introduced by new roof replacement."
+}

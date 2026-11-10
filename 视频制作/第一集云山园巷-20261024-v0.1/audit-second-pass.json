@@ -1,0 +1,2310 @@
+{
+  "hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集池涧水巷-20261024-v0.1\\pond-lane-route-58s-v13.blend": "3ee38714b93ef13fb598afcdc0618c6a1b3e94beebae7c49f7a32d983254894c",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山园巷-20261024-v0.1\\cloud-garden-route-58s-v14.blend": "ea155e5741b786a6cd8c027bc4352c9d6f75d922f431b60cc43a9f97c51afe0a",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山园巷-20261024-v0.1\\route-poses.json": "4c5fa912b29e5e5981e84146221bf40b5d1480829e6a6db3ce9411a15c545b41",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山园巷-20261024-v0.1\\design-data.json": "db47b644d42735926702880fa83930593ad7fa6b77005cc05239922aa4f81be9",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集云山园巷-v0.1\\build.py": "1ac9a24c074b3aadcc4a462288cd402021937e87f2c24891c114b4de1e084a1e"
+  },
+  "stable": true,
+  "declared_relocation_checks": [
+    {
+      "name": "Rooted woodland understory.131",
+      "world_translation_error": 7.73914582263835e-06
+    },
+    {
+      "name": "Grouped riparian shrub.009",
+      "world_translation_error": 3.5384347469857858e-06
+    },
+    {
+      "name": "Grouped riparian shrub.011",
+      "world_translation_error": 2.0446338158564004e-05
+    },
+    {
+      "name": "Grouped riparian shrub.012",
+      "world_translation_error": 3.035557891450935e-05
+    },
+    {
+      "name": "Grouped riparian shrub.095",
+      "world_translation_error": 8.240267488801578e-06
+    }
+  ],
+  "unallowed_original_changes": [],
+  "original_material_changes": [],
+  "ground_color_unchanged": true,
+  "ground_topology_equal": true,
+  "ground_xy_max_abs": 0.0,
+  "ground_max_increase": 0.0,
+  "ground_max_lowering": 53.142677307128906,
+  "full_1392_27_sweep_hits": [],
+  "new_old_surface_intersections": [
+    {
+      "new": "G1 Cloud-entry garden grounded entrance step.057",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "G1 Cloud-entry garden grounded entrance step.058",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 4
+    },
+    {
+      "new": "G1 Cloud-entry garden grounded entrance step.059",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 7
+    },
+    {
+      "new": "G1 Cloud-entry garden grounded entrance step.060",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 8
+    },
+    {
+      "new": "G1 Cloud-entry garden grounded entrance step.061",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "G1 Cloud-entry garden grounded entrance step.062",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "G2 Hidden-water garden supported stone terrace",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 25
+    },
+    {
+      "new": "G2 Hidden-water garden grounded entrance step.065",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 3
+    },
+    {
+      "new": "G2 Hidden-water garden grounded entrance step.066",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 5
+    },
+    {
+      "new": "G2 Hidden-water garden grounded entrance step.067",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 4
+    },
+    {
+      "new": "G2 Hidden-water garden grounded entrance step.068",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 4
+    },
+    {
+      "new": "G2 Hidden-water garden grounded entrance step.069",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "Cross-water gallery 1 walking deck",
+      "old": "Continuous bank lane 1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "Cross-water gallery 1 walking deck",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "Cross-water gallery 1 landward ramp",
+      "old": "Grouped riparian shrub.009",
+      "surface_pairs": 35
+    },
+    {
+      "new": "Cross-water gallery 1 landward ramp",
+      "old": "Grouped riparian shrub.011",
+      "surface_pairs": 25
+    },
+    {
+      "new": "Cross-water gallery 2 walking deck",
+      "old": "Continuous bank lane 1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "Cross-water gallery 2 walking deck",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "Cross-water gallery 3 walking deck",
+      "old": "Continuous bank lane 1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "Cross-water gallery 3 walking deck",
+      "old": "Grouped riparian shrub.094",
+      "surface_pairs": 10
+    },
+    {
+      "new": "Cross-water gallery 3 walking deck",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 2
+    },
+    {
+      "new": "Cross-water gallery 3 grounded post",
+      "old": "Shared waterside landing 0.743",
+      "surface_pairs": 12
+    },
+    {
+      "new": "Cross-water gallery 3 grounded post.001",
+      "old": "Shared waterside landing 0.743",
+      "surface_pairs": 12
+    },
+    {
+      "new": "Cross-water gallery 3 landward ramp",
+      "old": "Grouped riparian shrub.095",
+      "surface_pairs": 40
+    },
+    {
+      "new": "Shoulder grove 3 rooted trunk.001",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 8
+    },
+    {
+      "new": "Shoulder grove 3 rooted trunk.002",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 6
+    },
+    {
+      "new": "Shoulder grove 3 rooted trunk.003",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 8
+    },
+    {
+      "new": "Shoulder grove 3 rooted trunk.004",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 8
+    },
+    {
+      "new": "Shoulder grove 3 rooted undergrowth.002",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 5
+    },
+    {
+      "new": "Shoulder grove 3 rooted undergrowth.003",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 24
+    },
+    {
+      "new": "Shoulder grove 3 embedded stone.001",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 15
+    },
+    {
+      "new": "Shoulder grove 3 rooted undergrowth.004",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 15
+    },
+    {
+      "new": "Shoulder grove 3 rooted undergrowth.005",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 13
+    },
+    {
+      "new": "Shoulder grove 3 rooted undergrowth.011",
+      "old": "Continuous rooted rock seam 5",
+      "surface_pairs": 20
+    },
+    {
+      "new": "Saddle lookout grounded access step",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 8
+    },
+    {
+      "new": "Saddle lookout grounded access step.001",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "Saddle lookout grounded access step.002",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "Saddle lookout grounded access step.003",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "Saddle lookout grounded access step.004",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 4
+    }
+  ],
+  "old_support_ground_changes": [
+    {
+      "name": "H3 upper gallery edge rail.001",
+      "examples": [
+        {
+          "point": [
+            74.05430603027344,
+            226.2608642578125,
+            79.59576416015625
+          ],
+          "old_ground": 68.21258544921875,
+          "new_ground": 67.751708984375,
+          "old_bottom_gap_m": 11.3831787109375,
+          "new_bottom_gap_m": 11.84405517578125,
+          "ground_lowering_m": 0.46087646484375
+        },
+        {
+          "point": [
+            74.03722381591797,
+            226.28619384765625,
+            79.59576416015625
+          ],
+          "old_ground": 68.18988037109375,
+          "new_ground": 67.73382568359375,
+          "old_bottom_gap_m": 11.4058837890625,
+          "new_bottom_gap_m": 11.8619384765625,
+          "ground_lowering_m": 0.4560546875
+        },
+        {
+          "point": [
+            74.0713882446289,
+            226.23553466796875,
+            79.59576416015625
+          ],
+          "old_ground": 68.23541259765625,
+          "new_ground": 67.76959228515625,
+          "old_bottom_gap_m": 11.3603515625,
+          "new_bottom_gap_m": 11.826171875,
+          "ground_lowering_m": 0.4658203125
+        }
+      ]
+    },
+    {
+      "name": "Bamboo airy leaf crown.117",
+      "examples": [
+        {
+          "point": [
+            12.137754440307617,
+            359.3757629394531,
+            73.6967544555664
+          ],
+          "old_ground": 67.9140625,
+          "new_ground": 67.705078125,
+          "old_bottom_gap_m": 5.782691955566406,
+          "new_bottom_gap_m": 5.991676330566406,
+          "ground_lowering_m": 0.208984375
+        }
+      ]
+    },
+    {
+      "name": "H1 upper gallery",
+      "examples": [
+        {
+          "point": [
+            -13.178004264831543,
+            588.6492919921875,
+            110.55650329589844
+          ],
+          "old_ground": 103.85546875,
+          "new_ground": 103.42575073242188,
+          "old_bottom_gap_m": 6.7010345458984375,
+          "new_bottom_gap_m": 7.1307525634765625,
+          "ground_lowering_m": 0.429718017578125
+        },
+        {
+          "point": [
+            -14.199604988098145,
+            588.1094360351562,
+            110.55650329589844
+          ],
+          "old_ground": 102.85287475585938,
+          "new_ground": 102.49142456054688,
+          "old_bottom_gap_m": 7.7036285400390625,
+          "new_bottom_gap_m": 8.065078735351562,
+          "ground_lowering_m": 0.3614501953125
+        },
+        {
+          "point": [
+            -12.156403541564941,
+            589.189208984375,
+            110.55650329589844
+          ],
+          "old_ground": 104.8819580078125,
+          "new_ground": 104.18161010742188,
+          "old_bottom_gap_m": 5.6745452880859375,
+          "new_bottom_gap_m": 6.3748931884765625,
+          "ground_lowering_m": 0.700347900390625
+        }
+      ]
+    },
+    {
+      "name": "Bamboo airy leaf crown.097",
+      "examples": [
+        {
+          "point": [
+            19.095468521118164,
+            360.63433837890625,
+            73.16600799560547
+          ],
+          "old_ground": 68.06402587890625,
+          "new_ground": 67.065185546875,
+          "old_bottom_gap_m": 5.101982116699219,
+          "new_bottom_gap_m": 6.100822448730469,
+          "ground_lowering_m": 0.99884033203125
+        }
+      ]
+    },
+    {
+      "name": "Rooted bamboo culm.095",
+      "examples": [
+        {
+          "point": [
+            19.98099708557129,
+            361.55828857421875,
+            67.92034149169922
+          ],
+          "old_ground": 68.1126708984375,
+          "new_ground": 66.5740966796875,
+          "old_bottom_gap_m": -0.19232940673828125,
+          "new_bottom_gap_m": 1.3462448120117188,
+          "ground_lowering_m": 1.53857421875
+        },
+        {
+          "point": [
+            19.924999237060547,
+            361.60028076171875,
+            67.92034149169922
+          ],
+          "old_ground": 68.1258544921875,
+          "new_ground": 66.6187744140625,
+          "old_bottom_gap_m": -0.20551300048828125,
+          "new_bottom_gap_m": 1.3015670776367188,
+          "ground_lowering_m": 1.507080078125
+        }
+      ]
+    },
+    {
+      "name": "Rooted bamboo culm.098",
+      "examples": [
+        {
+          "point": [
+            19.6285400390625,
+            362.2726135253906,
+            68.08206939697266
+          ],
+          "old_ground": 68.26593017578125,
+          "new_ground": 66.85540771484375,
+          "old_bottom_gap_m": -0.18386077880859375,
+          "new_bottom_gap_m": 1.2266616821289062,
+          "ground_lowering_m": 1.4105224609375
+        },
+        {
+          "point": [
+            19.572540283203125,
+            362.3146057128906,
+            68.08206939697266
+          ],
+          "old_ground": 68.2791748046875,
+          "new_ground": 66.9000244140625,
+          "old_bottom_gap_m": -0.19710540771484375,
+          "new_bottom_gap_m": 1.1820449829101562,
+          "ground_lowering_m": 1.379150390625
+        }
+      ]
+    },
+    {
+      "name": "Bamboo airy leaf crown.099",
+      "examples": [
+        {
+          "point": [
+            18.13050079345703,
+            361.3739929199219,
+            72.26854705810547
+          ],
+          "old_ground": 68.2861328125,
+          "new_ground": 67.65545654296875,
+          "old_bottom_gap_m": 3.9824142456054688,
+          "new_bottom_gap_m": 4.613090515136719,
+          "ground_lowering_m": 0.63067626953125
+        },
+        {
+          "point": [
+            17.728551864624023,
+            361.1910095214844,
+            72.2965316772461
+          ],
+          "old_ground": 68.28472900390625,
+          "new_ground": 67.5093994140625,
+          "old_bottom_gap_m": 4.011802673339844,
+          "new_bottom_gap_m": 4.787132263183594,
+          "ground_lowering_m": 0.77532958984375
+        },
+        {
+          "point": [
+            17.670272827148438,
+            361.3739929199219,
+            72.29078674316406
+          ],
+          "old_ground": 68.3245849609375,
+          "new_ground": 67.65545654296875,
+          "old_bottom_gap_m": 3.9662017822265625,
+          "new_bottom_gap_m": 4.6353302001953125,
+          "ground_lowering_m": 0.66912841796875
+        },
+        {
+          "point": [
+            17.987804412841797,
+            361.0994873046875,
+            72.28828430175781
+          ],
+          "old_ground": 68.2454833984375,
+          "new_ground": 67.4364013671875,
+          "old_bottom_gap_m": 4.0428009033203125,
+          "new_bottom_gap_m": 4.8518829345703125,
+          "ground_lowering_m": 0.80908203125
+        },
+        {
+          "point": [
+            17.527576446533203,
+            361.0994873046875,
+            72.31051635742188
+          ],
+          "old_ground": 68.283935546875,
+          "new_ground": 67.4364013671875,
+          "old_bottom_gap_m": 4.026580810546875,
+          "new_bottom_gap_m": 4.874114990234375,
+          "ground_lowering_m": 0.8475341796875
+        }
+      ]
+    },
+    {
+      "name": "Rooted bamboo culm.097",
+      "examples": [
+        {
+          "point": [
+            19.159780502319336,
+            360.6617431640625,
+            67.86900329589844
+          ],
+          "old_ground": 68.06390380859375,
+          "new_ground": 67.0870361328125,
+          "old_bottom_gap_m": -0.1949005126953125,
+          "new_bottom_gap_m": 0.7819671630859375,
+          "ground_lowering_m": 0.97686767578125
+        },
+        {
+          "point": [
+            19.10378074645996,
+            360.7037658691406,
+            67.86900329589844
+          ],
+          "old_ground": 68.07666015625,
+          "new_ground": 67.12054443359375,
+          "old_bottom_gap_m": -0.2076568603515625,
+          "new_bottom_gap_m": 0.7484588623046875,
+          "ground_lowering_m": 0.95611572265625
+        }
+      ]
+    },
+    {
+      "name": "H3 upper gallery",
+      "examples": [
+        {
+          "point": [
+            73.39224243164062,
+            227.23001098632812,
+            78.27204895019531
+          ],
+          "old_ground": 67.33502197265625,
+          "new_ground": 67.06134033203125,
+          "old_bottom_gap_m": 10.937026977539062,
+          "new_bottom_gap_m": 11.210708618164062,
+          "ground_lowering_m": 0.273681640625
+        },
+        {
+          "point": [
+            72.73017883300781,
+            228.19918823242188,
+            78.27204895019531
+          ],
+          "old_ground": 66.45355224609375,
+          "new_ground": 66.3360595703125,
+          "old_bottom_gap_m": 11.818496704101562,
+          "new_bottom_gap_m": 11.935989379882812,
+          "ground_lowering_m": 0.11749267578125
+        },
+        {
+          "point": [
+            74.05430603027344,
+            226.2608642578125,
+            78.27204895019531
+          ],
+          "old_ground": 68.21258544921875,
+          "new_ground": 67.751708984375,
+          "old_bottom_gap_m": 10.059463500976562,
+          "new_bottom_gap_m": 10.520339965820312,
+          "ground_lowering_m": 0.46087646484375
+        }
+      ]
+    },
+    {
+      "name": "Bamboo airy leaf crown.096",
+      "examples": [
+        {
+          "point": [
+            18.353065490722656,
+            362.1388244628906,
+            72.57239532470703
+          ],
+          "old_ground": 68.396484375,
+          "new_ground": 67.873291015625,
+          "old_bottom_gap_m": 4.175910949707031,
+          "new_bottom_gap_m": 4.699104309082031,
+          "ground_lowering_m": 0.523193359375
+        },
+        {
+          "point": [
+            17.95111656188965,
+            361.955810546875,
+            72.60176849365234
+          ],
+          "old_ground": 68.412353515625,
+          "new_ground": 68.1197509765625,
+          "old_bottom_gap_m": 4.189414978027344,
+          "new_bottom_gap_m": 4.482017517089844,
+          "ground_lowering_m": 0.2926025390625
+        },
+        {
+          "point": [
+            17.892837524414062,
+            362.1388244628906,
+            72.59574127197266
+          ],
+          "old_ground": 68.45111083984375,
+          "new_ground": 68.2406005859375,
+          "old_bottom_gap_m": 4.144630432128906,
+          "new_bottom_gap_m": 4.355140686035156,
+          "ground_lowering_m": 0.21051025390625
+        },
+        {
+          "point": [
+            18.210369110107422,
+            361.86431884765625,
+            72.59310913085938
+          ],
+          "old_ground": 68.37060546875,
+          "new_ground": 67.9871826171875,
+          "old_bottom_gap_m": 4.222503662109375,
+          "new_bottom_gap_m": 4.605926513671875,
+          "ground_lowering_m": 0.3834228515625
+        },
+        {
+          "point": [
+            17.750141143798828,
+            361.86431884765625,
+            72.616455078125
+          ],
+          "old_ground": 68.41162109375,
+          "new_ground": 68.0467529296875,
+          "old_bottom_gap_m": 4.204833984375,
+          "new_bottom_gap_m": 4.5697021484375,
+          "ground_lowering_m": 0.3648681640625
+        }
+      ]
+    },
+    {
+      "name": "Rooted bamboo culm.096",
+      "examples": [
+        {
+          "point": [
+            18.41735076904297,
+            362.16619873046875,
+            68.19332885742188
+          ],
+          "old_ground": 68.39312744140625,
+          "new_ground": 67.82196044921875,
+          "old_bottom_gap_m": -0.199798583984375,
+          "new_bottom_gap_m": 0.371368408203125,
+          "ground_lowering_m": 0.5711669921875
+        },
+        {
+          "point": [
+            18.361351013183594,
+            362.20819091796875,
+            68.19332885742188
+          ],
+          "old_ground": 68.40631103515625,
+          "new_ground": 67.86663818359375,
+          "old_bottom_gap_m": -0.212982177734375,
+          "new_bottom_gap_m": 0.326690673828125,
+          "ground_lowering_m": 0.5396728515625
+        }
+      ]
+    },
+    {
+      "name": "Bamboo airy leaf crown.098",
+      "examples": [
+        {
+          "point": [
+            19.56423568725586,
+            362.24517822265625,
+            72.99079132080078
+          ],
+          "old_ground": 68.269287109375,
+          "new_ground": 66.90667724609375,
+          "old_bottom_gap_m": 4.721504211425781,
+          "new_bottom_gap_m": 6.084114074707031,
+          "ground_lowering_m": 1.36260986328125
+        }
+      ]
+    },
+    {
+      "name": "Rooted bamboo culm.099",
+      "examples": [
+        {
+          "point": [
+            18.19477653503418,
+            361.4013671875,
+            68.08763122558594
+          ],
+          "old_ground": 68.2860107421875,
+          "new_ground": 67.67730712890625,
+          "old_bottom_gap_m": -0.1983795166015625,
+          "new_bottom_gap_m": 0.4103240966796875,
+          "ground_lowering_m": 0.60870361328125
+        },
+        {
+          "point": [
+            18.138774871826172,
+            361.443359375,
+            68.08763122558594
+          ],
+          "old_ground": 68.2987060546875,
+          "new_ground": 67.7108154296875,
+          "old_bottom_gap_m": -0.2110748291015625,
+          "new_bottom_gap_m": 0.3768157958984375,
+          "ground_lowering_m": 0.587890625
+        }
+      ]
+    },
+    {
+      "name": "Rooted woodland understory.130",
+      "examples": [
+        {
+          "point": [
+            20.976394653320312,
+            361.8961486816406,
+            67.50957489013672
+          ],
+          "old_ground": 68.00323486328125,
+          "new_ground": 66.52862548828125,
+          "old_bottom_gap_m": -0.49365997314453125,
+          "new_bottom_gap_m": 0.9809494018554688,
+          "ground_lowering_m": 1.474609375
+        },
+        {
+          "point": [
+            21.122892379760742,
+            361.4834899902344,
+            67.52899932861328
+          ],
+          "old_ground": 67.9178466796875,
+          "new_ground": 66.5113525390625,
+          "old_bottom_gap_m": -0.38884735107421875,
+          "new_bottom_gap_m": 1.0176467895507812,
+          "ground_lowering_m": 1.406494140625
+        },
+        {
+          "point": [
+            20.826948165893555,
+            361.50518798828125,
+            67.51664733886719
+          ],
+          "old_ground": 67.96966552734375,
+          "new_ground": 66.52081298828125,
+          "old_bottom_gap_m": -0.4530181884765625,
+          "new_bottom_gap_m": 0.9958343505859375,
+          "ground_lowering_m": 1.4488525390625
+        },
+        {
+          "point": [
+            21.34558868408203,
+            361.66815185546875,
+            67.53164672851562
+          ],
+          "old_ground": 67.9072265625,
+          "new_ground": 66.51715087890625,
+          "old_bottom_gap_m": -0.375579833984375,
+          "new_bottom_gap_m": 1.014495849609375,
+          "ground_lowering_m": 1.39007568359375
+        },
+        {
+          "point": [
+            21.19614028930664,
+            361.27716064453125,
+            67.5387191772461
+          ],
+          "old_ground": 67.87493896484375,
+          "new_ground": 66.5037841796875,
+          "old_bottom_gap_m": -0.33621978759765625,
+          "new_bottom_gap_m": 1.0349349975585938,
+          "ground_lowering_m": 1.37115478515625
+        },
+        {
+          "point": [
+            20.555429458618164,
+            361.635498046875,
+            67.51959991455078
+          ],
+          "old_ground": 68.03350830078125,
+          "new_ground": 66.53326416015625,
+          "old_bottom_gap_m": -0.5139083862304688,
+          "new_bottom_gap_m": 0.9863357543945312,
+          "ground_lowering_m": 1.500244140625
+        }
+      ]
+    },
+    {
+      "name": "H3 upper gallery edge rail",
+      "examples": [
+        {
+          "point": [
+            72.73017883300781,
+            228.19918823242188,
+            79.59576416015625
+          ],
+          "old_ground": 66.45355224609375,
+          "new_ground": 66.3360595703125,
+          "old_bottom_gap_m": 13.1422119140625,
+          "new_bottom_gap_m": 13.25970458984375,
+          "ground_lowering_m": 0.11749267578125
+        },
+        {
+          "point": [
+            72.71282196044922,
+            228.22425842285156,
+            79.59576416015625
+          ],
+          "old_ground": 66.4305419921875,
+          "new_ground": 66.31683349609375,
+          "old_bottom_gap_m": 13.16522216796875,
+          "new_bottom_gap_m": 13.2789306640625,
+          "ground_lowering_m": 0.11370849609375
+        },
+        {
+          "point": [
+            72.74752807617188,
+            228.17413330078125,
+            79.59576416015625
+          ],
+          "old_ground": 66.4765625,
+          "new_ground": 66.3553466796875,
+          "old_bottom_gap_m": 13.11920166015625,
+          "new_bottom_gap_m": 13.24041748046875,
+          "ground_lowering_m": 0.1212158203125
+        }
+      ]
+    },
+    {
+      "name": "Rooted woodland understory.129",
+      "examples": [
+        {
+          "point": [
+            20.744129180908203,
+            362.4423522949219,
+            67.61572265625
+          ],
+          "old_ground": 68.1226806640625,
+          "new_ground": 66.5517578125,
+          "old_bottom_gap_m": -0.5069580078125,
+          "new_bottom_gap_m": 1.06396484375,
+          "ground_lowering_m": 1.5709228515625
+        },
+        {
+          "point": [
+            20.89414405822754,
+            362.0198059082031,
+            67.6356201171875
+          ],
+          "old_ground": 68.03533935546875,
+          "new_ground": 66.5340576171875,
+          "old_bottom_gap_m": -0.39971923828125,
+          "new_bottom_gap_m": 1.1015625,
+          "ground_lowering_m": 1.50128173828125
+        },
+        {
+          "point": [
+            20.591094970703125,
+            362.0419921875,
+            67.62295532226562
+          ],
+          "old_ground": 68.08990478515625,
+          "new_ground": 66.53692626953125,
+          "old_bottom_gap_m": -0.466949462890625,
+          "new_bottom_gap_m": 1.086029052734375,
+          "ground_lowering_m": 1.552978515625
+        },
+        {
+          "point": [
+            21.122188568115234,
+            362.2088928222656,
+            67.6383285522461
+          ],
+          "old_ground": 68.0244140625,
+          "new_ground": 66.5400390625,
+          "old_bottom_gap_m": -0.38608551025390625,
+          "new_bottom_gap_m": 1.0982894897460938,
+          "ground_lowering_m": 1.484375
+        },
+        {
+          "point": [
+            20.969152450561523,
+            361.80853271484375,
+            67.64556884765625
+          ],
+          "old_ground": 67.9915771484375,
+          "new_ground": 66.52520751953125,
+          "old_bottom_gap_m": -0.34600830078125,
+          "new_bottom_gap_m": 1.120361328125,
+          "ground_lowering_m": 1.46636962890625
+        },
+        {
+          "point": [
+            20.31305503845215,
+            362.1754455566406,
+            67.62598419189453
+          ],
+          "old_ground": 68.15655517578125,
+          "new_ground": 66.54449462890625,
+          "old_bottom_gap_m": -0.5305709838867188,
+          "new_bottom_gap_m": 1.0814895629882812,
+          "ground_lowering_m": 1.612060546875
+        }
+      ]
+    },
+    {
+      "name": "H1 upper gallery edge rail.001",
+      "examples": [
+        {
+          "point": [
+            -12.156403541564941,
+            589.189208984375,
+            111.88021850585938
+          ],
+          "old_ground": 104.8819580078125,
+          "new_ground": 104.18161010742188,
+          "old_bottom_gap_m": 6.998260498046875,
+          "new_bottom_gap_m": 7.6986083984375,
+          "ground_lowering_m": 0.700347900390625
+        },
+        {
+          "point": [
+            -12.18311882019043,
+            589.17529296875,
+            111.88021850585938
+          ],
+          "old_ground": 104.85525512695312,
+          "new_ground": 104.15646362304688,
+          "old_bottom_gap_m": 7.02496337890625,
+          "new_bottom_gap_m": 7.7237548828125,
+          "ground_lowering_m": 0.69879150390625
+        },
+        {
+          "point": [
+            -12.129688262939453,
+            589.2030639648438,
+            111.88021850585938
+          ],
+          "old_ground": 104.90859985351562,
+          "new_ground": 104.20672607421875,
+          "old_bottom_gap_m": 6.97161865234375,
+          "new_bottom_gap_m": 7.673492431640625,
+          "ground_lowering_m": 0.701873779296875
+        }
+      ]
+    },
+    {
+      "name": "Bamboo airy leaf crown.095",
+      "examples": [
+        {
+          "point": [
+            19.916719436645508,
+            361.5308837890625,
+            72.1422119140625
+          ],
+          "old_ground": 68.115966796875,
+          "new_ground": 66.62542724609375,
+          "old_bottom_gap_m": 4.0262451171875,
+          "new_bottom_gap_m": 5.51678466796875,
+          "ground_lowering_m": 1.49053955078125
+        },
+        {
+          "point": [
+            19.5147705078125,
+            361.347900390625,
+            72.17047882080078
+          ],
+          "old_ground": 68.1351318359375,
+          "new_ground": 66.9461669921875,
+          "old_bottom_gap_m": 4.035346984863281,
+          "new_bottom_gap_m": 5.224311828613281,
+          "ground_lowering_m": 1.18896484375
+        },
+        {
+          "point": [
+            19.45648956298828,
+            361.5308837890625,
+            72.1646728515625
+          ],
+          "old_ground": 68.17059326171875,
+          "new_ground": 66.99273681640625,
+          "old_bottom_gap_m": 3.99407958984375,
+          "new_bottom_gap_m": 5.17193603515625,
+          "ground_lowering_m": 1.1778564453125
+        },
+        {
+          "point": [
+            19.774024963378906,
+            361.25640869140625,
+            72.16214752197266
+          ],
+          "old_ground": 68.090087890625,
+          "new_ground": 66.7392578125,
+          "old_bottom_gap_m": 4.072059631347656,
+          "new_bottom_gap_m": 5.422889709472656,
+          "ground_lowering_m": 1.350830078125
+        },
+        {
+          "point": [
+            19.31379508972168,
+            361.25640869140625,
+            72.18461608886719
+          ],
+          "old_ground": 68.14471435546875,
+          "new_ground": 67.1065673828125,
+          "old_bottom_gap_m": 4.0399017333984375,
+          "new_bottom_gap_m": 5.0780487060546875,
+          "ground_lowering_m": 1.03814697265625
+        }
+      ]
+    },
+    {
+      "name": "H1 upper gallery edge rail",
+      "examples": [
+        {
+          "point": [
+            -14.199604988098145,
+            588.1094360351562,
+            111.88021850585938
+          ],
+          "old_ground": 102.85287475585938,
+          "new_ground": 102.49142456054688,
+          "old_bottom_gap_m": 9.02734375,
+          "new_bottom_gap_m": 9.3887939453125,
+          "ground_lowering_m": 0.3614501953125
+        },
+        {
+          "point": [
+            -14.226000785827637,
+            588.0952758789062,
+            111.88021850585938
+          ],
+          "old_ground": 102.82705688476562,
+          "new_ground": 102.46392822265625,
+          "old_bottom_gap_m": 9.05316162109375,
+          "new_bottom_gap_m": 9.416290283203125,
+          "ground_lowering_m": 0.363128662109375
+        },
+        {
+          "point": [
+            -14.173209190368652,
+            588.1235961914062,
+            111.88021850585938
+          ],
+          "old_ground": 102.87860107421875,
+          "new_ground": 102.5189208984375,
+          "old_bottom_gap_m": 9.001617431640625,
+          "new_bottom_gap_m": 9.361297607421875,
+          "ground_lowering_m": 0.35968017578125
+        }
+      ]
+    }
+  ],
+  "new_bottom_support_issues": [
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.023",
+      "gaps": [
+        {
+          "point": [
+            23.464731216430664,
+            359.0796813964844,
+            66.42888641357422
+          ],
+          "gap_m": 0.07311248779296875
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.024",
+      "gaps": [
+        {
+          "point": [
+            23.444625854492188,
+            359.0648193359375,
+            66.42888641357422
+          ],
+          "gap_m": 0.07213592529296875
+        },
+        {
+          "point": [
+            23.825387954711914,
+            359.3462219238281,
+            66.42888641357422
+          ],
+          "gap_m": 0.08983612060546875
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.025",
+      "gaps": [
+        {
+          "point": [
+            23.805282592773438,
+            359.33135986328125,
+            66.42888641357422
+          ],
+          "gap_m": 0.08885955810546875
+        },
+        {
+          "point": [
+            24.186044692993164,
+            359.61273193359375,
+            66.42888641357422
+          ],
+          "gap_m": 0.10655975341796875
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.026",
+      "gaps": [
+        {
+          "point": [
+            24.165939331054688,
+            359.5978698730469,
+            66.42888641357422
+          ],
+          "gap_m": 0.10564422607421875
+        },
+        {
+          "point": [
+            24.546701431274414,
+            359.8792724609375,
+            66.42888641357422
+          ],
+          "gap_m": 0.12334442138671875
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.027",
+      "gaps": [
+        {
+          "point": [
+            24.526596069335938,
+            359.8644104003906,
+            66.42888641357422
+          ],
+          "gap_m": 0.12236785888671875
+        },
+        {
+          "point": [
+            24.90735626220703,
+            360.1457824707031,
+            66.42888641357422
+          ],
+          "gap_m": 0.13811492919921875
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.028",
+      "gaps": [
+        {
+          "point": [
+            24.887250900268555,
+            360.1309509277344,
+            66.42888641357422
+          ],
+          "gap_m": 0.13738250732421875
+        },
+        {
+          "point": [
+            25.26801300048828,
+            360.4123229980469,
+            66.42888641357422
+          ],
+          "gap_m": 0.15135955810546875
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.029",
+      "gaps": [
+        {
+          "point": [
+            25.247907638549805,
+            360.3974609375,
+            66.42888641357422
+          ],
+          "gap_m": 0.15062713623046875
+        },
+        {
+          "point": [
+            25.62866973876953,
+            360.6788635253906,
+            66.42888641357422
+          ],
+          "gap_m": 0.16460418701171875
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.030",
+      "gaps": [
+        {
+          "point": [
+            24.316431045532227,
+            360.5587158203125,
+            66.41242218017578
+          ],
+          "gap_m": 0.06641387939453125
+        },
+        {
+          "point": [
+            24.74098777770996,
+            360.35162353515625,
+            66.41242218017578
+          ],
+          "gap_m": 0.10254669189453125
+        },
+        {
+          "point": [
+            25.837064743041992,
+            362.5985412597656,
+            66.41242218017578
+          ],
+          "gap_m": 0.08722686767578125
+        },
+        {
+          "point": [
+            25.41250991821289,
+            362.8056335449219,
+            66.41242218017578
+          ],
+          "gap_m": 0.05384063720703125
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.031",
+      "gaps": [
+        {
+          "point": [
+            24.718517303466797,
+            360.3625793457031,
+            66.37947845458984
+          ],
+          "gap_m": 0.06771087646484375
+        },
+        {
+          "point": [
+            25.14307403564453,
+            360.1554870605469,
+            66.37947845458984
+          ],
+          "gap_m": 0.10390472412109375
+        },
+        {
+          "point": [
+            26.239151000976562,
+            362.40240478515625,
+            66.37947845458984
+          ],
+          "gap_m": 0.08724212646484375
+        },
+        {
+          "point": [
+            25.81459617614746,
+            362.6094970703125,
+            66.37947845458984
+          ],
+          "gap_m": 0.05251312255859375
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.032",
+      "gaps": [
+        {
+          "point": [
+            25.120603561401367,
+            360.16644287109375,
+            66.3465347290039
+          ],
+          "gap_m": 0.06906890869140625
+        },
+        {
+          "point": [
+            25.5451602935791,
+            359.9593200683594,
+            66.3465347290039
+          ],
+          "gap_m": 0.10465240478515625
+        },
+        {
+          "point": [
+            26.641237258911133,
+            362.20623779296875,
+            66.3465347290039
+          ],
+          "gap_m": 0.08853912353515625
+        },
+        {
+          "point": [
+            26.21668243408203,
+            362.4133605957031,
+            66.3465347290039
+          ],
+          "gap_m": 0.05240631103515625
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.033",
+      "gaps": [
+        {
+          "point": [
+            25.522689819335938,
+            359.9703063964844,
+            66.3135986328125
+          ],
+          "gap_m": 0.06988525390625
+        },
+        {
+          "point": [
+            25.94724464416504,
+            359.76318359375,
+            66.3135986328125
+          ],
+          "gap_m": 0.10333251953125
+        },
+        {
+          "point": [
+            27.043323516845703,
+            362.0101013183594,
+            66.3135986328125
+          ],
+          "gap_m": 0.08984375
+        },
+        {
+          "point": [
+            26.6187686920166,
+            362.2171936035156,
+            66.3135986328125
+          ],
+          "gap_m": 0.05364990234375
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.034",
+      "gaps": [
+        {
+          "point": [
+            25.924776077270508,
+            359.7741394042969,
+            66.28065490722656
+          ],
+          "gap_m": 0.0686798095703125
+        },
+        {
+          "point": [
+            26.34933090209961,
+            359.5670471191406,
+            66.28065490722656
+          ],
+          "gap_m": 0.1020660400390625
+        },
+        {
+          "point": [
+            27.445409774780273,
+            361.81396484375,
+            66.28065490722656
+          ],
+          "gap_m": 0.0911407470703125
+        },
+        {
+          "point": [
+            27.020854949951172,
+            362.02105712890625,
+            66.28065490722656
+          ],
+          "gap_m": 0.0550079345703125
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.035",
+      "gaps": [
+        {
+          "point": [
+            26.326862335205078,
+            359.5780029296875,
+            66.24771118164062
+          ],
+          "gap_m": 0.067413330078125
+        },
+        {
+          "point": [
+            26.75141716003418,
+            359.37091064453125,
+            66.24771118164062
+          ],
+          "gap_m": 0.100799560546875
+        },
+        {
+          "point": [
+            27.847496032714844,
+            361.6178283691406,
+            66.24771118164062
+          ],
+          "gap_m": 0.092437744140625
+        },
+        {
+          "point": [
+            27.422941207885742,
+            361.8249206542969,
+            66.24771118164062
+          ],
+          "gap_m": 0.056304931640625
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.036",
+      "gaps": [
+        {
+          "point": [
+            26.72894859313965,
+            359.3818664550781,
+            66.21477508544922
+          ],
+          "gap_m": 0.06609344482421875
+        },
+        {
+          "point": [
+            27.15350341796875,
+            359.1747741699219,
+            66.21477508544922
+          ],
+          "gap_m": 0.09947967529296875
+        },
+        {
+          "point": [
+            28.249582290649414,
+            361.4216613769531,
+            66.21477508544922
+          ],
+          "gap_m": 0.09380340576171875
+        },
+        {
+          "point": [
+            27.825027465820312,
+            361.6287841796875,
+            66.21477508544922
+          ],
+          "gap_m": 0.05754852294921875
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.037",
+      "gaps": [
+        {
+          "point": [
+            27.13103485107422,
+            359.18572998046875,
+            66.18183135986328
+          ],
+          "gap_m": 0.06476593017578125
+        },
+        {
+          "point": [
+            27.55558967590332,
+            358.9786071777344,
+            66.18183135986328
+          ],
+          "gap_m": 0.09821319580078125
+        },
+        {
+          "point": [
+            28.651668548583984,
+            361.22552490234375,
+            66.18183135986328
+          ],
+          "gap_m": 0.09503936767578125
+        },
+        {
+          "point": [
+            28.227113723754883,
+            361.4326477050781,
+            66.18183135986328
+          ],
+          "gap_m": 0.05890655517578125
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.038",
+      "gaps": [
+        {
+          "point": [
+            27.53312110900879,
+            358.98956298828125,
+            66.14888763427734
+          ],
+          "gap_m": 0.06349945068359375
+        },
+        {
+          "point": [
+            27.95767593383789,
+            358.782470703125,
+            66.14888763427734
+          ],
+          "gap_m": 0.09694671630859375
+        },
+        {
+          "point": [
+            29.053754806518555,
+            361.0293884277344,
+            66.14888763427734
+          ],
+          "gap_m": 0.09639739990234375
+        },
+        {
+          "point": [
+            28.62919807434082,
+            361.2364807128906,
+            66.14888763427734
+          ],
+          "gap_m": 0.06020355224609375
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.039",
+      "gaps": [
+        {
+          "point": [
+            27.93520736694336,
+            358.7934265136719,
+            66.11595153808594
+          ],
+          "gap_m": 0.0621795654296875
+        },
+        {
+          "point": [
+            28.35976219177246,
+            358.5863342285156,
+            66.11595153808594
+          ],
+          "gap_m": 0.0956268310546875
+        },
+        {
+          "point": [
+            29.455841064453125,
+            360.833251953125,
+            66.11595153808594
+          ],
+          "gap_m": 0.0977020263671875
+        },
+        {
+          "point": [
+            29.03128433227539,
+            361.04034423828125,
+            66.11595153808594
+          ],
+          "gap_m": 0.0615081787109375
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.040",
+      "gaps": [
+        {
+          "point": [
+            28.33729362487793,
+            358.5972900390625,
+            66.0830078125
+          ],
+          "gap_m": 0.06097412109375
+        },
+        {
+          "point": [
+            28.76184844970703,
+            358.39019775390625,
+            66.0830078125
+          ],
+          "gap_m": 0.0943603515625
+        },
+        {
+          "point": [
+            29.857927322387695,
+            360.6370849609375,
+            66.0830078125
+          ],
+          "gap_m": 0.0989990234375
+        },
+        {
+          "point": [
+            29.43337059020996,
+            360.8442077636719,
+            66.0830078125
+          ],
+          "gap_m": 0.0628662109375
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.041",
+      "gaps": [
+        {
+          "point": [
+            28.7393798828125,
+            358.4011535644531,
+            66.05006408691406
+          ],
+          "gap_m": 0.0596466064453125
+        },
+        {
+          "point": [
+            29.1639347076416,
+            358.19403076171875,
+            66.05006408691406
+          ],
+          "gap_m": 0.0930328369140625
+        },
+        {
+          "point": [
+            30.260013580322266,
+            360.4409484863281,
+            66.05006408691406
+          ],
+          "gap_m": 0.1002960205078125
+        },
+        {
+          "point": [
+            29.83545684814453,
+            360.6480712890625,
+            66.05006408691406
+          ],
+          "gap_m": 0.0641021728515625
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.042",
+      "gaps": [
+        {
+          "point": [
+            29.14146614074707,
+            358.20501708984375,
+            66.01712799072266
+          ],
+          "gap_m": 0.05838775634765625
+        },
+        {
+          "point": [
+            29.566020965576172,
+            357.9978942871094,
+            66.01712799072266
+          ],
+          "gap_m": 0.09177398681640625
+        },
+        {
+          "point": [
+            30.662099838256836,
+            360.24481201171875,
+            66.01712799072266
+          ],
+          "gap_m": 0.10153961181640625
+        },
+        {
+          "point": [
+            30.2375431060791,
+            360.451904296875,
+            66.01712799072266
+          ],
+          "gap_m": 0.06540679931640625
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.043",
+      "gaps": [
+        {
+          "point": [
+            29.54355239868164,
+            358.00885009765625,
+            65.98418426513672
+          ],
+          "gap_m": 0.05706024169921875
+        },
+        {
+          "point": [
+            29.968107223510742,
+            357.8017578125,
+            65.98418426513672
+          ],
+          "gap_m": 0.09056854248046875
+        },
+        {
+          "point": [
+            31.064184188842773,
+            360.0486755371094,
+            65.98418426513672
+          ],
+          "gap_m": 0.10289764404296875
+        },
+        {
+          "point": [
+            30.639629364013672,
+            360.2557678222656,
+            65.98418426513672
+          ],
+          "gap_m": 0.06670379638671875
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.044",
+      "gaps": [
+        {
+          "point": [
+            29.94563865661621,
+            357.8127136230469,
+            65.95124053955078
+          ],
+          "gap_m": 0.05579376220703125
+        },
+        {
+          "point": [
+            30.370193481445312,
+            357.6056213378906,
+            65.95124053955078
+          ],
+          "gap_m": 0.08924102783203125
+        },
+        {
+          "point": [
+            31.466270446777344,
+            359.8525085449219,
+            65.95124053955078
+          ],
+          "gap_m": 0.10224151611328125
+        },
+        {
+          "point": [
+            31.041715621948242,
+            360.05963134765625,
+            65.95124053955078
+          ],
+          "gap_m": 0.06800079345703125
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.045",
+      "gaps": [
+        {
+          "point": [
+            30.34772491455078,
+            357.6165771484375,
+            65.91830444335938
+          ],
+          "gap_m": 0.054534912109375
+        },
+        {
+          "point": [
+            30.772279739379883,
+            357.4094543457031,
+            65.91830444335938
+          ],
+          "gap_m": 0.089141845703125
+        },
+        {
+          "point": [
+            31.868356704711914,
+            359.6563720703125,
+            65.91830444335938
+          ],
+          "gap_m": 0.100921630859375
+        },
+        {
+          "point": [
+            31.443801879882812,
+            359.8634948730469,
+            65.91830444335938
+          ],
+          "gap_m": 0.067535400390625
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.046",
+      "gaps": [
+        {
+          "point": [
+            30.74981117248535,
+            357.4204406738281,
+            65.88536071777344
+          ],
+          "gap_m": 0.0543060302734375
+        },
+        {
+          "point": [
+            31.174365997314453,
+            357.21331787109375,
+            65.88536071777344
+          ],
+          "gap_m": 0.0904388427734375
+        },
+        {
+          "point": [
+            32.270442962646484,
+            359.4602355957031,
+            65.88536071777344
+          ],
+          "gap_m": 0.0996551513671875
+        },
+        {
+          "point": [
+            31.845888137817383,
+            359.6673278808594,
+            65.88536071777344
+          ],
+          "gap_m": 0.0662689208984375
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.047",
+      "gaps": [
+        {
+          "point": [
+            31.151897430419922,
+            357.2242736816406,
+            65.85242462158203
+          ],
+          "gap_m": 0.05561065673828125
+        },
+        {
+          "point": [
+            31.576452255249023,
+            357.0171813964844,
+            65.85242462158203
+          ],
+          "gap_m": 0.09180450439453125
+        },
+        {
+          "point": [
+            32.67253112792969,
+            359.26409912109375,
+            65.85242462158203
+          ],
+          "gap_m": 0.09839630126953125
+        },
+        {
+          "point": [
+            32.24797439575195,
+            359.47119140625,
+            65.85242462158203
+          ],
+          "gap_m": 0.06494903564453125
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.048",
+      "gaps": [
+        {
+          "point": [
+            31.55398178100586,
+            357.02813720703125,
+            65.8194808959961
+          ],
+          "gap_m": 0.05690765380859375
+        },
+        {
+          "point": [
+            31.978538513183594,
+            356.821044921875,
+            65.8194808959961
+          ],
+          "gap_m": 0.09304046630859375
+        },
+        {
+          "point": [
+            33.074615478515625,
+            359.06793212890625,
+            65.8194808959961
+          ],
+          "gap_m": 0.09712982177734375
+        },
+        {
+          "point": [
+            32.65005874633789,
+            359.2750549316406,
+            65.8194808959961
+          ],
+          "gap_m": 0.06362152099609375
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.049",
+      "gaps": [
+        {
+          "point": [
+            31.95606803894043,
+            356.8320007324219,
+            65.78653717041016
+          ],
+          "gap_m": 0.05820465087890625
+        },
+        {
+          "point": [
+            32.38062286376953,
+            356.6248779296875,
+            65.78653717041016
+          ],
+          "gap_m": 0.09439849853515625
+        },
+        {
+          "point": [
+            33.47670364379883,
+            358.8717956542969,
+            65.78653717041016
+          ],
+          "gap_m": 0.09580230712890625
+        },
+        {
+          "point": [
+            33.052146911621094,
+            359.07891845703125,
+            65.78653717041016
+          ],
+          "gap_m": 0.06235504150390625
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.050",
+      "gaps": [
+        {
+          "point": [
+            32.358154296875,
+            356.6358642578125,
+            65.75360107421875
+          ],
+          "gap_m": 0.05950927734375
+        },
+        {
+          "point": [
+            32.782711029052734,
+            356.4287414550781,
+            65.75360107421875
+          ],
+          "gap_m": 0.095703125
+        },
+        {
+          "point": [
+            33.878787994384766,
+            358.6756591796875,
+            65.75360107421875
+          ],
+          "gap_m": 0.09454345703125
+        },
+        {
+          "point": [
+            33.45423126220703,
+            358.88275146484375,
+            65.75360107421875
+          ],
+          "gap_m": 0.06109619140625
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.051",
+      "gaps": [
+        {
+          "point": [
+            32.7602424621582,
+            356.439697265625,
+            65.72065734863281
+          ],
+          "gap_m": 0.0608673095703125
+        },
+        {
+          "point": [
+            33.18479537963867,
+            356.23260498046875,
+            65.72065734863281
+          ],
+          "gap_m": 0.0970001220703125
+        },
+        {
+          "point": [
+            34.28087615966797,
+            358.4795227050781,
+            65.72065734863281
+          ],
+          "gap_m": 0.0932769775390625
+        },
+        {
+          "point": [
+            33.856319427490234,
+            358.6866149902344,
+            65.72065734863281
+          ],
+          "gap_m": 0.0598297119140625
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.052",
+      "gaps": [
+        {
+          "point": [
+            33.16232681274414,
+            356.2435607910156,
+            65.68771362304688
+          ],
+          "gap_m": 0.062103271484375
+        },
+        {
+          "point": [
+            33.586883544921875,
+            356.0364685058594,
+            65.68771362304688
+          ],
+          "gap_m": 0.098297119140625
+        },
+        {
+          "point": [
+            34.682960510253906,
+            358.28338623046875,
+            65.68771362304688
+          ],
+          "gap_m": 0.091949462890625
+        },
+        {
+          "point": [
+            34.25840377807617,
+            358.490478515625,
+            65.68771362304688
+          ],
+          "gap_m": 0.058502197265625
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.053",
+      "gaps": [
+        {
+          "point": [
+            33.564414978027344,
+            356.04742431640625,
+            65.65477752685547
+          ],
+          "gap_m": 0.06340789794921875
+        },
+        {
+          "point": [
+            33.98896789550781,
+            355.8403015136719,
+            65.65477752685547
+          ],
+          "gap_m": 0.09954071044921875
+        },
+        {
+          "point": [
+            35.085044860839844,
+            358.08721923828125,
+            65.65477752685547
+          ],
+          "gap_m": 0.09075164794921875
+        },
+        {
+          "point": [
+            34.660491943359375,
+            358.2943420410156,
+            65.65477752685547
+          ],
+          "gap_m": 0.05730438232421875
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.054",
+      "gaps": [
+        {
+          "point": [
+            33.96649932861328,
+            355.8512878417969,
+            65.62183380126953
+          ],
+          "gap_m": 0.06470489501953125
+        },
+        {
+          "point": [
+            34.391056060791016,
+            355.6441650390625,
+            65.62183380126953
+          ],
+          "gap_m": 0.10083770751953125
+        },
+        {
+          "point": [
+            35.48713302612305,
+            357.8910827636719,
+            65.62183380126953
+          ],
+          "gap_m": 0.08942413330078125
+        },
+        {
+          "point": [
+            35.06257629394531,
+            358.0981750488281,
+            65.62183380126953
+          ],
+          "gap_m": 0.05597686767578125
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.055",
+      "gaps": [
+        {
+          "point": [
+            34.368587493896484,
+            355.6551208496094,
+            65.5888900756836
+          ],
+          "gap_m": 0.06600189208984375
+        },
+        {
+          "point": [
+            34.79314041137695,
+            355.4480285644531,
+            65.5888900756836
+          ],
+          "gap_m": 0.10219573974609375
+        },
+        {
+          "point": [
+            35.889217376708984,
+            357.6949462890625,
+            65.5888900756836
+          ],
+          "gap_m": 0.08815765380859375
+        },
+        {
+          "point": [
+            35.464664459228516,
+            357.90203857421875,
+            65.5888900756836
+          ],
+          "gap_m": 0.05471038818359375
+        }
+      ]
+    },
+    {
+      "name": "G2 Hidden-water garden grounded entrance step.056",
+      "gaps": [
+        {
+          "point": [
+            35.195228576660156,
+            355.25189208984375,
+            65.51730346679688
+          ],
+          "gap_m": 0.085052490234375
+        },
+        {
+          "point": [
+            36.29130554199219,
+            357.4988098144531,
+            65.51730346679688
+          ],
+          "gap_m": 0.048370361328125
+        }
+      ]
+    }
+  ],
+  "motion": {
+    "max_step_m": 2.5873069136406226,
+    "max_step_from_frame": 1070,
+    "max_acceleration_m_s2": 37.03603132260423,
+    "max_rotation_deg_frame": 2.6753137992885043,
+    "max_rotation_from_frame": 44,
+    "saved_json_position_max_abs": 3.049473332339403e-05,
+    "saved_json_quaternion_max_abs": 2.9788433275612647e-08
+  },
+  "scope": "CPU saved scene only. 27 offset sampled segment sweeps, not full continuous body volume. Surface pairs and bottom sampling require interpretation; visuals not viewed.",
+  "old_bank_new_structure_findings": [
+    {
+      "road": "Continuous bank lane -1",
+      "new_line_blockers": {},
+      "new_top_above_road_examples": [
+        {
+          "object": "G1 Cloud-entry garden grounded entrance step.062",
+          "point": [
+            -131.805419921875,
+            588.5538940429688,
+            95.18706512451172
+          ],
+          "above_old_road_m": 0.07297515869140625,
+          "lateral_fraction": 0.3333333333333333
+        }
+      ]
+    }
+  ],
+  "garden_entry_actual_checks": [
+    {
+      "id": "G1 Cloud-entry garden",
+      "combined_floor_missing_examples": [],
+      "terrain_cover_examples": [],
+      "headroom": {},
+      "max_adjacent_up_m": 0,
+      "max_adjacent_down_m": -0.11529541015625,
+      "ends": {
+        "garden": [
+          -143.85119198917758,
+          567.61561539661,
+          96.68595092773438
+        ],
+        "old_bank": [
+          -132.02628383204726,
+          588.9437758683473,
+          95.1640060105184
+        ]
+      }
+    },
+    {
+      "id": "G2 Hidden-water garden",
+      "combined_floor_missing_examples": [],
+      "terrain_cover_examples": [],
+      "headroom": {},
+      "max_adjacent_up_m": 0.08576202392578125,
+      "max_adjacent_down_m": -0.0823516845703125,
+      "ends": {
+        "garden": [
+          14.056010924090694,
+          353.68081566148567,
+          66.72888916015626
+        ],
+        "old_bank": [
+          40.959151723593294,
+          353.8309526458936,
+          65.41124771015673
+        ]
+      }
+    }
+  ],
+  "gallery_ramp_actual_grades": [
+    {
+      "name": "Cross-water gallery 1 landward ramp",
+      "start": [
+        -148.26885986328125,
+        595.4758911132812,
+        96.61599731445312
+      ],
+      "end": [
+        -150.88059997558594,
+        592.4462280273438,
+        96.93814086914062
+      ],
+      "grade_percent": 8.053577423095703
+    },
+    {
+      "name": "Cross-water gallery 1 landward ramp.001",
+      "start": [
+        -127.94742584228516,
+        619.0490112304688,
+        96.61599731445312
+      ],
+      "end": [
+        -125.33567810058594,
+        622.0786743164062,
+        97.06353759765625
+      ],
+      "grade_percent": 11.188477516174316
+    },
+    {
+      "name": "Cross-water gallery 2 landward ramp",
+      "start": [
+        -27.238967895507812,
+        229.30947875976562,
+        52.20404052734375
+      ],
+      "end": [
+        -30.319927215576172,
+        231.86050415039062,
+        52.54653549194336
+      ],
+      "grade_percent": 8.562362670898438
+    },
+    {
+      "name": "Cross-water gallery 2 landward ramp.001",
+      "start": [
+        -2.546022653579712,
+        208.8638916015625,
+        52.20404052734375
+      ],
+      "end": [
+        0.534938633441925,
+        206.3128662109375,
+        52.61477279663086
+      ],
+      "grade_percent": 10.268289566040039
+    },
+    {
+      "name": "Cross-water gallery 3 landward ramp",
+      "start": [
+        164.70166015625,
+        -285.3798522949219,
+        38.68564224243164
+      ],
+      "end": [
+        162.47213745117188,
+        -288.70086669921875,
+        38.959529876708984
+      ],
+      "grade_percent": 6.84721040725708
+    },
+    {
+      "name": "Cross-water gallery 3 landward ramp.001",
+      "start": [
+        184.0736846923828,
+        -256.523681640625,
+        38.68564224243164
+      ],
+      "end": [
+        186.30319213867188,
+        -253.20263671875,
+        39.407039642333984
+      ],
+      "grade_percent": 18.034912109375
+    }
+  ]
+}

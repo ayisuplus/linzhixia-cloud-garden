@@ -1,0 +1,21 @@
+# 工作服12｜水彩与泼墨
+
+2026-10-13。作者否定11版过于朴素，明确授权工作服采用创意水彩与中国泼墨结合、更加鲜艳多彩的新方向。12为新候选，待作者审看。
+
+底稿：知夏工作服精修-20261012-v0.1/知夏-工作服11-针线围腰与低盘发.png。保留面容、低盘发木簪、斜襟挽袖短衫、围腰裙、工具和短靴结构。色彩改为暖白底上的青蓝、珊瑚红、黄色晕染与墨灰山形、飞白和溅点；围腰最浓，衣袖、裙摆与靴面呼应，脸和皮肤未染色。色彩描述为视觉概括，无测量色号和比例。实际生成偏具象水墨山形，不是完全抽象的泼墨。
+
+图片：知夏工作服精修-20261013-v0.2/知夏-工作服12-水彩泼墨围腰裙.png。
+
+工具：内置 image_gen。项目 color-expert 仅用于组织颜色关系，没有替代作者审美、安装库或对其他定款改色。原11候选保留追溯，但其朴素方向不再作为后续设计目标。未新增皮肤云纹。个人作品不导入 Eagle。
+
+## 实际生成提示词
+
+Use case: identity-preserve / precise costume surface redesign.
+Edit this supplied full-body Lin Zhixia workwear illustration. The user rejects the plain subdued clothing and explicitly wants a MUCH MORE COLORFUL, lively CREATIVE WATERCOLOR + CHINESE SPLASHED INK work outfit, as if an artist deliberately designed a garment that welcomes future paint splashes. This is an authorized NEW COLOR CANDIDATE. Make the artistic textile treatment unmistakable, not merely a few tiny colored spots.
+LOCK IDENTITY AND CONSTRUCTION: retain her exact face, age impression, almond brown eyes, expression, skin, chestnut braided low bun, horizontal short wooden pin, same pose and proportions, fitted practical Chinese diagonal-front short blouse with rolled narrow sleeves, waist-tied rounded rectangular apron with small tool pocket, modest below-knee flared skirt, socks, low ankle boots, small tools and held brush. Keep the cloth soft matte fine-woven. No flowers in hair, no skin tattoos, no electronics. Keep the full figure uncropped, same framing, background and lighting.
+
+COLOR AND PAINT DESIGN: original clothing can be recolored. Use a luminous warm ivory/very pale watery base interspersed with joyful stronger washes of turquoise/cyan and cobalt, coral/vermilion, sunny yellow, with a few small violet and leaf-green touches. Colors clear, vivid, nuanced, not neon; combine transparent pale blooms with a few richly saturated concentrated pigment edges. Chinese ink supplies expressive dark charcoal-to-dilute-gray strokes, dry-brush flying-white texture, a few intentional splashes and flowing abstract mountain/water suggestions. Black remains an accent instead of darkening the entire outfit. Think genuinely expressive hand-painted textile with wet-on-wet diffusion, irregular tide marks, granulation, feathered edges and directional brush gestures. Not flat multicolor blocks, rainbow stripes, tie-dye spirals, graffiti lettering or repetitive digital floral print.
+
+DISTRIBUTION: make the APRON the richest painterly focal area, like a compact wearable abstract watercolor-and-ink artwork. Balance warm coral/yellow patches with cool turquoise/cobalt passages and a few decisive ink gestures; leave small breathing areas of light cloth. Let the blouse carry a lighter but clearly visible asymmetric watercolor passage across one shoulder/side and the rolled cuffs, with calm light space around the collar and face. Replace the old bamboo embroidery with this more expressive paint language. Continue looser broader washes around the skirt's lower half and one side, with intentional open spaces and a few ink splatters, keeping the apron distinct against the skirt. Keep saturation and detail varied, NOT uniformly speckled everywhere. Small echoes of these colors may appear on ivory boots' fabric panels and the apron ties; keep socks predominantly light. Recolor the old brown pocket to pale warm canvas with a few integrated color marks so it belongs to this new artist outfit; keep the tools legible and believable.
+
+The pigment is embedded in CLOTH, following folds and weave: no literal liquid dripping off her, no floating paint splashes, no painted skin or hair, no background watercolor effects. Maintain the original soft finely rendered animated-character/3D illustration aesthetic; only the TEXTILE SURFACES have watercolor and Chinese ink artwork, do not turn the entire character portrait into a watercolor painting. Clothes feel cherished and creatively used, not muddy, grimy or torn. No extra garments, no new props, no labels, no watermark. One finished full-body try-on concept.

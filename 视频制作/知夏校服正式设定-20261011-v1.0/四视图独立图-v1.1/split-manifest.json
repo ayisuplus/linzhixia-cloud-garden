@@ -1,0 +1,72 @@
+{
+  "source_name": "知夏-校服四视图-v1.1-侧襟修正.png",
+  "source_sha256": "986d30d157f4fd51ef3032fd8c913d47bcad1f3ad7102d5337b419997eea3fdc",
+  "oriented_size": [
+    1536,
+    1024
+  ],
+  "coordinates": "EXIF-oriented pixels; right and bottom edges exclusive",
+  "operation": "crop only; no redraw, resizing, padding or background removal",
+  "views": [
+    {
+      "view": "01_front-half",
+      "file": "01_front-half.png",
+      "box_xyxy": [
+        0,
+        0,
+        590,
+        1024
+      ],
+      "size": [
+        590,
+        1024
+      ],
+      "sha256": "aaad13f311cbdad595fa93a5575610c91b748753c3fe882964360f5eb6159d54"
+    },
+    {
+      "view": "02_facing-left",
+      "file": "02_facing-left.png",
+      "box_xyxy": [
+        590,
+        0,
+        870,
+        1024
+      ],
+      "size": [
+        280,
+        1024
+      ],
+      "sha256": "3a4b6320645c4c4943288b47233852081e0cc8594a127673a179fa219fea6b4e"
+    },
+    {
+      "view": "03_back",
+      "file": "03_back.png",
+      "box_xyxy": [
+        870,
+        0,
+        1210,
+        1024
+      ],
+      "size": [
+        340,
+        1024
+      ],
+      "sha256": "ea1391cc3ecbe0825fd278b694ddbfb57f9e16311157186316cd55cce42fe871"
+    },
+    {
+      "view": "04_facing-right",
+      "file": "04_facing-right.png",
+      "box_xyxy": [
+        1210,
+        0,
+        1536,
+        1024
+      ],
+      "size": [
+        326,
+        1024
+      ],
+      "sha256": "dc511a9d38c9097a1effb189e0578c61c8b38051c20687009ea2ba1d77072d18"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "source": "视频制作\\第一集云中园城-20261024-v0.1\\city-within-cloud-reference-v03.blend",
+  "source_sha256": "ec2db5dcc39016141298b45b206ca446fdad64a7ff27978a2923283741644e45",
+  "cloud_materials_changed": [
+    "ENCLOSING CLOUD local side tongues",
+    "ENCLOSING CLOUD with open courtyards",
+    "MOTHER CLOUD connected supporting cloud",
+    "MOTHER CLOUD feathered folded shoulders",
+    "Ordinary mist / open air only"
+  ],
+  "openings": [
+    [
+      "Cascade connected air",
+      [
+        -1050,
+        775,
+        58
+      ],
+      [
+        163,
+        103,
+        104
+      ]
+    ],
+    [
+      "Middle courtyard air",
+      [
+        -655,
+        570,
+        46
+      ],
+      [
+        165,
+        98,
+        82
+      ]
+    ],
+    [
+      "Lower eastern water air",
+      [
+        -370,
+        325,
+        23
+      ],
+      [
+        132,
+        112,
+        72
+      ]
+    ]
+  ],
+  "architecture_geometry_and_materials_changed": false,
+  "camera_positions_changed": false,
+  "carrier_animation_changed": false,
+  "camera_glance_interval_s": [
+    10.8,
+    19.8
+  ],
+  "max_additional_pitch_deg": 21,
+  "fps": 24,
+  "frames": 1392,
+  "duration_s": 58
+}

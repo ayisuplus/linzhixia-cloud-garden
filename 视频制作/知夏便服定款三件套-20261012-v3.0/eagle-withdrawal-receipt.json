@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "MV4W3GFN4NHN9",
+      "success": false
+    },
+    {
+      "id": "MV4W3GFNAK12S",
+      "success": false
+    },
+    {
+      "id": "MV4W3GFNY8LYN",
+      "success": false
+    },
+    {
+      "id": "MV4W3GFNP7C0H",
+      "success": false
+    },
+    {
+      "id": "MV4W3GFN7LQ7T",
+      "success": false
+    },
+    {
+      "id": "MV4W3GFN2SOVI",
+      "success": false
+    },
+    {
+      "id": "MV4W3GFNTM1X9",
+      "success": false
+    },
+    {
+      "id": "MV4W3GFNYERUE",
+      "success": false
+    },
+    {
+      "id": "MV4W3GFNMIWL8",
+      "success": false
+    }
+  ],
+  "message": "Successfully moved 0/9 items to trash",
+  "timestamp": "2026-10-12T10:21:21.983Z",
+  "totalItems": 9,
+  "successCount": 0,
+  "failureCount": 9
+}

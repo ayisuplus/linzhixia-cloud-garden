@@ -1,0 +1,66 @@
+{
+  "artifact": "episode1-full-route-58s-v02",
+  "status": "rendered playable spatial reference; full-speed aesthetic acceptance pending author playback",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2220,
+      "sha256": "872830e81ce6ecfc9e4070543a1b5a6bbf607d42613422ec99571ff1a38e5ec6"
+    },
+    {
+      "path": "flight-checks.json",
+      "bytes": 512687,
+      "sha256": "a3e3362c3fb6648288ebdd5b0ef9a3ee21bc45a65511e9e5345bc5bab61aaa0c"
+    },
+    {
+      "path": "episode1-full-route-58s-v02.blend",
+      "bytes": 31071228,
+      "sha256": "541cd2ebf5ca564eaa8906ad46af4b05ef625b86f0a8f895ac42d043b8ab265a"
+    },
+    {
+      "path": "full-route-fast-flight-58s-v02.mp4",
+      "bytes": 3961593,
+      "sha256": "0ca30544b63b6f2601032d9b12c9b065bb91db1c28a3cb95cd59ca003c6162fd"
+    },
+    {
+      "path": "E01-C-FAST-B01-30s-v02.mp4",
+      "bytes": 1998486,
+      "sha256": "956106ffa6def1aa756ae6eaf160dc566e984e9906e279bb82770ebb3b0b33f4"
+    },
+    {
+      "path": "E01-C-FAST-B02-30s-v02.mp4",
+      "bytes": 2085668,
+      "sha256": "074a5c4db65ee6877e883f13ab7c2a9075f1b0c09e08ce9fff437a79d42525f3"
+    },
+    {
+      "path": "review.html",
+      "bytes": 1273,
+      "sha256": "4895864204539de3f7b7be318e0900f808bf88e6c2a464786b1a7eedec17f2b4"
+    },
+    {
+      "path": "poster.jpg",
+      "bytes": 25508,
+      "sha256": "224bd02a7088eeea6de2d355c05a32a61daba5f8b6fb69106c74555e36ddcf04"
+    },
+    {
+      "path": "render-review/independent-check.json",
+      "bytes": 15084,
+      "sha256": "a4fe0a9473d4c2af311730eb8e27b93d0f08f2a065b9370de5bca07b10cea82e"
+    },
+    {
+      "path": "render-review/render-validation.json",
+      "bytes": 9301,
+      "sha256": "7854dac467ef9521a196ce85bdf6d010401ba869e0ab9afd2c4ff9b2a3a4d415"
+    },
+    {
+      "path": "render-review/review-notes.md",
+      "bytes": 1970,
+      "sha256": "ef4014dacff1aa18f3e7ba3bc526ea4790f331f22d3d8345144a557ff2fdba14"
+    },
+    {
+      "path": "render-review/crossings-and-water.jpg",
+      "bytes": 209765,
+      "sha256": "26a12b98e87c390c6ff8d5a42deacd89bb5d0f4abd01d0e157179eef0719e1e3"
+    }
+  ]
+}

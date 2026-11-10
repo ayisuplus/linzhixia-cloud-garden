@@ -1,0 +1,2521 @@
+{
+  "hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山园巷-20261024-v0.1\\cloud-garden-route-58s-v14.blend": "dc9c610956dcb3fef447208ca84e405dacdeea2ece0b5fa95e66bbaa31cd92d5",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集枝水园城-20261024-v0.1\\branch-garden-route-58s-v15.blend": "6fa86c4adfff9c54358b22d5d67c5313948429ef444eaa4653047d63972be00f",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集枝水园城-20261024-v0.1\\route-poses.json": "4c5fa912b29e5e5981e84146221bf40b5d1480829e6a6db3ce9411a15c545b41",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集枝水园城-20261024-v0.1\\design-data.json": "936ca37516b03df689fa62ff813a6a63664a08f64da40f84c6cfac0d43d12542",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集枝水园城-v0.1\\build.py": "631b46d694192ef813af12199f1b450f74cda00a2511ce8eac37811fe7351877"
+  },
+  "stable": true,
+  "declared_relocation_checks": [
+    {
+      "name": "Grouped riparian shrub.069",
+      "world_translation_error": 1.5418836403213732e-06
+    },
+    {
+      "name": "Bank rooted rock cluster.029",
+      "world_translation_error": 2.915662221880666e-06
+    },
+    {
+      "name": "Grouped riparian shrub.072",
+      "world_translation_error": 2.4750457257027847e-06
+    },
+    {
+      "name": "Grouped riparian shrub.074",
+      "world_translation_error": 8.664078797515629e-06
+    },
+    {
+      "name": "Grouped riparian shrub.075",
+      "world_translation_error": 3.8774709625322146e-06
+    },
+    {
+      "name": "Grouped riparian shrub.076",
+      "world_translation_error": 1.1620210882412607e-06
+    },
+    {
+      "name": "Grouped riparian shrub.077",
+      "world_translation_error": 7.154399270792311e-07
+    },
+    {
+      "name": "Bank rooted rock cluster.031",
+      "world_translation_error": 3.0962313057880664e-06
+    },
+    {
+      "name": "Bank rooted rock cluster.032",
+      "world_translation_error": 6.859389447555486e-07
+    },
+    {
+      "name": "Grouped riparian shrub.079",
+      "world_translation_error": 3.1703359866241954e-06
+    },
+    {
+      "name": "Grouped riparian shrub.080",
+      "world_translation_error": 4.464431722084328e-06
+    },
+    {
+      "name": "Bank rooted rock cluster.034",
+      "world_translation_error": 3.2767224165120012e-06
+    },
+    {
+      "name": "Bank rooted rock cluster.035",
+      "world_translation_error": 5.132925868789329e-06
+    },
+    {
+      "name": "Grouped riparian shrub.097",
+      "world_translation_error": 5.655940255699932e-06
+    },
+    {
+      "name": "Grouped riparian shrub.098",
+      "world_translation_error": 1.1958920124843786e-05
+    },
+    {
+      "name": "Bank rooted rock cluster.040",
+      "world_translation_error": 1.4610414394322646e-05
+    },
+    {
+      "name": "Bank rooted rock cluster.041",
+      "world_translation_error": 9.251246431141169e-06
+    }
+  ],
+  "unallowed_original_changes": [],
+  "original_material_changes": [],
+  "ground_color_unchanged": true,
+  "ground_topology_equal": true,
+  "ground_xy_max_abs": 0.0,
+  "ground_max_increase": 0.0,
+  "ground_max_lowering": 5.812656402587891,
+  "full_1392_27_sweep_hits": [],
+  "new_old_surface_intersections": [
+    {
+      "new": "N1 East neighbourhood water lane crossing 1 supporting soffit",
+      "old": "Continuous bank lane 1",
+      "surface_pairs": 7
+    },
+    {
+      "new": "N1 East neighbourhood water lane crossing 1 supporting soffit",
+      "old": "West-neighbourhood-+1-00 entry connection",
+      "surface_pairs": 6
+    },
+    {
+      "new": "N1 East neighbourhood water lane crossing 2 supporting soffit",
+      "old": "Continuous bank lane 1",
+      "surface_pairs": 8
+    },
+    {
+      "new": "N1 East neighbourhood water lane crossing 2 supporting soffit",
+      "old": "West-neighbourhood-+1-00 entry connection",
+      "surface_pairs": 11
+    },
+    {
+      "new": "N1 East neighbourhood water lane crossing 3 supporting soffit",
+      "old": "Continuous bank lane 1",
+      "surface_pairs": 7
+    },
+    {
+      "new": "N1 East neighbourhood water lane crossing 3 supporting soffit",
+      "old": "West-neighbourhood-+1-00 entry connection",
+      "surface_pairs": 7
+    },
+    {
+      "new": "N1 East neighbourhood water lane crossing 4 supporting soffit",
+      "old": "West-neighbourhood-+1-01 entry connection",
+      "surface_pairs": 24
+    },
+    {
+      "new": "N1 East neighbourhood water lane crossing 5 supporting soffit",
+      "old": "West-neighbourhood-+1-02 entry connection",
+      "surface_pairs": 30
+    },
+    {
+      "new": "N1 East neighbourhood water lane crossing 6 supporting soffit",
+      "old": "Continuous bank lane 1",
+      "surface_pairs": 10
+    },
+    {
+      "new": "N2 West courtyard runnel crossing 1 supporting soffit",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 9
+    },
+    {
+      "new": "N2 West courtyard runnel crossing 2 supporting soffit",
+      "old": "East-neighbourhood--1-01 entry connection",
+      "surface_pairs": 19
+    },
+    {
+      "new": "N2 West courtyard runnel crossing 3 supporting soffit",
+      "old": "East-neighbourhood--1-02 entry connection",
+      "surface_pairs": 26
+    },
+    {
+      "new": "N2 West courtyard runnel crossing 4 supporting soffit",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 10
+    },
+    {
+      "new": "N3 East quiet basin stone bank 1",
+      "old": "Water-bay-+1-00 court floor",
+      "surface_pairs": 11
+    },
+    {
+      "new": "N3 East quiet basin crossing 1 supporting soffit",
+      "old": "Continuous bank lane 1",
+      "surface_pairs": 9
+    },
+    {
+      "new": "N3 East quiet basin crossing 2 supporting soffit",
+      "old": "Water-bay-+1-00 entry connection",
+      "surface_pairs": 8
+    },
+    {
+      "new": "N3 East quiet basin crossing 3 supporting soffit",
+      "old": "Two-level-water-court entry connection",
+      "surface_pairs": 22
+    },
+    {
+      "new": "N3 East quiet basin crossing 4 supporting soffit",
+      "old": "Continuous bank lane 1",
+      "surface_pairs": 10
+    },
+    {
+      "new": "N4 West bay garden loop crossing 1 supporting soffit",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 9
+    },
+    {
+      "new": "N4 West bay garden loop crossing 2 supporting soffit",
+      "old": "Water-bay--1-03 entry connection",
+      "surface_pairs": 28
+    },
+    {
+      "new": "N4 West bay garden loop crossing 3 supporting soffit",
+      "old": "Water-bay--1-04 entry connection",
+      "surface_pairs": 5
+    },
+    {
+      "new": "N4 West bay garden loop crossing 3 supporting soffit",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 9
+    },
+    {
+      "new": "N5 Lower stepped water lane crossing 1 supporting soffit",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 10
+    },
+    {
+      "new": "N5 Lower stepped water lane crossing 2 supporting soffit",
+      "old": "Lower-lane--1-00 entry connection",
+      "surface_pairs": 24
+    },
+    {
+      "new": "N5 Lower stepped water lane crossing 3 supporting soffit",
+      "old": "Lower-lane--1-01 entry connection",
+      "surface_pairs": 24
+    },
+    {
+      "new": "N5 Lower stepped water lane crossing 4 supporting soffit",
+      "old": "Lower-lane--1-02 entry connection",
+      "surface_pairs": 25
+    },
+    {
+      "new": "N5 Lower stepped water lane crossing 4 supporting soffit",
+      "old": "stone garden bridge deck",
+      "surface_pairs": 7
+    },
+    {
+      "new": "N5 Lower stepped water lane crossing 4 supporting soffit",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 6
+    },
+    {
+      "new": "N5 Lower stepped water lane crossing 5 supporting soffit",
+      "old": "Continuous bank lane -1",
+      "surface_pairs": 10
+    },
+    {
+      "new": "Water-side continuous foundation West-neighbourhood-+1-02 court floor",
+      "old": "West-neighbourhood-+1-02 court floor",
+      "surface_pairs": 14
+    },
+    {
+      "new": "Water-side continuous foundation West-neighbourhood-+1-02 front wall",
+      "old": "West-neighbourhood-+1-02 court floor",
+      "surface_pairs": 4
+    },
+    {
+      "new": "Water-side continuous foundation West-neighbourhood-+1-02 front wall",
+      "old": "West-neighbourhood-+1-02 front wall",
+      "surface_pairs": 7
+    },
+    {
+      "new": "Water-side continuous foundation West-neighbourhood-+1-02 front wall.001",
+      "old": "West-neighbourhood-+1-02 front wall.001",
+      "surface_pairs": 17
+    },
+    {
+      "new": "Water-side continuous foundation West-neighbourhood-+1-02 front wall.001",
+      "old": "West-neighbourhood-+1-02 court floor",
+      "surface_pairs": 4
+    },
+    {
+      "new": "Water-side continuous foundation Water-bay-+1-00 court floor",
+      "old": "Water-bay-+1-00 court floor",
+      "surface_pairs": 8
+    },
+    {
+      "new": "Water-side continuous foundation Water-bay-+1-00 front wall.001",
+      "old": "Water-bay-+1-00 court floor",
+      "surface_pairs": 4
+    },
+    {
+      "new": "Water-side continuous foundation Water-bay-+1-00 front wall.001",
+      "old": "Water-bay-+1-00 front wall.001",
+      "surface_pairs": 9
+    },
+    {
+      "new": "Water-side continuous foundation Two-level-water-court court floor",
+      "old": "Two-level-water-court / left wing",
+      "surface_pairs": 306
+    },
+    {
+      "new": "Water-side continuous foundation Two-level-water-court court floor",
+      "old": "Two-level-water-court lower hall",
+      "surface_pairs": 410
+    },
+    {
+      "new": "Water-side continuous foundation Two-level-water-court court floor",
+      "old": "Vertical access reserved shaft",
+      "surface_pairs": 58
+    },
+    {
+      "new": "Water-side continuous foundation Two-level-water-court court floor",
+      "old": "Two-level-water-court front wall",
+      "surface_pairs": 157
+    },
+    {
+      "new": "Water-side continuous foundation Two-level-water-court court floor",
+      "old": "Two-level-water-court front wall.001",
+      "surface_pairs": 153
+    },
+    {
+      "new": "Water-side continuous foundation Two-level-water-court court floor",
+      "old": "Two-level-water-court entry connection",
+      "surface_pairs": 8
+    },
+    {
+      "new": "Water-side continuous foundation Two-level-water-court court floor",
+      "old": "Two-level-water-court / right wing",
+      "surface_pairs": 299
+    },
+    {
+      "new": "Water-side continuous foundation Two-level-water-court court floor",
+      "old": "Two-level-water-court court floor",
+      "surface_pairs": 344
+    },
+    {
+      "new": "Water-side continuous foundation Two-level-water-court front wall",
+      "old": "Two-level-water-court front wall",
+      "surface_pairs": 11
+    }
+  ],
+  "old_support_ground_changes": [
+    {
+      "name": "East-neighbourhood--1-01 entry connection",
+      "examples": [
+        {
+          "point": [
+            -93.48883819580078,
+            99.79866027832031,
+            45.17414093017578
+          ],
+          "old_ground": 44.9658203125,
+          "new_ground": 43.73370361328125,
+          "old_bottom_gap_m": 0.20832061767578125,
+          "new_bottom_gap_m": 1.4404373168945312,
+          "ground_lowering_m": 1.23211669921875
+        }
+      ]
+    },
+    {
+      "name": "Water-bay-+1-00 / right wing roof",
+      "examples": [
+        {
+          "point": [
+            -13.86582088470459,
+            -53.86455535888672,
+            48.29999923706055
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 41.2059326171875,
+          "old_bottom_gap_m": 6.810009002685547,
+          "new_bottom_gap_m": 7.094066619873047,
+          "ground_lowering_m": 0.2840576171875
+        }
+      ]
+    },
+    {
+      "name": "covered market bridge continuous roof",
+      "examples": [
+        {
+          "point": [
+            -98.48999786376953,
+            52.4771614074707,
+            48.604888916015625
+          ],
+          "old_ground": 42.1971435546875,
+          "new_ground": 42.14703369140625,
+          "old_bottom_gap_m": 6.407745361328125,
+          "new_bottom_gap_m": 6.457855224609375,
+          "ground_lowering_m": 0.05010986328125
+        }
+      ]
+    },
+    {
+      "name": "stone garden bridge railing post.009",
+      "examples": [
+        {
+          "point": [
+            292.44000244140625,
+            -395.00543212890625,
+            22.309972763061523
+          ],
+          "old_ground": 21.86834716796875,
+          "new_ground": 21.6995849609375,
+          "old_bottom_gap_m": 0.44162559509277344,
+          "new_bottom_gap_m": 0.6103878021240234,
+          "ground_lowering_m": 0.16876220703125
+        },
+        {
+          "point": [
+            292.3960266113281,
+            -394.931640625,
+            22.309972763061523
+          ],
+          "old_ground": 21.87548828125,
+          "new_ground": 21.72747802734375,
+          "old_bottom_gap_m": 0.43448448181152344,
+          "new_bottom_gap_m": 0.5824947357177734,
+          "ground_lowering_m": 0.14801025390625
+        },
+        {
+          "point": [
+            292.30987548828125,
+            -394.9314880371094,
+            22.309972763061523
+          ],
+          "old_ground": 21.8753662109375,
+          "new_ground": 21.64251708984375,
+          "old_bottom_gap_m": 0.43460655212402344,
+          "new_bottom_gap_m": 0.6674556732177734,
+          "ground_lowering_m": 0.23284912109375
+        },
+        {
+          "point": [
+            292.2677001953125,
+            -395.005126953125,
+            22.309972763061523
+          ],
+          "old_ground": 21.86810302734375,
+          "new_ground": 21.52972412109375,
+          "old_bottom_gap_m": 0.44186973571777344,
+          "new_bottom_gap_m": 0.7802486419677734,
+          "ground_lowering_m": 0.33837890625
+        },
+        {
+          "point": [
+            292.3116760253906,
+            -395.07891845703125,
+            22.309972763061523
+          ],
+          "old_ground": 21.86138916015625,
+          "new_ground": 21.51129150390625,
+          "old_bottom_gap_m": 0.44858360290527344,
+          "new_bottom_gap_m": 0.7986812591552734,
+          "ground_lowering_m": 0.35009765625
+        },
+        {
+          "point": [
+            292.3978576660156,
+            -395.0790710449219,
+            22.309972763061523
+          ],
+          "old_ground": 21.86151123046875,
+          "new_ground": 21.59625244140625,
+          "old_bottom_gap_m": 0.44846153259277344,
+          "new_bottom_gap_m": 0.7137203216552734,
+          "ground_lowering_m": 0.2652587890625
+        }
+      ]
+    },
+    {
+      "name": "West-neighbourhood-+1-02 front wall.001",
+      "examples": [
+        {
+          "point": [
+            -56.12563705444336,
+            50.761695861816406,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 43.19964599609375,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 1.4114646911621094,
+          "ground_lowering_m": 1.4014892578125,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -55.26669692993164,
+            50.660614013671875,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 44.26678466796875,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 0.3443260192871094,
+          "ground_lowering_m": 0.3343505859375,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -55.0328254699707,
+            56.347930908203125,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 44.548828125,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 0.062282562255859375,
+          "ground_lowering_m": 0.05230712890625,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -55.46229553222656,
+            56.398475646972656,
+            44.61111068725586
+          ],
+          "old_ground": 44.6011962890625,
+          "new_ground": 43.8646240234375,
+          "old_bottom_gap_m": 0.009914398193359375,
+          "new_bottom_gap_m": 0.7464866638183594,
+          "ground_lowering_m": 0.736572265625,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -55.6961669921875,
+            50.71115493774414,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 43.7283935546875,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 0.8827171325683594,
+          "ground_lowering_m": 0.87274169921875,
+          "new_structure_support_below_m": 0.005001068115234375
+        }
+      ]
+    },
+    {
+      "name": "Lower-lane--1-02 entry connection",
+      "examples": [
+        {
+          "point": [
+            286.0619201660156,
+            -398.72613525390625,
+            22.221609115600586
+          ],
+          "old_ground": 21.97344970703125,
+          "new_ground": 19.19000244140625,
+          "old_bottom_gap_m": 0.24815940856933594,
+          "new_bottom_gap_m": 3.031606674194336,
+          "ground_lowering_m": 2.783447265625
+        },
+        {
+          "point": [
+            285.7118225097656,
+            -398.9864501953125,
+            22.221525192260742
+          ],
+          "old_ground": 22.00909423828125,
+          "new_ground": 19.18994140625,
+          "old_bottom_gap_m": 0.2124309539794922,
+          "new_bottom_gap_m": 3.031583786010742,
+          "ground_lowering_m": 2.81915283203125
+        }
+      ]
+    },
+    {
+      "name": "Water-bay-+1-00 court floor",
+      "examples": [
+        {
+          "point": [
+            -16.556779861450195,
+            -57.1953239440918,
+            41.459999084472656
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 36.66796875,
+          "old_bottom_gap_m": -0.02999114990234375,
+          "new_bottom_gap_m": 4.792030334472656,
+          "ground_lowering_m": 4.822021484375,
+          "new_structure_support_below_m": null
+        }
+      ]
+    },
+    {
+      "name": "Water-bay-+1-00 entry connection",
+      "examples": [
+        {
+          "point": [
+            -42.464969635009766,
+            -57.79477310180664,
+            40.25
+          ],
+          "old_ground": 39.74334716796875,
+          "new_ground": 37.5955810546875,
+          "old_bottom_gap_m": 0.50665283203125,
+          "new_bottom_gap_m": 2.6544189453125,
+          "ground_lowering_m": 2.14776611328125
+        },
+        {
+          "point": [
+            -43.83616256713867,
+            -54.6595458984375,
+            40.25
+          ],
+          "old_ground": 39.02056884765625,
+          "new_ground": 36.66796875,
+          "old_bottom_gap_m": 1.22943115234375,
+          "new_bottom_gap_m": 3.58203125,
+          "ground_lowering_m": 2.35260009765625
+        },
+        {
+          "point": [
+            -41.98782730102539,
+            -57.48604202270508,
+            40.25
+          ],
+          "old_ground": 39.81231689453125,
+          "new_ground": 37.35516357421875,
+          "old_bottom_gap_m": 0.43768310546875,
+          "new_bottom_gap_m": 2.89483642578125,
+          "ground_lowering_m": 2.4571533203125
+        },
+        {
+          "point": [
+            -43.36351013183594,
+            -54.36259460449219,
+            40.25
+          ],
+          "old_ground": 39.27423095703125,
+          "new_ground": 36.66796875,
+          "old_bottom_gap_m": 0.97576904296875,
+          "new_bottom_gap_m": 3.58203125,
+          "ground_lowering_m": 2.60626220703125
+        },
+        {
+          "point": [
+            -41.50974655151367,
+            -57.174827575683594,
+            40.25
+          ],
+          "old_ground": 39.88140869140625,
+          "new_ground": 37.3277587890625,
+          "old_bottom_gap_m": 0.36859130859375,
+          "new_bottom_gap_m": 2.9222412109375,
+          "ground_lowering_m": 2.55364990234375
+        },
+        {
+          "point": [
+            -42.89181900024414,
+            -54.06808853149414,
+            40.25
+          ],
+          "old_ground": 39.52752685546875,
+          "new_ground": 36.66796875,
+          "old_bottom_gap_m": 0.72247314453125,
+          "new_bottom_gap_m": 3.58203125,
+          "ground_lowering_m": 2.85955810546875
+        }
+      ]
+    },
+    {
+      "name": "Two-level-water-court front wall",
+      "examples": [
+        {
+          "point": [
+            5.516722679138184,
+            -69.6277847290039,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 39.57513427734375,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 1.92486572265625,
+          "ground_lowering_m": 1.91485595703125,
+          "new_structure_support_below_m": 2.2248382568359375
+        },
+        {
+          "point": [
+            6.362105369567871,
+            -69.0936279296875,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 41.2088623046875,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 0.2911376953125,
+          "ground_lowering_m": 0.2811279296875,
+          "new_structure_support_below_m": 0.5911712646484375
+        },
+        {
+          "point": [
+            9.945608139038086,
+            -75.70108032226562,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 41.38238525390625,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 0.11761474609375,
+          "ground_lowering_m": 0.10760498046875,
+          "new_structure_support_below_m": 0.4176483154296875
+        },
+        {
+          "point": [
+            9.522915840148926,
+            -75.96817016601562,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 40.756591796875,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 0.743408203125,
+          "ground_lowering_m": 0.7333984375,
+          "new_structure_support_below_m": 1.0433807373046875
+        },
+        {
+          "point": [
+            5.939414024353027,
+            -69.36070251464844,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 40.39202880859375,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 1.10797119140625,
+          "ground_lowering_m": 1.09796142578125,
+          "new_structure_support_below_m": 1.4080162048339844
+        }
+      ]
+    },
+    {
+      "name": "stone garden bridge railing post",
+      "examples": [
+        {
+          "point": [
+            289.6939392089844,
+            -391.3890075683594,
+            22.309972763061523
+          ],
+          "old_ground": 22.2203369140625,
+          "new_ground": 21.98773193359375,
+          "old_bottom_gap_m": 0.08963584899902344,
+          "new_bottom_gap_m": 0.32224082946777344,
+          "ground_lowering_m": 0.23260498046875,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            289.6510009765625,
+            -391.3153076171875,
+            22.309972763061523
+          ],
+          "old_ground": 22.2276611328125,
+          "new_ground": 22.0028076171875,
+          "old_bottom_gap_m": 0.08231163024902344,
+          "new_bottom_gap_m": 0.30716514587402344,
+          "ground_lowering_m": 0.224853515625,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            289.5660400390625,
+            -391.3153076171875,
+            22.309972763061523
+          ],
+          "old_ground": 22.228271484375,
+          "new_ground": 21.9967041015625,
+          "old_bottom_gap_m": 0.08170127868652344,
+          "new_bottom_gap_m": 0.31326866149902344,
+          "ground_lowering_m": 0.2315673828125,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            289.5240478515625,
+            -391.3890075683594,
+            22.309972763061523
+          ],
+          "old_ground": 22.22137451171875,
+          "new_ground": 21.9755859375,
+          "old_bottom_gap_m": 0.08859825134277344,
+          "new_bottom_gap_m": 0.33438682556152344,
+          "ground_lowering_m": 0.24578857421875,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            289.56695556640625,
+            -391.4626770019531,
+            22.309972763061523
+          ],
+          "old_ground": 22.2139892578125,
+          "new_ground": 21.96051025390625,
+          "old_bottom_gap_m": 0.09598350524902344,
+          "new_bottom_gap_m": 0.34946250915527344,
+          "ground_lowering_m": 0.25347900390625,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            289.6519470214844,
+            -391.4626770019531,
+            22.309972763061523
+          ],
+          "old_ground": 22.21343994140625,
+          "new_ground": 21.966552734375,
+          "old_bottom_gap_m": 0.09653282165527344,
+          "new_bottom_gap_m": 0.34342002868652344,
+          "ground_lowering_m": 0.24688720703125,
+          "new_structure_support_below_m": null
+        }
+      ]
+    },
+    {
+      "name": "Two-level-water-court entry connection",
+      "examples": [
+        {
+          "point": [
+            0.5661053657531738,
+            -102.38298797607422,
+            40.25
+          ],
+          "old_ground": 40.0999755859375,
+          "new_ground": 39.64959716796875,
+          "old_bottom_gap_m": 0.1500244140625,
+          "new_bottom_gap_m": 0.60040283203125,
+          "ground_lowering_m": 0.45037841796875
+        },
+        {
+          "point": [
+            0.9357976913452148,
+            -101.98282623291016,
+            40.25
+          ],
+          "old_ground": 40.09991455078125,
+          "new_ground": 39.35546875,
+          "old_bottom_gap_m": 0.15008544921875,
+          "new_bottom_gap_m": 0.89453125,
+          "ground_lowering_m": 0.74444580078125
+        },
+        {
+          "point": [
+            1.3078668117523193,
+            -101.58139038085938,
+            40.25
+          ],
+          "old_ground": 40.09991455078125,
+          "new_ground": 39.0594482421875,
+          "old_bottom_gap_m": 0.15008544921875,
+          "new_bottom_gap_m": 1.1905517578125,
+          "ground_lowering_m": 1.04046630859375
+        },
+        {
+          "point": [
+            1.6821568012237549,
+            -101.17877960205078,
+            40.25
+          ],
+          "old_ground": 40.09991455078125,
+          "new_ground": 39.1373291015625,
+          "old_bottom_gap_m": 0.15008544921875,
+          "new_bottom_gap_m": 1.1126708984375,
+          "ground_lowering_m": 0.96258544921875
+        },
+        {
+          "point": [
+            2.058450937271118,
+            -100.77510833740234,
+            40.25
+          ],
+          "old_ground": 40.10003662109375,
+          "new_ground": 39.4200439453125,
+          "old_bottom_gap_m": 0.14996337890625,
+          "new_bottom_gap_m": 0.8299560546875,
+          "ground_lowering_m": 0.67999267578125
+        },
+        {
+          "point": [
+            2.4364864826202393,
+            -100.3705062866211,
+            40.25
+          ],
+          "old_ground": 40.0999755859375,
+          "new_ground": 39.70330810546875,
+          "old_bottom_gap_m": 0.1500244140625,
+          "new_bottom_gap_m": 0.54669189453125,
+          "ground_lowering_m": 0.39666748046875
+        }
+      ]
+    },
+    {
+      "name": "West-neighbourhood-+1-02 entry connection",
+      "examples": [
+        {
+          "point": [
+            -69.08245086669922,
+            64.38623809814453,
+            43.264400482177734
+          ],
+          "old_ground": 43.03363037109375,
+          "new_ground": 42.50030517578125,
+          "old_bottom_gap_m": 0.23077011108398438,
+          "new_bottom_gap_m": 0.7640953063964844,
+          "ground_lowering_m": 0.5333251953125
+        }
+      ]
+    },
+    {
+      "name": "Water-bay--1-04 entry connection",
+      "examples": [
+        {
+          "point": [
+            129.8079833984375,
+            -255.44345092773438,
+            40.24821853637695
+          ],
+          "old_ground": 40.0804443359375,
+          "new_ground": 37.2537841796875,
+          "old_bottom_gap_m": 0.16777420043945312,
+          "new_bottom_gap_m": 2.994434356689453,
+          "ground_lowering_m": 2.82666015625
+        },
+        {
+          "point": [
+            129.49314880371094,
+            -255.92596435546875,
+            40.24821853637695
+          ],
+          "old_ground": 40.08221435546875,
+          "new_ground": 37.88494873046875,
+          "old_bottom_gap_m": 0.16600418090820312,
+          "new_bottom_gap_m": 2.363269805908203,
+          "ground_lowering_m": 2.197265625
+        },
+        {
+          "point": [
+            129.1800079345703,
+            -256.4060363769531,
+            40.24821853637695
+          ],
+          "old_ground": 40.08404541015625,
+          "new_ground": 38.51287841796875,
+          "old_bottom_gap_m": 0.16417312622070312,
+          "new_bottom_gap_m": 1.7353401184082031,
+          "ground_lowering_m": 1.5711669921875
+        },
+        {
+          "point": [
+            128.8685302734375,
+            -256.8837585449219,
+            40.24822235107422
+          ],
+          "old_ground": 40.0858154296875,
+          "new_ground": 38.853271484375,
+          "old_bottom_gap_m": 0.16240692138671875,
+          "new_bottom_gap_m": 1.3949508666992188,
+          "ground_lowering_m": 1.2325439453125
+        },
+        {
+          "point": [
+            128.55857849121094,
+            -257.35919189453125,
+            40.24822235107422
+          ],
+          "old_ground": 40.0875244140625,
+          "new_ground": 39.04144287109375,
+          "old_bottom_gap_m": 0.16069793701171875,
+          "new_bottom_gap_m": 1.2067794799804688,
+          "ground_lowering_m": 1.04608154296875
+        },
+        {
+          "point": [
+            128.2499542236328,
+            -257.8327941894531,
+            40.24822235107422
+          ],
+          "old_ground": 40.08929443359375,
+          "new_ground": 38.99468994140625,
+          "old_bottom_gap_m": 0.15892791748046875,
+          "new_bottom_gap_m": 1.2535324096679688,
+          "ground_lowering_m": 1.0946044921875
+        }
+      ]
+    },
+    {
+      "name": "West-neighbourhood-+1-02 court floor",
+      "examples": [
+        {
+          "point": [
+            -53.75631332397461,
+            78.29509735107422,
+            44.571109771728516
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 42.72320556640625,
+          "old_bottom_gap_m": -0.030025482177734375,
+          "new_bottom_gap_m": 1.8479042053222656,
+          "ground_lowering_m": 1.8779296875,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            -57.0287971496582,
+            50.486995697021484,
+            44.571109771728516
+          ],
+          "old_ground": 44.6011962890625,
+          "new_ground": 42.0985107421875,
+          "old_bottom_gap_m": -0.030086517333984375,
+          "new_bottom_gap_m": 2.4725990295410156,
+          "ground_lowering_m": 2.502685546875,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            -55.392555236816406,
+            64.39104461669922,
+            44.571109771728516
+          ],
+          "old_ground": 44.2950439453125,
+          "new_ground": 43.5670166015625,
+          "old_bottom_gap_m": 0.2760658264160156,
+          "new_bottom_gap_m": 1.0040931701660156,
+          "ground_lowering_m": 0.72802734375,
+          "new_structure_support_below_m": 2.46026611328125
+        }
+      ]
+    },
+    {
+      "name": "Lower-lane--1-00 entry connection",
+      "examples": [
+        {
+          "point": [
+            208.76744079589844,
+            -314.5013732910156,
+            33.98906707763672
+          ],
+          "old_ground": 33.767578125,
+          "new_ground": 30.63751220703125,
+          "old_bottom_gap_m": 0.22148895263671875,
+          "new_bottom_gap_m": 3.3515548706054688,
+          "ground_lowering_m": 3.13006591796875
+        }
+      ]
+    },
+    {
+      "name": "West-neighbourhood-+1-00 entry connection",
+      "examples": [
+        {
+          "point": [
+            -33.85037612915039,
+            168.79611206054688,
+            50.515804290771484
+          ],
+          "old_ground": 50.2841796875,
+          "new_ground": 46.94580078125,
+          "old_bottom_gap_m": 0.23162460327148438,
+          "new_bottom_gap_m": 3.5700035095214844,
+          "ground_lowering_m": 3.33837890625
+        }
+      ]
+    },
+    {
+      "name": "West-neighbourhood-+1-03 entry connection",
+      "examples": [
+        {
+          "point": [
+            -68.20952606201172,
+            -3.4166197776794434,
+            40.37211990356445
+          ],
+          "old_ground": 40.18231201171875,
+          "new_ground": 39.31640625,
+          "old_bottom_gap_m": 0.18980789184570312,
+          "new_bottom_gap_m": 1.0557136535644531,
+          "ground_lowering_m": 0.86590576171875
+        }
+      ]
+    },
+    {
+      "name": "West-neighbourhood-+1-02 front wall",
+      "examples": [
+        {
+          "point": [
+            -52.94159698486328,
+            77.81822967529297,
+            44.61111068725586
+          ],
+          "old_ground": 44.6011962890625,
+          "new_ground": 43.93853759765625,
+          "old_bottom_gap_m": 0.009914398193359375,
+          "new_bottom_gap_m": 0.6725730895996094,
+          "ground_lowering_m": 0.66265869140625,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -54.268280029296875,
+            66.54467010498047,
+            44.61111068725586
+          ],
+          "old_ground": 44.4105224609375,
+          "new_ground": 44.1500244140625,
+          "old_bottom_gap_m": 0.20058822631835938,
+          "new_bottom_gap_m": 0.4610862731933594,
+          "ground_lowering_m": 0.260498046875,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -53.40934371948242,
+            66.44358825683594,
+            44.61111068725586
+          ],
+          "old_ground": 44.49822998046875,
+          "new_ground": 44.3497314453125,
+          "old_bottom_gap_m": 0.11288070678710938,
+          "new_bottom_gap_m": 0.2613792419433594,
+          "ground_lowering_m": 0.14849853515625,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -53.175472259521484,
+            72.13090515136719,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 44.0152587890625,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 0.5958518981933594,
+          "ground_lowering_m": 0.58587646484375,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -53.60493850708008,
+            72.18144989013672,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 43.6427001953125,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 0.9684104919433594,
+          "ground_lowering_m": 0.95843505859375,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -52.51213073730469,
+            77.76768493652344,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 44.5494384765625,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 0.061672210693359375,
+          "ground_lowering_m": 0.05169677734375,
+          "new_structure_support_below_m": 0.005001068115234375
+        }
+      ]
+    },
+    {
+      "name": "Two-level-water-court court floor",
+      "examples": [
+        {
+          "point": [
+            4.40425968170166,
+            -69.7392578125,
+            41.619998931884766
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 38.1419677734375,
+          "old_bottom_gap_m": 0.13000869750976562,
+          "new_bottom_gap_m": 3.4780311584472656,
+          "ground_lowering_m": 3.3480224609375
+        },
+        {
+          "point": [
+            4.671338081359863,
+            -70.16194915771484,
+            41.619998931884766
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 38.15869140625,
+          "old_bottom_gap_m": 0.13000869750976562,
+          "new_bottom_gap_m": 3.4613075256347656,
+          "ground_lowering_m": 3.331298828125
+        },
+        {
+          "point": [
+            5.09403133392334,
+            -69.89486694335938,
+            41.619998931884766
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 38.75830078125,
+          "old_bottom_gap_m": 0.13000869750976562,
+          "new_bottom_gap_m": 2.8616981506347656,
+          "ground_lowering_m": 2.731689453125
+        },
+        {
+          "point": [
+            4.40425968170166,
+            -69.7392578125,
+            41.619998931884766
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 38.1419677734375,
+          "old_bottom_gap_m": 0.13000869750976562,
+          "new_bottom_gap_m": 3.4780311584472656,
+          "ground_lowering_m": 3.3480224609375
+        },
+        {
+          "point": [
+            5.09403133392334,
+            -69.89486694335938,
+            41.619998931884766
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 38.75830078125,
+          "old_bottom_gap_m": 0.13000869750976562,
+          "new_bottom_gap_m": 2.8616981506347656,
+          "ground_lowering_m": 2.731689453125
+        },
+        {
+          "point": [
+            4.826951026916504,
+            -69.47217559814453,
+            41.619998931884766
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 38.85357666015625,
+          "old_bottom_gap_m": 0.13000869750976562,
+          "new_bottom_gap_m": 2.7664222717285156,
+          "ground_lowering_m": 2.63641357421875
+        }
+      ]
+    },
+    {
+      "name": "Water-bay-+1-00 front wall.001",
+      "examples": [
+        {
+          "point": [
+            -22.584415435791016,
+            -46.13780212402344,
+            41.5
+          ],
+          "old_ground": 41.40283203125,
+          "new_ground": 41.17266845703125,
+          "old_bottom_gap_m": 0.09716796875,
+          "new_bottom_gap_m": 0.32733154296875,
+          "ground_lowering_m": 0.23016357421875,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -16.0878849029541,
+            -56.419498443603516,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 36.66796875,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 4.83203125,
+          "ground_lowering_m": 4.822021484375,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -15.40243911743164,
+            -55.98639678955078,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 37.48028564453125,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 4.01971435546875,
+          "ground_lowering_m": 4.00970458984375,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -18.993427276611328,
+            -51.062095642089844,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 37.61956787109375,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 3.88043212890625,
+          "ground_lowering_m": 3.87042236328125,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -19.336151123046875,
+            -51.278648376464844,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 37.42626953125,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 4.07373046875,
+          "ground_lowering_m": 4.063720703125,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -22.24169158935547,
+            -45.92124938964844,
+            41.5
+          ],
+          "old_ground": 41.4197998046875,
+          "new_ground": 41.28564453125,
+          "old_bottom_gap_m": 0.0802001953125,
+          "new_bottom_gap_m": 0.21435546875,
+          "ground_lowering_m": 0.1341552734375,
+          "new_structure_support_below_m": 0.005001068115234375
+        }
+      ]
+    }
+  ],
+  "new_bottom_support_issues": [],
+  "motion": {
+    "max_step_m": 2.5873069136406226,
+    "max_step_from_frame": 1070,
+    "max_acceleration_m_s2": 37.03603132260423,
+    "max_rotation_deg_frame": 2.6753137992885043,
+    "max_rotation_from_frame": 44,
+    "saved_json_position_max_abs": 3.049473332339403e-05,
+    "saved_json_quaternion_max_abs": 2.9788433275612647e-08
+  },
+  "scope": "CPU saved scene only. 27 offset sampled segment sweeps, not full continuous body volume. Surface pairs and bottom sampling require interpretation; visuals not viewed.",
+  "water_surface_terrain": [
+    {
+      "id": "N1 East neighbourhood water lane",
+      "samples": 8350,
+      "maximum_ground_above_water_m": -1.1726188659667969,
+      "minimum_depth_m": 1.1726188659667969,
+      "covered_examples": []
+    },
+    {
+      "id": "N2 West courtyard runnel",
+      "samples": 7250,
+      "maximum_ground_above_water_m": -1.1961250305175781,
+      "minimum_depth_m": 1.1961250305175781,
+      "covered_examples": []
+    },
+    {
+      "id": "N3 East quiet basin",
+      "samples": 3875,
+      "maximum_ground_above_water_m": -1.2466392517089844,
+      "minimum_depth_m": 1.2466392517089844,
+      "covered_examples": []
+    },
+    {
+      "id": "N4 West bay garden loop",
+      "samples": 5500,
+      "maximum_ground_above_water_m": -1.2752037048339844,
+      "minimum_depth_m": 1.2752037048339844,
+      "covered_examples": []
+    },
+    {
+      "id": "N5 Lower stepped water lane",
+      "samples": 6900,
+      "maximum_ground_above_water_m": -0.9263458251953125,
+      "minimum_depth_m": 0.9263458251953125,
+      "covered_examples": []
+    }
+  ],
+  "previously_grounded_support_changes": [
+    {
+      "name": "West-neighbourhood-+1-02 front wall.001",
+      "examples": [
+        {
+          "point": [
+            -56.12563705444336,
+            50.761695861816406,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 43.19964599609375,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 1.4114646911621094,
+          "ground_lowering_m": 1.4014892578125,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -55.26669692993164,
+            50.660614013671875,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 44.26678466796875,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 0.3443260192871094,
+          "ground_lowering_m": 0.3343505859375,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -55.0328254699707,
+            56.347930908203125,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 44.548828125,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 0.062282562255859375,
+          "ground_lowering_m": 0.05230712890625,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -55.46229553222656,
+            56.398475646972656,
+            44.61111068725586
+          ],
+          "old_ground": 44.6011962890625,
+          "new_ground": 43.8646240234375,
+          "old_bottom_gap_m": 0.009914398193359375,
+          "new_bottom_gap_m": 0.7464866638183594,
+          "ground_lowering_m": 0.736572265625,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -55.6961669921875,
+            50.71115493774414,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 43.7283935546875,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 0.8827171325683594,
+          "ground_lowering_m": 0.87274169921875,
+          "new_structure_support_below_m": 0.005001068115234375
+        }
+      ]
+    },
+    {
+      "name": "Water-bay-+1-00 court floor",
+      "examples": [
+        {
+          "point": [
+            -16.556779861450195,
+            -57.1953239440918,
+            41.459999084472656
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 36.66796875,
+          "old_bottom_gap_m": -0.02999114990234375,
+          "new_bottom_gap_m": 4.792030334472656,
+          "ground_lowering_m": 4.822021484375,
+          "new_structure_support_below_m": null
+        }
+      ]
+    },
+    {
+      "name": "Two-level-water-court front wall",
+      "examples": [
+        {
+          "point": [
+            5.516722679138184,
+            -69.6277847290039,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 39.57513427734375,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 1.92486572265625,
+          "ground_lowering_m": 1.91485595703125,
+          "new_structure_support_below_m": 2.2248382568359375
+        },
+        {
+          "point": [
+            6.362105369567871,
+            -69.0936279296875,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 41.2088623046875,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 0.2911376953125,
+          "ground_lowering_m": 0.2811279296875,
+          "new_structure_support_below_m": 0.5911712646484375
+        },
+        {
+          "point": [
+            9.945608139038086,
+            -75.70108032226562,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 41.38238525390625,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 0.11761474609375,
+          "ground_lowering_m": 0.10760498046875,
+          "new_structure_support_below_m": 0.4176483154296875
+        },
+        {
+          "point": [
+            9.522915840148926,
+            -75.96817016601562,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 40.756591796875,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 0.743408203125,
+          "ground_lowering_m": 0.7333984375,
+          "new_structure_support_below_m": 1.0433807373046875
+        },
+        {
+          "point": [
+            5.939414024353027,
+            -69.36070251464844,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 40.39202880859375,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 1.10797119140625,
+          "ground_lowering_m": 1.09796142578125,
+          "new_structure_support_below_m": 1.4080162048339844
+        }
+      ]
+    },
+    {
+      "name": "stone garden bridge railing post",
+      "examples": [
+        {
+          "point": [
+            289.6939392089844,
+            -391.3890075683594,
+            22.309972763061523
+          ],
+          "old_ground": 22.2203369140625,
+          "new_ground": 21.98773193359375,
+          "old_bottom_gap_m": 0.08963584899902344,
+          "new_bottom_gap_m": 0.32224082946777344,
+          "ground_lowering_m": 0.23260498046875,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            289.6510009765625,
+            -391.3153076171875,
+            22.309972763061523
+          ],
+          "old_ground": 22.2276611328125,
+          "new_ground": 22.0028076171875,
+          "old_bottom_gap_m": 0.08231163024902344,
+          "new_bottom_gap_m": 0.30716514587402344,
+          "ground_lowering_m": 0.224853515625,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            289.5660400390625,
+            -391.3153076171875,
+            22.309972763061523
+          ],
+          "old_ground": 22.228271484375,
+          "new_ground": 21.9967041015625,
+          "old_bottom_gap_m": 0.08170127868652344,
+          "new_bottom_gap_m": 0.31326866149902344,
+          "ground_lowering_m": 0.2315673828125,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            289.5240478515625,
+            -391.3890075683594,
+            22.309972763061523
+          ],
+          "old_ground": 22.22137451171875,
+          "new_ground": 21.9755859375,
+          "old_bottom_gap_m": 0.08859825134277344,
+          "new_bottom_gap_m": 0.33438682556152344,
+          "ground_lowering_m": 0.24578857421875,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            289.56695556640625,
+            -391.4626770019531,
+            22.309972763061523
+          ],
+          "old_ground": 22.2139892578125,
+          "new_ground": 21.96051025390625,
+          "old_bottom_gap_m": 0.09598350524902344,
+          "new_bottom_gap_m": 0.34946250915527344,
+          "ground_lowering_m": 0.25347900390625,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            289.6519470214844,
+            -391.4626770019531,
+            22.309972763061523
+          ],
+          "old_ground": 22.21343994140625,
+          "new_ground": 21.966552734375,
+          "old_bottom_gap_m": 0.09653282165527344,
+          "new_bottom_gap_m": 0.34342002868652344,
+          "ground_lowering_m": 0.24688720703125,
+          "new_structure_support_below_m": null
+        }
+      ]
+    },
+    {
+      "name": "West-neighbourhood-+1-02 court floor",
+      "examples": [
+        {
+          "point": [
+            -53.75631332397461,
+            78.29509735107422,
+            44.571109771728516
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 42.72320556640625,
+          "old_bottom_gap_m": -0.030025482177734375,
+          "new_bottom_gap_m": 1.8479042053222656,
+          "ground_lowering_m": 1.8779296875,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            -57.0287971496582,
+            50.486995697021484,
+            44.571109771728516
+          ],
+          "old_ground": 44.6011962890625,
+          "new_ground": 42.0985107421875,
+          "old_bottom_gap_m": -0.030086517333984375,
+          "new_bottom_gap_m": 2.4725990295410156,
+          "ground_lowering_m": 2.502685546875,
+          "new_structure_support_below_m": null
+        },
+        {
+          "point": [
+            -55.392555236816406,
+            64.39104461669922,
+            44.571109771728516
+          ],
+          "old_ground": 44.2950439453125,
+          "new_ground": 43.5670166015625,
+          "old_bottom_gap_m": 0.2760658264160156,
+          "new_bottom_gap_m": 1.0040931701660156,
+          "ground_lowering_m": 0.72802734375,
+          "new_structure_support_below_m": 2.46026611328125
+        }
+      ]
+    },
+    {
+      "name": "West-neighbourhood-+1-02 front wall",
+      "examples": [
+        {
+          "point": [
+            -52.94159698486328,
+            77.81822967529297,
+            44.61111068725586
+          ],
+          "old_ground": 44.6011962890625,
+          "new_ground": 43.93853759765625,
+          "old_bottom_gap_m": 0.009914398193359375,
+          "new_bottom_gap_m": 0.6725730895996094,
+          "ground_lowering_m": 0.66265869140625,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -54.268280029296875,
+            66.54467010498047,
+            44.61111068725586
+          ],
+          "old_ground": 44.4105224609375,
+          "new_ground": 44.1500244140625,
+          "old_bottom_gap_m": 0.20058822631835938,
+          "new_bottom_gap_m": 0.4610862731933594,
+          "ground_lowering_m": 0.260498046875,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -53.40934371948242,
+            66.44358825683594,
+            44.61111068725586
+          ],
+          "old_ground": 44.49822998046875,
+          "new_ground": 44.3497314453125,
+          "old_bottom_gap_m": 0.11288070678710938,
+          "new_bottom_gap_m": 0.2613792419433594,
+          "ground_lowering_m": 0.14849853515625,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -53.175472259521484,
+            72.13090515136719,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 44.0152587890625,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 0.5958518981933594,
+          "ground_lowering_m": 0.58587646484375,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -53.60493850708008,
+            72.18144989013672,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 43.6427001953125,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 0.9684104919433594,
+          "ground_lowering_m": 0.95843505859375,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -52.51213073730469,
+            77.76768493652344,
+            44.61111068725586
+          ],
+          "old_ground": 44.60113525390625,
+          "new_ground": 44.5494384765625,
+          "old_bottom_gap_m": 0.009975433349609375,
+          "new_bottom_gap_m": 0.061672210693359375,
+          "ground_lowering_m": 0.05169677734375,
+          "new_structure_support_below_m": 0.005001068115234375
+        }
+      ]
+    },
+    {
+      "name": "Water-bay-+1-00 front wall.001",
+      "examples": [
+        {
+          "point": [
+            -22.584415435791016,
+            -46.13780212402344,
+            41.5
+          ],
+          "old_ground": 41.40283203125,
+          "new_ground": 41.17266845703125,
+          "old_bottom_gap_m": 0.09716796875,
+          "new_bottom_gap_m": 0.32733154296875,
+          "ground_lowering_m": 0.23016357421875,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -16.0878849029541,
+            -56.419498443603516,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 36.66796875,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 4.83203125,
+          "ground_lowering_m": 4.822021484375,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -15.40243911743164,
+            -55.98639678955078,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 37.48028564453125,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 4.01971435546875,
+          "ground_lowering_m": 4.00970458984375,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -18.993427276611328,
+            -51.062095642089844,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 37.61956787109375,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 3.88043212890625,
+          "ground_lowering_m": 3.87042236328125,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -19.336151123046875,
+            -51.278648376464844,
+            41.5
+          ],
+          "old_ground": 41.489990234375,
+          "new_ground": 37.42626953125,
+          "old_bottom_gap_m": 0.010009765625,
+          "new_bottom_gap_m": 4.07373046875,
+          "ground_lowering_m": 4.063720703125,
+          "new_structure_support_below_m": 0.005001068115234375
+        },
+        {
+          "point": [
+            -22.24169158935547,
+            -45.92124938964844,
+            41.5
+          ],
+          "old_ground": 41.4197998046875,
+          "new_ground": 41.28564453125,
+          "old_bottom_gap_m": 0.0802001953125,
+          "new_bottom_gap_m": 0.21435546875,
+          "ground_lowering_m": 0.1341552734375,
+          "new_structure_support_below_m": 0.005001068115234375
+        }
+      ]
+    }
+  ],
+  "crossing_soffit_interfaces": [
+    {
+      "id": "N1 East neighbourhood water lane crossing 1",
+      "road": "Continuous bank lane 1",
+      "soffit_top_to_road_gaps_m": [
+        -0.0249176025390625,
+        -0.0250091552734375,
+        -0.02509307861328125
+      ],
+      "specified_under_clearance_m": 1.0456640846849723
+    },
+    {
+      "id": "N1 East neighbourhood water lane crossing 2",
+      "road": "West-neighbourhood-+1-00 entry connection",
+      "soffit_top_to_road_gaps_m": [
+        -0.07367324829101562,
+        -0.024990081787109375
+      ],
+      "specified_under_clearance_m": 1.2948169779083258
+    },
+    {
+      "id": "N1 East neighbourhood water lane crossing 3",
+      "road": "Continuous bank lane 1",
+      "soffit_top_to_road_gaps_m": [
+        -0.02240753173828125,
+        -0.02500152587890625,
+        -0.025020599365234375
+      ],
+      "specified_under_clearance_m": 1.7303949576049433
+    },
+    {
+      "id": "N1 East neighbourhood water lane crossing 4",
+      "road": "West-neighbourhood-+1-01 entry connection",
+      "soffit_top_to_road_gaps_m": [
+        -0.02092742919921875,
+        -0.024932861328125,
+        -0.025020599365234375,
+        -0.0250701904296875,
+        -0.0249786376953125
+      ],
+      "specified_under_clearance_m": 2.1004653049045103
+    },
+    {
+      "id": "N1 East neighbourhood water lane crossing 5",
+      "road": "West-neighbourhood-+1-02 entry connection",
+      "soffit_top_to_road_gaps_m": [
+        -0.024990081787109375,
+        -0.02497100830078125,
+        -0.024967193603515625,
+        -0.024944305419921875,
+        -0.0250091552734375
+      ],
+      "specified_under_clearance_m": 2.4639296603732603
+    },
+    {
+      "id": "N1 East neighbourhood water lane crossing 6",
+      "road": "Continuous bank lane 1",
+      "soffit_top_to_road_gaps_m": [
+        -0.0269622802734375,
+        -0.0250396728515625,
+        -0.024993896484375
+      ],
+      "specified_under_clearance_m": 1.1010262607012535
+    },
+    {
+      "id": "N2 West courtyard runnel crossing 1",
+      "road": "Continuous bank lane -1",
+      "soffit_top_to_road_gaps_m": [
+        -0.026885986328125,
+        -0.025035858154296875,
+        -0.024997711181640625,
+        -0.025066375732421875
+      ],
+      "specified_under_clearance_m": 1.5379055000000008
+    },
+    {
+      "id": "N2 West courtyard runnel crossing 2",
+      "road": "East-neighbourhood--1-01 entry connection",
+      "soffit_top_to_road_gaps_m": [
+        -0.023853302001953125,
+        -0.02512359619140625,
+        -0.02496337890625,
+        -0.02500152587890625
+      ],
+      "specified_under_clearance_m": 1.9855678535156258
+    },
+    {
+      "id": "N2 West courtyard runnel crossing 3",
+      "road": "East-neighbourhood--1-02 entry connection",
+      "soffit_top_to_road_gaps_m": [
+        -0.025211334228515625,
+        -0.0250244140625,
+        -0.02501678466796875,
+        -0.024997711181640625,
+        -0.025005340576171875
+      ],
+      "specified_under_clearance_m": 1.4258663042943809
+    },
+    {
+      "id": "N2 West courtyard runnel crossing 4",
+      "road": "Continuous bank lane -1",
+      "soffit_top_to_road_gaps_m": [
+        -0.02764129638671875,
+        -0.02508544921875,
+        -0.025028228759765625
+      ],
+      "specified_under_clearance_m": 1.4468174820469883
+    },
+    {
+      "id": "N3 East quiet basin crossing 1",
+      "road": "Continuous bank lane 1",
+      "soffit_top_to_road_gaps_m": [
+        -0.02500152587890625,
+        -0.02500152587890625,
+        -0.02500152587890625,
+        -0.02494049072265625
+      ],
+      "specified_under_clearance_m": 1.8019999999999996
+    },
+    {
+      "id": "N3 East quiet basin crossing 2",
+      "road": "Water-bay-+1-00 entry connection",
+      "soffit_top_to_road_gaps_m": [
+        -0.02480316162109375
+      ],
+      "specified_under_clearance_m": 1.8106975097656246
+    },
+    {
+      "id": "N3 East quiet basin crossing 3",
+      "road": "Two-level-water-court entry connection",
+      "soffit_top_to_road_gaps_m": [
+        -0.0252685546875,
+        -0.0250091552734375,
+        -0.024993896484375,
+        -0.024936676025390625
+      ],
+      "specified_under_clearance_m": 2.4375895996093746
+    },
+    {
+      "id": "N3 East quiet basin crossing 4",
+      "road": "Continuous bank lane 1",
+      "soffit_top_to_road_gaps_m": [
+        -0.02500152587890625,
+        -0.02500152587890625,
+        -0.02500152587890625,
+        -0.02500152587890625,
+        -0.02494049072265625
+      ],
+      "specified_under_clearance_m": 1.8019999999999996
+    },
+    {
+      "id": "N4 West bay garden loop crossing 1",
+      "road": "Continuous bank lane -1",
+      "soffit_top_to_road_gaps_m": [
+        -0.02506256103515625,
+        -0.02500152587890625,
+        -0.02500152587890625,
+        -0.02500152587890625
+      ],
+      "specified_under_clearance_m": 1.8019694824218746
+    },
+    {
+      "id": "N4 West bay garden loop crossing 2",
+      "road": "Water-bay--1-03 entry connection",
+      "soffit_top_to_road_gaps_m": [
+        -0.0250701904296875,
+        -0.02498626708984375,
+        -0.02503204345703125,
+        -0.02496337890625,
+        -0.02498626708984375
+      ],
+      "specified_under_clearance_m": 2.4536418457031246
+    },
+    {
+      "id": "N4 West bay garden loop crossing 3",
+      "road": "Continuous bank lane -1",
+      "soffit_top_to_road_gaps_m": [
+        -0.024929046630859375,
+        -0.025012969970703125,
+        -0.02506256103515625,
+        -0.02506256103515625
+      ],
+      "specified_under_clearance_m": 1.8019694824218746
+    },
+    {
+      "id": "N5 Lower stepped water lane crossing 1",
+      "road": "Continuous bank lane -1",
+      "soffit_top_to_road_gaps_m": [
+        -0.023174285888671875,
+        -0.024932861328125,
+        -0.0250091552734375
+      ],
+      "specified_under_clearance_m": 1.2960712109375052
+    },
+    {
+      "id": "N5 Lower stepped water lane crossing 2",
+      "road": "Lower-lane--1-00 entry connection",
+      "soffit_top_to_road_gaps_m": [
+        -0.02507781982421875,
+        -0.024932861328125,
+        -0.02508544921875,
+        -0.02504730224609375,
+        -0.024993896484375
+      ],
+      "specified_under_clearance_m": 1.6071525418480448
+    },
+    {
+      "id": "N5 Lower stepped water lane crossing 3",
+      "road": "Lower-lane--1-01 entry connection",
+      "soffit_top_to_road_gaps_m": [
+        -0.028675079345703125,
+        -0.025053024291992188,
+        -0.0250244140625,
+        -0.025018692016601562,
+        -0.025014877319335938
+      ],
+      "specified_under_clearance_m": 2.103871503906255
+    },
+    {
+      "id": "N5 Lower stepped water lane crossing 4",
+      "road": "Lower-lane--1-02 entry connection",
+      "soffit_top_to_road_gaps_m": [
+        -0.0684356689453125,
+        -0.025007247924804688,
+        -0.025033950805664062,
+        -0.024965286254882812
+      ],
+      "specified_under_clearance_m": 1.2943011914062552
+    },
+    {
+      "id": "N5 Lower stepped water lane crossing 5",
+      "road": "Continuous bank lane -1",
+      "soffit_top_to_road_gaps_m": [
+        -0.028263092041015625,
+        -0.025020599365234375,
+        -0.024946212768554688,
+        -0.024911880493164062
+      ],
+      "specified_under_clearance_m": 1.1697440221427762
+    }
+  ],
+  "abutment_bottom_issues": [],
+  "camera_source_position_max_abs": 0.0,
+  "camera_source_quaternion_max_abs": 0.0,
+  "channel_subsurface_checks": [
+    {
+      "branch": "N1 East neighbourhood water lane",
+      "ray_count": 3340,
+      "hits": []
+    },
+    {
+      "branch": "N2 West courtyard runnel",
+      "ray_count": 2900,
+      "hits": []
+    },
+    {
+      "branch": "N3 East quiet basin",
+      "ray_count": 1550,
+      "hits": []
+    },
+    {
+      "branch": "N4 West bay garden loop",
+      "ray_count": 2200,
+      "hits": []
+    },
+    {
+      "branch": "N5 Lower stepped water lane",
+      "ray_count": 2760,
+      "hits": []
+    }
+  ],
+  "main_water_joins": [
+    {
+      "branch": "N1 East neighbourhood water lane",
+      "end": 0,
+      "overlaps_main_surface": true,
+      "branch_minus_main_z": 0.01802825927734375
+    },
+    {
+      "branch": "N1 East neighbourhood water lane",
+      "end": 334,
+      "overlaps_main_surface": true,
+      "branch_minus_main_z": 0.018047332763671875
+    },
+    {
+      "branch": "N2 West courtyard runnel",
+      "end": 0,
+      "overlaps_main_surface": true,
+      "branch_minus_main_z": 0.018054962158203125
+    },
+    {
+      "branch": "N2 West courtyard runnel",
+      "end": 290,
+      "overlaps_main_surface": true,
+      "branch_minus_main_z": 0.018001556396484375
+    },
+    {
+      "branch": "N3 East quiet basin",
+      "end": 0,
+      "overlaps_main_surface": true,
+      "branch_minus_main_z": 0.017940521240234375
+    },
+    {
+      "branch": "N3 East quiet basin",
+      "end": 155,
+      "overlaps_main_surface": true,
+      "branch_minus_main_z": 0.017940521240234375
+    },
+    {
+      "branch": "N4 West bay garden loop",
+      "end": 0,
+      "overlaps_main_surface": true,
+      "branch_minus_main_z": 0.018001556396484375
+    },
+    {
+      "branch": "N4 West bay garden loop",
+      "end": 220,
+      "overlaps_main_surface": true,
+      "branch_minus_main_z": 0.01800537109375
+    },
+    {
+      "branch": "N5 Lower stepped water lane",
+      "end": 0,
+      "overlaps_main_surface": true,
+      "branch_minus_main_z": 0.018009185791015625
+    },
+    {
+      "branch": "N5 Lower stepped water lane",
+      "end": 276,
+      "overlaps_main_surface": true,
+      "branch_minus_main_z": 0.018629074096679688
+    }
+  ],
+  "branch_projected_triangle_winding": [
+    {
+      "branch": "N1 East neighbourhood water lane",
+      "positive": 0,
+      "negative": 668,
+      "degenerate": 0
+    },
+    {
+      "branch": "N2 West courtyard runnel",
+      "positive": 0,
+      "negative": 580,
+      "degenerate": 0
+    },
+    {
+      "branch": "N3 East quiet basin",
+      "positive": 0,
+      "negative": 310,
+      "degenerate": 0
+    },
+    {
+      "branch": "N4 West bay garden loop",
+      "positive": 0,
+      "negative": 440,
+      "degenerate": 0
+    },
+    {
+      "branch": "N5 Lower stepped water lane",
+      "positive": 0,
+      "negative": 552,
+      "degenerate": 0
+    }
+  ],
+  "foundation_closure": [
+    {
+      "name": "Water-side continuous foundation West-neighbourhood-+1-02 court floor",
+      "supports": "West-neighbourhood-+1-02 court floor",
+      "bottom_vertex_gap_max": -0.2999992370605469,
+      "bottom_interior_gap_examples": [],
+      "bearing_samples_summary": {
+        "count": 4,
+        "missing": 0,
+        "min_top_minus_old_bottom": 0.034999847412109375,
+        "max_top_minus_old_bottom": 0.034999847412109375
+      }
+    },
+    {
+      "name": "Water-side continuous foundation West-neighbourhood-+1-02 front wall",
+      "supports": "West-neighbourhood-+1-02 front wall",
+      "bottom_vertex_gap_max": -0.2999992370605469,
+      "bottom_interior_gap_examples": [
+        {
+          "point": [
+            -53.604942321777344,
+            72.18144989013672,
+            43.74428176879883
+          ],
+          "bottom_above_ground_m": 0.10152053833007812
+        }
+      ],
+      "bearing_samples_summary": {
+        "count": 4,
+        "missing": 0,
+        "min_top_minus_old_bottom": 0.034999847412109375,
+        "max_top_minus_old_bottom": 0.034999847412109375
+      }
+    },
+    {
+      "name": "Water-side continuous foundation West-neighbourhood-+1-02 front wall.001",
+      "supports": "West-neighbourhood-+1-02 front wall.001",
+      "bottom_vertex_gap_max": -0.2999687194824219,
+      "bottom_interior_gap_examples": [],
+      "bearing_samples_summary": {
+        "count": 4,
+        "missing": 0,
+        "min_top_minus_old_bottom": 0.034999847412109375,
+        "max_top_minus_old_bottom": 0.034999847412109375
+      }
+    },
+    {
+      "name": "Water-side continuous foundation Water-bay-+1-00 court floor",
+      "supports": "Water-bay-+1-00 court floor",
+      "bottom_vertex_gap_max": -0.2999382019042969,
+      "bottom_interior_gap_examples": [],
+      "bearing_samples_summary": {
+        "count": 4,
+        "missing": 0,
+        "min_top_minus_old_bottom": 0.034999847412109375,
+        "max_top_minus_old_bottom": 0.034999847412109375
+      }
+    },
+    {
+      "name": "Water-side continuous foundation Water-bay-+1-00 front wall.001",
+      "supports": "Water-bay-+1-00 front wall.001",
+      "bottom_vertex_gap_max": -0.2999382019042969,
+      "bottom_interior_gap_examples": [
+        {
+          "point": [
+            -18.024911880493164,
+            -52.847900390625,
+            38.14030075073242
+          ],
+          "bottom_above_ground_m": 1.0466117858886719
+        },
+        {
+          "point": [
+            -18.99342918395996,
+            -51.06209945678711,
+            39.02646255493164
+          ],
+          "bottom_above_ground_m": 1.4068946838378906
+        },
+        {
+          "point": [
+            -19.336149215698242,
+            -51.278648376464844,
+            38.620304107666016
+          ],
+          "bottom_above_ground_m": 1.1940345764160156
+        },
+        {
+          "point": [
+            -19.961942672729492,
+            -49.276302337646484,
+            39.72056198120117
+          ],
+          "bottom_above_ground_m": 0.7527275085449219
+        },
+        {
+          "point": [
+            -18.650705337524414,
+            -50.845550537109375,
+            39.1445198059082
+          ],
+          "bottom_above_ground_m": 0.7523689270019531
+        },
+        {
+          "point": [
+            -18.99342918395996,
+            -51.06209945678711,
+            39.02646255493164
+          ],
+          "bottom_above_ground_m": 1.4068946838378906
+        }
+      ],
+      "bearing_samples_summary": {
+        "count": 4,
+        "missing": 0,
+        "min_top_minus_old_bottom": 0.034999847412109375,
+        "max_top_minus_old_bottom": 0.034999847412109375
+      }
+    },
+    {
+      "name": "Water-side continuous foundation Two-level-water-court court floor",
+      "supports": "Two-level-water-court court floor",
+      "bottom_vertex_gap_max": -0.2999076843261719,
+      "bottom_interior_gap_examples": [],
+      "bearing_samples_summary": {
+        "count": 32772,
+        "missing": 0,
+        "min_top_minus_old_bottom": 0.034999847412109375,
+        "max_top_minus_old_bottom": 0.034999847412109375
+      }
+    },
+    {
+      "name": "Water-side continuous foundation Two-level-water-court front wall",
+      "supports": "Two-level-water-court front wall",
+      "bottom_vertex_gap_max": -0.3000297546386719,
+      "bottom_interior_gap_examples": [],
+      "bearing_samples_summary": {
+        "count": 4,
+        "missing": 0,
+        "min_top_minus_old_bottom": 0.034999847412109375,
+        "max_top_minus_old_bottom": 0.034999847412109375
+      }
+    }
+  ],
+  "dense_bridge_surface_profiles": [
+    {
+      "id": "N1 East neighbourhood water lane crossing 1",
+      "samples": 245,
+      "min_top_minus_road_m": 0.0244140625,
+      "max_top_minus_road_m": 0.02667236328125,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N1 East neighbourhood water lane crossing 2",
+      "samples": 138,
+      "min_top_minus_road_m": 0.02349853515625,
+      "max_top_minus_road_m": 0.0709228515625,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N1 East neighbourhood water lane crossing 3",
+      "samples": 208,
+      "min_top_minus_road_m": 0.02215576171875,
+      "max_top_minus_road_m": 0.02557373046875,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N1 East neighbourhood water lane crossing 4",
+      "samples": 325,
+      "min_top_minus_road_m": 0.0194091796875,
+      "max_top_minus_road_m": 0.030517578125,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N1 East neighbourhood water lane crossing 5",
+      "samples": 325,
+      "min_top_minus_road_m": 0.0230712890625,
+      "max_top_minus_road_m": 0.03485107421875,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N1 East neighbourhood water lane crossing 6",
+      "samples": 309,
+      "min_top_minus_road_m": 0.02423095703125,
+      "max_top_minus_road_m": 0.02874755859375,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N2 West courtyard runnel crossing 1",
+      "samples": 315,
+      "min_top_minus_road_m": 0.02423095703125,
+      "max_top_minus_road_m": 0.02734375,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N2 West courtyard runnel crossing 2",
+      "samples": 322,
+      "min_top_minus_road_m": 0.01556396484375,
+      "max_top_minus_road_m": 0.02655029296875,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N2 West courtyard runnel crossing 3",
+      "samples": 325,
+      "min_top_minus_road_m": 0.02001953125,
+      "max_top_minus_road_m": 0.02655029296875,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N2 West courtyard runnel crossing 4",
+      "samples": 310,
+      "min_top_minus_road_m": 0.02484130859375,
+      "max_top_minus_road_m": 0.02734375,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N3 East quiet basin crossing 1",
+      "samples": 321,
+      "min_top_minus_road_m": 0.02490234375,
+      "max_top_minus_road_m": 0.025146484375,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N3 East quiet basin crossing 2",
+      "samples": 200,
+      "min_top_minus_road_m": 0.02203369140625,
+      "max_top_minus_road_m": 0.02801513671875,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N3 East quiet basin crossing 3",
+      "samples": 321,
+      "min_top_minus_road_m": 0.02490234375,
+      "max_top_minus_road_m": 0.026123046875,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N3 East quiet basin crossing 4",
+      "samples": 325,
+      "min_top_minus_road_m": 0.02490234375,
+      "max_top_minus_road_m": 0.025146484375,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N4 West bay garden loop crossing 1",
+      "samples": 311,
+      "min_top_minus_road_m": 0.02490234375,
+      "max_top_minus_road_m": 0.02508544921875,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N4 West bay garden loop crossing 2",
+      "samples": 325,
+      "min_top_minus_road_m": 0.02484130859375,
+      "max_top_minus_road_m": 0.02520751953125,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N4 West bay garden loop crossing 3",
+      "samples": 322,
+      "min_top_minus_road_m": 0.02471923828125,
+      "max_top_minus_road_m": 0.025146484375,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N5 Lower stepped water lane crossing 1",
+      "samples": 320,
+      "min_top_minus_road_m": 0.0228271484375,
+      "max_top_minus_road_m": 0.026123046875,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N5 Lower stepped water lane crossing 2",
+      "samples": 325,
+      "min_top_minus_road_m": 0.00482177734375,
+      "max_top_minus_road_m": 0.0267333984375,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N5 Lower stepped water lane crossing 3",
+      "samples": 325,
+      "min_top_minus_road_m": 0.0089111328125,
+      "max_top_minus_road_m": 0.02813720703125,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N5 Lower stepped water lane crossing 4",
+      "samples": 319,
+      "min_top_minus_road_m": 0.02532958984375,
+      "max_top_minus_road_m": 0.09637451171875,
+      "large_gap_or_lip": []
+    },
+    {
+      "id": "N5 Lower stepped water lane crossing 5",
+      "samples": 310,
+      "min_top_minus_road_m": 0.0250244140625,
+      "max_top_minus_road_m": 0.028076171875,
+      "large_gap_or_lip": []
+    }
+  ],
+  "foundation_union_unbridged_gaps": [
+    {
+      "foundation": "Water-side continuous foundation Water-bay-+1-00 front wall.001",
+      "point": [
+        -18.024911880493164,
+        -52.847900390625,
+        38.14030075073242
+      ],
+      "ground": 37.09368896484375,
+      "solid_intervals": [
+        [
+          37.25025939941406,
+          41.49493408203125,
+          "Water-side continuous foundation Water-bay-+1-00 court floor"
+        ],
+        [
+          38.140289306640625,
+          41.53497314453125,
+          "Water-side continuous foundation Water-bay-+1-00 front wall.001"
+        ]
+      ],
+      "local_lowest_foundation_bottom_to_ground_m": 0.1565704345703125,
+      "severity": "minor underside terrain gap; other footprint corners embedded, not unsupported whole foundation"
+    },
+    {
+      "foundation": "Water-side continuous foundation Water-bay-+1-00 front wall.001",
+      "point": [
+        -19.336149215698242,
+        -51.278648376464844,
+        38.620304107666016
+      ],
+      "ground": 37.42626953125,
+      "solid_intervals": [
+        [
+          37.53001403808594,
+          41.49493408203125,
+          "Water-side continuous foundation Water-bay-+1-00 court floor"
+        ],
+        [
+          38.62030029296875,
+          41.534912109375,
+          "Water-side continuous foundation Water-bay-+1-00 front wall.001"
+        ]
+      ],
+      "local_lowest_foundation_bottom_to_ground_m": 0.1037445068359375,
+      "severity": "minor underside terrain gap; other footprint corners embedded, not unsupported whole foundation"
+    }
+  ],
+  "remaining_required_geometry_fixes": []
+}

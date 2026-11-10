@@ -1,0 +1,42 @@
+{
+  "savedCanvasNodeCount": 31,
+  "preservedPriorNodeCount": 23,
+  "addedNodeCount": 8,
+  "images": [
+    {
+      "nodeId": "e61813ba-7074-4e83-9319-8a221b8c44ff",
+      "path": "知夏便服定款三件套-20261012-v3.0/知夏-便服四视图-v3.0.png",
+      "sha256": "3c7881d0d7476535ef1df0cc86dd5f08bed92e781bba85569770d5e7f552c4aa"
+    },
+    {
+      "nodeId": "75df41b5-ca0d-43b1-a5e7-6b99d4679982",
+      "path": "知夏便服定款三件套-20261012-v3.0/知夏-便服妆造分解-v3.0.png",
+      "sha256": "0733af26984a0eeb990f1b6a1634c8d6abb8896be8c30c9084a11fa5cae3ea7c"
+    },
+    {
+      "nodeId": "436f0bcf-24c0-4c8e-b8c4-d49552ee2467",
+      "path": "知夏便服定款三件套-20261012-v3.0/知夏-便服穿搭分解-v3.0.png",
+      "sha256": "95ffd8c707cae1f90e36e9316371a9a2991f924440f9854bc48f3dbf91ea98fe"
+    },
+    {
+      "nodeId": "19a4a70e-7a59-4db1-ae83-cf1c9e9ff787",
+      "path": "知夏便服定款三件套-20261012-v3.0/四视图独立图/01_front-half.png",
+      "sha256": "ba27cfdf54b34b7d0380cd3cefa6a9b53fe465655f2fd8d0151cc60d5d7ff81f"
+    },
+    {
+      "nodeId": "61b95f48-3df0-4553-ad6e-3431edf2d53e",
+      "path": "知夏便服定款三件套-20261012-v3.0/四视图独立图/02_facing-left.png",
+      "sha256": "25fbfc5d623bf1f0117c24e4849e47b0ef6416bcdc345517debd09d9af25fd56"
+    },
+    {
+      "nodeId": "cb8bb469-75d1-45c7-a7fb-83d989673b05",
+      "path": "知夏便服定款三件套-20261012-v3.0/四视图独立图/03_back.png",
+      "sha256": "1d9ef489aa942e6b8201a5bd71bb1e02d1ab7219302351a53268b56d7e4f5954"
+    },
+    {
+      "nodeId": "46e300c2-2aea-4f67-a41b-9b631182d245",
+      "path": "知夏便服定款三件套-20261012-v3.0/四视图独立图/04_facing-right.png",
+      "sha256": "81779edcd87f5774b00a7f1edcf598e44834ea8cb617fa2551598b5d75dca030"
+    }
+  ]
+}

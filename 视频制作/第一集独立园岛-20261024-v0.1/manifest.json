@@ -1,0 +1,106 @@
+{
+  "version": "v16",
+  "scene_sha256": "0b49bf592533b782622683399fb93f9cd60aa7c9cf71d14f133e8765d3c6af5b",
+  "source_sha256": "fc3c74876f489345d48ad7d4513d0ff8dddd1c2b93fa94bb6856f842a4254686",
+  "png_verified": [
+    "01-overview.png",
+    "02-island-separation.png",
+    "03-school-to-lower.png",
+    "04-below-the-fall.png",
+    "05-home-workshop.png",
+    "height-and-connections.png",
+    "masterplan.png"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 28,
+      "sha256": "e1b943257d252c73670b740940bc312d8b928c68a91fddcb0ea3fb6fc350a5e0"
+    },
+    {
+      "path": "01-overview.png",
+      "bytes": 1519311,
+      "sha256": "3629de5a49686a23a29027a032aeaa2f2f4ddf25a7714ec1f12a48c5ac2d06a3"
+    },
+    {
+      "path": "02-island-separation.png",
+      "bytes": 1499050,
+      "sha256": "5ce74b400527927bb6c495e9843d59c537cb0322f8e240ec7d1316cebaa5816b"
+    },
+    {
+      "path": "03-school-to-lower.png",
+      "bytes": 1795465,
+      "sha256": "e1f8fb84673b07753ce4cf8c82fd730583ce14372c7b3e61eef0bf1f11535c30"
+    },
+    {
+      "path": "04-below-the-fall.png",
+      "bytes": 1511723,
+      "sha256": "889cec0f0f00985b3555f0b329c38e55d216b80f57c955c3b32d326f91eeb316"
+    },
+    {
+      "path": "05-home-workshop.png",
+      "bytes": 1617792,
+      "sha256": "b4d0b71438de4b15e077e2bfac0d6cba18d9a43454bbdf6d60fc883cd07e4e0b"
+    },
+    {
+      "path": "audit-first-pass.json",
+      "bytes": 51314,
+      "sha256": "b52fa03b1b741f7d9e94449791497f7a63097558dc7c8743ca77582ecaf1e1c4"
+    },
+    {
+      "path": "audit-second-pass.json",
+      "bytes": 31067,
+      "sha256": "fb39ebf8a0be1a215f0be6cd1d0bb273bc545942e4d5bb449934026a5a796a65"
+    },
+    {
+      "path": "audit.json",
+      "bytes": 15215,
+      "sha256": "9636aabe7d6485c6bc92b40f1c103c7c645d0ad52342a550b4c49362183ee6a6"
+    },
+    {
+      "path": "audit.md",
+      "bytes": 1831,
+      "sha256": "06741bfa042e880615428e8ee95ec779acaebf430d25a53bcd2b1047dcbb0a70"
+    },
+    {
+      "path": "audit.py",
+      "bytes": 11500,
+      "sha256": "e4ed79893db538edb3179e54241f3f239676cf999c8b3d5105a6609bcd4c8f8b"
+    },
+    {
+      "path": "final-review.md",
+      "bytes": 1162,
+      "sha256": "dac51cf77112367f75077694dbcd7e4d0769a1925fabe57335bf6bafc7cd9944"
+    },
+    {
+      "path": "height-and-connections.png",
+      "bytes": 97017,
+      "sha256": "9f8bbf768b168dd039c51f9e3e77a983f49ff42cd4a5d7b338d4fafea0fb10f3"
+    },
+    {
+      "path": "island-garden-masterplan-v16.blend",
+      "bytes": 1211788,
+      "sha256": "0b49bf592533b782622683399fb93f9cd60aa7c9cf71d14f133e8765d3c6af5b"
+    },
+    {
+      "path": "masterplan.png",
+      "bytes": 184349,
+      "sha256": "29903c28c8bac3e17c37c429a01240ffad87d304761ebfcc340db39e709fb81f"
+    },
+    {
+      "path": "planning-data.json",
+      "bytes": 94309,
+      "sha256": "9445dd29a272d8730e55c25fb6c65cfb4bac888e03f6133b73cacbd1d7f39df3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1963,
+      "sha256": "a7826530309312c16a604c5e04dac3f025a0cbc4fbf5e7a605eca2617aaf1d26"
+    },
+    {
+      "path": "review.html",
+      "bytes": 3785,
+      "sha256": "8b63d404e279aba308b6f04b62b40c78d98c541aff958fd4d735821a04e7296d"
+    }
+  ]
+}

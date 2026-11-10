@@ -1,0 +1,44 @@
+{
+  "toonflowCanvas": true,
+  "nodes": [
+    {
+      "id": "68680e25-60f4-4685-85f5-4d499a777ffa",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "已迁移｜资产图册·关键帧图册·生成镜头表",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/68680e25-60f4-4685-85f5-4d499a777ffa/content.md"
+      }
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  }
+}

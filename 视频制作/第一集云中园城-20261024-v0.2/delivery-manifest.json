@@ -1,0 +1,192 @@
+[
+  {
+    "path": "B01-cloud-city-0-30s.mp4",
+    "bytes": 4366641,
+    "sha256": "e48fc78ad8ca9c38600a05d53e42e94523f58b67e5f5b8a0418437147e006422"
+  },
+  {
+    "path": "B02-cloud-city-28-58s.mp4",
+    "bytes": 4421787,
+    "sha256": "05ae62c2769c956b0bc27240d4d62386dbd4a961d1fb6fbe37cd7665fbcb55e0"
+  },
+  {
+    "path": "cloud-city-full-flight-58s-v04.mp4",
+    "bytes": 8570238,
+    "sha256": "d5b744469025e141ecd187d2ca64e84feecb0a1860b9e6eea7dd234b04c866a2"
+  },
+  {
+    "path": "cloud-city-water-reveal-58s-v04.blend",
+    "bytes": 96098631,
+    "sha256": "b42f0616e56006e4daa216b83557a07577dc3dcf7d829e9636ca6194fc97ffce"
+  },
+  {
+    "path": "contact-01.jpg",
+    "bytes": 331263,
+    "sha256": "66602f853936b1da3c1cefe0e78ddd546834e1c2725675e06073f1971a9b66e8"
+  },
+  {
+    "path": "contact-02.jpg",
+    "bytes": 317987,
+    "sha256": "be7f9fb5817a0e64f7ce9e1001370c520e38245167d7cd3570c27961e1a3e63c"
+  },
+  {
+    "path": "contact-03.jpg",
+    "bytes": 331250,
+    "sha256": "9c517159aacef0130b9ce5139d86f75a17821ef52d5c303f8c7138d8a4bdd407"
+  },
+  {
+    "path": "contact-04.jpg",
+    "bytes": 122231,
+    "sha256": "8ab0a7510cd578d2a4607139a7affb4cebb7f879c9aa5911f9804104440b3545"
+  },
+  {
+    "path": "final-review.md",
+    "bytes": 1681,
+    "sha256": "378d75a469b4de81c751040d3f174139288c76cc69cc0f5c289561f2276cf198"
+  },
+  {
+    "path": "frame-statistics.json",
+    "bytes": 231942,
+    "sha256": "374744fe9c3de363c37fa55f832c6eb716b2e2c1201556285d24d23ae43fe728"
+  },
+  {
+    "path": "independent-audit.json",
+    "bytes": 9592,
+    "sha256": "168e3a401427ee8f134e8f2c8041c46b496c18b862324819a68f91a41abeca40"
+  },
+  {
+    "path": "independent-audit.py",
+    "bytes": 9096,
+    "sha256": "d33e2fe7ae769d6840cdeb868bf247d31d266f8df6cf0e0341f64006f40d19b0"
+  },
+  {
+    "path": "media-validation.json",
+    "bytes": 1790,
+    "sha256": "65f19b53dcf2148926c32707cb4a5ca2d18baf46bc2937cd868417fc173b3381"
+  },
+  {
+    "path": "preview-v04/0300.png",
+    "bytes": 610453,
+    "sha256": "5818ae4fb9e4a0b0dbf4f32469c5767d941214765c0cc3f95124056e453d3ffc"
+  },
+  {
+    "path": "preview-v04/0331.png",
+    "bytes": 620323,
+    "sha256": "139be532e0d3e76379efff148f8028002ece0451f67c3ee7312f0661ffb87064"
+  },
+  {
+    "path": "preview-v04/0375.png",
+    "bytes": 660923,
+    "sha256": "e9d447b083ffcd4ae5c021d8eea36c3d3679f7d33a1207bef009e86f241e66f9"
+  },
+  {
+    "path": "preview-v04/0408.png",
+    "bytes": 576440,
+    "sha256": "b99118e64a199012b50edf5c05b75aa913879bb974e62f994026490906665aee"
+  },
+  {
+    "path": "preview-v04/0600.png",
+    "bytes": 620692,
+    "sha256": "147b285faaa3d3e7a1a85bae523cc046ddc75da22f8abcf1ffa5dfbb01435f13"
+  },
+  {
+    "path": "preview-v04/0697.png",
+    "bytes": 537423,
+    "sha256": "63b7f127ba493838b63da1f33dfb4dccc67b28143bb20a9cfdc0a55e75fc50c6"
+  },
+  {
+    "path": "preview-v04/1177.png",
+    "bytes": 623814,
+    "sha256": "c311e2324ddc9b540df0c5828def8c17aad57b2e32107931eae0ca49d92ccba2"
+  },
+  {
+    "path": "proxy-check/0331.png",
+    "bytes": 620264,
+    "sha256": "15a3b6ccf7bd6af004e43dcff6b95148b62873fde57f8639ecf9b03a17914bca"
+  },
+  {
+    "path": "proxy-check/0600.png",
+    "bytes": 621155,
+    "sha256": "fc35e0ed5b755d8d512c762c7e4d8e037c5debafffe51a17bcea6561bdb950cf"
+  },
+  {
+    "path": "proxy-check/1177.png",
+    "bytes": 623535,
+    "sha256": "10e9d680c96ad2e5ee71a2b60d760eb4dd45049c1e4f5e831cba3294e2fb9bbe"
+  },
+  {
+    "path": "proxy-image-comparison.json",
+    "bytes": 1127,
+    "sha256": "4b9a3ea91ec2548410bc87ddcb38d34ed6f4cd08c9cb5a8344d01f32ccfe4dc4"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2655,
+    "sha256": "da9ce9a6a29c31dd1b0637af92e0c401d98a330556524d56beea89d061264dd8"
+  },
+  {
+    "path": "render-inspection.json",
+    "bytes": 19656,
+    "sha256": "6bddf4b15a7fa2e3ccbc6054d7756f02233c23fc5bbf0f3d53996f976a4114cd"
+  },
+  {
+    "path": "render-only-batched-v04.blend",
+    "bytes": 130465848,
+    "sha256": "508cfe895be03915f3ffc0147fbf086edbbf3b242370592eb6033edb3f038a23"
+  },
+  {
+    "path": "render-proxy-audit.json",
+    "bytes": 331,
+    "sha256": "32e6f0e641c6432263e06eecb16805a7bd7e2001c967cc031b59f7b61461d048"
+  },
+  {
+    "path": "review-v04.md",
+    "bytes": 2263,
+    "sha256": "0cfc67dff2bb538598acc42c38b6d0847913e5ffdba3c080ec1a290b4f1bfef2"
+  },
+  {
+    "path": "review.html",
+    "bytes": 3320,
+    "sha256": "787a7c26604e207e20d3117c56578736c862a5588ed9ecb06696f5efc688562e"
+  },
+  {
+    "path": "revision.json",
+    "bytes": 1257,
+    "sha256": "73c35864966fab2e1d33bcd7599572609119911e7b3f39f127433f5e7c244a16"
+  },
+  {
+    "path": "source-boundary-check/0001.png",
+    "bytes": 340796,
+    "sha256": "2e148e8fcbe50c94c6d5a56fd5cd292ef8c9ae92747c12934285aaa05d924e00"
+  },
+  {
+    "path": "source-boundary-check/1392.png",
+    "bytes": 604005,
+    "sha256": "8baabfc7dcf7413444072497adb4c658c759ad5e593073630fd7d743b5656e10"
+  },
+  {
+    "path": "water-reveal-contact-01.jpg",
+    "bytes": 275722,
+    "sha256": "bf9d61b0b21d4ee819152518bc83aac95e6ae31efc12584a8842bf80f4e8d6d4"
+  },
+  {
+    "path": "water-reveal-contact-02.jpg",
+    "bytes": 335363,
+    "sha256": "7396d612336a86cd771757ab8cebb47300ac0011d23a7550132705ef654bdb27"
+  },
+  {
+    "path": "water-reveal-contact-03.jpg",
+    "bytes": 268989,
+    "sha256": "177a110333a68a9677759660c1f16ab15e5110b4e9c9a30090b08814dd03cb76"
+  },
+  {
+    "path": "water-reveal-contact-04.jpg",
+    "bytes": 72005,
+    "sha256": "6884d5eadee11a3444578ed02836312cb9cec9807aae018f83fc0bdfc7dfd2f7"
+  },
+  {
+    "path": "打开云中园城v04.cmd",
+    "bytes": 108,
+    "sha256": "7006b8236aa475aa1df8d92ce7b84c6fd61b7c3954e03910379a26196429c158"
+  }
+]

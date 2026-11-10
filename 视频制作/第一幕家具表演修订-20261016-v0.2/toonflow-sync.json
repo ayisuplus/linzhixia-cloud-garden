@@ -1,0 +1,76 @@
+{
+  "status": "synced",
+  "connectionId": "a8e9b1e4-4f34-45d4-b990-668ea24cfc0e",
+  "canvasId": "场景设计-半园两岸-20261014.json",
+  "added": [
+    {
+      "id": "fb6191e0-7ddc-4a24-9c88-da5109c8273c",
+      "kind": "image"
+    },
+    {
+      "id": "91b2cc8c-34df-4cf7-91d7-5d4dfeb08318",
+      "kind": "image"
+    },
+    {
+      "id": "0c746565-6cea-4745-96d3-5a39f0a82b95",
+      "kind": "image"
+    },
+    {
+      "id": "52774ef4-261e-4bf1-a599-3287b1774754",
+      "kind": "text"
+    }
+  ],
+  "nodeCountBefore": 43,
+  "nodeCountAfter": 47,
+  "imageReadback": {
+    "details": {
+      "canvasId": "场景设计-半园两岸-20261014.json",
+      "nodes": [
+        {
+          "id": "fb6191e0-7ddc-4a24-9c88-da5109c8273c",
+          "path": [
+            "outputs",
+            "image",
+            "value"
+          ],
+          "value": {
+            "url": "第一幕家具表演修订-20261016-v0.2/01-床托住知夏.png",
+            "mimeType": "image/png"
+          },
+          "truncated": []
+        },
+        {
+          "id": "91b2cc8c-34df-4cf7-91d7-5d4dfeb08318",
+          "path": [
+            "outputs",
+            "image",
+            "value"
+          ],
+          "value": {
+            "url": "第一幕家具表演修订-20261016-v0.2/02-衣柜递出昨晚搭配.png",
+            "mimeType": "image/png"
+          },
+          "truncated": []
+        },
+        {
+          "id": "0c746565-6cea-4745-96d3-5a39f0a82b95",
+          "path": [
+            "outputs",
+            "image",
+            "value"
+          ],
+          "value": {
+            "url": "第一幕家具表演修订-20261016-v0.2/03-床替他们盖好被子.png",
+            "mimeType": "image/png"
+          },
+          "truncated": []
+        }
+      ],
+      "hasMore": false,
+      "nextCursor": null
+    }
+  },
+  "textReadback": "完整读取工具返回的textPath；与v0.3源稿及来源附注一致。",
+  "scope": "本轮3图1完整动作稿，旧8图仍未回填，不混算",
+  "rawCanvasEdited": false
+}

@@ -1,0 +1,110 @@
+{
+  "audit_hashes_match": true,
+  "source_v18_preserved": true,
+  "three_videos_full_decode": true,
+  "native_frames": 1392,
+  "fps": 24,
+  "full_duration_seconds": 58,
+  "still_images_decoded": [
+    {
+      "file": "01-overview.png",
+      "size": [
+        1440,
+        900
+      ]
+    },
+    {
+      "file": "02-city-depth.png",
+      "size": [
+        1440,
+        900
+      ]
+    },
+    {
+      "file": "03-home-neighbours.png",
+      "size": [
+        1440,
+        900
+      ]
+    },
+    {
+      "file": "04-school-lane.png",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "05-water-neighbours.png",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "06-home-lane.png",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "07-workshop-arrival.png",
+      "size": [
+        960,
+        540
+      ]
+    },
+    {
+      "file": "cloud-reveal-contact.jpg",
+      "size": [
+        1600,
+        832
+      ]
+    },
+    {
+      "file": "contact-01.jpg",
+      "size": [
+        1600,
+        832
+      ]
+    },
+    {
+      "file": "contact-02.jpg",
+      "size": [
+        1600,
+        832
+      ]
+    },
+    {
+      "file": "contact-03.jpg",
+      "size": [
+        1600,
+        832
+      ]
+    },
+    {
+      "file": "home-arrival-contact.jpg",
+      "size": [
+        1600,
+        1040
+      ]
+    },
+    {
+      "file": "preview-contact.jpg",
+      "size": [
+        1600,
+        1040
+      ]
+    }
+  ],
+  "html_local_references": 16,
+  "visual_review": "Final per-second and critical half-second contact sheets plus selected full-size frames; not uninterrupted real-time visual acceptance",
+  "remaining_visual_limits": [
+    "some broad empty lawns",
+    "simplified solid island underside visible in places",
+    "final entrance depth visually subtle at oblique view",
+    "distant buildings repeat and are visual proxies"
+  ],
+  "generated_model_video": false
+}

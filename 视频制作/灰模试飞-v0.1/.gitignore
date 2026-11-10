@@ -1,0 +1,8 @@
+*.blend
+*.blend1
+frames/
+style-frames/
+*.log
+*.png
+*.mp4
+*.glb

@@ -1,0 +1,24 @@
+{
+  "originalNodes": 67,
+  "currentNodes": 75,
+  "newExistingImageReferences": 3,
+  "newGapCards": 4,
+  "newNavigation": 1,
+  "originalIdsPreserved": true,
+  "originalContentPreserved": true,
+  "edgesPreserved": true,
+  "shotPositionsVerified": 16,
+  "allMovedLabelsPositionsMcpVerified": 74,
+  "currentLinksChecked": 160,
+  "browserVisualReview": false,
+  "videoGenerated": false,
+  "canvasFileCommitted": false,
+  "note": "画布实时保存；原有未提交内容保留，本轮Git只提交文档、新增文字节点及布局回执，不混入此前画布修改。",
+  "newTextNodes": [
+    "80d9afbb-50b0-49f2-aba8-89b0eb5a017c",
+    "97d31e8a-7660-4317-a79b-01ca3fc9ff1a",
+    "9339fd95-8735-4df2-a8a5-1874d20c428d",
+    "9e8fcafa-9fd6-4d7e-9c20-e0f2ea76619f",
+    "f7931412-6ae9-46aa-bfdd-cbdfbd3844fa"
+  ]
+}

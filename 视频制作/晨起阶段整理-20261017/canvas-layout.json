@@ -1,0 +1,1064 @@
+{
+  "originalCount": 67,
+  "addedCount": 8,
+  "expectedCount": 75,
+  "shotMapping": [
+    {
+      "shotId": "E01-A-001",
+      "nodeId": "83995fc6-228b-4b5e-a0c6-f7be2c7a2a3b",
+      "label": "E01-A-001｜圆闹钟伸手｜动作终态参考",
+      "position": {
+        "x": 0,
+        "y": 700
+      },
+      "completeFrameGap": false,
+      "image": "视频制作/第一幕完整镜头包-20261016-v0.1/08-闹钟伸手.png"
+    },
+    {
+      "shotId": "E01-A-002",
+      "nodeId": "9b5a0422-a5bd-4849-ad48-6d5070d2ec36",
+      "label": "E01-A-002｜知夏抱汤圆熟睡｜熟睡姿态参考",
+      "position": {
+        "x": 650,
+        "y": 700
+      },
+      "completeFrameGap": false,
+      "image": "视频制作/第一幕晨起-K02长手闹钟-20261015-v0.2/E01-A-K02-长手闹钟催醒前02.png"
+    },
+    {
+      "shotId": "E01-A-003",
+      "nodeId": "eefa306d-4cde-46c2-ba1a-d9091ddc8fc9",
+      "label": "E01-A-003｜第一拳与抱紧翻身｜第一拳接触参考",
+      "position": {
+        "x": 1300,
+        "y": 700
+      },
+      "completeFrameGap": false,
+      "image": "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/01-K02-P1-半醒偷看.png"
+    },
+    {
+      "shotId": "E01-A-004",
+      "nodeId": "369659ef-5d21-4889-bde6-f02366709b5c",
+      "label": "E01-A-004｜第二拳打的是汤圆｜第二拳接触参考",
+      "position": {
+        "x": 1950,
+        "y": 700
+      },
+      "completeFrameGap": false,
+      "image": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/02-第二拳-发夹统一.png"
+    },
+    {
+      "shotId": "E01-A-005",
+      "nodeId": "a1ff71c1-f40f-48c5-9927-4bc84dedd195",
+      "label": "E01-A-005｜第三拳被按停｜按停姿态参考",
+      "position": {
+        "x": 0,
+        "y": 1400
+      },
+      "completeFrameGap": false,
+      "image": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/03-第三拳-发夹统一.png"
+    },
+    {
+      "shotId": "E01-A-006",
+      "nodeId": "547f2b40-5e6a-41f5-b6f5-8498be66e185",
+      "label": "E01-A-006｜坐稳但没醒透｜坐稳状态参考",
+      "position": {
+        "x": 650,
+        "y": 1400
+      },
+      "completeFrameGap": false,
+      "image": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/04-坐稳-发夹统一.png"
+    },
+    {
+      "shotId": "E01-A-007",
+      "nodeId": "ec6f18a4-2a51-4021-a97d-328b83ec4ee0",
+      "label": "E01-A-007｜床托背，被子催醒｜托背与被角显像状态候选",
+      "position": {
+        "x": 1300,
+        "y": 1400
+      },
+      "completeFrameGap": false,
+      "image": "视频制作/第一幕智能镜与表情被子-20261017-v0.1/02-被角动态材质-显像态.png"
+    },
+    {
+      "shotId": "E01-A-008",
+      "nodeId": "b76fb5be-63e1-427f-900c-d66bfd8e4ab7",
+      "label": "E01-A-008｜拖鞋到位｜拖鞋到位参考",
+      "position": {
+        "x": 1950,
+        "y": 1400
+      },
+      "completeFrameGap": false,
+      "image": "视频制作/第一幕完整镜头包-20261016-v0.1/02-拖鞋到位.png"
+    },
+    {
+      "shotId": "E01-A-009",
+      "nodeId": "4aa5617f-cfdd-4049-a026-79b7a99515a9",
+      "label": "E01-A-009｜衣柜镜中预览搭配｜智能镜预设试穿候选",
+      "position": {
+        "x": 0,
+        "y": 2100
+      },
+      "completeFrameGap": false,
+      "image": "视频制作/第一幕智能镜云上花园-20261017-v0.1/01-智能镜-云上花园.png"
+    },
+    {
+      "shotId": "E01-A-010",
+      "nodeId": "97d31e8a-7660-4317-a79b-01ca3fc9ff1a",
+      "label": "E01-A-010｜托盘送水｜缺完整画面",
+      "position": {
+        "x": 650,
+        "y": 2100
+      },
+      "completeFrameGap": true,
+      "image": null
+    },
+    {
+      "shotId": "E01-A-011",
+      "nodeId": "9339fd95-8735-4df2-a8a5-1874d20c428d",
+      "label": "E01-A-011｜声音越叠越多｜缺完整画面",
+      "position": {
+        "x": 1300,
+        "y": 2100
+      },
+      "completeFrameGap": true,
+      "image": null
+    },
+    {
+      "shotId": "E01-A-012",
+      "nodeId": "e9e3ba77-7bbb-4405-bd5f-4c77d7b3bb1d",
+      "label": "E01-A-012｜发现今天没安排｜界面静帧",
+      "position": {
+        "x": 1950,
+        "y": 2100
+      },
+      "completeFrameGap": false,
+      "image": "视频制作/第一幕完整镜头包-20261016-v0.1/05-今日无安排.png"
+    },
+    {
+      "shotId": "E01-A-013",
+      "nodeId": "e7218c0c-a63b-47da-96d5-3c75a12803d6",
+      "label": "E01-A-013｜停停停｜喊停姿态参考",
+      "position": {
+        "x": 0,
+        "y": 2800
+      },
+      "completeFrameGap": false,
+      "image": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/05-喊停-发夹统一.png"
+    },
+    {
+      "shotId": "E01-A-014",
+      "nodeId": "9e8fcafa-9fd6-4d7e-9c20-e0f2ea76619f",
+      "label": "E01-A-014｜大家听懂了停｜缺完整画面",
+      "position": {
+        "x": 650,
+        "y": 2800
+      },
+      "completeFrameGap": true,
+      "image": null
+    },
+    {
+      "shotId": "E01-A-015",
+      "nodeId": "f7931412-6ae9-46aa-bfdd-cbdfbd3844fa",
+      "label": "E01-A-015｜倒回枕头｜缺完整画面",
+      "position": {
+        "x": 1300,
+        "y": 2800
+      },
+      "completeFrameGap": true,
+      "image": null
+    },
+    {
+      "shotId": "E01-A-016",
+      "nodeId": "8012e8ba-4178-4fa0-8991-32b96ccfc1fe",
+      "label": "E01-A-016｜汤圆自己靠回来｜相拥终态参考",
+      "position": {
+        "x": 1950,
+        "y": 2800
+      },
+      "completeFrameGap": false,
+      "image": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/06-相拥盖被-发夹统一.png"
+    }
+  ],
+  "auxiliary": [
+    "ca54a965-504c-4366-bd6a-fb0f089e9cb8",
+    "07f7dba7-79ba-4398-b2f0-404eb60c84ef",
+    "4602b189-9949-413e-8b30-6a3d0b123778",
+    "b14fc44d-dd2f-4a63-b064-1d299c9bf210",
+    "6334270e-e668-4d03-bf31-6d6484a86f83"
+  ],
+  "history": [
+    "479903bd-0fd8-4279-9557-00c4f72c754b",
+    "04840f84-346b-46d4-907c-b85728d5648b",
+    "552a1155-6d1f-4a26-b587-dcf5b013287f",
+    "ce095d36-577f-440f-9e09-95f6f63c952e",
+    "92a0a84d-3402-4914-9cc3-a3d70a29fbe9",
+    "febf3723-17f1-459c-b2e2-a3eff8fe5998",
+    "6341f20b-7e03-47a3-b1e9-960e629bbfab",
+    "819ea276-ec77-4d9b-b091-118fe9675ce1",
+    "2d346ec0-3202-4969-b49d-d653d909d9f3",
+    "d37e37e1-9300-4a4d-b479-d3155c5b5f2a",
+    "8c8b5988-003c-4b85-96db-382f586c0582",
+    "d263875e-da3d-49a0-9761-9daf616da5ac",
+    "7eefab6e-f065-4113-af4e-7884fd153dc5",
+    "ab88226d-5436-4668-8acc-9a4956facfd9",
+    "fb6191e0-7ddc-4a24-9c88-da5109c8273c",
+    "91b2cc8c-34df-4cf7-91d7-5d4dfeb08318",
+    "0c746565-6cea-4745-96d3-5a39f0a82b95",
+    "52774ef4-261e-4bf1-a599-3287b1774754",
+    "e7117439-29ea-4ac8-b56a-20859438ea15",
+    "dce54f57-1856-4ffb-b16e-fd856b2e7fd3",
+    "51d0af27-a851-4ec5-b6cd-9a8605082e50",
+    "9b0bf4c2-bb52-455e-8823-91dfec729293",
+    "c28684fc-3545-48a0-9fac-5de7a65a2377",
+    "6056d241-c128-4508-b29b-60f39195bf91",
+    "c56be710-1f05-45c9-8f96-ea434bf0fdf4"
+  ],
+  "otherScenes": [
+    "95337495-58d3-412c-8d00-3d0f79aa28b9",
+    "2165c6df-afa4-4cb3-a86a-77af1977f94a",
+    "20baf20b-c30a-45c5-aa93-f61a47444416",
+    "c80aa23c-7232-4719-badf-e163dc19313a",
+    "09730024-9fa5-4ec9-b1ab-b676f06e7c2d",
+    "da07437d-6744-4476-b7bc-ca5cea8169c4",
+    "351f2a5c-ab84-461a-88d9-f8396ef86a5e",
+    "f97d3717-669f-40fb-b0b0-2ee0af969b6f",
+    "456e6cd5-1247-4f36-8016-c51263ebd4c4",
+    "53d82acb-037e-40cb-adf7-f906a5ec9da9",
+    "c6bed2ef-1e5d-42f8-99d0-8fe99b9eda09",
+    "2466065e-c397-4512-aaea-f42afe70f368",
+    "af3f9356-ca1c-487e-b08f-0d4840375e7c",
+    "d254e858-3a36-4a3a-8d98-5cb2d1143820",
+    "67b103b2-e980-4174-9608-5f6ce9186d45",
+    "c343e78e-9c8e-4660-9943-86fe43081e60",
+    "eaa7d095-bf56-4845-9d19-3b060ba9bc34",
+    "bcb71f82-c6d3-4e31-b1b5-335180784e30",
+    "70d19b53-ab82-40a3-b965-78ff6b325be8",
+    "ea13cb73-962c-4ae3-8cca-984b733a032d",
+    "fdd798da-156b-4dcc-9c5e-f06ed42fb9e1",
+    "a32bf0ef-a1ef-4a48-8b91-5ab72d4387f8",
+    "7346c760-43f6-4262-aa6f-ba2d0abba53d",
+    "3d8cb62c-9ab6-4675-908b-8a5df916cc87",
+    "be44c2c2-3269-4537-86a2-daea820251cc",
+    "af339f4b-481e-4644-8ba2-2bf4c23bcf74",
+    "2447acac-69db-4d6c-bffd-09d978557b64"
+  ],
+  "moves": [
+    {
+      "nodeId": "83995fc6-228b-4b5e-a0c6-f7be2c7a2a3b",
+      "position": {
+        "x": 0,
+        "y": 700
+      }
+    },
+    {
+      "nodeId": "9b5a0422-a5bd-4849-ad48-6d5070d2ec36",
+      "position": {
+        "x": 650,
+        "y": 700
+      }
+    },
+    {
+      "nodeId": "eefa306d-4cde-46c2-ba1a-d9091ddc8fc9",
+      "position": {
+        "x": 1300,
+        "y": 700
+      }
+    },
+    {
+      "nodeId": "369659ef-5d21-4889-bde6-f02366709b5c",
+      "position": {
+        "x": 1950,
+        "y": 700
+      }
+    },
+    {
+      "nodeId": "a1ff71c1-f40f-48c5-9927-4bc84dedd195",
+      "position": {
+        "x": 0,
+        "y": 1400
+      }
+    },
+    {
+      "nodeId": "547f2b40-5e6a-41f5-b6f5-8498be66e185",
+      "position": {
+        "x": 650,
+        "y": 1400
+      }
+    },
+    {
+      "nodeId": "ec6f18a4-2a51-4021-a97d-328b83ec4ee0",
+      "position": {
+        "x": 1300,
+        "y": 1400
+      }
+    },
+    {
+      "nodeId": "b76fb5be-63e1-427f-900c-d66bfd8e4ab7",
+      "position": {
+        "x": 1950,
+        "y": 1400
+      }
+    },
+    {
+      "nodeId": "4aa5617f-cfdd-4049-a026-79b7a99515a9",
+      "position": {
+        "x": 0,
+        "y": 2100
+      }
+    },
+    {
+      "nodeId": "97d31e8a-7660-4317-a79b-01ca3fc9ff1a",
+      "position": {
+        "x": 650,
+        "y": 2100
+      }
+    },
+    {
+      "nodeId": "9339fd95-8735-4df2-a8a5-1874d20c428d",
+      "position": {
+        "x": 1300,
+        "y": 2100
+      }
+    },
+    {
+      "nodeId": "e9e3ba77-7bbb-4405-bd5f-4c77d7b3bb1d",
+      "position": {
+        "x": 1950,
+        "y": 2100
+      }
+    },
+    {
+      "nodeId": "e7218c0c-a63b-47da-96d5-3c75a12803d6",
+      "position": {
+        "x": 0,
+        "y": 2800
+      }
+    },
+    {
+      "nodeId": "9e8fcafa-9fd6-4d7e-9c20-e0f2ea76619f",
+      "position": {
+        "x": 650,
+        "y": 2800
+      }
+    },
+    {
+      "nodeId": "f7931412-6ae9-46aa-bfdd-cbdfbd3844fa",
+      "position": {
+        "x": 1300,
+        "y": 2800
+      }
+    },
+    {
+      "nodeId": "8012e8ba-4178-4fa0-8991-32b96ccfc1fe",
+      "position": {
+        "x": 1950,
+        "y": 2800
+      }
+    },
+    {
+      "nodeId": "ca54a965-504c-4366-bd6a-fb0f089e9cb8",
+      "position": {
+        "x": 0,
+        "y": 3700
+      }
+    },
+    {
+      "nodeId": "07f7dba7-79ba-4398-b2f0-404eb60c84ef",
+      "position": {
+        "x": 650,
+        "y": 3700
+      }
+    },
+    {
+      "nodeId": "4602b189-9949-413e-8b30-6a3d0b123778",
+      "position": {
+        "x": 1300,
+        "y": 3700
+      }
+    },
+    {
+      "nodeId": "b14fc44d-dd2f-4a63-b064-1d299c9bf210",
+      "position": {
+        "x": 1950,
+        "y": 3700
+      }
+    },
+    {
+      "nodeId": "6334270e-e668-4d03-bf31-6d6484a86f83",
+      "position": {
+        "x": 2600,
+        "y": 3700
+      }
+    },
+    {
+      "nodeId": "9b0d2b41-8158-4487-b210-664b6b7967fe",
+      "position": {
+        "x": -800,
+        "y": 700
+      }
+    },
+    {
+      "nodeId": "95337495-58d3-412c-8d00-3d0f79aa28b9",
+      "position": {
+        "x": 0,
+        "y": 10500
+      }
+    },
+    {
+      "nodeId": "2165c6df-afa4-4cb3-a86a-77af1977f94a",
+      "position": {
+        "x": 650,
+        "y": 10500
+      }
+    },
+    {
+      "nodeId": "20baf20b-c30a-45c5-aa93-f61a47444416",
+      "position": {
+        "x": 1300,
+        "y": 10500
+      }
+    },
+    {
+      "nodeId": "c80aa23c-7232-4719-badf-e163dc19313a",
+      "position": {
+        "x": 1950,
+        "y": 10500
+      }
+    },
+    {
+      "nodeId": "09730024-9fa5-4ec9-b1ab-b676f06e7c2d",
+      "position": {
+        "x": 2600,
+        "y": 10500
+      }
+    },
+    {
+      "nodeId": "da07437d-6744-4476-b7bc-ca5cea8169c4",
+      "position": {
+        "x": 3250,
+        "y": 10500
+      }
+    },
+    {
+      "nodeId": "351f2a5c-ab84-461a-88d9-f8396ef86a5e",
+      "position": {
+        "x": 0,
+        "y": 11350
+      }
+    },
+    {
+      "nodeId": "f97d3717-669f-40fb-b0b0-2ee0af969b6f",
+      "position": {
+        "x": 650,
+        "y": 11350
+      }
+    },
+    {
+      "nodeId": "456e6cd5-1247-4f36-8016-c51263ebd4c4",
+      "position": {
+        "x": 1300,
+        "y": 11350
+      }
+    },
+    {
+      "nodeId": "53d82acb-037e-40cb-adf7-f906a5ec9da9",
+      "position": {
+        "x": 1950,
+        "y": 11350
+      }
+    },
+    {
+      "nodeId": "c6bed2ef-1e5d-42f8-99d0-8fe99b9eda09",
+      "position": {
+        "x": 2600,
+        "y": 11350
+      }
+    },
+    {
+      "nodeId": "2466065e-c397-4512-aaea-f42afe70f368",
+      "position": {
+        "x": 3250,
+        "y": 11350
+      }
+    },
+    {
+      "nodeId": "af3f9356-ca1c-487e-b08f-0d4840375e7c",
+      "position": {
+        "x": 0,
+        "y": 12200
+      }
+    },
+    {
+      "nodeId": "d254e858-3a36-4a3a-8d98-5cb2d1143820",
+      "position": {
+        "x": 650,
+        "y": 12200
+      }
+    },
+    {
+      "nodeId": "67b103b2-e980-4174-9608-5f6ce9186d45",
+      "position": {
+        "x": 1300,
+        "y": 12200
+      }
+    },
+    {
+      "nodeId": "c343e78e-9c8e-4660-9943-86fe43081e60",
+      "position": {
+        "x": 1950,
+        "y": 12200
+      }
+    },
+    {
+      "nodeId": "eaa7d095-bf56-4845-9d19-3b060ba9bc34",
+      "position": {
+        "x": 2600,
+        "y": 12200
+      }
+    },
+    {
+      "nodeId": "bcb71f82-c6d3-4e31-b1b5-335180784e30",
+      "position": {
+        "x": 3250,
+        "y": 12200
+      }
+    },
+    {
+      "nodeId": "70d19b53-ab82-40a3-b965-78ff6b325be8",
+      "position": {
+        "x": 0,
+        "y": 13050
+      }
+    },
+    {
+      "nodeId": "ea13cb73-962c-4ae3-8cca-984b733a032d",
+      "position": {
+        "x": 650,
+        "y": 13050
+      }
+    },
+    {
+      "nodeId": "fdd798da-156b-4dcc-9c5e-f06ed42fb9e1",
+      "position": {
+        "x": 1300,
+        "y": 13050
+      }
+    },
+    {
+      "nodeId": "a32bf0ef-a1ef-4a48-8b91-5ab72d4387f8",
+      "position": {
+        "x": 1950,
+        "y": 13050
+      }
+    },
+    {
+      "nodeId": "7346c760-43f6-4262-aa6f-ba2d0abba53d",
+      "position": {
+        "x": 2600,
+        "y": 13050
+      }
+    },
+    {
+      "nodeId": "3d8cb62c-9ab6-4675-908b-8a5df916cc87",
+      "position": {
+        "x": 3250,
+        "y": 13050
+      }
+    },
+    {
+      "nodeId": "be44c2c2-3269-4537-86a2-daea820251cc",
+      "position": {
+        "x": 0,
+        "y": 13900
+      }
+    },
+    {
+      "nodeId": "af339f4b-481e-4644-8ba2-2bf4c23bcf74",
+      "position": {
+        "x": 650,
+        "y": 13900
+      }
+    },
+    {
+      "nodeId": "2447acac-69db-4d6c-bffd-09d978557b64",
+      "position": {
+        "x": 1300,
+        "y": 13900
+      }
+    },
+    {
+      "nodeId": "479903bd-0fd8-4279-9557-00c4f72c754b",
+      "position": {
+        "x": 0,
+        "y": 4700
+      }
+    },
+    {
+      "nodeId": "04840f84-346b-46d4-907c-b85728d5648b",
+      "position": {
+        "x": 650,
+        "y": 4700
+      }
+    },
+    {
+      "nodeId": "552a1155-6d1f-4a26-b587-dcf5b013287f",
+      "position": {
+        "x": 1300,
+        "y": 4700
+      }
+    },
+    {
+      "nodeId": "ce095d36-577f-440f-9e09-95f6f63c952e",
+      "position": {
+        "x": 1950,
+        "y": 4700
+      }
+    },
+    {
+      "nodeId": "92a0a84d-3402-4914-9cc3-a3d70a29fbe9",
+      "position": {
+        "x": 2600,
+        "y": 4700
+      }
+    },
+    {
+      "nodeId": "febf3723-17f1-459c-b2e2-a3eff8fe5998",
+      "position": {
+        "x": 3250,
+        "y": 4700
+      }
+    },
+    {
+      "nodeId": "6341f20b-7e03-47a3-b1e9-960e629bbfab",
+      "position": {
+        "x": 0,
+        "y": 5550
+      }
+    },
+    {
+      "nodeId": "819ea276-ec77-4d9b-b091-118fe9675ce1",
+      "position": {
+        "x": 650,
+        "y": 5550
+      }
+    },
+    {
+      "nodeId": "2d346ec0-3202-4969-b49d-d653d909d9f3",
+      "position": {
+        "x": 1300,
+        "y": 5550
+      }
+    },
+    {
+      "nodeId": "d37e37e1-9300-4a4d-b479-d3155c5b5f2a",
+      "position": {
+        "x": 1950,
+        "y": 5550
+      }
+    },
+    {
+      "nodeId": "8c8b5988-003c-4b85-96db-382f586c0582",
+      "position": {
+        "x": 2600,
+        "y": 5550
+      }
+    },
+    {
+      "nodeId": "d263875e-da3d-49a0-9761-9daf616da5ac",
+      "position": {
+        "x": 3250,
+        "y": 5550
+      }
+    },
+    {
+      "nodeId": "7eefab6e-f065-4113-af4e-7884fd153dc5",
+      "position": {
+        "x": 0,
+        "y": 6400
+      }
+    },
+    {
+      "nodeId": "ab88226d-5436-4668-8acc-9a4956facfd9",
+      "position": {
+        "x": 650,
+        "y": 6400
+      }
+    },
+    {
+      "nodeId": "fb6191e0-7ddc-4a24-9c88-da5109c8273c",
+      "position": {
+        "x": 1300,
+        "y": 6400
+      }
+    },
+    {
+      "nodeId": "91b2cc8c-34df-4cf7-91d7-5d4dfeb08318",
+      "position": {
+        "x": 1950,
+        "y": 6400
+      }
+    },
+    {
+      "nodeId": "0c746565-6cea-4745-96d3-5a39f0a82b95",
+      "position": {
+        "x": 2600,
+        "y": 6400
+      }
+    },
+    {
+      "nodeId": "52774ef4-261e-4bf1-a599-3287b1774754",
+      "position": {
+        "x": 3250,
+        "y": 6400
+      }
+    },
+    {
+      "nodeId": "e7117439-29ea-4ac8-b56a-20859438ea15",
+      "position": {
+        "x": 0,
+        "y": 7250
+      }
+    },
+    {
+      "nodeId": "dce54f57-1856-4ffb-b16e-fd856b2e7fd3",
+      "position": {
+        "x": 650,
+        "y": 7250
+      }
+    },
+    {
+      "nodeId": "51d0af27-a851-4ec5-b6cd-9a8605082e50",
+      "position": {
+        "x": 1300,
+        "y": 7250
+      }
+    },
+    {
+      "nodeId": "9b0bf4c2-bb52-455e-8823-91dfec729293",
+      "position": {
+        "x": 1950,
+        "y": 7250
+      }
+    },
+    {
+      "nodeId": "c28684fc-3545-48a0-9fac-5de7a65a2377",
+      "position": {
+        "x": 2600,
+        "y": 7250
+      }
+    },
+    {
+      "nodeId": "6056d241-c128-4508-b29b-60f39195bf91",
+      "position": {
+        "x": 3250,
+        "y": 7250
+      }
+    },
+    {
+      "nodeId": "c56be710-1f05-45c9-8f96-ea434bf0fdf4",
+      "position": {
+        "x": 0,
+        "y": 8100
+      }
+    }
+  ],
+  "renames": [
+    {
+      "nodeId": "83995fc6-228b-4b5e-a0c6-f7be2c7a2a3b",
+      "label": "E01-A-001｜圆闹钟伸手｜动作终态参考"
+    },
+    {
+      "nodeId": "9b5a0422-a5bd-4849-ad48-6d5070d2ec36",
+      "label": "E01-A-002｜知夏抱汤圆熟睡｜熟睡姿态参考"
+    },
+    {
+      "nodeId": "eefa306d-4cde-46c2-ba1a-d9091ddc8fc9",
+      "label": "E01-A-003｜第一拳与抱紧翻身｜第一拳接触参考"
+    },
+    {
+      "nodeId": "369659ef-5d21-4889-bde6-f02366709b5c",
+      "label": "E01-A-004｜第二拳打的是汤圆｜第二拳接触参考"
+    },
+    {
+      "nodeId": "a1ff71c1-f40f-48c5-9927-4bc84dedd195",
+      "label": "E01-A-005｜第三拳被按停｜按停姿态参考"
+    },
+    {
+      "nodeId": "547f2b40-5e6a-41f5-b6f5-8498be66e185",
+      "label": "E01-A-006｜坐稳但没醒透｜坐稳状态参考"
+    },
+    {
+      "nodeId": "ec6f18a4-2a51-4021-a97d-328b83ec4ee0",
+      "label": "E01-A-007｜床托背，被子催醒｜托背与被角显像状态候选"
+    },
+    {
+      "nodeId": "b76fb5be-63e1-427f-900c-d66bfd8e4ab7",
+      "label": "E01-A-008｜拖鞋到位｜拖鞋到位参考"
+    },
+    {
+      "nodeId": "4aa5617f-cfdd-4049-a026-79b7a99515a9",
+      "label": "E01-A-009｜衣柜镜中预览搭配｜智能镜预设试穿候选"
+    },
+    {
+      "nodeId": "97d31e8a-7660-4317-a79b-01ca3fc9ff1a",
+      "label": "E01-A-010｜托盘送水｜缺完整画面"
+    },
+    {
+      "nodeId": "9339fd95-8735-4df2-a8a5-1874d20c428d",
+      "label": "E01-A-011｜声音越叠越多｜缺完整画面"
+    },
+    {
+      "nodeId": "e9e3ba77-7bbb-4405-bd5f-4c77d7b3bb1d",
+      "label": "E01-A-012｜发现今天没安排｜界面静帧"
+    },
+    {
+      "nodeId": "e7218c0c-a63b-47da-96d5-3c75a12803d6",
+      "label": "E01-A-013｜停停停｜喊停姿态参考"
+    },
+    {
+      "nodeId": "9e8fcafa-9fd6-4d7e-9c20-e0f2ea76619f",
+      "label": "E01-A-014｜大家听懂了停｜缺完整画面"
+    },
+    {
+      "nodeId": "f7931412-6ae9-46aa-bfdd-cbdfbd3844fa",
+      "label": "E01-A-015｜倒回枕头｜缺完整画面"
+    },
+    {
+      "nodeId": "8012e8ba-4178-4fa0-8991-32b96ccfc1fe",
+      "label": "E01-A-016｜汤圆自己靠回来｜相拥终态参考"
+    },
+    {
+      "nodeId": "ca54a965-504c-4366-bd6a-fb0f089e9cb8",
+      "label": "辅助｜作者指定｜晨起蝴蝶结状发夹母版"
+    },
+    {
+      "nodeId": "07f7dba7-79ba-4398-b2f0-404eb60c84ef",
+      "label": "辅助｜发夹纠正｜取消独立三角小耳朵"
+    },
+    {
+      "nodeId": "4602b189-9949-413e-8b30-6a3d0b123778",
+      "label": "辅助｜发夹统一候选｜床托背-发夹统一"
+    },
+    {
+      "nodeId": "b14fc44d-dd2f-4a63-b064-1d299c9bf210",
+      "label": "辅助｜发夹统一候选｜全景布局-发夹统一"
+    },
+    {
+      "nodeId": "6334270e-e668-4d03-bf31-6d6484a86f83",
+      "label": "辅助｜A010｜保留荷叶托盘·杯身读数候选"
+    },
+    {
+      "nodeId": "9b0d2b41-8158-4487-b210-664b6b7967fe",
+      "label": "当前唯一动作稿｜晨起v0.8·含镜内花园"
+    },
+    {
+      "nodeId": "95337495-58d3-412c-8d00-3d0f79aa28b9",
+      "label": "场景探索｜两岸分设概念首稿-方向依据"
+    },
+    {
+      "nodeId": "2165c6df-afa4-4cb3-a86a-77af1977f94a",
+      "label": "场景探索｜两岸空间关系-平面候选"
+    },
+    {
+      "nodeId": "20baf20b-c30a-45c5-aa93-f61a47444416",
+      "label": "场景探索｜作坊望半园-概念01-待审"
+    },
+    {
+      "nodeId": "c80aa23c-7232-4719-badf-e163dc19313a",
+      "label": "场景探索｜本轮布局与审阅说明"
+    },
+    {
+      "nodeId": "09730024-9fa5-4ec9-b1ab-b676f06e7c2d",
+      "label": "场景探索｜修复作坊-室内全景01-候选"
+    },
+    {
+      "nodeId": "da07437d-6744-4476-b7bc-ca5cea8169c4",
+      "label": "场景探索｜作坊室内分区与微观检视架-设计候选"
+    },
+    {
+      "nodeId": "351f2a5c-ab84-461a-88d9-f8396ef86a5e",
+      "label": "场景探索｜起居室-夜海观星01-候选"
+    },
+    {
+      "nodeId": "f97d3717-669f-40fb-b0b0-2ee0af969b6f",
+      "label": "场景探索｜智能家居与全息场景-设计提案"
+    },
+    {
+      "nodeId": "456e6cd5-1247-4f36-8016-c51263ebd4c4",
+      "label": "场景探索｜知夏卧室01｜设计与生成记录"
+    },
+    {
+      "nodeId": "53d82acb-037e-40cb-adf7-f906a5ec9da9",
+      "label": "场景探索｜知夏卧室01｜清晨抱枕汤圆·候选"
+    },
+    {
+      "nodeId": "c6bed2ef-1e5d-42f8-99d0-8fe99b9eda09",
+      "label": "场景探索｜卧室02原场景合景｜纵向侧卧03·待审"
+    },
+    {
+      "nodeId": "2466065e-c397-4512-aaea-f42afe70f368",
+      "label": "场景探索｜卧室纠偏｜原房间与睡姿"
+    },
+    {
+      "nodeId": "af3f9356-ca1c-487e-b08f-0d4840375e7c",
+      "label": "场景探索｜水墨学院宿舍01｜门内外·待审"
+    },
+    {
+      "nodeId": "d254e858-3a36-4a3a-8d98-5cb2d1143820",
+      "label": "场景探索｜水墨学院宿舍｜设计与来源"
+    },
+    {
+      "nodeId": "67b103b2-e980-4174-9608-5f6ce9186d45",
+      "label": "场景探索｜山水书院02｜完整水墨世界·待审"
+    },
+    {
+      "nodeId": "c343e78e-9c8e-4660-9943-86fe43081e60",
+      "label": "场景探索｜山水书院02｜纠偏与来源"
+    },
+    {
+      "nodeId": "eaa7d095-bf56-4845-9d19-3b060ba9bc34",
+      "label": "场景探索｜山水书院总景01｜宿舍·水庭·练功厅"
+    },
+    {
+      "nodeId": "bcb71f82-c6d3-4e31-b1b5-335180784e30",
+      "label": "场景探索｜书院总景01｜布局与包裹路线"
+    },
+    {
+      "nodeId": "70d19b53-ab82-40a3-b965-78ff6b325be8",
+      "label": "场景探索｜舞蹈室01｜日常练功·待审"
+    },
+    {
+      "nodeId": "ea13cb73-962c-4ae3-8cca-984b733a032d",
+      "label": "场景探索｜舞蹈室02｜荷塘仿真·待审"
+    },
+    {
+      "nodeId": "fdd798da-156b-4dcc-9c5e-f06ed42fb9e1",
+      "label": "场景探索｜舞蹈室两状态｜设计与连续性"
+    },
+    {
+      "nodeId": "a32bf0ef-a1ef-4a48-8b91-5ab72d4387f8",
+      "label": "场景探索｜舞蹈室03｜顶地墙全沉浸·待审"
+    },
+    {
+      "nodeId": "7346c760-43f6-4262-aa6f-ba2d0abba53d",
+      "label": "场景探索｜舞蹈室03｜全息规则纠正"
+    },
+    {
+      "nodeId": "3d8cb62c-9ab6-4675-908b-8a5df916cc87",
+      "label": "场景探索｜电影感试验01｜清晨卧室·待审"
+    },
+    {
+      "nodeId": "be44c2c2-3269-4537-86a2-daea820251cc",
+      "label": "场景探索｜电影感试验02｜旧舞鞋·杂点待修"
+    },
+    {
+      "nodeId": "af339f4b-481e-4644-8ba2-2bf4c23bcf74",
+      "label": "场景探索｜电影感试验03｜暮色水巷·待审"
+    },
+    {
+      "nodeId": "2447acac-69db-4d6c-bffd-09d978557b64",
+      "label": "场景探索｜日常电影感｜试验与来源"
+    },
+    {
+      "nodeId": "479903bd-0fd8-4279-9557-00c4f72c754b",
+      "label": "历史｜E01-A K02｜催醒前床侧近景01·待审"
+    },
+    {
+      "nodeId": "04840f84-346b-46d4-907c-b85728d5648b",
+      "label": "历史｜K02｜机位与动作衔接"
+    },
+    {
+      "nodeId": "552a1155-6d1f-4a26-b587-dcf5b013287f",
+      "label": "历史｜K02｜圆闹钟与胖拳头"
+    },
+    {
+      "nodeId": "ce095d36-577f-440f-9e09-95f6f63c952e",
+      "label": "历史｜E01-A K02｜轻捶被子01·待审"
+    },
+    {
+      "nodeId": "92a0a84d-3402-4914-9cc3-a3d70a29fbe9",
+      "label": "历史｜K02｜催醒触点与赖床反应"
+    },
+    {
+      "nodeId": "febf3723-17f1-459c-b2e2-a3eff8fe5998",
+      "label": "历史｜E01-A K02-P1｜第一拳碰头01·待审"
+    },
+    {
+      "nodeId": "6341f20b-7e03-47a3-b1e9-960e629bbfab",
+      "label": "历史｜K02-P1｜触点与直拳方向审看"
+    },
+    {
+      "nodeId": "819ea276-ec77-4d9b-b091-118fe9675ce1",
+      "label": "历史｜E01-A K02-P2｜举汤圆挡拳01·待审"
+    },
+    {
+      "nodeId": "2d346ec0-3202-4969-b49d-d653d909d9f3",
+      "label": "历史｜K02-P2｜脸前举盾与第二拳"
+    },
+    {
+      "nodeId": "d37e37e1-9300-4a4d-b479-d3155c5b5f2a",
+      "label": "历史｜E01-A K02-STOP｜第三拳按停01·待审"
+    },
+    {
+      "nodeId": "8c8b5988-003c-4b85-96db-382f586c0582",
+      "label": "历史｜K02-STOP｜按键截停与悬停拳头"
+    },
+    {
+      "nodeId": "d263875e-da3d-49a0-9761-9daf616da5ac",
+      "label": "历史｜K02-P2｜受拳错愕·表情修订待审"
+    },
+    {
+      "nodeId": "7eefab6e-f065-4113-af4e-7884fd153dc5",
+      "label": "历史｜K02-STOP｜侧眼埋怨·表情修订待审"
+    },
+    {
+      "nodeId": "ab88226d-5436-4668-8acc-9a4956facfd9",
+      "label": "历史｜汤圆｜三拳眼神递进"
+    },
+    {
+      "nodeId": "fb6191e0-7ddc-4a24-9c88-da5109c8273c",
+      "label": "历史｜A007｜智能床托背·修订候选"
+    },
+    {
+      "nodeId": "91b2cc8c-34df-4cf7-91d7-5d4dfeb08318",
+      "label": "历史｜A009｜衣柜递出搭配·修订候选"
+    },
+    {
+      "nodeId": "0c746565-6cea-4745-96d3-5a39f0a82b95",
+      "label": "历史｜A016｜床主动盖被·修订候选"
+    },
+    {
+      "nodeId": "52774ef4-261e-4bf1-a599-3287b1774754",
+      "label": "历史｜第一幕v0.3｜家具动作与显示"
+    },
+    {
+      "nodeId": "e7117439-29ea-4ac8-b56a-20859438ea15",
+      "label": "历史｜A007｜床头玉璧·形制候选"
+    },
+    {
+      "nodeId": "dce54f57-1856-4ffb-b16e-fd856b2e7fd3",
+      "label": "历史｜A009｜衣柜玉扣·形制候选"
+    },
+    {
+      "nodeId": "51d0af27-a851-4ec5-b6cd-9a8605082e50",
+      "label": "历史｜A010｜杯托玉芯·形制候选"
+    },
+    {
+      "nodeId": "9b0bf4c2-bb52-455e-8823-91dfec729293",
+      "label": "历史｜第一幕v0.4｜家具智能形制与回应"
+    },
+    {
+      "nodeId": "c28684fc-3545-48a0-9fac-5de7a65a2377",
+      "label": "历史｜晨起v0.5｜发夹统一完整动作稿"
+    },
+    {
+      "nodeId": "6056d241-c128-4508-b29b-60f39195bf91",
+      "label": "历史｜停用｜误删托盘的杯子"
+    },
+    {
+      "nodeId": "c56be710-1f05-45c9-8f96-ea434bf0fdf4",
+      "label": "历史｜晨起v0.7｜保留托盘智能杯"
+    }
+  ]
+}

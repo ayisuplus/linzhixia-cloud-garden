@@ -1,0 +1,39 @@
+{
+  "scope": "Flight: 27 sampled offset rays, <=0.5m increments, not complete swept volume. Walk: <=0.25m sampling, three height radial probes, floor support. Not final animation or navigation validation.",
+  "routes": {
+    "parcel": {
+      "samples": 3642,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    },
+    "regional_walk": {
+      "samples": 9755,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    }
+  },
+  "source_unchanged": true,
+  "preserved_scene_objects": {
+    "checked": 2557,
+    "unexpected_changes": [],
+    "scope": "Existing room/campus mesh counts and expected world transforms; school translation allowed"
+  },
+  "docks": [
+    {
+      "support": "Dispatch perch top",
+      "gap_m": 0.0020018005371085223,
+      "pass": true
+    },
+    {
+      "support": "Receiving perch top",
+      "gap_m": 0.002000042915344169,
+      "pass": true
+    }
+  ],
+  "old_adjacent_ramp_removed": true,
+  "walk_distance_m": 2422.3933068531587,
+  "flight_distance_m": 1802.6472599358633,
+  "building_mass_count": 173
+}

@@ -1,0 +1,10 @@
+Use case: precise-object-edit, annotation correction ONLY.
+Edit the attached architectural illustration. Preserve ALL environment pixels and composition as closely as possible: do not redesign buildings, move rooms, alter water, vegetation, clouds, lighting or palette. Only remove and redraw the small Chinese callout labels and their leader lines to correct erroneous identification. Keep the title “半园 · 云上园居”.
+The image is 1536 by 1024. Coordinates below identify precise VISUAL TARGETS, NOT placement of label boxes:
+1. “园门” leader must end at the actual double wooden entrance door in the canal-facing courtyard wall at approximately (963,478). Remove the old gate label pointing at the upper roof.
+2. “修复工坊” leader must end at the large building INSIDE the garden in the foreground-left, its large gray roof around (443,443). The detached small building ACROSS the canal is a neighbor, never the workshop.
+3. “生活翼” leader must end at the long large rear building roof in the UPPER CENTER of the image around (785,180), on the far side of the central pond. Remove its old pointer on the upper-left small roof.
+4. “接待茶廊” leader must end at the open covered porch with a table immediately INSIDE the front canal-facing wall, around (660,587). This is the porch formerly incorrectly labeled “试用廊”. Remove the old tea porch label pointing at the upper-right open yard.
+5. “池庭” points to the central pond around (725,390); retain correct.
+6. “门外水巷” leader must end at the water in the MAIN CANAL BETWEEN the garden and the opposite bank, around (910,640). Do NOT point to clouds or water outside the opposite-bank terrace.
+Remove the label “试用廊” entirely; this overview needs only these six reliable labels. Remove all original incorrect leader lines completely, restore underlying scenery seamlessly. Place replacement label boxes neatly in nearby open margin areas with fine leader lines, avoid architecture and crossing lines. No new labels or inset panels. This is a corrected spatial concept illustration, keep exactly the same overall beautiful image.

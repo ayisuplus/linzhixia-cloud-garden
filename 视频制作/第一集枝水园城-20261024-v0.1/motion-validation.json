@@ -1,0 +1,9 @@
+{
+  "max_adjacent_rotation_degrees": 2.675316686915615,
+  "max_rotation_time": 1.8333333333333333,
+  "route_length_m": 1749.3324149350676,
+  "max_step_m": 2.5873074329009196,
+  "max_discrete_acceleration_m_s2": 37.03118018317181,
+  "duration_seconds": 58,
+  "frames": 1392
+}

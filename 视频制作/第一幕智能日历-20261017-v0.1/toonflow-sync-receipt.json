@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-17",
+  "target": {
+    "connectionId": "a8e9b1e4-4f34-45d4-b990-668ea24cfc0e",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "场景设计-半园两岸-20261014.json"
+  },
+  "before": {
+    "id": "e9e3ba77-7bbb-4405-bd5f-4c77d7b3bb1d",
+    "label": "E01-A-012｜今日无事·宜休沐·候选",
+    "position": {
+      "x": 1950,
+      "y": 2100
+    },
+    "outputs": {
+      "image": {
+        "dataType": "IMAGE",
+        "value": {
+          "url": "第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-012-今日无事宜休沐.png",
+          "mimeType": "image/png"
+        }
+      }
+    },
+    "selected": false,
+    "truncated": []
+  },
+  "after": [
+    {
+      "id": "e9e3ba77-7bbb-4405-bd5f-4c77d7b3bb1d",
+      "label": "E01-A-012｜智能日历·时辰与晨起开关",
+      "position": {
+        "x": 1950,
+        "y": 2100
+      },
+      "outputs": {
+        "image": {
+          "dataType": "IMAGE",
+          "value": {
+            "url": "第一幕智能日历-20261017-v0.1/E01-A-012-智能日历.png",
+            "mimeType": "image/png"
+          }
+        }
+      },
+      "selected": false,
+      "truncated": []
+    },
+    {
+      "id": "4b35e039-bca2-4e46-af95-6fd46c1d9bd3",
+      "label": "历史v1.4｜日历古雅文字版",
+      "position": {
+        "x": 5200,
+        "y": 2100
+      },
+      "outputs": {
+        "image": {
+          "dataType": "IMAGE",
+          "value": {
+            "url": "第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-012-今日无事宜休沐.png",
+            "mimeType": "image/png"
+          }
+        }
+      },
+      "selected": false,
+      "truncated": []
+    }
+  ],
+  "text_nodes": [
+    "9b0d2b41-8158-4487-b210-664b6b7967fe",
+    "80d9afbb-50b0-49f2-aba8-89b0eb5a017c",
+    "182ee7e6-caf2-4b43-9eb4-868b158ef939"
+  ],
+  "method": "ToonFlow MCP; preserve existing image ID, archive prior image in history node",
+  "canvas_commit": "mixed pre-existing changes left unstaged"
+}

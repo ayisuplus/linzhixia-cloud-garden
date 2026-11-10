@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "status": "planned_not_submitted_not_dynamically_tested",
+  "model": "Seedance 2.5",
+  "max_seconds": 30,
+  "aspect_ratio": "16:9",
+  "atlas_source": "视频制作/第一幕分镜与生成-20261018-v2.0/atlas.json",
+  "story_script": "第一季/分镜/第一集-A-今天没有安排-管家灯光与窗帘-v0.16.md",
+  "official_source": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+  "verified_on": "2026-10-17",
+  "video_generated": false,
+  "spec_note": "沿用上一版作者选择与规格记录；本轮未现场核验端点。提交前核验模型、参考槽位和可选时长。",
+  "units": [
+    {
+      "id": "G00",
+      "title": "暗室开场",
+      "shot_ids": [
+        "E01-A-000"
+      ],
+      "method": "seedance2.5",
+      "head_handle": 1,
+      "tail_handle": 1,
+      "why": "按动作及光线因果分组，保留镜头ID；预算未经实测，端点时长选项与参考槽位提交前核实。",
+      "reference_strategy": "以本批各镜新候选约束当前光线与窗帘，历史图只取未被覆盖的身份、结构和动作。动作终态不可直接当首帧；全屋管家无实体头像。",
+      "safe_cut": "在本批最后一个镜头的结束状态成立后切出，保持光线、窗帘、承托和家具停点，不截断接触过程。",
+      "fallback": "如多动作不稳定，按所列镜头安全结束状态拆分；新增请求及余量另记，不吞动作或对白凑时长。",
+      "runs": [],
+      "edit_seconds": 4,
+      "requested_seconds": 6,
+      "timeline_start": 0,
+      "timeline_end": 4,
+      "beats": [
+        {
+          "shot_id": "E01-A-000",
+          "start": 1,
+          "end": 5,
+          "title": "闭帘暗室熟睡",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-000-闭帘暗室-通廊遮光修订.png",
+          "image_role": "opening"
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "title": "三拳叫醒",
+      "shot_ids": [
+        "E01-A-001",
+        "E01-A-002",
+        "E01-A-003",
+        "E01-A-004",
+        "E01-A-005"
+      ],
+      "method": "seedance2.5",
+      "head_handle": 0.5,
+      "tail_handle": 0.5,
+      "why": "按动作及光线因果分组，保留镜头ID；预算未经实测，端点时长选项与参考槽位提交前核实。",
+      "reference_strategy": "以本批各镜新候选约束当前光线与窗帘，历史图只取未被覆盖的身份、结构和动作。动作终态不可直接当首帧；全屋管家无实体头像。",
+      "safe_cut": "在本批最后一个镜头的结束状态成立后切出，保持光线、窗帘、承托和家具停点，不截断接触过程。",
+      "fallback": "如多动作不稳定，按所列镜头安全结束状态拆分；新增请求及余量另记，不吞动作或对白凑时长。",
+      "runs": [],
+      "edit_seconds": 29,
+      "requested_seconds": 30.0,
+      "timeline_start": 4,
+      "timeline_end": 33,
+      "beats": [
+        {
+          "shot_id": "E01-A-001",
+          "start": 0.5,
+          "end": 4.5,
+          "title": "圆闹钟伸手",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-001-低光闹钟.png",
+          "image_role": "action"
+        },
+        {
+          "shot_id": "E01-A-002",
+          "start": 4.5,
+          "end": 8.5,
+          "title": "知夏抱汤圆熟睡",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-002-闭帘熟睡.png",
+          "image_role": "opening"
+        },
+        {
+          "shot_id": "E01-A-003",
+          "start": 8.5,
+          "end": 16.5,
+          "title": "第一拳与抱紧翻身",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-003-低光第一拳.png",
+          "image_role": "action"
+        },
+        {
+          "shot_id": "E01-A-004",
+          "start": 16.5,
+          "end": 23.5,
+          "title": "第二拳打的是汤圆",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-004-低光第二拳.png",
+          "image_role": "action"
+        },
+        {
+          "shot_id": "E01-A-005",
+          "start": 23.5,
+          "end": 29.5,
+          "title": "第三拳被按停",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-005-低光第三拳.png",
+          "image_role": "action"
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "title": "坐起确认、承托与全屋苏醒",
+      "shot_ids": [
+        "E01-A-006",
+        "E01-A-007",
+        "E01-A-007-L"
+      ],
+      "method": "seedance2.5",
+      "head_handle": 1,
+      "tail_handle": 1,
+      "why": "按动作及光线因果分组，保留镜头ID；预算未经实测，端点时长选项与参考槽位提交前核实。",
+      "reference_strategy": "以本批各镜新候选约束当前光线与窗帘，历史图只取未被覆盖的身份、结构和动作。动作终态不可直接当首帧；全屋管家无实体头像。",
+      "safe_cut": "在本批最后一个镜头的结束状态成立后切出，保持光线、窗帘、承托和家具停点，不截断接触过程。",
+      "fallback": "如多动作不稳定，按所列镜头安全结束状态拆分；新增请求及余量另记，不吞动作或对白凑时长。",
+      "runs": [],
+      "edit_seconds": 17,
+      "requested_seconds": 19,
+      "timeline_start": 33,
+      "timeline_end": 50,
+      "beats": [
+        {
+          "shot_id": "E01-A-006",
+          "start": 1,
+          "end": 6,
+          "title": "坐稳但没醒透",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-006-低光坐稳.png",
+          "image_role": "ending"
+        },
+        {
+          "shot_id": "E01-A-007",
+          "start": 6,
+          "end": 12,
+          "title": "床托背，被子催醒",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-闭帘托背.png",
+          "image_role": "action"
+        },
+        {
+          "shot_id": "E01-A-007-L",
+          "start": 12,
+          "end": 18,
+          "title": "全屋苏醒·分区亮灯与开帘",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-007-L-01-亮灯开厚帘.png",
+          "image_role": "action"
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "title": "贴地跟随到床边踱步",
+      "shot_ids": [
+        "E01-A-008-PRE",
+        "E01-A-008"
+      ],
+      "method": "seedance2.5",
+      "head_handle": 1,
+      "tail_handle": 1,
+      "why": "按动作及光线因果分组，保留镜头ID；预算未经实测，端点时长选项与参考槽位提交前核实。",
+      "reference_strategy": "以本批各镜新候选约束当前光线与窗帘，历史图只取未被覆盖的身份、结构和动作。动作终态不可直接当首帧；全屋管家无实体头像。",
+      "safe_cut": "在本批最后一个镜头的结束状态成立后切出，保持光线、窗帘、承托和家具停点，不截断接触过程。",
+      "fallback": "如多动作不稳定，按所列镜头安全结束状态拆分；新增请求及余量另记，不吞动作或对白凑时长。",
+      "runs": [],
+      "edit_seconds": 5,
+      "requested_seconds": 7,
+      "timeline_start": 50,
+      "timeline_end": 55,
+      "beats": [
+        {
+          "shot_id": "E01-A-008-PRE",
+          "start": 1,
+          "end": 3,
+          "title": "贴地跟着拖鞋走",
+          "image": "视频制作/第一幕拖鞋蚂蚁视角-20261017-v0.1/E01-A-008-PRE-贴地跟随.png",
+          "image_role": "action"
+        },
+        {
+          "shot_id": "E01-A-008",
+          "start": 3,
+          "end": 6,
+          "title": "拖鞋沿床边踱步",
+          "image": "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-008-床边踱步.png",
+          "image_role": "action"
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "title": "预备衣架旋出与镜中试穿",
+      "shot_ids": [
+        "E01-A-009"
+      ],
+      "method": "seedance2.5",
+      "head_handle": 1,
+      "tail_handle": 1,
+      "why": "按动作及光线因果分组，保留镜头ID；预算未经实测，端点时长选项与参考槽位提交前核实。",
+      "reference_strategy": "以本批各镜新候选约束当前光线与窗帘，历史图只取未被覆盖的身份、结构和动作。动作终态不可直接当首帧；全屋管家无实体头像。",
+      "safe_cut": "在本批最后一个镜头的结束状态成立后切出，保持光线、窗帘、承托和家具停点，不截断接触过程。",
+      "fallback": "如多动作不稳定，按所列镜头安全结束状态拆分；新增请求及余量另记，不吞动作或对白凑时长。",
+      "runs": [],
+      "edit_seconds": 8,
+      "requested_seconds": 10,
+      "timeline_start": 55,
+      "timeline_end": 63,
+      "beats": [
+        {
+          "shot_id": "E01-A-009",
+          "start": 1,
+          "end": 9,
+          "title": "预备衣架旋出与试穿预览",
+          "image": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/E01-A-009-03-固定臂停稳.png",
+          "image_role": "ending"
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "title": "送水、贴窗追波纹与全屋忙碌",
+      "shot_ids": [
+        "E01-A-010",
+        "E01-A-010-W",
+        "E01-A-011"
+      ],
+      "method": "seedance2.5",
+      "head_handle": 1,
+      "tail_handle": 1,
+      "why": "按动作及光线因果分组，保留镜头ID；预算未经实测，端点时长选项与参考槽位提交前核实。",
+      "reference_strategy": "以本批各镜新候选约束当前光线与窗帘，历史图只取未被覆盖的身份、结构和动作。动作终态不可直接当首帧；全屋管家无实体头像。",
+      "safe_cut": "在本批最后一个镜头的结束状态成立后切出，保持光线、窗帘、承托和家具停点，不截断接触过程。",
+      "fallback": "如多动作不稳定，按所列镜头安全结束状态拆分；新增请求及余量另记，不吞动作或对白凑时长。 贴窗换景仍优先分别控制相机路径和窗面显影后按统一视点合成，窗帘堆不得挡路径。",
+      "runs": [],
+      "edit_seconds": 17,
+      "requested_seconds": 19,
+      "timeline_start": 63,
+      "timeline_end": 80,
+      "beats": [
+        {
+          "shot_id": "E01-A-010",
+          "start": 1,
+          "end": 6,
+          "title": "托盘送水",
+          "image": "视频制作/第一幕四镜补帧-20261017-v0.1/E01-A-010-送水回避.png",
+          "image_role": "action"
+        },
+        {
+          "shot_id": "E01-A-010-W",
+          "start": 6,
+          "end": 12,
+          "title": "贴窗追波纹·水巷展开",
+          "image": "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-010-W-02-追随波纹.png",
+          "image_role": "action"
+        },
+        {
+          "shot_id": "E01-A-011",
+          "start": 12,
+          "end": 18,
+          "title": "全屋忙碌催醒",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-011-开帘忙碌.png",
+          "image_role": "action"
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "title": "日历插镜：今日无事，宜休沐",
+      "shot_ids": [
+        "E01-A-012"
+      ],
+      "method": "edit_existing_image",
+      "head_handle": 0,
+      "tail_handle": 0,
+      "why": "按动作及光线因果分组，保留镜头ID；预算未经实测，端点时长选项与参考槽位提交前核实。",
+      "reference_strategy": "以本批各镜新候选约束当前光线与窗帘，历史图只取未被覆盖的身份、结构和动作。动作终态不可直接当首帧；全屋管家无实体头像。",
+      "safe_cut": "在本批最后一个镜头的结束状态成立后切出，保持光线、窗帘、承托和家具停点，不截断接触过程。",
+      "fallback": "如多动作不稳定，按所列镜头安全结束状态拆分；新增请求及余量另记，不吞动作或对白凑时长。",
+      "runs": [],
+      "edit_seconds": 4,
+      "requested_seconds": null,
+      "timeline_start": 80,
+      "timeline_end": 84,
+      "beats": [
+        {
+          "shot_id": "E01-A-012",
+          "start": 0,
+          "end": 4,
+          "title": "周末，闹钟却开着",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-012-周末闹钟开启.png",
+          "image_role": "interface"
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "title": "喊停与发现周末",
+      "shot_ids": [
+        "E01-A-013",
+        "E01-A-014"
+      ],
+      "method": "seedance2.5",
+      "head_handle": 1,
+      "tail_handle": 1,
+      "why": "按动作及光线因果分组，保留镜头ID；预算未经实测，端点时长选项与参考槽位提交前核实。",
+      "reference_strategy": "以本批各镜新候选约束当前光线与窗帘，历史图只取未被覆盖的身份、结构和动作。动作终态不可直接当首帧；全屋管家无实体头像。",
+      "safe_cut": "在本批最后一个镜头的结束状态成立后切出，保持光线、窗帘、承托和家具停点，不截断接触过程。",
+      "fallback": "如多动作不稳定，按所列镜头安全结束状态拆分；新增请求及余量另记，不吞动作或对白凑时长。",
+      "runs": [],
+      "edit_seconds": 15,
+      "requested_seconds": 17,
+      "timeline_start": 84,
+      "timeline_end": 99,
+      "beats": [
+        {
+          "shot_id": "E01-A-013",
+          "start": 1,
+          "end": 8,
+          "title": "停停停",
+          "image": "视频制作/第一幕蝴蝶结发夹统一-20261017-v0.1/05-喊停-发夹统一.png",
+          "image_role": "action"
+        },
+        {
+          "shot_id": "E01-A-014",
+          "start": 8,
+          "end": 16,
+          "title": "周末忘关闹钟·全屋等她决定",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-014-喊停保留灯光.png",
+          "image_role": "action"
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "title": "合帘、相拥与最后熄灯",
+      "shot_ids": [
+        "E01-A-015",
+        "E01-A-016",
+        "E01-A-016-L"
+      ],
+      "method": "seedance2.5",
+      "head_handle": 1,
+      "tail_handle": 1,
+      "why": "按动作及光线因果分组，保留镜头ID；预算未经实测，端点时长选项与参考槽位提交前核实。",
+      "reference_strategy": "以本批各镜新候选约束当前光线与窗帘，历史图只取未被覆盖的身份、结构和动作。动作终态不可直接当首帧；全屋管家无实体头像。",
+      "safe_cut": "在本批最后一个镜头的结束状态成立后切出，保持光线、窗帘、承托和家具停点，不截断接触过程。",
+      "fallback": "如多动作不稳定，按所列镜头安全结束状态拆分；新增请求及余量另记，不吞动作或对白凑时长。",
+      "runs": [],
+      "edit_seconds": 16,
+      "requested_seconds": 18,
+      "timeline_start": 99,
+      "timeline_end": 115,
+      "beats": [
+        {
+          "shot_id": "E01-A-015",
+          "start": 1,
+          "end": 6,
+          "title": "倒回枕头",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-015-合帘躺回.png",
+          "image_role": "action"
+        },
+        {
+          "shot_id": "E01-A-016",
+          "start": 6,
+          "end": 13,
+          "title": "汤圆自己靠回来",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-016-床灯相拥.png",
+          "image_role": "ending"
+        },
+        {
+          "shot_id": "E01-A-016-L",
+          "start": 13,
+          "end": 17,
+          "title": "最后一盏灯·陪她再睡",
+          "image": "视频制作/第一幕管家灯光与窗帘-20261018-v0.1/E01-A-016-L-最后熄灯-通廊遮光修订.png",
+          "image_role": "ending"
+        }
+      ]
+    }
+  ]
+}

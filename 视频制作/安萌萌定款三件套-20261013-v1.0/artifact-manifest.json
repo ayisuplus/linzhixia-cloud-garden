@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-13",
+  "status": "master_adopted_derivative_boards_delivered_pending_author_aesthetic_review",
+  "source": "视频制作\\安萌萌设计-20261013-v0.2\\安萌萌02-杏白竹青配色候选.png",
+  "source_sha256": "16c25910fed1e1b4b962621fe672c413ef5177ce943c8cb667f9f8e38191c263",
+  "source_copy_verified": true,
+  "artifacts": [
+    {
+      "file": "00-采用主图.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "16c25910fed1e1b4b962621fe672c413ef5177ce943c8cb667f9f8e38191c263"
+    },
+    {
+      "file": "01-四视图.png",
+      "width": 2076,
+      "height": 757,
+      "sha256": "1e83bb68a57856b594f1cf2d11a9b4f30095b16b98c05440547064c958664167"
+    },
+    {
+      "file": "02-穿搭分解.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7d9a0410ba5126220a1a60735b65cc6388b890fb7d9c110d29557ca398761a50"
+    },
+    {
+      "file": "03-妆造分解.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a518ac87192bf7381d8c7c4df76794aed41fa3780aa73601c4f60532a9a3c406"
+    },
+    {
+      "file": "独立视图/01_front-half.png",
+      "width": 510,
+      "height": 757,
+      "sha256": "3d5cb9144bff710e624a5385fdfa9f17e579c8aacc4eb97469a509fb18eff954"
+    },
+    {
+      "file": "独立视图/02_facing-left.png",
+      "width": 466,
+      "height": 757,
+      "sha256": "df0659fc5771704dd1924a15345e010212c3be9c19786941ca50a87a7490fc14"
+    },
+    {
+      "file": "独立视图/03_back.png",
+      "width": 704,
+      "height": 757,
+      "sha256": "aa4d1af9f237ebb549c29a2a92f9bf0c077d6a7e67919f160b126f8abeed7475"
+    },
+    {
+      "file": "独立视图/04_facing-right.png",
+      "width": 396,
+      "height": 757,
+      "sha256": "4f99120ba07fde011c9c34c0671f74caa316e8b4f6622df40ef02cc9031f9e3e"
+    }
+  ],
+  "independent_views_verified_pixel_exact": true,
+  "split_cuts": [
+    510,
+    976,
+    1680
+  ],
+  "generator": "Codex built-in image_gen",
+  "generation_calls": 4,
+  "prompts": [
+    "turnaround-prompt.txt",
+    "turnaround-layout-repair-prompt.txt",
+    "outfit-prompt.txt",
+    "makeup-prompt.txt"
+  ],
+  "historical_layout": "01-四视图-排版首稿.png",
+  "independent_review": "passed_after_layout_repair",
+  "limitations": [
+    "Side/back and hidden garment/hair structures are generated completions",
+    "Outfit board left figure sleeve edge touches/crops slightly at the canvas edge; full garment displays remain complete",
+    "Small heels follow adopted master; dance suitability not validated"
+  ],
+  "toonflow_status": "not_synced_transport_closed",
+  "eagle_imported": false
+}

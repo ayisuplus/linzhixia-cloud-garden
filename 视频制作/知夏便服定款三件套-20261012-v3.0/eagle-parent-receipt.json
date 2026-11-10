@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "知夏便服定款-20261012",
+      "success": true,
+      "id": "MV4VOAZ1XOHH2",
+      "parentId": "MV2R6QE8KF9NV"
+    }
+  ],
+  "message": "Successfully created 1/1 folders",
+  "timestamp": "2026-10-12T06:35:29.346Z",
+  "totalFolders": 1,
+  "successCount": 1,
+  "failureCount": 0
+}

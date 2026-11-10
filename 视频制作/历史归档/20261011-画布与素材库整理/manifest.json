@@ -1,0 +1,1372 @@
+{
+  "date": "2026-10-11",
+  "beforeNodes": 97,
+  "keepNodeIds": [
+    "5d94e9dc-ab50-4359-a50b-4553c109fb8e",
+    "345cbfd2-bd6c-4615-928b-da53122bd4de",
+    "7460a1c8-9e1e-4b2d-a189-698180cf6fec",
+    "c840de5b-0463-492b-8ed9-d8da6ca630db",
+    "aa3668f5-5da4-4282-82a5-276d1c9128eb",
+    "776d8e69-0722-4ec3-9040-33fdb5aa77ad",
+    "42b890b7-5859-431a-86a9-e72629ad4d3a",
+    "369d289f-edd5-4513-b5de-3335fb2bbb9e",
+    "0b2644d5-16e0-4972-919a-4eeac449932c",
+    "53a52c1e-3f27-413a-bbf0-6f8c34ee8d17",
+    "64fac844-166f-4213-8627-e7ab4110272d",
+    "9b49c72f-2d75-4084-af1b-762193dfc821",
+    "3bfccabb-4acb-4493-95e8-8b75b6843f9d",
+    "e87920ed-5726-4c83-a4f7-952fcb2247d3",
+    "d8f916c8-4587-457c-968a-b5953c2e9227",
+    "d83682f2-7ee7-4772-b303-fcf75b3aa7c0",
+    "bd775695-4f57-4f4b-9b93-24e9059ed187",
+    "5eac3291-3fc6-4345-8c7d-2fdff9b89a6f",
+    "7a2bbe17-b0c4-4165-abcf-6c51a4fd8468",
+    "3874c207-f63c-4777-a538-8b43371f8173",
+    "44fe7f6a-584a-45cc-8693-2e18c01988ab",
+    "30f12a19-17f5-4ccc-b14b-3146db81ba67",
+    "5a46965d-e87b-462a-8ca0-c1a58f1f2445"
+  ],
+  "archivedNodes": [
+    {
+      "id": "926e475b-7e2e-44c5-8612-8dccff1bbe7c",
+      "label": "历史｜工作服08｜已由10延展",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏工作服试稿-v0.1\\知夏-修复工作服-候选08-浅竹绿现代工装.png"
+      ]
+    },
+    {
+      "id": "4f3e4b3f-c2fa-459d-9836-23772f321da2",
+      "label": "工作服08｜原始生成提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\4f3e4b3f-c2fa-459d-9836-23772f321da2\\content.md"
+      ]
+    },
+    {
+      "id": "c76b1105-95a4-4a5a-a598-1b6a7a4e9f3e",
+      "label": "历史｜便服04｜旧采用稿",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏便服试稿-v0.1\\知夏-日常半束发-候选04-质感精修.png"
+      ]
+    },
+    {
+      "id": "41984b80-6630-472a-b4ad-c484855833bf",
+      "label": "日常便服04｜原始生成提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\41984b80-6630-472a-b4ad-c484855833bf\\content.md"
+      ]
+    },
+    {
+      "id": "1a0a884b-5727-4655-b6ce-041dbbebf5dc",
+      "label": "便服｜日常新中式",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\1a0a884b-5727-4655-b6ce-041dbbebf5dc\\content.md"
+      ]
+    },
+    {
+      "id": "bc5157c3-e259-4ad4-ad4d-824b2473c731",
+      "label": "工作服｜修复工装+师傅旧物",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\bc5157c3-e259-4ad4-ad4d-824b2473c731\\content.md"
+      ]
+    },
+    {
+      "id": "84a802cc-c2fb-4387-8010-72f28340a5f3",
+      "label": "校服｜JK+中国结+花窗",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\84a802cc-c2fb-4387-8010-72f28340a5f3\\content.md"
+      ]
+    },
+    {
+      "id": "45237c3e-26cd-45b8-b10d-e1d128a1b102",
+      "label": "睡衣｜锦鲤荷叶云朵",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\45237c3e-26cd-45b8-b10d-e1d128a1b102\\content.md"
+      ]
+    },
+    {
+      "id": "4f2f591d-b006-4511-ad29-560c383b2567",
+      "label": "便服05-日常新中式｜改良试稿·待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-便服05-日常新中式.png"
+      ]
+    },
+    {
+      "id": "ecc252fc-83fe-4842-9106-13dda4ee0af3",
+      "label": "工作服09-旧工具袋｜改良试稿·待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-工作服09-旧工具袋.png"
+      ]
+    },
+    {
+      "id": "a1767940-0d13-4eb1-8965-5e4c4e05aadc",
+      "label": "校服01-中国结花窗｜改良试稿·待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-校服01-中国结花窗.png"
+      ]
+    },
+    {
+      "id": "f0208c77-22de-4b77-93f6-15c96a638c35",
+      "label": "睡衣01-锦鲤荷叶云朵｜改良试稿·待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-睡衣01-锦鲤荷叶云朵.png"
+      ]
+    },
+    {
+      "id": "cc949a78-3e68-44f2-b1ba-41cff77ca634",
+      "label": "历史｜睡衣02｜交领套装试稿",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-睡衣02-交领右衽.png"
+      ]
+    },
+    {
+      "id": "885fbe0a-615f-4708-9661-69b90dabc4b4",
+      "label": "睡衣02｜实际生成提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\885fbe0a-615f-4708-9661-69b90dabc4b4\\content.md"
+      ]
+    },
+    {
+      "id": "a1209663-a754-4a31-8b75-c01464beb7bc",
+      "label": "睡衣03｜短款吊带睡裙·待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-睡衣03-短款吊带睡裙.png"
+      ]
+    },
+    {
+      "id": "7404df1a-1bc8-4b85-b9a9-b0fe387af0b8",
+      "label": "睡衣03｜实际生成提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\7404df1a-1bc8-4b85-b9a9-b0fe387af0b8\\content.md"
+      ]
+    },
+    {
+      "id": "c0d38ec8-fddc-4e21-ba9e-5dd003297448",
+      "label": "知夏｜校服02｜清青蓝朱红｜待采用",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-校服02-清青蓝朱红.png"
+      ]
+    },
+    {
+      "id": "d50ed406-ba78-4d88-bdc8-4028de5ed386",
+      "label": "校服02｜实际生成提示词与改款说明",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\d50ed406-ba78-4d88-bdc8-4028de5ed386\\content.md"
+      ]
+    },
+    {
+      "id": "d43bdb40-57d9-4f2f-85b1-2e977b33f103",
+      "label": "知夏｜校服03｜浅天蓝花卉｜作者认可",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-校服03-浅天蓝花卉短衫.png"
+      ]
+    },
+    {
+      "id": "573f85eb-b3f1-410b-8095-8d05203c40c4",
+      "label": "校服03｜浅天蓝花卉｜作者认可｜实际提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\573f85eb-b3f1-410b-8095-8d05203c40c4\\content.md"
+      ]
+    },
+    {
+      "id": "a6d1e999-dea0-48c7-afba-39df8889f799",
+      "label": "知夏｜校服妆造01｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服-妆造01.png"
+      ]
+    },
+    {
+      "id": "baa7adb2-5487-46b6-918c-1f590745aa32",
+      "label": "知夏｜校服穿搭01｜鞋袜待改造",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服-穿搭01.png"
+      ]
+    },
+    {
+      "id": "18c7a8e5-199b-4614-b50b-2e9d5883d1be",
+      "label": "校服妆造01｜提示词与补全说明",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\18c7a8e5-199b-4614-b50b-2e9d5883d1be\\content.md"
+      ]
+    },
+    {
+      "id": "0e1bf2b7-30cb-4564-b097-b9769e1a8bbe",
+      "label": "校服穿搭01｜提示词与补全说明",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\0e1bf2b7-30cb-4564-b097-b9769e1a8bbe\\content.md"
+      ]
+    },
+    {
+      "id": "dba6b0f7-d692-4250-bcd8-4fbd7b8d2181",
+      "label": "知夏｜校服04｜圆头布履绢感短袜｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服04-圆头布履绢感短袜.png"
+      ]
+    },
+    {
+      "id": "055f11f4-2007-4007-8155-c3aec839ee96",
+      "label": "校服04｜圆头布履试穿｜实际提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\055f11f4-2007-4007-8155-c3aec839ee96\\content.md"
+      ]
+    },
+    {
+      "id": "8c3048f5-4885-42be-b202-af40db6ba097",
+      "label": "知夏｜校服05｜白栀子与淡青云纹｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服05-白栀子淡青云纹.png"
+      ]
+    },
+    {
+      "id": "9b7f468e-e2f7-4c7e-ac83-3c0e94f9b2db",
+      "label": "校服05｜白栀子与淡青云纹｜提示词与记录",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\9b7f468e-e2f7-4c7e-ac83-3c0e94f9b2db\\content.md"
+      ]
+    },
+    {
+      "id": "238877a4-1915-45ab-b112-18e679d55a3c",
+      "label": "知夏｜校服06｜低双鬟小髻｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服06-低双鬟小髻.png"
+      ]
+    },
+    {
+      "id": "28a9ea26-89a5-4d00-8f95-ae2db6fc78a7",
+      "label": "校服06｜低双鬟小髻｜提示词与记录",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\28a9ea26-89a5-4d00-8f95-ae2db6fc78a7\\content.md"
+      ]
+    },
+    {
+      "id": "136a86da-4880-47e6-bcae-977692d9add0",
+      "label": "知夏｜校服07｜暖白疏花｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服07-暖白疏花.png"
+      ]
+    },
+    {
+      "id": "bf62839c-30ef-4c19-83aa-b20921248ece",
+      "label": "校服07｜暖白疏花｜提示词与记录",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\bf62839c-30ef-4c19-83aa-b20921248ece\\content.md"
+      ]
+    },
+    {
+      "id": "efcd7866-0271-4e00-9a6d-eb474921cdb3",
+      "label": "知夏｜校服08｜不对称长短袜与加大云纹｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服08-不对称长短袜.png"
+      ]
+    },
+    {
+      "id": "bcaf3e63-bf00-4633-92c8-074d49309011",
+      "label": "校服08｜不对称长短袜｜提示词与记录",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\bcaf3e63-bf00-4633-92c8-074d49309011\\content.md"
+      ]
+    },
+    {
+      "id": "1142538c-e3ef-4c3c-affb-288a1aa493ab",
+      "label": "知夏｜校服09｜隐形船袜与丝绢长袜｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服09-隐形船袜丝绢长袜.png"
+      ]
+    },
+    {
+      "id": "37c2d287-0149-41dd-b194-c8e2330e4a6a",
+      "label": "校服09｜隐形船袜丝绢长袜｜提示词与记录",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\37c2d287-0149-41dd-b194-c8e2330e4a6a\\content.md"
+      ]
+    },
+    {
+      "id": "66bc9faa-4a99-4357-ae7a-c3e1d4098bbc",
+      "label": "知夏｜校服10｜轻薄丝纱长袜｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服10-轻薄丝纱长袜.png"
+      ]
+    },
+    {
+      "id": "0e152b64-0e18-4ba3-bb4e-661ce518ad39",
+      "label": "校服10｜轻薄丝纱长袜｜提示词与记录",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\0e152b64-0e18-4ba3-bb4e-661ce518ad39\\content.md"
+      ]
+    },
+    {
+      "id": "23b737ec-aa8d-451e-aa7c-ff0d1f01e69d",
+      "label": "知夏｜纱罗长袜01｜单品与面料｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-纱罗长袜01-单品与面料.png"
+      ]
+    },
+    {
+      "id": "29a47e8e-a4c2-4711-bb48-122d60f05fb0",
+      "label": "知夏｜校服11｜纱罗裁片长袜｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服11-纱罗裁片长袜.png"
+      ]
+    },
+    {
+      "id": "c334987d-9bc8-43e9-bfa0-6a79c9cca6db",
+      "label": "纱罗长袜与校服11｜提示词及记录",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\c334987d-9bc8-43e9-bfa0-6a79c9cca6db\\content.md"
+      ]
+    },
+    {
+      "id": "26f1a57d-a4f3-4050-8bdd-f9bb5ddec86f",
+      "label": "知夏｜校服12｜清晰修复与膝下袜｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服12-清晰修复膝下袜.png"
+      ]
+    },
+    {
+      "id": "d9ee263d-1a0b-4d11-821d-d6b716a729e3",
+      "label": "校服12｜清晰修复膝下袜｜提示词与记录",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\d9ee263d-1a0b-4d11-821d-d6b716a729e3\\content.md"
+      ]
+    },
+    {
+      "id": "2dda9ce0-0d3a-4c76-89d3-933ef39393f2",
+      "label": "知夏｜校服13｜复制云纹方案｜作者否定",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服13-袜口鞋面云纹.png"
+      ]
+    },
+    {
+      "id": "75101b11-76f0-4e8b-a1b1-face069e4149",
+      "label": "校服13｜否定原因与原提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\75101b11-76f0-4e8b-a1b1-face069e4149\\content.md"
+      ]
+    },
+    {
+      "id": "6200695a-4b5d-467f-b492-5528f60c24ab",
+      "label": "知夏｜校服14｜如意弧边与流线绣｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服14-如意弧边流线绣鞋.png"
+      ]
+    },
+    {
+      "id": "e3b53b14-e776-45e9-9687-6f0c83a8ac85",
+      "label": "校服14｜设计与实际提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\e3b53b14-e776-45e9-9687-6f0c83a8ac85\\content.md"
+      ]
+    },
+    {
+      "id": "84b2ea8e-c15d-4f68-bd8c-83c8aeb8aa14",
+      "label": "知夏｜未来日常饰品01｜候选",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏饰品设计-20261011-v0.1\\知夏-未来日常饰品01-分解图.png"
+      ]
+    },
+    {
+      "id": "ecc8492c-e8f5-4bb8-8e8a-8945bf426e42",
+      "label": "饰品01｜方案与实际提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\ecc8492c-e8f5-4bb8-8e8a-8945bf426e42\\content.md"
+      ]
+    },
+    {
+      "id": "a241c351-c4db-4914-bc79-f5f5f9bb1589",
+      "label": "知夏｜未来饰品02｜智能水杯与头顶发饰",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏饰品设计-20261011-v0.1\\知夏-未来日常饰品02-智能水杯与头顶发饰.png"
+      ]
+    },
+    {
+      "id": "0e666157-c699-47aa-80d3-fb1cbc351f08",
+      "label": "饰品02｜修改与实际提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\0e666157-c699-47aa-80d3-fb1cbc351f08\\content.md"
+      ]
+    },
+    {
+      "id": "95150b30-dbfa-4f46-aeb0-0f45577b9c30",
+      "label": "知夏｜发夹03｜浅弧贴发｜待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏饰品设计-20261011-v0.1\\知夏-发夹03-浅弧贴发佩戴与结构.png"
+      ]
+    },
+    {
+      "id": "05295130-84ed-46e8-85d1-20271fc688a1",
+      "label": "发夹03｜佩戴与结构说明",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\05295130-84ed-46e8-85d1-20271fc688a1\\content.md"
+      ]
+    },
+    {
+      "id": "f153285d-733e-41e1-b758-65b718f7a6f6",
+      "label": "面容参考01｜作者提供｜眨眼",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏面容调整-20261011-v0.1\\参考\\作者参考01-眨眼.png"
+      ]
+    },
+    {
+      "id": "5624de15-b2ce-417a-8820-92b5e1558d11",
+      "label": "面容参考02｜作者提供｜正面",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏面容调整-20261011-v0.1\\参考\\作者参考02-正面.png"
+      ]
+    },
+    {
+      "id": "96101de9-afbc-4072-a9f5-65a672835ba2",
+      "label": "面容参考03｜作者提供｜微笑",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏面容调整-20261011-v0.1\\参考\\作者参考03-微笑.png"
+      ]
+    },
+    {
+      "id": "d69217b5-4ef2-4e77-a932-2bcb2a1f5d0e",
+      "label": "知夏｜面容01｜作者采用｜新面容主参考",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏面容调整-20261011-v0.1\\知夏-面容01-柔和短圆脸头肩.png"
+      ]
+    },
+    {
+      "id": "766fffcb-0bb7-46f0-8367-c3f1cb0c2372",
+      "label": "面容01｜已采用｜参考分工与提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\766fffcb-0bb7-46f0-8367-c3f1cb0c2372\\content.md"
+      ]
+    },
+    {
+      "id": "7dac5367-def8-44b4-9246-337423a9387c",
+      "label": "校服四视图 v1.1｜侧襟小盘扣修正·待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服正式设定-20261011-v1.0\\知夏-校服四视图-v1.1-侧襟修正.png"
+      ]
+    },
+    {
+      "id": "e2574df9-0064-4a82-a496-1e577a70ea53",
+      "label": "校服穿搭拆解 v1.1｜侧襟小盘扣修正·待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服正式设定-20261011-v1.0\\知夏-穿搭拆解-v1.1-侧襟修正.png"
+      ]
+    },
+    {
+      "id": "812df3f5-20c0-4fec-8cb6-ee78c257cabd",
+      "label": "校服妆造拆分 v1.1｜侧襟小盘扣修正·待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服正式设定-20261011-v1.0\\知夏-妆造拆分-v1.1-侧襟修正.png"
+      ]
+    },
+    {
+      "id": "cf3b0f9e-db1c-43aa-b178-88019c3b84d4",
+      "label": "校服v1.1 正面半身",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服正式设定-20261011-v1.0\\四视图独立图-v1.1\\01_front-half.png"
+      ]
+    },
+    {
+      "id": "f0babcc1-24c4-4e2a-91d4-a2f856163289",
+      "label": "校服v1.1 朝画面左侧面",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服正式设定-20261011-v1.0\\四视图独立图-v1.1\\02_facing-left.png"
+      ]
+    },
+    {
+      "id": "da782ebe-589f-4059-9bec-87846896f5fb",
+      "label": "校服v1.1 背面",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服正式设定-20261011-v1.0\\四视图独立图-v1.1\\03_back.png"
+      ]
+    },
+    {
+      "id": "bd9b0a2b-1158-4e39-a856-92f81da61eff",
+      "label": "校服v1.1 朝画面右侧面",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏校服正式设定-20261011-v1.0\\四视图独立图-v1.1\\04_facing-right.png"
+      ]
+    },
+    {
+      "id": "8f25d03e-172f-4098-af0b-97ae447e05f0",
+      "label": "校服四视图 v1.1｜来源、侧襟纠错与提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\8f25d03e-172f-4098-af0b-97ae447e05f0\\content.md"
+      ]
+    },
+    {
+      "id": "01b92c51-748c-4f18-b602-681b5c94d545",
+      "label": "校服穿搭 v1.1｜来源、侧襟纠错与提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\01b92c51-748c-4f18-b602-681b5c94d545\\content.md"
+      ]
+    },
+    {
+      "id": "0be61c97-68fe-4968-8dd9-abe7a04fa562",
+      "label": "校服妆造 v1.1｜来源、侧襟纠错与提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\0be61c97-68fe-4968-8dd9-abe7a04fa562\\content.md"
+      ]
+    },
+    {
+      "id": "e12b4975-e8be-41e8-8494-c3175436436d",
+      "label": "知夏面容身形02｜清秀柔椭圆脸与修长比例·待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏面容身形优化-20261011-v0.1\\知夏-面容身形02-清秀柔椭圆脸与修长比例.png"
+      ]
+    },
+    {
+      "id": "e2e58655-6df8-4e21-8c34-e4ce4e88cd7f",
+      "label": "面容身形02｜来源、调整与提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\e2e58655-6df8-4e21-8c34-e4ce4e88cd7f\\content.md"
+      ]
+    },
+    {
+      "id": "3e7a99dd-74b8-4f8c-8af7-9c518257698d",
+      "label": "校服比例03｜短衫高腰裙衔接·待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏面容身形优化-20261011-v0.1\\知夏-校服比例03-短衫与高腰裙衔接.png"
+      ]
+    },
+    {
+      "id": "2d5b24f1-45e8-48c6-a607-d6e9dede0d4b",
+      "label": "校服比例03｜腰线修改与提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\2d5b24f1-45e8-48c6-a607-d6e9dede0d4b\\content.md"
+      ]
+    },
+    {
+      "id": "8db98225-9d21-4d2d-aaf1-aa04362c6258",
+      "label": "校服比例04｜腰线下移与略短裙摆·待审",
+      "type": "remote-imageNode",
+      "files": [
+        "旧节点素材\\知夏面容身形优化-20261011-v0.1\\知夏-校服比例04-自然腰线与略短裙摆.png"
+      ]
+    },
+    {
+      "id": "36f82ea4-45d3-4a26-9fcb-9a65fdd87752",
+      "label": "校服比例04｜修改记录与提示词",
+      "type": "remote-textNode",
+      "files": [
+        "旧节点素材\\assets\\36f82ea4-45d3-4a26-9fcb-9a65fdd87752\\content.md"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "source": "视频制作\\知夏工作服试稿-v0.1\\知夏-修复工作服-候选08-浅竹绿现代工装.png",
+      "archive": "旧节点素材\\知夏工作服试稿-v0.1\\知夏-修复工作服-候选08-浅竹绿现代工装.png",
+      "bytes": 1699873,
+      "sha256": "687ba8f22ae4ff24ee0bae86d975f41295be8f12313d3ff2f96363cbdf722f16"
+    },
+    {
+      "source": "视频制作\\assets\\4f3e4b3f-c2fa-459d-9836-23772f321da2\\content.md",
+      "archive": "旧节点素材\\assets\\4f3e4b3f-c2fa-459d-9836-23772f321da2\\content.md",
+      "bytes": 4043,
+      "sha256": "08418156a03d7ffb13410cf60226812157d283b395781ecdfef139fc60414b50"
+    },
+    {
+      "source": "视频制作\\知夏便服试稿-v0.1\\知夏-日常半束发-候选04-质感精修.png",
+      "archive": "旧节点素材\\知夏便服试稿-v0.1\\知夏-日常半束发-候选04-质感精修.png",
+      "bytes": 1842368,
+      "sha256": "72383dbd8e78156e4671c13ae73c09a426e1b54bbe89c4568721ab2320047ba5"
+    },
+    {
+      "source": "视频制作\\assets\\41984b80-6630-472a-b4ad-c484855833bf\\content.md",
+      "archive": "旧节点素材\\assets\\41984b80-6630-472a-b4ad-c484855833bf\\content.md",
+      "bytes": 2398,
+      "sha256": "7a77d21490575fa36d024e9d57b1370e9b973f19fdf8fa703bbc7f1703a01199"
+    },
+    {
+      "source": "视频制作\\assets\\1a0a884b-5727-4655-b6ce-041dbbebf5dc\\content.md",
+      "archive": "旧节点素材\\assets\\1a0a884b-5727-4655-b6ce-041dbbebf5dc\\content.md",
+      "bytes": 1587,
+      "sha256": "a1fb77a3d1615e9192fdcb0de2d2e2b1287893946f627511c817731bbb012de0"
+    },
+    {
+      "source": "视频制作\\assets\\bc5157c3-e259-4ad4-ad4d-824b2473c731\\content.md",
+      "archive": "旧节点素材\\assets\\bc5157c3-e259-4ad4-ad4d-824b2473c731\\content.md",
+      "bytes": 1963,
+      "sha256": "c92539219b4bbfe7f7da6ae6f9d083124d208ce3b817230408a47e6488c3b1d5"
+    },
+    {
+      "source": "视频制作\\assets\\84a802cc-c2fb-4387-8010-72f28340a5f3\\content.md",
+      "archive": "旧节点素材\\assets\\84a802cc-c2fb-4387-8010-72f28340a5f3\\content.md",
+      "bytes": 1453,
+      "sha256": "05478e15807910ca28f05b2167276ea142dab3f8b6d164838c84e625423a9bfd"
+    },
+    {
+      "source": "视频制作\\assets\\45237c3e-26cd-45b8-b10d-e1d128a1b102\\content.md",
+      "archive": "旧节点素材\\assets\\45237c3e-26cd-45b8-b10d-e1d128a1b102\\content.md",
+      "bytes": 1346,
+      "sha256": "76a2aa1a6f46188f60d7b7a737bd73811ba15635420c8ecd4b5f21e5d218d9b8"
+    },
+    {
+      "source": "视频制作\\知夏四套服装试稿-20261011-v0.1\\知夏-便服05-日常新中式.png",
+      "archive": "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-便服05-日常新中式.png",
+      "bytes": 1706903,
+      "sha256": "1944e3cf5cf7fea26760d0bba8465ad5073d2de1865589380b4846f42fa05eca"
+    },
+    {
+      "source": "视频制作\\知夏四套服装试稿-20261011-v0.1\\知夏-工作服09-旧工具袋.png",
+      "archive": "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-工作服09-旧工具袋.png",
+      "bytes": 1729990,
+      "sha256": "995db3696e3c851b852c4e03ea905fdf97b330422bd244940f42b27cafee1e02"
+    },
+    {
+      "source": "视频制作\\知夏四套服装试稿-20261011-v0.1\\知夏-校服01-中国结花窗.png",
+      "archive": "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-校服01-中国结花窗.png",
+      "bytes": 1715636,
+      "sha256": "dc05e61c618cd11bb0996303ba02bffcadef4583cd55b72267fa4e2a00b3c84f"
+    },
+    {
+      "source": "视频制作\\知夏四套服装试稿-20261011-v0.1\\知夏-睡衣01-锦鲤荷叶云朵.png",
+      "archive": "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-睡衣01-锦鲤荷叶云朵.png",
+      "bytes": 1987041,
+      "sha256": "595685a475891ad52ed1b35493fee2abd40371fce67a243db0edb65ce8f858be"
+    },
+    {
+      "source": "视频制作\\知夏四套服装试稿-20261011-v0.1\\知夏-睡衣02-交领右衽.png",
+      "archive": "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-睡衣02-交领右衽.png",
+      "bytes": 1934479,
+      "sha256": "f7525f86a66714711bfdb9869bb31412ed276ba0c96fbcd33eb9127ecd8fb899"
+    },
+    {
+      "source": "视频制作\\assets\\885fbe0a-615f-4708-9661-69b90dabc4b4\\content.md",
+      "archive": "旧节点素材\\assets\\885fbe0a-615f-4708-9661-69b90dabc4b4\\content.md",
+      "bytes": 3322,
+      "sha256": "ef8e10c24952701926b3e8346a2797c41e7b86de092400565057df59d24c9684"
+    },
+    {
+      "source": "视频制作\\知夏四套服装试稿-20261011-v0.1\\知夏-睡衣03-短款吊带睡裙.png",
+      "archive": "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-睡衣03-短款吊带睡裙.png",
+      "bytes": 1857281,
+      "sha256": "3d967ecc4b0f7ee1617407534e22d5962131ece27abfff4eff4404274c952c1f"
+    },
+    {
+      "source": "视频制作\\assets\\7404df1a-1bc8-4b85-b9a9-b0fe387af0b8\\content.md",
+      "archive": "旧节点素材\\assets\\7404df1a-1bc8-4b85-b9a9-b0fe387af0b8\\content.md",
+      "bytes": 2334,
+      "sha256": "60477babb3d7c82205e8974f1675eda313092e18679af229da0a01cdc15763a5"
+    },
+    {
+      "source": "视频制作\\知夏四套服装试稿-20261011-v0.1\\知夏-校服02-清青蓝朱红.png",
+      "archive": "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-校服02-清青蓝朱红.png",
+      "bytes": 1699449,
+      "sha256": "b39ce9f298715b83e5e1be63b697d8fee49b8f3c6d3ecad78ea9276c66f6e528"
+    },
+    {
+      "source": "视频制作\\assets\\d50ed406-ba78-4d88-bdc8-4028de5ed386\\content.md",
+      "archive": "旧节点素材\\assets\\d50ed406-ba78-4d88-bdc8-4028de5ed386\\content.md",
+      "bytes": 3594,
+      "sha256": "4c2c704dddd4280c3ff4522105eb2781b48642b084a8b6dadafa9e2de108f6ca"
+    },
+    {
+      "source": "视频制作\\知夏四套服装试稿-20261011-v0.1\\知夏-校服03-浅天蓝花卉短衫.png",
+      "archive": "旧节点素材\\知夏四套服装试稿-20261011-v0.1\\知夏-校服03-浅天蓝花卉短衫.png",
+      "bytes": 1696717,
+      "sha256": "1c1dac209933fbb9309ec1391839bfcc49d29d9ca8a18b13735f78a3b68c9c40"
+    },
+    {
+      "source": "视频制作\\assets\\573f85eb-b3f1-410b-8095-8d05203c40c4\\content.md",
+      "archive": "旧节点素材\\assets\\573f85eb-b3f1-410b-8095-8d05203c40c4\\content.md",
+      "bytes": 4672,
+      "sha256": "b7d94d879a7b07c1e9d0dfa0c2ab7bf7bc19f9a3fff8637b8b2b3a00c337f6f6"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服-妆造01.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服-妆造01.png",
+      "bytes": 2158590,
+      "sha256": "5c15276e0ce1f6e4f546028b77637eac23bfb09e8e2e22c7ac6ed8f92a5e48d8"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服-穿搭01.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服-穿搭01.png",
+      "bytes": 1951488,
+      "sha256": "5bf84e14a9f9c891147c04b8a3db586e1f3884b77ee59f01088831b63de3f123"
+    },
+    {
+      "source": "视频制作\\assets\\18c7a8e5-199b-4614-b50b-2e9d5883d1be\\content.md",
+      "archive": "旧节点素材\\assets\\18c7a8e5-199b-4614-b50b-2e9d5883d1be\\content.md",
+      "bytes": 2187,
+      "sha256": "a9e53b07ddaf9f7f3b91a7333d19ad9a2168189b8ede847894d2f964599ae9ee"
+    },
+    {
+      "source": "视频制作\\assets\\0e1bf2b7-30cb-4564-b097-b9769e1a8bbe\\content.md",
+      "archive": "旧节点素材\\assets\\0e1bf2b7-30cb-4564-b097-b9769e1a8bbe\\content.md",
+      "bytes": 2804,
+      "sha256": "48890ae7e5d174d14b10eeb600fc2a17c4fe5ce0d9afc011697f88f94dd738d5"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服04-圆头布履绢感短袜.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服04-圆头布履绢感短袜.png",
+      "bytes": 1671331,
+      "sha256": "a639a501bab2edf94c49ef43d77e81abdc8c838a3b3632ac16e61216da1216ac"
+    },
+    {
+      "source": "视频制作\\assets\\055f11f4-2007-4007-8155-c3aec839ee96\\content.md",
+      "archive": "旧节点素材\\assets\\055f11f4-2007-4007-8155-c3aec839ee96\\content.md",
+      "bytes": 3330,
+      "sha256": "16e7872657c6ef6fc07cb47fcaabf09f04b624190a73e350ee158e739eecca74"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服05-白栀子淡青云纹.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服05-白栀子淡青云纹.png",
+      "bytes": 1675313,
+      "sha256": "65f73e703093749fedb007ec164c8af4065695530fd9539fac798e18d23e0dab"
+    },
+    {
+      "source": "视频制作\\assets\\9b7f468e-e2f7-4c7e-ac83-3c0e94f9b2db\\content.md",
+      "archive": "旧节点素材\\assets\\9b7f468e-e2f7-4c7e-ac83-3c0e94f9b2db\\content.md",
+      "bytes": 2573,
+      "sha256": "14d17bdaf6ca10791376989492db35b6932ef438d5cee22c554750f52c521140"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服06-低双鬟小髻.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服06-低双鬟小髻.png",
+      "bytes": 1654718,
+      "sha256": "9363694c56aa12832040e301aede988812d372140d65462174854a7d474ca5cf"
+    },
+    {
+      "source": "视频制作\\assets\\28a9ea26-89a5-4d00-8f95-ae2db6fc78a7\\content.md",
+      "archive": "旧节点素材\\assets\\28a9ea26-89a5-4d00-8f95-ae2db6fc78a7\\content.md",
+      "bytes": 3091,
+      "sha256": "2c6ede496b36d019886e181c81d7a9d97c6ad3114e01c5e7c66b8e2a047749e6"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服07-暖白疏花.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服07-暖白疏花.png",
+      "bytes": 1644033,
+      "sha256": "58eb88971904d4f3b418ad927d267bbaf5211fee41a03da28a980ca86ed4a706"
+    },
+    {
+      "source": "视频制作\\assets\\bf62839c-30ef-4c19-83aa-b20921248ece\\content.md",
+      "archive": "旧节点素材\\assets\\bf62839c-30ef-4c19-83aa-b20921248ece\\content.md",
+      "bytes": 3407,
+      "sha256": "26f73a7a636e37d1e8bcf859c788f3261d2f3e6cf49c32a899b261ceede4f146"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服08-不对称长短袜.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服08-不对称长短袜.png",
+      "bytes": 1629628,
+      "sha256": "9e49c4e9d0b7577c3f05e01d3e42faeb49ede84713bc6ee30a6a3574b4d78182"
+    },
+    {
+      "source": "视频制作\\assets\\bcaf3e63-bf00-4633-92c8-074d49309011\\content.md",
+      "archive": "旧节点素材\\assets\\bcaf3e63-bf00-4633-92c8-074d49309011\\content.md",
+      "bytes": 3477,
+      "sha256": "5d86666ecb6edd5eeb2b4423ce3377e54c1db67d41646ef14760ab53c1285661"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服09-隐形船袜丝绢长袜.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服09-隐形船袜丝绢长袜.png",
+      "bytes": 1623922,
+      "sha256": "7fd347a647059bebdab22ff45c0a4f22acd9e06b6accf7101416efec8e253f3a"
+    },
+    {
+      "source": "视频制作\\assets\\37c2d287-0149-41dd-b194-c8e2330e4a6a\\content.md",
+      "archive": "旧节点素材\\assets\\37c2d287-0149-41dd-b194-c8e2330e4a6a\\content.md",
+      "bytes": 2573,
+      "sha256": "57a9f39bcbb8180b6ebefb4b425cbb160e55891a17199283ba8dc1d5782f95cc"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服10-轻薄丝纱长袜.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服10-轻薄丝纱长袜.png",
+      "bytes": 1633577,
+      "sha256": "ac9370a197befdca68c8e6e7f3cfd105fdee35966ebf07b759ac32c4f0eafa52"
+    },
+    {
+      "source": "视频制作\\assets\\0e152b64-0e18-4ba3-bb4e-661ce518ad39\\content.md",
+      "archive": "旧节点素材\\assets\\0e152b64-0e18-4ba3-bb4e-661ce518ad39\\content.md",
+      "bytes": 2590,
+      "sha256": "43ac1c1d42200188718140ab7db803934911521b86667f66c1332baf4da14684"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-纱罗长袜01-单品与面料.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-纱罗长袜01-单品与面料.png",
+      "bytes": 2381545,
+      "sha256": "ac73fa58119f93c0d3645bbce304e373e54cfc3dc801940a0ec389140f466abe"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服11-纱罗裁片长袜.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服11-纱罗裁片长袜.png",
+      "bytes": 1663628,
+      "sha256": "503e4b6760beb06e8f433dc8850d7af68e9fd4ae27ecca61be8f46ae534d2355"
+    },
+    {
+      "source": "视频制作\\assets\\c334987d-9bc8-43e9-bfa0-6a79c9cca6db\\content.md",
+      "archive": "旧节点素材\\assets\\c334987d-9bc8-43e9-bfa0-6a79c9cca6db\\content.md",
+      "bytes": 5811,
+      "sha256": "8cca34f6d957d546d463534993b2c1e43bdcdb4a22d77768a4a13757306a4efc"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服12-清晰修复膝下袜.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服12-清晰修复膝下袜.png",
+      "bytes": 1652183,
+      "sha256": "d0e75ba3dbe78bf30f7a6d307d6df29e6f752b57fc22a709f4783b37ff264b89"
+    },
+    {
+      "source": "视频制作\\assets\\d9ee263d-1a0b-4d11-821d-d6b716a729e3\\content.md",
+      "archive": "旧节点素材\\assets\\d9ee263d-1a0b-4d11-821d-d6b716a729e3\\content.md",
+      "bytes": 3722,
+      "sha256": "9ca04c1adbfabf4e2e6a06de39bee0f2c1cc42b42638e10315a68836aa19dae6"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服13-袜口鞋面云纹.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服13-袜口鞋面云纹.png",
+      "bytes": 1620649,
+      "sha256": "b20641bf2206c73a5c6e3e4869bd66bb4045cf388967a4f7dea3ff47d79259f2"
+    },
+    {
+      "source": "视频制作\\assets\\75101b11-76f0-4e8b-a1b1-face069e4149\\content.md",
+      "archive": "旧节点素材\\assets\\75101b11-76f0-4e8b-a1b1-face069e4149\\content.md",
+      "bytes": 2773,
+      "sha256": "7f6e035f860421d5d20a55566fb65baf4affa3d86bbf59c00610ff8606188823"
+    },
+    {
+      "source": "视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服14-如意弧边流线绣鞋.png",
+      "archive": "旧节点素材\\知夏校服拆解-20261011-v0.1\\知夏-校服14-如意弧边流线绣鞋.png",
+      "bytes": 1613730,
+      "sha256": "1afdd1db73251702b7a2e7055a9d19d3f48834590554a31685a3c5649d92f535"
+    },
+    {
+      "source": "视频制作\\assets\\e3b53b14-e776-45e9-9687-6f0c83a8ac85\\content.md",
+      "archive": "旧节点素材\\assets\\e3b53b14-e776-45e9-9687-6f0c83a8ac85\\content.md",
+      "bytes": 5043,
+      "sha256": "de7cb2b15b5296fb57010c3f3d2970dd576cf4908109179d9677cd3e0771847b"
+    },
+    {
+      "source": "视频制作\\知夏饰品设计-20261011-v0.1\\知夏-未来日常饰品01-分解图.png",
+      "archive": "旧节点素材\\知夏饰品设计-20261011-v0.1\\知夏-未来日常饰品01-分解图.png",
+      "bytes": 1790054,
+      "sha256": "f342b95287a16debeb41bc5d807a23ec6b22d868f5b4090edb20a87281b561e6"
+    },
+    {
+      "source": "视频制作\\assets\\ecc8492c-e8f5-4bb8-8e8a-8945bf426e42\\content.md",
+      "archive": "旧节点素材\\assets\\ecc8492c-e8f5-4bb8-8e8a-8945bf426e42\\content.md",
+      "bytes": 7390,
+      "sha256": "717a469c3b26f89581486bc7c1174cf1cdec5d2e54fa8c7ac2b317cdf185f032"
+    },
+    {
+      "source": "视频制作\\知夏饰品设计-20261011-v0.1\\知夏-未来日常饰品02-智能水杯与头顶发饰.png",
+      "archive": "旧节点素材\\知夏饰品设计-20261011-v0.1\\知夏-未来日常饰品02-智能水杯与头顶发饰.png",
+      "bytes": 1826349,
+      "sha256": "d3d048e630d17fc17df3e80225bf460dc9e5e0305758a7e99cfb249a9a3d8601"
+    },
+    {
+      "source": "视频制作\\assets\\0e666157-c699-47aa-80d3-fb1cbc351f08\\content.md",
+      "archive": "旧节点素材\\assets\\0e666157-c699-47aa-80d3-fb1cbc351f08\\content.md",
+      "bytes": 3907,
+      "sha256": "9157713c1c26a4c4951dd1ef33964ca39ebc96f05bc7eb209ef436776da5885d"
+    },
+    {
+      "source": "视频制作\\知夏饰品设计-20261011-v0.1\\知夏-发夹03-浅弧贴发佩戴与结构.png",
+      "archive": "旧节点素材\\知夏饰品设计-20261011-v0.1\\知夏-发夹03-浅弧贴发佩戴与结构.png",
+      "bytes": 2078599,
+      "sha256": "bb010bc8391cd96c4de2adc3ef00b008f7eed1345d289597547311ac62a7dbd6"
+    },
+    {
+      "source": "视频制作\\assets\\05295130-84ed-46e8-85d1-20271fc688a1\\content.md",
+      "archive": "旧节点素材\\assets\\05295130-84ed-46e8-85d1-20271fc688a1\\content.md",
+      "bytes": 3900,
+      "sha256": "9b2616c0143cc57fd1cb6efe8ee14d6e36dd437bb3a27fcb55d0f3bfe56b2358"
+    },
+    {
+      "source": "视频制作\\知夏面容调整-20261011-v0.1\\参考\\作者参考01-眨眼.png",
+      "archive": "旧节点素材\\知夏面容调整-20261011-v0.1\\参考\\作者参考01-眨眼.png",
+      "bytes": 643896,
+      "sha256": "f3ae17eae88ded4dd52aa31bd6215277a812b797e3efd7ed26026e3c36f6afb7"
+    },
+    {
+      "source": "视频制作\\知夏面容调整-20261011-v0.1\\参考\\作者参考02-正面.png",
+      "archive": "旧节点素材\\知夏面容调整-20261011-v0.1\\参考\\作者参考02-正面.png",
+      "bytes": 519290,
+      "sha256": "cf131c338e3fa6d7f55f55e5082a3d84e6268ac378c5bb6b34e17ab4eab98d8d"
+    },
+    {
+      "source": "视频制作\\知夏面容调整-20261011-v0.1\\参考\\作者参考03-微笑.png",
+      "archive": "旧节点素材\\知夏面容调整-20261011-v0.1\\参考\\作者参考03-微笑.png",
+      "bytes": 585000,
+      "sha256": "f782c112e9efeec7e4cadb41cdf0047b1468d8514218bd8715efe9fdd690e99d"
+    },
+    {
+      "source": "视频制作\\知夏面容调整-20261011-v0.1\\知夏-面容01-柔和短圆脸头肩.png",
+      "archive": "旧节点素材\\知夏面容调整-20261011-v0.1\\知夏-面容01-柔和短圆脸头肩.png",
+      "bytes": 2244465,
+      "sha256": "70f8a4247efaa42919d7f0e8c8b56d126692c82703e0624e2744b6e8f6781d91"
+    },
+    {
+      "source": "视频制作\\assets\\766fffcb-0bb7-46f0-8367-c3f1cb0c2372\\content.md",
+      "archive": "旧节点素材\\assets\\766fffcb-0bb7-46f0-8367-c3f1cb0c2372\\content.md",
+      "bytes": 4097,
+      "sha256": "a48d8a7b072373814d4abd6fb8daec1a8b439d93ae84d3edfe828bcca25d9dcb"
+    },
+    {
+      "source": "视频制作\\知夏校服正式设定-20261011-v1.0\\知夏-校服四视图-v1.1-侧襟修正.png",
+      "archive": "旧节点素材\\知夏校服正式设定-20261011-v1.0\\知夏-校服四视图-v1.1-侧襟修正.png",
+      "bytes": 1910875,
+      "sha256": "986d30d157f4fd51ef3032fd8c913d47bcad1f3ad7102d5337b419997eea3fdc"
+    },
+    {
+      "source": "视频制作\\知夏校服正式设定-20261011-v1.0\\知夏-穿搭拆解-v1.1-侧襟修正.png",
+      "archive": "旧节点素材\\知夏校服正式设定-20261011-v1.0\\知夏-穿搭拆解-v1.1-侧襟修正.png",
+      "bytes": 1729159,
+      "sha256": "8534c6bbff3d644cdb901a3ac2a671fd94644b205ec62ed369a8fc894829e340"
+    },
+    {
+      "source": "视频制作\\知夏校服正式设定-20261011-v1.0\\知夏-妆造拆分-v1.1-侧襟修正.png",
+      "archive": "旧节点素材\\知夏校服正式设定-20261011-v1.0\\知夏-妆造拆分-v1.1-侧襟修正.png",
+      "bytes": 2123902,
+      "sha256": "b5a96fcf60619e44819f932fd1f189a8d790677ef570f4ee88b8f1ffcf0a38c1"
+    },
+    {
+      "source": "视频制作\\知夏校服正式设定-20261011-v1.0\\四视图独立图-v1.1\\01_front-half.png",
+      "archive": "旧节点素材\\知夏校服正式设定-20261011-v1.0\\四视图独立图-v1.1\\01_front-half.png",
+      "bytes": 724445,
+      "sha256": "aaad13f311cbdad595fa93a5575610c91b748753c3fe882964360f5eb6159d54"
+    },
+    {
+      "source": "视频制作\\知夏校服正式设定-20261011-v1.0\\四视图独立图-v1.1\\02_facing-left.png",
+      "archive": "旧节点素材\\知夏校服正式设定-20261011-v1.0\\四视图独立图-v1.1\\02_facing-left.png",
+      "bytes": 303643,
+      "sha256": "3a4b6320645c4c4943288b47233852081e0cc8594a127673a179fa219fea6b4e"
+    },
+    {
+      "source": "视频制作\\知夏校服正式设定-20261011-v1.0\\四视图独立图-v1.1\\03_back.png",
+      "archive": "旧节点素材\\知夏校服正式设定-20261011-v1.0\\四视图独立图-v1.1\\03_back.png",
+      "bytes": 365298,
+      "sha256": "ea1391cc3ecbe0825fd278b694ddbfb57f9e16311157186316cd55cce42fe871"
+    },
+    {
+      "source": "视频制作\\知夏校服正式设定-20261011-v1.0\\四视图独立图-v1.1\\04_facing-right.png",
+      "archive": "旧节点素材\\知夏校服正式设定-20261011-v1.0\\四视图独立图-v1.1\\04_facing-right.png",
+      "bytes": 344038,
+      "sha256": "dc511a9d38c9097a1effb189e0578c61c8b38051c20687009ea2ba1d77072d18"
+    },
+    {
+      "source": "视频制作\\assets\\8f25d03e-172f-4098-af0b-97ae447e05f0\\content.md",
+      "archive": "旧节点素材\\assets\\8f25d03e-172f-4098-af0b-97ae447e05f0\\content.md",
+      "bytes": 8495,
+      "sha256": "d3ad142580b11c5deedcd929dfa70524d4f22fb979f6306528f393837a4be9aa"
+    },
+    {
+      "source": "视频制作\\assets\\01b92c51-748c-4f18-b602-681b5c94d545\\content.md",
+      "archive": "旧节点素材\\assets\\01b92c51-748c-4f18-b602-681b5c94d545\\content.md",
+      "bytes": 9126,
+      "sha256": "658419e142aba4882e5bc9105fd8efeee4c1477ec4b40022c4ef866337927b8b"
+    },
+    {
+      "source": "视频制作\\assets\\0be61c97-68fe-4968-8dd9-abe7a04fa562\\content.md",
+      "archive": "旧节点素材\\assets\\0be61c97-68fe-4968-8dd9-abe7a04fa562\\content.md",
+      "bytes": 9157,
+      "sha256": "edcab2ee9c41bfb6364d3f98e7be2c366af91ed66175d19b0b529513f51f5ef0"
+    },
+    {
+      "source": "视频制作\\知夏面容身形优化-20261011-v0.1\\知夏-面容身形02-清秀柔椭圆脸与修长比例.png",
+      "archive": "旧节点素材\\知夏面容身形优化-20261011-v0.1\\知夏-面容身形02-清秀柔椭圆脸与修长比例.png",
+      "bytes": 1805959,
+      "sha256": "19ab68373fe4d68012e804461d0ea692d7d605a8b3e35c4aebfd043388fd39da"
+    },
+    {
+      "source": "视频制作\\assets\\e2e58655-6df8-4e21-8c34-e4ce4e88cd7f\\content.md",
+      "archive": "旧节点素材\\assets\\e2e58655-6df8-4e21-8c34-e4ce4e88cd7f\\content.md",
+      "bytes": 4323,
+      "sha256": "256485c525b97dbc6e672ddbf674eaa0e70ebd2dcbb6d141fc3d7574da66153d"
+    },
+    {
+      "source": "视频制作\\知夏面容身形优化-20261011-v0.1\\知夏-校服比例03-短衫与高腰裙衔接.png",
+      "archive": "旧节点素材\\知夏面容身形优化-20261011-v0.1\\知夏-校服比例03-短衫与高腰裙衔接.png",
+      "bytes": 1767700,
+      "sha256": "8e2f14897cfb7754ca3a0ef7d5d465563f2b3c226041e46b6115e093f81013a4"
+    },
+    {
+      "source": "视频制作\\assets\\2d5b24f1-45e8-48c6-a607-d6e9dede0d4b\\content.md",
+      "archive": "旧节点素材\\assets\\2d5b24f1-45e8-48c6-a607-d6e9dede0d4b\\content.md",
+      "bytes": 3500,
+      "sha256": "4d4e1abcccc846b270437584ae43aae5ea48ac00987ed4578dbd2f69538c222b"
+    },
+    {
+      "source": "视频制作\\知夏面容身形优化-20261011-v0.1\\知夏-校服比例04-自然腰线与略短裙摆.png",
+      "archive": "旧节点素材\\知夏面容身形优化-20261011-v0.1\\知夏-校服比例04-自然腰线与略短裙摆.png",
+      "bytes": 1744650,
+      "sha256": "01f4d429786c0c8db32f5b304578cc0da74d189c998c9a2473b970bf7204f0a0"
+    },
+    {
+      "source": "视频制作\\assets\\36f82ea4-45d3-4a26-9fcb-9a65fdd87752\\content.md",
+      "archive": "旧节点素材\\assets\\36f82ea4-45d3-4a26-9fcb-9a65fdd87752\\content.md",
+      "bytes": 3148,
+      "sha256": "41681d1c02ee863fe9a60c6cb619252897a45b4780fa931cfe408c828d6707dd"
+    },
+    {
+      "source": "视频制作\\当前可用素材-2026-10-11.json",
+      "archive": "整理前记录\\视频制作\\当前可用素材-2026-10-11.json",
+      "bytes": 6916,
+      "sha256": "4e590546ef89d043ce202e68235145b786e8b0195c2ad03622e8dabe3e6b3ac4"
+    },
+    {
+      "source": "新对话交接-2026-10-11.md",
+      "archive": "整理前记录\\新对话交接-2026-10-11.md",
+      "bytes": 7533,
+      "sha256": "5d2865af6978adfc3c8792eff0061e48ef753f75a9cb97a6d355db5b97fd7f13"
+    },
+    {
+      "source": "制作进度.md",
+      "archive": "整理前记录\\制作进度.md",
+      "bytes": 10644,
+      "sha256": "83760fe20208cadbaa8c27605da2bd392634dfb56840a5c0aca3c59a5ade94b2"
+    },
+    {
+      "source": "ToonFlow global asset library/知夏-校服03-浅天蓝花卉短衫.png",
+      "archive": "旧素材库\\知夏-校服03-浅天蓝花卉短衫.png",
+      "bytes": 1696717,
+      "sha256": "1c1dac209933fbb9309ec1391839bfcc49d29d9ca8a18b13735f78a3b68c9c40"
+    },
+    {
+      "source": "ToonFlow global asset library/知夏校服03-提示词与状态.md",
+      "archive": "旧素材库\\知夏校服03-提示词与状态.md",
+      "bytes": 4672,
+      "sha256": "b7d94d879a7b07c1e9d0dfa0c2ab7bf7bc19f9a3fff8637b8b2b3a00c337f6f6"
+    }
+  ],
+  "afterNodes": 23,
+  "retainedImageCount": 13,
+  "retainedPromptCount": 9,
+  "retainedIndexCount": 1,
+  "libraryImportedAndVerified": [
+    {
+      "id": "5d94e9dc-ab50-4359-a50b-4553c109fb8e",
+      "local": "知夏面容身形优化-20261011-v0.1/知夏-校服比例05-清晰收腰与鞋背花叶绣.png",
+      "library": "未来女孩林知夏-当前可用素材/人物/知夏校服定款/知夏-校服比例05-清晰收腰与鞋背花叶绣.png"
+    },
+    {
+      "id": "345cbfd2-bd6c-4615-928b-da53122bd4de",
+      "local": "assets/345cbfd2-bd6c-4615-928b-da53122bd4de/content.md",
+      "library": "未来女孩林知夏-当前可用素材/人物/知夏校服定款/校服定款05-采用依据与提示词.md"
+    },
+    {
+      "id": "7460a1c8-9e1e-4b2d-a189-698180cf6fec",
+      "local": "知夏校服定款三件套-20261011-v2.0/知夏-校服四视图-v2.0.png",
+      "library": "未来女孩林知夏-当前可用素材/人物/知夏校服定款/知夏-校服四视图-v2.0.png"
+    },
+    {
+      "id": "c840de5b-0463-492b-8ed9-d8da6ca630db",
+      "local": "知夏校服定款三件套-20261011-v2.0/知夏-妆造分解-v2.0.png",
+      "library": "未来女孩林知夏-当前可用素材/人物/知夏校服定款/知夏-妆造分解-v2.0.png"
+    },
+    {
+      "id": "aa3668f5-5da4-4282-82a5-276d1c9128eb",
+      "local": "知夏校服定款三件套-20261011-v2.0/知夏-穿搭分解-v2.0.png",
+      "library": "未来女孩林知夏-当前可用素材/人物/知夏校服定款/知夏-穿搭分解-v2.0.png"
+    },
+    {
+      "id": "776d8e69-0722-4ec3-9040-33fdb5aa77ad",
+      "local": "知夏校服定款三件套-20261011-v2.0/四视图独立图/01_front-half.png",
+      "library": "未来女孩林知夏-当前可用素材/人物/知夏校服定款/01_front-half.png"
+    },
+    {
+      "id": "42b890b7-5859-431a-86a9-e72629ad4d3a",
+      "local": "知夏校服定款三件套-20261011-v2.0/四视图独立图/02_facing-left.png",
+      "library": "未来女孩林知夏-当前可用素材/人物/知夏校服定款/02_facing-left.png"
+    },
+    {
+      "id": "369d289f-edd5-4513-b5de-3335fb2bbb9e",
+      "local": "知夏校服定款三件套-20261011-v2.0/四视图独立图/03_back.png",
+      "library": "未来女孩林知夏-当前可用素材/人物/知夏校服定款/03_back.png"
+    },
+    {
+      "id": "0b2644d5-16e0-4972-919a-4eeac449932c",
+      "local": "知夏校服定款三件套-20261011-v2.0/四视图独立图/04_facing-right.png",
+      "library": "未来女孩林知夏-当前可用素材/人物/知夏校服定款/04_facing-right.png"
+    },
+    {
+      "id": "53a52c1e-3f27-413a-bbf0-6f8c34ee8d17",
+      "local": "assets/53a52c1e-3f27-413a-bbf0-6f8c34ee8d17/content.md",
+      "library": "未来女孩林知夏-当前可用素材/人物/知夏校服定款/四视图v2.0-来源与提示词.md"
+    },
+    {
+      "id": "64fac844-166f-4213-8627-e7ab4110272d",
+      "local": "assets/64fac844-166f-4213-8627-e7ab4110272d/content.md",
+      "library": "未来女孩林知夏-当前可用素材/人物/知夏校服定款/妆造v2.0-来源与提示词.md"
+    },
+    {
+      "id": "9b49c72f-2d75-4084-af1b-762193dfc821",
+      "local": "assets/9b49c72f-2d75-4084-af1b-762193dfc821/content.md",
+      "library": "未来女孩林知夏-当前可用素材/人物/知夏校服定款/穿搭v2.0-来源与提示词.md"
+    }
+  ],
+  "libraryArchivedAndRemoved": [
+    "未来女孩林知夏-当前可用素材/人物/知夏-校服03-浅天蓝花卉短衫.png",
+    "未来女孩林知夏-当前可用素材/人物/知夏校服03-提示词与状态.md"
+  ],
+  "layout": [
+    {
+      "id": "3bfccabb-4acb-4493-95e8-8b75b6843f9d",
+      "label": "知夏｜便服06｜珊瑚红水青｜初稿认可",
+      "position": {
+        "x": 0,
+        "y": 2350
+      }
+    },
+    {
+      "id": "e87920ed-5726-4c83-a4f7-952fcb2247d3",
+      "label": "便服06｜珊瑚红水青｜初稿认可｜实际提示词",
+      "position": {
+        "x": 0,
+        "y": 1850
+      }
+    },
+    {
+      "id": "d8f916c8-4587-457c-968a-b5953c2e9227",
+      "label": "知夏｜工作服10｜竹绿杏黄｜初稿认可",
+      "position": {
+        "x": 800,
+        "y": 2350
+      }
+    },
+    {
+      "id": "d83682f2-7ee7-4772-b303-fcf75b3aa7c0",
+      "label": "工作服10｜竹绿杏黄｜初稿认可｜实际提示词",
+      "position": {
+        "x": 800,
+        "y": 1850
+      }
+    },
+    {
+      "id": "bd775695-4f57-4f4b-9b93-24e9059ed187",
+      "label": "知夏｜睡衣04｜桃粉荷绿｜初稿认可",
+      "position": {
+        "x": 1600,
+        "y": 2350
+      }
+    },
+    {
+      "id": "5eac3291-3fc6-4345-8c7d-2fdff9b89a6f",
+      "label": "睡衣04｜桃粉荷绿｜初稿认可｜实际提示词",
+      "position": {
+        "x": 1600,
+        "y": 1850
+      }
+    },
+    {
+      "id": "7a2bbe17-b0c4-4165-abcf-6c51a4fd8468",
+      "label": "半园｜卧室02｜已认可场景参考",
+      "position": {
+        "x": 0,
+        "y": 3550
+      }
+    },
+    {
+      "id": "3874c207-f63c-4777-a538-8b43371f8173",
+      "label": "卧室02｜来源与实际提示词",
+      "position": {
+        "x": 0,
+        "y": 3050
+      }
+    },
+    {
+      "id": "44fe7f6a-584a-45cc-8693-2e18c01988ab",
+      "label": "半园｜修复工坊03｜已认可场景参考",
+      "position": {
+        "x": 800,
+        "y": 3550
+      }
+    },
+    {
+      "id": "30f12a19-17f5-4ccc-b14b-3146db81ba67",
+      "label": "修复工坊03｜来源与实际提示词",
+      "position": {
+        "x": 800,
+        "y": 3050
+      }
+    },
+    {
+      "id": "5a46965d-e87b-462a-8ca0-c1a58f1f2445",
+      "label": "当前可用素材与续聊交接｜2026-10-11",
+      "position": {
+        "x": -800,
+        "y": -500
+      }
+    },
+    {
+      "id": "5d94e9dc-ab50-4359-a50b-4553c109fb8e",
+      "label": "校服定款｜比例05清晰收腰与鞋背花叶绣·已采用",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "345cbfd2-bd6c-4615-928b-da53122bd4de",
+      "label": "校服定款比例05｜采用依据与原始提示词",
+      "position": {
+        "x": 0,
+        "y": -500
+      }
+    },
+    {
+      "id": "7460a1c8-9e1e-4b2d-a189-698180cf6fec",
+      "label": "校服定款三件套｜四视图 v2.0",
+      "position": {
+        "x": 800,
+        "y": 0
+      }
+    },
+    {
+      "id": "c840de5b-0463-492b-8ed9-d8da6ca630db",
+      "label": "校服定款三件套｜妆造分解 v2.0",
+      "position": {
+        "x": 1600,
+        "y": 0
+      }
+    },
+    {
+      "id": "aa3668f5-5da4-4282-82a5-276d1c9128eb",
+      "label": "校服定款三件套｜穿搭分解 v2.0",
+      "position": {
+        "x": 2400,
+        "y": 0
+      }
+    },
+    {
+      "id": "776d8e69-0722-4ec3-9040-33fdb5aa77ad",
+      "label": "校服定款v2.0｜正面大半身",
+      "position": {
+        "x": 0,
+        "y": 950
+      }
+    },
+    {
+      "id": "42b890b7-5859-431a-86a9-e72629ad4d3a",
+      "label": "校服定款v2.0｜朝画面左侧面",
+      "position": {
+        "x": 800,
+        "y": 950
+      }
+    },
+    {
+      "id": "369d289f-edd5-4513-b5de-3335fb2bbb9e",
+      "label": "校服定款v2.0｜背面",
+      "position": {
+        "x": 1600,
+        "y": 950
+      }
+    },
+    {
+      "id": "0b2644d5-16e0-4972-919a-4eeac449932c",
+      "label": "校服定款v2.0｜朝画面右侧面",
+      "position": {
+        "x": 2400,
+        "y": 950
+      }
+    },
+    {
+      "id": "53a52c1e-3f27-413a-bbf0-6f8c34ee8d17",
+      "label": "校服定款v2.0｜四视图来源与提示词",
+      "position": {
+        "x": 800,
+        "y": -500
+      }
+    },
+    {
+      "id": "64fac844-166f-4213-8627-e7ab4110272d",
+      "label": "校服定款v2.0｜妆造来源与提示词",
+      "position": {
+        "x": 1600,
+        "y": -500
+      }
+    },
+    {
+      "id": "9b49c72f-2d75-4084-af1b-762193dfc821",
+      "label": "校服定款v2.0｜穿搭来源与提示词",
+      "position": {
+        "x": 2400,
+        "y": -500
+      }
+    }
+  ],
+  "canvasSnapshot": {
+    "path": "人物设计-清理前.snapshot.txt",
+    "sha256": "946f420cc02a1fc186935ceba9d5c900d20aca1710019882f694c1b8350e9093",
+    "bytes": 76084
+  },
+  "verification": {
+    "liveCanvasNodes": 23,
+    "liveCanvasEdges": 0,
+    "libraryFiles": 23,
+    "libraryImages": 13,
+    "librarySourceNotes": 9,
+    "libraryIndexNotes": 1,
+    "all13LibraryImagesMatchWorkspace": true,
+    "newLibraryNotesReadbackVerified": true,
+    "archivedLibraryFilesReadbackVerified": true,
+    "archivedFilesSHA256Verified": 79
+  }
+}

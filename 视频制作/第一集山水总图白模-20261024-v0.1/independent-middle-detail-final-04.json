@@ -1,0 +1,28 @@
+{
+  "source_hash": "5c103598af0c6676ab52e809694f7cbb40955cea0368189cf4e9a86b4aa84b69",
+  "stable": true,
+  "roof_headroom_surface_hits": [],
+  "walk_core_floor_misses": [
+    {
+      "segment": 3,
+      "t": 0.3333333333333333,
+      "point": [
+        64.1952643825173,
+        -50.43654161703533,
+        49.9
+      ],
+      "lateral": 0.9
+    },
+    {
+      "segment": 3,
+      "t": 0.36666666666666664,
+      "point": [
+        64.30209621194602,
+        -50.605618404977704,
+        49.9
+      ],
+      "lateral": 0.9
+    }
+  ],
+  "method": "Actual saved middle-entry mesh, 0.2m path sampling, lateral +/-0.9m and center. Vertical headroom rays 0.03..1.8m from projected actual deck; no roof solid-containment assumption."
+}

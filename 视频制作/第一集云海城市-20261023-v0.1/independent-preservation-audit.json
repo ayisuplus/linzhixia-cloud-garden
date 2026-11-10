@@ -1,0 +1,9225 @@
+{
+  "baseline": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城航线重排-20261023-v0.1\\garden-city-flight-58s-v04.blend",
+  "candidate": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云海城市-20261023-v0.1\\cloudsea-city-v04.blend",
+  "baseline_hashes": [
+    "1f0105de5ac9787c5cd2a87bc8c29945afcd2756f387e7aaecb490c28970d285",
+    "1f0105de5ac9787c5cd2a87bc8c29945afcd2756f387e7aaecb490c28970d285"
+  ],
+  "candidate_hashes": [
+    "80df50079b4d04313a38d9841ad25b775576db549ff2aec054a2646881bd217d",
+    "80df50079b4d04313a38d9841ad25b775576db549ff2aec054a2646881bd217d"
+  ],
+  "original_object_count": 51774,
+  "candidate_object_count": 52036,
+  "added_scene_objects": [
+    "Cloud sea rolling crest",
+    "Cloud sea rolling crest.001",
+    "Cloud sea rolling crest.002",
+    "Cloud sea rolling crest.003",
+    "Cloud sea rolling crest.004",
+    "Cloud sea rolling crest.005",
+    "Cloud sea rolling crest.006",
+    "Cloud sea rolling crest.007",
+    "Cloud sea rolling crest.008",
+    "Cloud sea rolling crest.009",
+    "Cloud sea rolling crest.010",
+    "Cloud sea rolling crest.011",
+    "Cloud sea rolling crest.012",
+    "Cloud sea rolling crest.013",
+    "Cloud sea rolling crest.014",
+    "Cloud sea rolling crest.015",
+    "Cloud sea rolling crest.016",
+    "Cloud sea rolling crest.017",
+    "Cloud sea rolling crest.018",
+    "Cloud sea rolling crest.019",
+    "Cloud sea rolling crest.020",
+    "Cloud sea rolling crest.021",
+    "Cloud sea rolling crest.022",
+    "Cloud sea rolling crest.023",
+    "Cloud sea rolling crest.024",
+    "Cloud sea rolling crest.025",
+    "Cloud sea rolling crest.026",
+    "Cloud sea rolling crest.027",
+    "Cloud sea rolling crest.028",
+    "Cloud sea rolling crest.029",
+    "Cloud sea rolling crest.030",
+    "Cloud sea rolling crest.031",
+    "Cloud sea rolling crest.032",
+    "Cloud sea rolling crest.033",
+    "Cloud sea rolling crest.034",
+    "Cloud sea rolling crest.035",
+    "Cloud sea rolling crest.036",
+    "Cloud sea rolling crest.037",
+    "Cloud sea rolling crest.038",
+    "Cloud sea rolling crest.039",
+    "Cloud sea rolling crest.040",
+    "Cloud sea rolling crest.041",
+    "Cloud sea rolling crest.042",
+    "Cloud sea rolling crest.043",
+    "Cloud sea rolling crest.044",
+    "Cloud sea rolling crest.045",
+    "Cloud sea rolling crest.046",
+    "Cloud sea rolling crest.047",
+    "Cloud sea rolling crest.048",
+    "Cloud sea rolling crest.049",
+    "Cloud sea rolling crest.050",
+    "Cloud sea rolling crest.051",
+    "Cloud sea rolling crest.052",
+    "Cloud sea rolling crest.053",
+    "Cloud sea rolling crest.054",
+    "Cloud sea rolling crest.055",
+    "Cloud sea rolling crest.056",
+    "Cloud sea rolling crest.057",
+    "Cloud sea rolling crest.058",
+    "Cloud sea rolling crest.059",
+    "Cloud sea rolling crest.060",
+    "Cloud sea rolling crest.061",
+    "Cloud sea rolling crest.062",
+    "Cloud sea rolling crest.063",
+    "Cloud sea rolling crest.064",
+    "Cloud sea rolling crest.065",
+    "Cloud sea rolling crest.066",
+    "Cloud sea rolling crest.067",
+    "Connected undercity cloud current",
+    "Connected undercity cloud current.001",
+    "Connected undercity cloud current.002",
+    "Connected undercity cloud current.003",
+    "Connected undercity cloud current.004",
+    "Connected undercity cloud current.005",
+    "Connected undercity cloud current.006",
+    "Connected undercity cloud current.007",
+    "Connected undercity cloud current.008",
+    "Connected undercity cloud current.009",
+    "Connected undercity cloud current.010",
+    "Connected undercity cloud current.011",
+    "Connected undercity cloud current.012",
+    "Connected undercity cloud current.013",
+    "Connected undercity cloud current.014",
+    "Connected undercity cloud current.015",
+    "Connected undercity cloud current.016",
+    "Connected undercity cloud current.017",
+    "Connected undercity cloud current.018",
+    "Connected undercity cloud current.019",
+    "Connected undercity cloud current.020",
+    "Connected undercity cloud current.021",
+    "Connected undercity cloud current.022",
+    "Connected undercity cloud current.023",
+    "Continuous deep cloud sea",
+    "Distant cloud district instance",
+    "Distant cloud district instance.001",
+    "Distant cloud district instance.002",
+    "Distant cloud district instance.003",
+    "Distant cloud district instance.004",
+    "Distant cloud district instance.005",
+    "Distant cloud district instance.006",
+    "Distant cloud district instance.007",
+    "Distant cloud district instance.008",
+    "Distant cloud district instance.009",
+    "Distant cloud district instance.010",
+    "Distant cloud district instance.011",
+    "Distant cloud district instance.012",
+    "Distant cloud district instance.013",
+    "Distant cloud district instance.014",
+    "Distant cloud district instance.015",
+    "Distant cloud district instance.016",
+    "Distant cloud district instance.017",
+    "Distant cloud district instance.018",
+    "Distant cloud district instance.019",
+    "Distant cloud district instance.020",
+    "Distant cloud district instance.021",
+    "Distant cloud district instance.022",
+    "Distant cloud district instance.023",
+    "Distant cloud district instance.024",
+    "Distant cloud district instance.025",
+    "Distant cloud district instance.026",
+    "Distant cloud district instance.027",
+    "Distant cloud district instance.028",
+    "Distant cloud district instance.029",
+    "Distant cloud district instance.030",
+    "Distant cloud district instance.031",
+    "Distant cloud district instance.032",
+    "Distant cloud district instance.033",
+    "Distant cloud district instance.034",
+    "Distant district cloud pedestal",
+    "Distant district cloud pedestal.001",
+    "Distant district cloud pedestal.002",
+    "Distant district cloud pedestal.003",
+    "Distant district cloud pedestal.004",
+    "Shore rises from rolling cloud",
+    "Shore rises from rolling cloud.001",
+    "Shore rises from rolling cloud.002",
+    "Shore rises from rolling cloud.003",
+    "Shore rises from rolling cloud.004",
+    "Shore rises from rolling cloud.005",
+    "Shore rises from rolling cloud.006",
+    "Shore rises from rolling cloud.007",
+    "Shore rises from rolling cloud.008",
+    "Shore rises from rolling cloud.009",
+    "Shore rises from rolling cloud.010",
+    "Shore rises from rolling cloud.011",
+    "Shore rises from rolling cloud.012",
+    "Shore rises from rolling cloud.013",
+    "Shore rises from rolling cloud.014",
+    "Shore rises from rolling cloud.015",
+    "Shore rises from rolling cloud.016",
+    "Shore rises from rolling cloud.017",
+    "Shore rises from rolling cloud.018",
+    "Shore rises from rolling cloud.019",
+    "Shore rises from rolling cloud.020",
+    "Shore rises from rolling cloud.021",
+    "Shore rises from rolling cloud.022",
+    "Shore rises from rolling cloud.023",
+    "Shore rises from rolling cloud.024",
+    "Shore rises from rolling cloud.025",
+    "Shore rises from rolling cloud.026",
+    "Shore rises from rolling cloud.027",
+    "Shore rises from rolling cloud.028",
+    "Shore rises from rolling cloud.029",
+    "Shore rises from rolling cloud.030",
+    "Shore rises from rolling cloud.031",
+    "Shore rises from rolling cloud.032",
+    "Shore rises from rolling cloud.033",
+    "Shore rises from rolling cloud.034",
+    "Shore rises from rolling cloud.035",
+    "Shore rises from rolling cloud.036",
+    "Shore rises from rolling cloud.037",
+    "Shore rises from rolling cloud.038",
+    "Shore rises from rolling cloud.039",
+    "Shore rises from rolling cloud.040",
+    "Shore rises from rolling cloud.041",
+    "Shore rises from rolling cloud.042",
+    "Shore rises from rolling cloud.043",
+    "Shore rises from rolling cloud.044",
+    "Shore rises from rolling cloud.045",
+    "Shore rises from rolling cloud.046",
+    "Shore rises from rolling cloud.047",
+    "Shore rises from rolling cloud.048",
+    "Shore rises from rolling cloud.049",
+    "Shore rises from rolling cloud.050",
+    "Shore rises from rolling cloud.051",
+    "Shore rises from rolling cloud.052",
+    "Shore rises from rolling cloud.053",
+    "Shore rises from rolling cloud.054",
+    "Shore rises from rolling cloud.055",
+    "Shore rises from rolling cloud.056",
+    "Shore rises from rolling cloud.057",
+    "Shore rises from rolling cloud.058",
+    "Shore rises from rolling cloud.059",
+    "Shore rises from rolling cloud.060",
+    "Shore rises from rolling cloud.061",
+    "Shore rises from rolling cloud.062",
+    "Shore rises from rolling cloud.063",
+    "Shore rises from rolling cloud.064",
+    "Shore rises from rolling cloud.065",
+    "Shore rises from rolling cloud.066",
+    "Shore rises from rolling cloud.067",
+    "Shore rises from rolling cloud.068",
+    "Shore rises from rolling cloud.069",
+    "Shore rises from rolling cloud.070",
+    "Shore rises from rolling cloud.071",
+    "Shore rises from rolling cloud.072",
+    "Shore rises from rolling cloud.073",
+    "Shore rises from rolling cloud.074",
+    "Shore rises from rolling cloud.075",
+    "Shore rises from rolling cloud.076",
+    "Shore rises from rolling cloud.077",
+    "Shore rises from rolling cloud.078",
+    "Shore rises from rolling cloud.079",
+    "Shore rises from rolling cloud.080",
+    "Shore rises from rolling cloud.081",
+    "Shore rises from rolling cloud.082",
+    "Shore rises from rolling cloud.083",
+    "Shore rises from rolling cloud.084",
+    "Shore rises from rolling cloud.085",
+    "Shore rises from rolling cloud.086",
+    "Shore rises from rolling cloud.087",
+    "Shore rises from rolling cloud.088",
+    "Shore rises from rolling cloud.089",
+    "Shore rises from rolling cloud.090",
+    "Shore rises from rolling cloud.091",
+    "Shore rises from rolling cloud.092",
+    "Shore rises from rolling cloud.093",
+    "Shore rises from rolling cloud.094",
+    "Shore rises from rolling cloud.095",
+    "Shore rises from rolling cloud.096",
+    "Shore rises from rolling cloud.097",
+    "Shore rises from rolling cloud.098",
+    "Shore rises from rolling cloud.099",
+    "Shore rises from rolling cloud.100",
+    "Shore rises from rolling cloud.101",
+    "Shore rises from rolling cloud.102",
+    "Shore rises from rolling cloud.103",
+    "Shore rises from rolling cloud.104",
+    "Shore rises from rolling cloud.105",
+    "Shore rises from rolling cloud.106",
+    "Shore rises from rolling cloud.107",
+    "Shore rises from rolling cloud.108",
+    "Shore rises from rolling cloud.109",
+    "Shore rises from rolling cloud.110",
+    "Shore rises from rolling cloud.111",
+    "Shore rises from rolling cloud.112",
+    "Shore rises from rolling cloud.113",
+    "Shore rises from rolling cloud.114",
+    "Shore rises from rolling cloud.115",
+    "Shore rises from rolling cloud.116",
+    "Shore rises from rolling cloud.117",
+    "Shore rises from rolling cloud.118",
+    "Shore rises from rolling cloud.119",
+    "Shore rises from rolling cloud.120",
+    "Shore rises from rolling cloud.121",
+    "Shore rises from rolling cloud.122",
+    "Shore rises from rolling cloud.123",
+    "Shore rises from rolling cloud.124",
+    "Shore rises from rolling cloud.125",
+    "Shore rises from rolling cloud.126",
+    "Shore rises from rolling cloud.127",
+    "Shore rises from rolling cloud.128"
+  ],
+  "unique_original_geometry_blocks": 51706,
+  "missing_original_objects": [],
+  "unexpected_object_changes": [],
+  "allowed_changes": [
+    {
+      "object": "FAST_ROUTE_FPV",
+      "field": "camera_data",
+      "differences": {
+        "clip_end": [
+          3000.0,
+          7000.0
+        ]
+      }
+    },
+    {
+      "object": "School cloud shore structural cloud",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 dense cloud interior"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea shore interior"
+        ]
+      ]
+    },
+    {
+      "object": "School gate garden structural cloud",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 dense cloud interior"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea shore interior"
+        ]
+      ]
+    },
+    {
+      "object": "Upper hanging garden structural cloud",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 dense cloud interior"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea shore interior"
+        ]
+      ]
+    },
+    {
+      "object": "Middle courtyard garden structural cloud",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 dense cloud interior"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea shore interior"
+        ]
+      ]
+    },
+    {
+      "object": "West shaded garden structural cloud",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 dense cloud interior"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea shore interior"
+        ]
+      ]
+    },
+    {
+      "object": "Lower eastern garden structural cloud",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 dense cloud interior"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea shore interior"
+        ]
+      ]
+    },
+    {
+      "object": "Lower western garden structural cloud",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 dense cloud interior"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea shore interior"
+        ]
+      ]
+    },
+    {
+      "object": "Water lane cloud bank structural cloud",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 dense cloud interior"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea shore interior"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.001",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.002",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.003",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.004",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.005",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.006",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.007",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.008",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.009",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.010",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.011",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.012",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.013",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.014",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.015",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.016",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.017",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.018",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.019",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.020",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.021",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.022",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.023",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.024",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.025",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.026",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.027",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.028",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.029",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.030",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.031",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.032",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.033",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.034",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.035",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.036",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.037",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.038",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.039",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.040",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.041",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.042",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.043",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.044",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.045",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.046",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.047",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.048",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.049",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.050",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Load-bearing cloud ribbon.051",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Cascade garden 0 structural cloud",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 dense cloud interior"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea shore interior"
+        ]
+      ]
+    },
+    {
+      "object": "Cascade garden 1 structural cloud",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 dense cloud interior"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea shore interior"
+        ]
+      ]
+    },
+    {
+      "object": "Cascade garden 2 structural cloud",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 dense cloud interior"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea shore interior"
+        ]
+      ]
+    },
+    {
+      "object": "Moon corridor garden structural cloud",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 dense cloud interior"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea shore interior"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.001",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.002",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.001",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.003",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.001",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.004",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.002",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.005",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.006",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.003",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.002",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.007",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.008",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.004",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.009",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.003",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.010",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.005",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.011",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.012",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.006",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.004",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.013",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.014",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.007",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.015",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.005",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.016",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.008",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.017",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.018",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.009",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.006",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.019",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.020",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.010",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.021",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.007",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.022",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.011",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.008",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.023",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.024",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.012",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.025",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.009",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.026",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.013",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.027",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.028",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.014",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.010",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.029",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.030",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.015",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.031",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.011",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.032",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.016",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.033",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.034",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.017",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.012",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.035",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.036",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.018",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.037",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.013",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.038",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.019",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.039",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.040",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.020",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.014",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.041",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.042",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.021",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.043",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.015",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.044",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.022",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.016",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.045",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.046",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.023",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.047",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.017",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.048",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.024",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.049",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.050",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.025",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.018",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.051",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.052",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.026",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.053",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.019",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.054",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.027",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.055",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.056",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.028",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.020",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.057",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.058",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.029",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.059",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.021",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.060",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.030",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.061",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.062",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.031",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.022",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.063",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.064",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.032",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.065",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.023",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.066",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.033",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.024",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.067",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.068",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.034",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.069",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.025",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.070",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.035",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.071",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.072",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.036",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.026",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.073",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.074",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.037",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.075",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.027",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.076",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.038",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.077",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.078",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.039",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.028",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.079",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.080",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.040",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.081",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.029",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.082",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.041",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.083",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.084",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.042",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.030",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.085",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.086",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.043",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.087",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.031",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.088",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.044",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.032",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.089",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.090",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.045",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.091",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.033",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.092",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.046",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.093",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.094",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.047",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.034",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.095",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.096",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.048",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.097",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.035",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.098",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.049",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.099",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.100",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.050",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.036",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.101",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.102",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.051",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.103",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.037",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.104",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.052",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.105",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.106",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.053",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.038",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.107",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.108",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.054",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.109",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.039",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.110",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.055",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.040",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.111",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.112",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.056",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.113",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.041",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.114",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.057",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.115",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.116",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.058",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.042",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.117",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.118",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.059",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.119",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.043",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.120",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.060",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.121",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.122",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.061",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.044",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.123",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.124",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.062",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.125",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.045",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.126",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.063",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.127",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.128",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.064",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.046",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.129",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.130",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.065",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.131",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.047",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.132",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.066",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.048",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.133",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.134",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.067",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.135",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.049",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.136",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.068",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.137",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.138",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.069",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.050",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.139",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.140",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.070",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.141",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.051",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.142",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.071",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.143",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.144",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.072",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.052",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.145",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.146",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.073",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.147",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.053",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.148",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.074",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.149",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.150",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.075",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.054",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.151",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.152",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.076",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.153",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.055",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.154",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.077",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.056",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.155",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.156",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.078",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.157",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.057",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.158",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.079",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.159",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.160",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.080",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.058",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.161",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.162",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.081",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.163",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.059",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.164",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.082",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.165",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.166",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.083",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.060",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.167",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.168",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.084",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.169",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.061",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.170",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.085",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.171",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.172",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.086",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.062",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.173",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.174",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.087",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.175",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.063",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.176",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.088",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.064",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.177",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.178",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.089",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.179",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.065",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.180",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.090",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.181",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.182",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.091",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.066",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.183",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.184",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.092",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.185",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.067",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.186",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.093",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.187",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.188",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.094",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.068",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.189",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.190",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.095",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.191",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.069",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.192",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.096",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.193",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.194",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.097",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.070",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.195",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.196",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.098",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.197",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.071",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.198",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.099",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.072",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.199",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.200",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.100",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.201",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.073",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.202",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.101",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.203",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.204",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.102",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.074",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.205",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.206",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.103",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.207",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.075",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.208",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.104",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.209",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.210",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.105",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.076",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.211",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.212",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.106",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.213",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.077",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.214",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.107",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.215",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.216",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.108",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.078",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.217",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.218",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.109",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.219",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.079",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.220",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.110",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.080",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.221",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.222",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.111",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.223",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.081",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.224",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.112",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.225",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.226",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.113",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.082",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.227",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.228",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.114",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.229",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.083",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.230",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.115",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.231",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.232",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.116",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.084",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.233",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.234",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.117",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.235",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.085",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.236",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.118",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.237",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.238",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.119",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.086",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.239",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.240",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.120",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.241",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.087",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.242",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.121",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.088",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.243",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.244",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.122",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.245",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.089",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.246",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.123",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.247",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.248",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.124",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.090",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.249",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.250",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.125",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.251",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.091",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.252",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.126",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.253",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.254",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.127",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.092",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.255",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.256",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.128",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.257",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.093",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.258",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.129",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.259",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.260",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.130",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.094",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.261",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.262",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Pendant cloud lobe.131",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Billowing cloud margin.263",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 cloud lobe with feathered boundary"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea daylight billows"
+        ]
+      ]
+    },
+    {
+      "object": "Detached soft cloud wisp.095",
+      "field": "materials",
+      "before": [
+        [
+          "DATA",
+          "V06 translucent trailing cloud"
+        ]
+      ],
+      "after": [
+        [
+          "DATA",
+          "Cloudsea thin tendrils"
+        ]
+      ]
+    }
+  ],
+  "original_used_material_parameter_changes": [],
+  "original_animation_actions": {
+    "FAST_ROUTE_FPV动作.001": "df7d4ae757cfcd15c78a94a612db5fcc7797ffb93dfbec258a443c50eb32849a",
+    "PATH_A010W_spatial_onlyAction": "e79303b5fb36ff377ae3d75b5630ec8f24b23d411957983c5922360ea8cd3318",
+    "Same carrier ROOT placeholder动作": "c612d26767bf7af199a081b806a2b86f77732e80557bf3b88d4666fdd3f659d7",
+    "Rotor hub动作.001": "4f65e3df5d18fd553f0d283eb6cee9dc28c99acbe6f2d2d188ef36b042835711",
+    "Rotor hub.001动作.001": "c401e06d806ff0427b3822333d1502ac1c8daddbd667d00033d3cd4594a5f025",
+    "Rotor hub.002动作.001": "23172e86faa24edc7e126958863eafeb4f24853e6553e28ef05944e478ce1c65",
+    "Rotor hub.003动作.001": "5c656168d72deb416aa15a04e0f43db7f86f4e23cfe8f667f3f7b9d7535842b9",
+    "Drone rehearsal FOLLOW动作": "231edad4cfee4cc7e582d0f03d6d69275791c26712a2bfef1916936a5760d5c1"
+  },
+  "scene_timing_and_camera": {
+    "baseline": {
+      "fps": 24,
+      "fps_base": 1.0,
+      "frame_start": 1,
+      "frame_end": 1392,
+      "camera": "FAST_ROUTE_FPV"
+    },
+    "candidate": {
+      "fps": 24,
+      "fps_base": 1.0,
+      "frame_start": 1,
+      "frame_end": 1392,
+      "camera": "FAST_ROUTE_FPV"
+    },
+    "changed": false
+  },
+  "passed": true,
+  "scope": "All original scene objects, mesh coordinates/topology/material indices/smoothing/available attributes, curves, material bindings and selected shader parameters, frame1 transforms and parent/modifier/constraint records, active action association and all its keyframe/handle/modifier records. New scenery objects excluded from preservation requirement.",
+  "limits": [
+    "No rendering and no per-frame evaluation; frame1 plus animation data comparison.",
+    "Not a complete byte comparison of external textures, simulations, nested node groups or every Blender datablock setting.",
+    "Collection memberships can expand for distant collection instances; original object transforms/data are compared.",
+    "Render engine/sampling/volume settings are intentionally outside architecture preservation."
+  ]
+}

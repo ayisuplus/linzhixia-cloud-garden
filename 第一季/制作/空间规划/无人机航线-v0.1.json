@@ -1,0 +1,212 @@
+{
+  "status": "空间提案，未进行三维/实机验证",
+  "units": "m",
+  "axes": {
+    "x": "east",
+    "y": "south",
+    "z": "relative to Banyuan ground"
+  },
+  "extent": [
+    500,
+    430
+  ],
+  "gardens": [
+    {
+      "id": "A",
+      "name": "学园寄件院",
+      "bounds_xy": [
+        20,
+        20,
+        140,
+        120
+      ],
+      "floor_z": 60,
+      "roof_max_z": 78
+    },
+    {
+      "id": "B",
+      "name": "琴院",
+      "bounds_xy": [
+        190,
+        20,
+        310,
+        100
+      ],
+      "floor_z": 40,
+      "roof_max_z": 55
+    },
+    {
+      "id": "C",
+      "name": "叠水园",
+      "bounds_xy": [
+        340,
+        30,
+        450,
+        120
+      ],
+      "floor_z": 60,
+      "roof_max_z": 74
+    },
+    {
+      "id": "D",
+      "name": "生活园",
+      "bounds_xy": [
+        160,
+        220,
+        265,
+        310
+      ],
+      "floor_z": 18,
+      "roof_max_z": 32
+    },
+    {
+      "id": "E",
+      "name": "手艺园",
+      "bounds_xy": [
+        350,
+        220,
+        445,
+        310
+      ],
+      "floor_z": 30,
+      "roof_max_z": 46
+    },
+    {
+      "id": "F",
+      "name": "半园",
+      "bounds_xy": [
+        230,
+        355,
+        310,
+        400
+      ],
+      "floor_z": 0,
+      "roof_max_z": 12
+    }
+  ],
+  "route": [
+    {
+      "id": "P0",
+      "xyz": [
+        145,
+        85,
+        61
+      ],
+      "cumulative_distance_m": 0.0
+    },
+    {
+      "id": "P1",
+      "xyz": [
+        155,
+        85,
+        80
+      ],
+      "cumulative_distance_m": 21.47
+    },
+    {
+      "id": "P2",
+      "xyz": [
+        200,
+        140,
+        64
+      ],
+      "cumulative_distance_m": 94.31
+    },
+    {
+      "id": "P3",
+      "xyz": [
+        310,
+        140,
+        60
+      ],
+      "cumulative_distance_m": 204.39
+    },
+    {
+      "id": "P4",
+      "xyz": [
+        325,
+        145,
+        50
+      ],
+      "cumulative_distance_m": 223.09
+    },
+    {
+      "id": "P5",
+      "xyz": [
+        310,
+        180,
+        48
+      ],
+      "cumulative_distance_m": 261.23
+    },
+    {
+      "id": "P6",
+      "xyz": [
+        285,
+        220,
+        38
+      ],
+      "cumulative_distance_m": 309.44
+    },
+    {
+      "id": "P7",
+      "xyz": [
+        305,
+        270,
+        20
+      ],
+      "cumulative_distance_m": 366.22
+    },
+    {
+      "id": "P8",
+      "xyz": [
+        300,
+        335,
+        12
+      ],
+      "cumulative_distance_m": 431.91
+    },
+    {
+      "id": "P9",
+      "xyz": [
+        260,
+        345,
+        7
+      ],
+      "cumulative_distance_m": 473.44
+    },
+    {
+      "id": "P10",
+      "xyz": [
+        260,
+        350,
+        1.2
+      ],
+      "cumulative_distance_m": 481.1
+    }
+  ],
+  "polyline_length_m": 481.1,
+  "bridge": {
+    "bounds_xy": [
+      265,
+      296,
+      350,
+      304
+    ],
+    "center_deck_z": 24,
+    "center_underside_z": 21
+  },
+  "waterfall": {
+    "xy": [
+      345,
+      130
+    ],
+    "top_z": 58,
+    "basin_z": 24
+  },
+  "drone_planning_envelope_m": [
+    2.4,
+    2.4,
+    2.0
+  ]
+}

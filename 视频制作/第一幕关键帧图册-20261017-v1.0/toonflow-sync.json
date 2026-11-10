@@ -1,0 +1,74 @@
+{
+  "renames": [
+    {
+      "nodeId": "83995fc6-228b-4b5e-a0c6-f7be2c7a2a3b",
+      "label": "E01-A-001｜圆闹钟伸手｜结束状态参考"
+    },
+    {
+      "nodeId": "9b5a0422-a5bd-4849-ad48-6d5070d2ec36",
+      "label": "E01-A-002｜知夏抱汤圆熟睡｜起始参考"
+    },
+    {
+      "nodeId": "eefa306d-4cde-46c2-ba1a-d9091ddc8fc9",
+      "label": "E01-A-003｜第一拳与抱紧翻身｜关键动作参考"
+    },
+    {
+      "nodeId": "369659ef-5d21-4889-bde6-f02366709b5c",
+      "label": "E01-A-004｜第二拳打的是汤圆｜关键动作参考"
+    },
+    {
+      "nodeId": "a1ff71c1-f40f-48c5-9927-4bc84dedd195",
+      "label": "E01-A-005｜第三拳被按停｜关键动作参考"
+    },
+    {
+      "nodeId": "547f2b40-5e6a-41f5-b6f5-8498be66e185",
+      "label": "E01-A-006｜坐稳但没醒透｜结束状态参考"
+    },
+    {
+      "nodeId": "ec6f18a4-2a51-4021-a97d-328b83ec4ee0",
+      "label": "E01-A-007｜床托背，被子催醒｜结束状态参考"
+    },
+    {
+      "nodeId": "b76fb5be-63e1-427f-900c-d66bfd8e4ab7",
+      "label": "E01-A-008｜拖鞋到位｜结束状态参考"
+    },
+    {
+      "nodeId": "4aa5617f-cfdd-4049-a026-79b7a99515a9",
+      "label": "E01-A-009｜衣柜镜中预览搭配｜结束状态参考"
+    },
+    {
+      "nodeId": "97d31e8a-7660-4317-a79b-01ca3fc9ff1a",
+      "label": "E01-A-010｜托盘送水｜缺完整画面"
+    },
+    {
+      "nodeId": "9339fd95-8735-4df2-a8a5-1874d20c428d",
+      "label": "E01-A-011｜声音越叠越多｜缺完整画面"
+    },
+    {
+      "nodeId": "e9e3ba77-7bbb-4405-bd5f-4c77d7b3bb1d",
+      "label": "E01-A-012｜发现今天没安排｜界面参考"
+    },
+    {
+      "nodeId": "e7218c0c-a63b-47da-96d5-3c75a12803d6",
+      "label": "E01-A-013｜停停停｜关键动作参考"
+    },
+    {
+      "nodeId": "9e8fcafa-9fd6-4d7e-9c20-e0f2ea76619f",
+      "label": "E01-A-014｜大家听懂了停｜缺完整画面"
+    },
+    {
+      "nodeId": "f7931412-6ae9-46aa-bfdd-cbdfbd3844fa",
+      "label": "E01-A-015｜倒回枕头｜缺完整画面"
+    },
+    {
+      "nodeId": "8012e8ba-4178-4fa0-8991-32b96ccfc1fe",
+      "label": "E01-A-016｜汤圆自己靠回来｜结束状态参考"
+    },
+    {
+      "nodeId": "80d9afbb-50b0-49f2-aba8-89b0eb5a017c",
+      "label": "00｜关键帧图册·当前入口与复用技能"
+    }
+  ],
+  "labelsReadbackVerified": true,
+  "existingNodesReused": true
+}

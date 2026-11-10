@@ -1,0 +1,17 @@
+当前状态（2026-10-11）：作者认可为可继续使用的初稿。未完成多视图、合景与动态一致性验证。下文保留生成时的检查记录和原始实际提示词，其中“待采用”为当时状态，现以本段为准。
+
+--- 生成时记录 ---
+工作服10｜竹绿杏黄竹纹｜2026-10-11｜候选待采用
+
+以作者认可的校服03为面容与画风主参考，以原对应服装为用途和结构参考。内置imagegen生成。
+工作服10：竹绿短夹克、杏黄非牛仔短裤、肩袖竹纹、盘发木簪、及踝靴。保留09旧工具袋及补丁。目视偏差：绿色仍带少量灰黄感；工具袋面积仍较大，接近09。
+
+完整实际提示词：
+Use case: identity-preserve. Make ONE full-body costume portrait of Lin Zhixia, one person, no collage, labels or text.
+IMAGE 1 is the APPROVED SCHOOL03 portrait: it is the authority for her face, facial proportions, friendly gentle expression, eye size, age around 15, youthful body proportions, Japanese healing stylized 3D game-CG rendering, natural delicate skin, premium lightweight cloth, and the successful integration of Chinese garment construction and refined textile patterns.
+IMAGE 2 is the previous outfit to REDESIGN. Its clothing type, functional role and practical details are the starting point, but match the exact recognizable face and rendering of IMAGE 1. Never average faces, never change eye size, never make her photorealistic, older, chibi or doll-like. No adult makeup. The approved school uniform is not to be copied onto this outfit.
+Use an eye-level full-body portrait with the same gentle pale warm studio background and light as IMAGE 1, head and feet fully visible, clean readable silhouette. She is a cheerful approachable student in a hopeful abundant future Chinese garden city. Express future craftsmanship through textiles and precise discreet functional details, no armor, neon or circuits.
+RESTORATION WORK OUTFIT: preserve the practical short jacket, shorts, ankle work boots, old tool pouch and brush from IMAGE 2, but make the garment design as thoughtful and appealing as approved IMAGE 1. Gather the same warm-brown hair into a tidy practical bun secured with a small wooden bamboo-shaped hairpin; keep the exact approved face. No monocle or goggles.
+Fresh light bamboo green jacket (#A1D8B4), soft warm apricot-yellow non-denim shorts (#F2D698), ivory inner top and mainly ivory ankle work boots with light bamboo-green panels. Clear light colors; avoid olive, khaki, military green, dark brown large cloth areas, gray-green dullness or neon. Keep the worn brown canvas tool pouch as a small purposeful contrast, not an oversized apron covering all the shorts.
+Lightweight waist-length jacket with a small soft Chinese-inspired low stand collar, simple diagonal yoke seam and discreet closure, open enough to see a modest ivory sleeveless inner shirt. Sleeves rolled and secured at elbow so hands can work. No added vest. Slim bamboo-leaf embroidered border at rolled cuffs and one clear graceful bamboo spray on an upper jacket panel, small light green-on-green woven bamboo texture elsewhere only if subtle. Tiny bamboo-shaped wood closures, not crowded decorative knots. Preserve the hand-sewn sleeve repair patch from IMAGE 2.
+Comfortable tailored apricot cotton-twill utility shorts, age-appropriate mid-thigh length and useful pockets, no denim, no extreme short hems. Preserve the recognizable worn repaired brown waist tool pouch with a modest number of fine restoration brushes and tools, including its patch, as in IMAGE 2. Keep her holding a fine restoration brush naturally in one hand. Ivory short socks with a thin bamboo green stripe and practical low ankle boots, NOT tall boots, slim robust soles. Friendly energetic workshop readiness, not military or stage costume. Distinct bamboo motif instead of copying school flowers.

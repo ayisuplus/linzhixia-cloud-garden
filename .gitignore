@@ -1,0 +1,29 @@
+# 项目图册与文本提交；生成媒体和可恢复ZIP需随项目另行备份
+视频制作/**/*.png
+视频制作/**/*.jpg
+视频制作/**/*.jpeg
+视频制作/**/*.webp
+视频制作/**/*.gif
+视频制作/**/*.mp4
+视频制作/**/*.mov
+视频制作/**/*.webm
+视频制作/**/*.mkv
+视频制作/**/*.wav
+视频制作/**/*.mp3
+视频制作/**/*.flac
+视频制作/**/*.ogg
+视频制作/**/*.m4a
+视频制作/**/*.glb
+视频制作/**/*.gltf
+视频制作/**/*.fbx
+视频制作/**/*.psd
+视频制作/**/*.zip
+视频制作/**/cache/
+视频制作/**/.cache/
+
+# Project media tool runtime and local credentials
+.venv-media/
+tools/media/.secrets/
+tools/media/local.env
+__pycache__/
+*.pyc

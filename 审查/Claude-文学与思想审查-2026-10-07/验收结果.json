@@ -1,0 +1,29 @@
+{
+  "cliVersion": "2.1.292",
+  "requestedModel": "claude-opus-5-5",
+  "initializedModel": "claude-opus-5-5",
+  "actualAssistantModels": [
+    "claude-opus-5-5"
+  ],
+  "modelUsageNames": [
+    "claude-opus-5-5"
+  ],
+  "configuredEffort": "high",
+  "effortEvidence": "Explicit CLI --effort high and child process CLAUDE_CODE_EFFORT_LEVEL=high; no server-side effort echo asserted",
+  "exitCode": 0,
+  "isError": false,
+  "stopReason": "end_turn",
+  "numTurns": 1,
+  "elapsedSeconds": 261.796665,
+  "reportCharacters": 8960,
+  "inputTokens": 2,
+  "outputTokens": 21416,
+  "thinkingTokens": 12327,
+  "costUsdEstimate": 1.449776,
+  "toolsEnabled": [],
+  "permissionDenials": [],
+  "reportSha256": "57165C7F3049A4EDA79689FD5BE3E4ABEDC7673F36176B8AA6E9C9FBF44FEA05",
+  "cacheCreationInputTokens": 127681,
+  "cacheReadInputTokens": 0,
+  "totalInputTokens": 127683
+}

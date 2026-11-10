@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-11",
+  "generator": "built-in imagegen",
+  "status": "pending_author_review",
+  "input": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服04-圆头布履绢感短袜.png",
+  "input_sha256": "a639a501bab2edf94c49ef43d77e81abdc8c838a3b3632ac16e61216da1216ac",
+  "generated_original": "C:\\Users\\36322\\.codex\\generated_images\\01a1298f-9773-7933-997e-fe2b6ee36209\\exec-4a61f3b2-3158-44e3-94d8-95920bf45e9d.png",
+  "output": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服05-白栀子淡青云纹.png",
+  "output_sha256": "65f73e703093749fedb007ec164c8af4065695530fd9539fac798e18d23e0dab",
+  "copy_verified": true,
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "canvas_node_ids": [
+    "8c3048f5-4885-42be-b202-af40db6ba097",
+    "9b7f468e-e2f7-4c7e-ac83-3c0e94f9b2db"
+  ]
+}

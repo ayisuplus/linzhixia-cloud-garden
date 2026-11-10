@@ -1,0 +1,237 @@
+{
+  "duration_seconds": 58,
+  "frames": 1392,
+  "fps": 24,
+  "length_m": 815.5056508647862,
+  "max_speed_m_s": 23.88283041837532,
+  "max_acceleration_m_s2": 7.135523028443657,
+  "max_rotation_deg_per_frame": 1.6841884724285672,
+  "swept_sample_collisions": [
+    {
+      "frame": 158,
+      "time": 6.541666666666667,
+      "point": [
+        -182.65403747558594,
+        120.14204406738281,
+        136.24176025390625
+      ],
+      "object": "58 second route envelope only"
+    },
+    {
+      "frame": 159,
+      "time": 6.583333333333333,
+      "point": [
+        -183.10060119628906,
+        119.8291015625,
+        136.2699432373047
+      ],
+      "object": "58 second route envelope only"
+    },
+    {
+      "frame": 160,
+      "time": 6.625,
+      "point": [
+        -182.65016174316406,
+        119.48712921142578,
+        135.9478759765625
+      ],
+      "object": "58 second route envelope only"
+    },
+    {
+      "frame": 161,
+      "time": 6.666666666666667,
+      "point": [
+        -182.43125915527344,
+        119.01812744140625,
+        135.98316955566406
+      ],
+      "object": "58 second route envelope only"
+    },
+    {
+      "frame": 162,
+      "time": 6.708333333333333,
+      "point": [
+        -182.2041778564453,
+        119.12356567382812,
+        135.6178436279297
+      ],
+      "object": "58 second route envelope only"
+    },
+    {
+      "frame": 163,
+      "time": 6.75,
+      "point": [
+        -181.8457489013672,
+        118.32283782958984,
+        135.6672821044922
+      ],
+      "object": "58 second route envelope only"
+    },
+    {
+      "frame": 534,
+      "time": 22.208333333333332,
+      "point": [
+        -91.719970703125,
+        38.92454147338867,
+        82.0
+      ],
+      "object": "B separate cloud support"
+    },
+    {
+      "frame": 1194,
+      "time": 49.708333333333336,
+      "point": [
+        261.0,
+        -125.5500259399414,
+        71.5594253540039
+      ],
+      "object": "F ferry low tiled roof"
+    },
+    {
+      "frame": 1195,
+      "time": 49.75,
+      "point": [
+        261.0,
+        -125.47515106201172,
+        71.49996185302734
+      ],
+      "object": "F ferry low tiled roof"
+    },
+    {
+      "frame": 1196,
+      "time": 49.791666666666664,
+      "point": [
+        261.0,
+        -125.4026107788086,
+        71.43264770507812
+      ],
+      "object": "F ferry low tiled roof"
+    },
+    {
+      "frame": 1198,
+      "time": 49.875,
+      "point": [
+        262.2171936035156,
+        -124.06219482421875,
+        71.67207336425781
+      ],
+      "object": "F ferry low tiled roof"
+    },
+    {
+      "frame": 1200,
+      "time": 49.958333333333336,
+      "point": [
+        263.24078369140625,
+        -125.14936065673828,
+        71.91414642333984
+      ],
+      "object": "F ferry low tiled roof"
+    },
+    {
+      "frame": 1201,
+      "time": 50.0,
+      "point": [
+        263.9075927734375,
+        -124.47776794433594,
+        71.79966735839844
+      ],
+      "object": "F ferry low tiled roof"
+    },
+    {
+      "frame": 1202,
+      "time": 50.041666666666664,
+      "point": [
+        265.087646484375,
+        -123.75285339355469,
+        71.57710266113281
+      ],
+      "object": "F ferry low tiled roof"
+    },
+    {
+      "frame": 1230,
+      "time": 51.208333333333336,
+      "point": [
+        281.2536926269531,
+        -122.01950073242188,
+        66.0
+      ],
+      "object": "F separate cloud support"
+    },
+    {
+      "frame": 1233,
+      "time": 51.333333333333336,
+      "point": [
+        282.39312744140625,
+        -121.59366607666016,
+        66.0
+      ],
+      "object": "F separate cloud support"
+    },
+    {
+      "frame": 1235,
+      "time": 51.416666666666664,
+      "point": [
+        283.4879455566406,
+        -121.1258773803711,
+        66.0
+      ],
+      "object": "F separate cloud support"
+    },
+    {
+      "frame": 1250,
+      "time": 52.041666666666664,
+      "point": [
+        290.9325256347656,
+        -117.29727935791016,
+        62.40193176269531
+      ],
+      "object": "F separate cloud support"
+    },
+    {
+      "frame": 1251,
+      "time": 52.083333333333336,
+      "point": [
+        290.7303466796875,
+        -117.0013427734375,
+        62.20132064819336
+      ],
+      "object": "F separate cloud support"
+    },
+    {
+      "frame": 1252,
+      "time": 52.125,
+      "point": [
+        290.5254821777344,
+        -116.70372009277344,
+        62.00069808959961
+      ],
+      "object": "F separate cloud support"
+    },
+    {
+      "frame": 1253,
+      "time": 52.166666666666664,
+      "point": [
+        290.9122009277344,
+        -116.40946197509766,
+        62.20330810546875
+      ],
+      "object": "F separate cloud support"
+    },
+    {
+      "frame": 1254,
+      "time": 52.208333333333336,
+      "point": [
+        291.2906188964844,
+        -116.11904907226562,
+        62.40934753417969
+      ],
+      "object": "F separate cloud support"
+    }
+  ],
+  "envelope_m": [
+    1.2,
+    1.2,
+    0.8
+  ],
+  "scope": "FPV geometric reference. 27 swept samples, not exact swept-solid or dynamics proof; no loading/unloading character action."
+}

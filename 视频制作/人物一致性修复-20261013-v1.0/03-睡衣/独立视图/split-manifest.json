@@ -1,0 +1,72 @@
+{
+  "source_name": "01-四视图.png",
+  "source_sha256": "e875f61065b5c2405acbf647d93007b5f56bdca191ad62da797dc4c1c4283788",
+  "oriented_size": [
+    1774,
+    887
+  ],
+  "coordinates": "EXIF-oriented pixels; right and bottom edges exclusive",
+  "operation": "crop only; no redraw, resizing, padding or background removal",
+  "views": [
+    {
+      "view": "01_front-half",
+      "file": "01_front-half.png",
+      "box_xyxy": [
+        0,
+        0,
+        510,
+        887
+      ],
+      "size": [
+        510,
+        887
+      ],
+      "sha256": "dfe67e1ddb21d67cc930a5c4d7422de14402c5bb91fe9647355c1d79a9d7e73f"
+    },
+    {
+      "view": "02_facing-left",
+      "file": "02_facing-left.png",
+      "box_xyxy": [
+        510,
+        0,
+        780,
+        887
+      ],
+      "size": [
+        270,
+        887
+      ],
+      "sha256": "41ac134f676110d14b4ee072c4d1f4cc3d94659640acfaf60771e16f9875a234"
+    },
+    {
+      "view": "03_back",
+      "file": "03_back.png",
+      "box_xyxy": [
+        780,
+        0,
+        1490,
+        887
+      ],
+      "size": [
+        710,
+        887
+      ],
+      "sha256": "12809f552e670addf250cc8dfc9f289713732601514f962af3eb0edd57af774c"
+    },
+    {
+      "view": "04_facing-right",
+      "file": "04_facing-right.png",
+      "box_xyxy": [
+        1490,
+        0,
+        1774,
+        887
+      ],
+      "size": [
+        284,
+        887
+      ],
+      "sha256": "63971c8a513d45c55dd53c10d9170641e937ac11d7724f4791e5b51eb31bb8d4"
+    }
+  ]
+}

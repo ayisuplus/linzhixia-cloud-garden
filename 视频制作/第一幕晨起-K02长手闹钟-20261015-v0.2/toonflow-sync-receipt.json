@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-15",
+  "canvas": "场景设计-半园两岸-20261014.json",
+  "beforeNodes": 29,
+  "afterNodes": 31,
+  "imageNode": "9b5a0422-a5bd-4849-ad48-6d5070d2ec36",
+  "textNode": "552a1155-6d1f-4a26-b587-dcf5b013287f",
+  "historicalNote": "04840f84-346b-46d4-907c-b85728d5648b",
+  "reopened": true,
+  "imagePathMatches": true,
+  "textMatches": true,
+  "historicalNoteMatches": true,
+  "preexistingCanvasDirty": true,
+  "canvasExcludedFromCommit": true
+}

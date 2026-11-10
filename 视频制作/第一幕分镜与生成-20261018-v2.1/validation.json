@@ -1,0 +1,16 @@
+{
+  "valid": true,
+  "shots": 21,
+  "budget_seconds": 115,
+  "units": 5,
+  "ai_batches": 4,
+  "ai_raw_seconds": 120,
+  "insert_seconds": 4,
+  "handles_seconds": 9,
+  "html_ids": 32,
+  "local_links_checked": 307,
+  "images": 77,
+  "browser_visual_verified": false,
+  "video_generated": false,
+  "verification_scope": "static links, source continuity, derived timing and prompt fields; separate unit tests cover snapshot and routing logic"
+}

@@ -1,0 +1,41 @@
+{
+  "source": "视频制作\\第一集无人机试飞-20261022-v0.1\\episode1-drone-rehearsal-v01.blend",
+  "source_sha256": "47cf60dbfe3a4853461068291b668bf33b2b65e1cfec922e0ffc57b219c545bd",
+  "protected_object_transforms_and_vertex_counts": 29177,
+  "unexpected_changes": [],
+  "same_flight_camera_frames": 576,
+  "pose_errors": [],
+  "structural_cloud_cores": [
+    "School cloud shore structural cloud",
+    "School gate garden structural cloud",
+    "Upper hanging garden structural cloud",
+    "Middle courtyard garden structural cloud",
+    "West shaded garden structural cloud",
+    "Lower eastern garden structural cloud",
+    "Lower western garden structural cloud",
+    "Water lane cloud bank structural cloud",
+    "Cascade garden 0 structural cloud",
+    "Cascade garden 1 structural cloud",
+    "Cascade garden 2 structural cloud",
+    "Moon corridor garden structural cloud"
+  ],
+  "old_fringe_hidden": 180,
+  "new_cloud_lobes_and_wisps": 492,
+  "change_scope": "Only cloud appearance changed. Original support geometry, garden tops, buildings, drone and camera animation preserved. New lobes are cloud material visualization, no new hard obstacles. Prior collision report applies to unchanged physical geometry; optical occlusion must be judged in rendered frames.",
+  "final_render_settings": {
+    "video_resolution": [
+      640,
+      360
+    ],
+    "comparison_preview_resolution": [
+      960,
+      540
+    ],
+    "fps": 24,
+    "native_frames": 576,
+    "samples": 8,
+    "volume_step_rate": 8,
+    "volume_max_steps": 64,
+    "density_weighted_ambient_fill": 0.12
+  }
+}

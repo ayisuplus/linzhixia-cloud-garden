@@ -1,0 +1,99 @@
+{
+  "scope": "Discrete samples at <=0.20m spacing. Walk: 0.25m radial rays at three body heights and floor probes. Flight: 27 sampled offset rays per position around a box envelope; not complete swept-volume coverage. Not continuous collision, gameplay, accessibility or structural certification.",
+  "routes": {
+    "home_to_work": {
+      "samples": 200,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    },
+    "home_to_living": {
+      "samples": 50,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    },
+    "dorm_to_dispatch": {
+      "samples": 33,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    },
+    "dorm_to_hall": {
+      "samples": 176,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    },
+    "school_to_work": {
+      "samples": 603,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    },
+    "dock_to_repair": {
+      "samples": 86,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    },
+    "backstage_to_floor": {
+      "samples": 27,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    },
+    "east_garden_walk": {
+      "samples": 81,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    },
+    "neighbour_walk": {
+      "samples": 87,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    },
+    "trial_line": {
+      "samples": 14,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    },
+    "parcel": {
+      "samples": 544,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    }
+  },
+  "source_unchanged": true,
+  "all_routes_pass": true,
+  "docking_support": [
+    {
+      "endpoint": "dispatch",
+      "support": "Dispatch perch top",
+      "gap_m": 0.001999893188476598,
+      "pass": true
+    },
+    {
+      "endpoint": "receiving",
+      "support": "Receiving perch top",
+      "gap_m": 0.002000012397766149,
+      "pass": true
+    }
+  ],
+  "clear_areas": {
+    "trial": {
+      "samples": 285,
+      "vertical_obstacles": [],
+      "pass": true
+    },
+    "demonstration": {
+      "samples": 625,
+      "vertical_obstacles": [],
+      "pass": true
+    }
+  }
+}

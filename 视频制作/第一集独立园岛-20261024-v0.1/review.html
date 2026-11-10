@@ -1,0 +1,13 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>长洲 · 独立园岛 v16</title>
+<style>body{margin:0;background:#f4f3eb;color:#203c38;font:17px/1.7 system-ui,"Microsoft Yahei",sans-serif}main{max-width:1440px;margin:auto;padding:32px 5vw 70px}h1{font-size:36px;margin-bottom:8px}h2{font-size:26px;margin-top:48px}p{max-width:1000px}.meta{color:#5d746d}img{width:100%;height:auto;display:block;border-radius:10px;background:#d5e1e4}.links{display:flex;gap:24px;flex-wrap:wrap}a{color:#147b80}nav{display:flex;gap:10px;flex-wrap:wrap;margin:22px 0}button{padding:10px 18px;border:1px solid #a4b9aa;border-radius:30px;background:transparent;color:inherit;font:inherit;cursor:pointer}button.active{background:#203c38;color:#fff}.note{border-left:4px solid #a66c45;padding:12px 20px;background:#e8eadd}figure{margin:25px 0}figcaption{color:#5d746d;padding-top:10px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}@media(max-width:800px){.grid{grid-template-columns:1fr}}</style>
+<main><p class="meta">《未来女孩林知夏》 · 第一集沿线空间重规划 · 2026-10-24</p><h1>各自成园，跨云相连</h1>
+<p>从连续河谷转向七个独立园居与交通单元。学园、听瀑园、收水庭组成局部叠水组；半园与作坊形成另一组隔水生活空间；山居园与换层亭通过桥廊接入回路。</p>
+<p class="note">本轮是空间规划白模。云基、换层亭、植物和水面尚未完成美术设计；58 秒只保留时长预算，金色虚线为飞行走廊草案，尚无新航线动画或完整视频。</p>
+<nav><button class="active" data-src="masterplan.png" data-alt="独立园岛俯视总图">俯视布局</button><button data-src="height-and-connections.png" data-alt="园岛高差与连接">高差关系</button><button data-src="01-overview.png" data-alt="Blender空间总览">空间总览</button><button data-src="02-island-separation.png" data-alt="关闭氛围云检查园岛分离">去雾检查分离</button></nav>
+<img id="main" src="masterplan.png" alt="独立园岛俯视总图">
+<h2>在不同高度看同一组园子</h2><div class="grid"><figure><img src="03-school-to-lower.png" alt="从学园侧面看下方园岛"><figcaption>学园侧缘与下园的相对关系。此为外部观察机位，不是已确定的无人机镜头。</figcaption></figure><figure><img src="04-below-the-fall.png" alt="下园仰看上园出水口"><figcaption>下园仰望来水：上岛边缘、自由跌水与下方收水庭。</figcaption></figure></div>
+<figure><img src="05-home-workshop.png" alt="半园与作坊的双岛水庭"><figcaption>半园与作坊独立承托，局部水庭、短瀑和跨岛连接维持隔水相望。</figcaption></figure>
+<h2>这版明确的边界</h2><p>尺度是创作推定；楼梯和升降井用于占位与连接检查，设备、护栏、门和室内使用未完成。回水入口已有占位，未做流量、泵管或水流模拟。原九组院落和配色保留，旧工程独立保存。整体布局、云基和楼亭造型仍需按作者观看反馈继续调整。</p>
+<div class="links"><a href="island-garden-masterplan-v16.blend">Blender 工程</a><a href="README.md">交付说明</a><a href="audit.md">独立空间复核</a></div>
+<p class="meta">若点击工程链接不能启动 Blender：在 Blender 中选择“文件 → 打开”，进入本页所在目录，打开 island-garden-masterplan-v16.blend。</p></main>
+<script>for(const b of document.querySelectorAll('button'))b.onclick=()=>{document.getElementById('main').src=b.dataset.src;document.getElementById('main').alt=b.dataset.alt;for(const x of document.querySelectorAll('button'))x.classList.toggle('active',x===b)};</script></html>

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-18",
+  "method": "built-in imagegen",
+  "video_produced": false,
+  "frames": [
+    {
+      "path": "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-010-W-01-全景窗起始.png",
+      "label": "01 全景玻璃·起步追波",
+      "role": "opening",
+      "visible": "无内窗格的连续玻璃、近处木质外框与窗台，窗后全为原庭院。",
+      "limits": "起步前状态候选；波纹尚未启动。静帧不证明镜头已在飞行。",
+      "status": "候选待作者审阅",
+      "sha256": "e07cffb2b9553a60af7e8af20135d13e20f69cfe0b4a4ec18588826e018831f2",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "generation": {
+        "method": "built-in imagegen",
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-ff17fe89-5d08-49fd-a0f4-4714b64f4dcc.png",
+        "prompt": "视频制作/第一幕全景窗追波纹-20261018-v0.1/prompt-open.txt",
+        "references": [
+          "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/E01-A-010-W-01-微型侧掠起始.png"
+        ],
+        "status": "candidate_pending_author_review",
+        "generated_date": "2026-10-18"
+      }
+    },
+    {
+      "path": "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-010-W-02-追随波纹.png",
+      "label": "02 追随前沿·新旧景共存",
+      "role": "action",
+      "visible": "左侧水巷已显露，右侧白墙庭院尚未变化，中间窄波纹划出交界；近左外框退出构图，窗台保留近景尺度。",
+      "limits": "明确变化状态与途中构图；中、末帧使用相同构图锁景，不代表摄影机停住，也不是已标定的三个相机位姿。波纹略亮，动态可减弱。",
+      "status": "候选待作者审阅",
+      "sha256": "6793a94ed76efa3336c8b2ebee66d08a0cfb8870c7c1f4bb20c72fa91b4cc073",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "generation": {
+        "method": "built-in imagegen",
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-f7eb2269-45ae-432c-9057-88aec1a2b13c.png",
+        "prompt": "视频制作/第一幕全景窗追波纹-20261018-v0.1/prompt-mid.txt",
+        "references": [
+          "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-010-W-01-全景窗起始.png",
+          "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/E01-A-010-W-02-微型侧掠蔓延-锁景.png"
+        ],
+        "status": "candidate_pending_author_review",
+        "generated_date": "2026-10-18"
+      }
+    },
+    {
+      "path": "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-010-W-03-换景完成.png",
+      "label": "03 波纹扫完·水巷完成",
+      "role": "ending",
+      "visible": "可见玻璃内为连续水巷，波纹消退；中间帧已显露的桥、船与左岸大体保持。",
+      "limits": "中段机位的完成状态参考；实际末段仍须继续移动相机后减速。近景到全景的精确视差与景物投影未标定。",
+      "status": "候选待作者审阅",
+      "sha256": "f7c8cc77180ebd3efc2593dcddbb45d525f4c91f8f86ebb954b4f9f64c1d9d8b",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "generation": {
+        "method": "built-in imagegen",
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-f5f92c06-f6d0-49c1-affd-92da31b1340c.png",
+        "prompt": "视频制作/第一幕全景窗追波纹-20261018-v0.1/prompt-end.txt",
+        "references": [
+          "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-010-W-02-追随波纹.png"
+        ],
+        "status": "candidate_pending_author_review",
+        "generated_date": "2026-10-18"
+      }
+    },
+    {
+      "path": "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-011-全景窗忙碌.png",
+      "label": "A011 全景窗·忙碌结果",
+      "role": "action",
+      "visible": "忙碌房间中央窗无内部花格，整窗呈现水巷；人物前倾攥被、杯读数与被缘张口状态保留。",
+      "limits": "本轮只修主窗；衣架挂钩小细部仍是历史图，须继承A009固定直连结构。旧枕头、玉件、被面材质限制继续有效。",
+      "status": "候选待作者审阅",
+      "sha256": "78b5fca62e3050e2c478693de8e783d55523b3439b677d42d1e60d49d4594489",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "generation": {
+        "method": "built-in imagegen",
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-511846ec-759c-47cc-b93b-ac7e2a64df04.png",
+        "prompt": "视频制作/第一幕全景窗追波纹-20261018-v0.1/prompt-wide.txt",
+        "references": [
+          "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-011-旋杆与步履.png",
+          "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-010-W-03-换景完成.png"
+        ],
+        "status": "candidate_pending_author_review",
+        "generated_date": "2026-10-18"
+      }
+    },
+    {
+      "path": "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-014-全景窗喊停.png",
+      "label": "A014 全景窗·喊停复原",
+      "role": "action",
+      "visible": "同一无内窗格主窗恢复白墙庭院；人物闭眼、杯读数消失，被缘表情收敛，衣物与杯盘保持伸出和承托。",
+      "limits": "保留历史衣架挂钩细部限制；喊停动态和窗景复原过程未制作。窗外枝叶与近景不构成几何一致性证明。",
+      "status": "候选待作者审阅",
+      "sha256": "a243f2bef10c74674d047dac8e34ea29171f7533dc3d73c90a6dc09d1ade9813",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "generation": {
+        "method": "built-in imagegen",
+        "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-fdcf1a7f-398f-4439-8653-b3e3d117b5f0.png",
+        "prompt": "视频制作/第一幕全景窗追波纹-20261018-v0.1/prompt-stop.txt",
+        "references": [
+          "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-014-踱步喊停.png",
+          "视频制作/第一幕全景窗追波纹-20261018-v0.1/E01-A-011-全景窗忙碌.png"
+        ],
+        "status": "candidate_pending_author_review",
+        "generated_date": "2026-10-18"
+      }
+    }
+  ],
+  "prior_atlas": "视频制作/第一幕关键帧图册-20261017-v1.7/atlas.json"
+}

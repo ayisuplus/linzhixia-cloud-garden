@@ -1,0 +1,242 @@
+{
+  "canvas": "人物设计.json",
+  "source": "实时工具保存后只读提取；仅本轮新增节点",
+  "nodes": [
+    {
+      "id": "e61813ba-7074-4e83-9319-8a221b8c44ff",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4000,
+        "y": 0
+      },
+      "data": {
+        "label": "便服v3.0｜四视图总图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/知夏-便服四视图-v3.0.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "75df41b5-ca0d-43b1-a5e7-6b99d4679982",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4900,
+        "y": 0
+      },
+      "data": {
+        "label": "便服v3.0｜妆造分解·后脑横簪",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/知夏-便服妆造分解-v3.0.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "436f0bcf-24c0-4c8e-b8c4-d49552ee2467",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 5800,
+        "y": 0
+      },
+      "data": {
+        "label": "便服v3.0｜穿搭分解·双白袜",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/知夏-便服穿搭分解-v3.0.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "19a4a70e-7a59-4db1-ae83-cf1c9e9ff787",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4000,
+        "y": 1000
+      },
+      "data": {
+        "label": "便服v3.0｜正面大半身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/四视图独立图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "61b95f48-3df0-4553-ad6e-3431edf2d53e",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4800,
+        "y": 1000
+      },
+      "data": {
+        "label": "便服v3.0｜朝画面左侧面全身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/四视图独立图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "cb8bb469-75d1-45c7-a7fb-83d989673b05",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 5600,
+        "y": 1000
+      },
+      "data": {
+        "label": "便服v3.0｜背面全身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/四视图独立图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "46e300c2-2aea-4f67-a41b-9b631182d245",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 6400,
+        "y": 1000
+      },
+      "data": {
+        "label": "便服v3.0｜朝画面右侧面全身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服定款三件套-20261012-v3.0/四视图独立图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "f8cbb4a1-7687-463b-96e4-2d7fce7ecef9",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 4000,
+        "y": -650
+      },
+      "data": {
+        "label": "便服v3.0｜当前版本与来源｜2026-10-12",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/f8cbb4a1-7687-463b-96e4-2d7fce7ecef9/content.md"
+      }
+    }
+  ]
+}

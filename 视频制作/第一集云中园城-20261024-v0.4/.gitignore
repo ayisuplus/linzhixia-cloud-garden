@@ -1,0 +1,7 @@
+*.log
+*.blend1
+frames/
+*.npz
+diagnostic*.blend
+trial-a*.blend
+render-only*.blend

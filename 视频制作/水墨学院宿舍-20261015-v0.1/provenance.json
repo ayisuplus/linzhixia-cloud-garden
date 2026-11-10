@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-15",
+  "tool": "built-in image_gen.imagegen",
+  "generationCalls": 1,
+  "references": [],
+  "status": "candidate_pending_author_review",
+  "source": "C:/Users/36322/.codex/generated_images/01a13a12-c15f-7431-88a9-5ceeb49cb3b0/exec-76494aa6-a2ca-4d51-bb62-47638ff32e76.png",
+  "file": "水墨学院宿舍-门内外01.png",
+  "width": 1672,
+  "height": 941,
+  "prompt": "prompt.txt",
+  "sha256": "CD88D13E7E2F9D2A5702C7E149FDA8F59D79CAF10C5A4AC50D827EC9786BA4F2",
+  "copyHashVerified": true
+}

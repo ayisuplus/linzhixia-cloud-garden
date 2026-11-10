@@ -1,0 +1,19 @@
+{
+  "samples": 4001,
+  "method": "conservative world AABB against solid blockout meshes; route linear",
+  "drone_envelope_m": [
+    2.4,
+    2.4,
+    2.0
+  ],
+  "camera_half_extent_m": 0.3,
+  "route_length_m": 481.096,
+  "collisions": {
+    "drone": [],
+    "camera": []
+  },
+  "preview_seconds": 20.0,
+  "camera_cut_frame": 270,
+  "minimum_camera_subject_distance_m": 9.22,
+  "note": "20-second compressed technical rehearsal, not episode timing; explicit cut at frame 270; linear keys, no fluid or flight dynamics"
+}

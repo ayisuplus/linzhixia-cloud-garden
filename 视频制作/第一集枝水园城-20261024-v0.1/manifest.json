@@ -1,0 +1,37 @@
+{
+  "files": {
+    "branch-garden-route-58s-v15.blend": {
+      "bytes": 7464267,
+      "sha256": "fc3c74876f489345d48ad7d4513d0ff8dddd1c2b93fa94bb6856f842a4254686"
+    },
+    "branch-garden-flight-58s-v15.mp4": {
+      "bytes": 8304768,
+      "sha256": "cbef164922cb300f5912332cd50c9f24fba752d4dd0f0f86874a6325e2b5252c"
+    },
+    "batch-A-00-30.mp4": {
+      "bytes": 4425803,
+      "sha256": "23d7407b5d5538ebb72cea3195c9fbfe3a1b6911cada2803e5b247da70c00f98"
+    },
+    "batch-B-28-58.mp4": {
+      "bytes": 3892794,
+      "sha256": "4f7158bc903ffeb7046dc70e791013eb56b04dd74449c759cad69dfc98b22034"
+    },
+    "route-poses.json": {
+      "bytes": 295940,
+      "sha256": "4c5fa912b29e5e5981e84146221bf40b5d1480829e6a6db3ce9411a15c545b41"
+    },
+    "design-data.json": {
+      "bytes": 307775,
+      "sha256": "936ca37516b03df689fa62ff813a6a63664a08f64da40f84c6cfac0d43d12542"
+    },
+    "audit.json": {
+      "bytes": 79821,
+      "sha256": "1090d5eb4bec999887e862515fbb0bbcea01a4874af225d25deaa024710a7387"
+    },
+    "water-network-plan.png": {
+      "bytes": 103437,
+      "sha256": "4542e9fe2802504800e0a5bd1b535fd7ecfaf310a2ea141e96cd940868fd247b"
+    }
+  },
+  "source_v14_sha256": "dc9c610956dcb3fef447208ca84e405dacdeea2ece0b5fa95e66bbaa31cd92d5"
+}

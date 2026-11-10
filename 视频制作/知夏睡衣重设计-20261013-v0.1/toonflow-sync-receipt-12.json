@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-13",
+  "canvas": "人物设计.json",
+  "nodeCount": 40,
+  "candidateImage": "214db542-c339-4758-b1b9-ab45c388fcfb",
+  "candidateText": "bceb1de5-93ce-40b1-88b7-3d80ee93e894",
+  "auditText": "1a8c7448-8f5b-491f-80f0-e3a8ab8b7c9c",
+  "reopenedAndReadBack": true,
+  "fullTextEqualityVerified": true,
+  "library": [
+    {
+      "path": "未来女孩林知夏-当前可用素材/03-睡衣/修正候选12/睡衣12-修正候选.png",
+      "verified": true
+    },
+    {
+      "path": "未来女孩林知夏-当前可用素材/03-睡衣/修正候选12/12实际提示词.txt",
+      "verified": true
+    },
+    {
+      "path": "未来女孩林知夏-当前可用素材/03-睡衣/修正候选12/11实际提示词.txt",
+      "verified": true
+    },
+    {
+      "path": "未来女孩林知夏-当前可用素材/03-睡衣/修正候选12/人物一致性复核.md",
+      "verified": true
+    },
+    {
+      "path": "未来女孩林知夏-当前可用素材/03-睡衣/修正候选12/版本清单.json",
+      "verified": true
+    }
+  ],
+  "rootLibraryIndexAndManifestUpdated": true,
+  "previousRootDocumentsPreservedInCandidateFolder": true,
+  "authorApproved": false
+}

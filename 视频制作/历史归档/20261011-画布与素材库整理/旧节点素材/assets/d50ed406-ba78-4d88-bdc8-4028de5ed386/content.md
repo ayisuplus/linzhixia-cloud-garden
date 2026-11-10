@@ -1,0 +1,18 @@
+校服02｜清青蓝配朱红｜2026-10-11｜候选待采用
+
+以校服01为唯一编辑底稿，保留面容、发型、姿态与日系治愈3D游戏CG画风。调整无袖短外搭、宽褶裙、青白运动鞋与短袜、轻便织物书包。
+
+目视偏差：低开口立领未落实，仍为翻领；外搭趋近对称，书包花窗装饰及结穗比预期明显。脸部与风格目视延续，未作精确一致性测量。请作者审阅，不自动采用。
+
+实际生成工具：内置 imagegen。参考：知夏-校服01-中国结花窗.png。
+
+完整实际提示词：
+Use case: identity-preserve.
+Edit target: the supplied full-body portrait of Lin Zhixia wearing the gray cardigan school uniform. Generate ONE updated full-body character costume portrait, same portrait composition and pale warm studio background.
+STRICT INVARIANTS: preserve this exact girl's recognizable face, facial proportions, eyes, friendly gentle expression, warm brown medium-long half-up hairstyle and small hair ornament, apparent age around 15, body proportions, standing pose, framing, soft lighting and existing Japanese healing stylized 3D game-CG rendering. Do not make her photorealistic, older, chibi, more doll-like, or enlarge her eyes. Change ONLY school clothing, shoes, socks and school bag. The result should feel cheerful, youthful, refined and suitable for a hopeful materially abundant future Chinese garden city.
+COSTUME REDESIGN: clear cyan-blue with restrained vermilion red and warm ivory. Aim approximately 55% clear cyan-blue (#64B7C4), 30% warm ivory (#F5EEDC), 10% soft vermilion (#E26752), 5% pale gold accents. These are cloth local colors, preserve dimensional lighting; not dark navy or gray, not faded grayish mint.
+Replace the long gray cardigan with a neat waist-length sleeveless clear cyan-blue outer vest, airy modern tailoring with a subtle asymmetrical Chinese-inspired closure and smooth fitted-but-comfortable structure. Under it a warm ivory short-sleeved blouse with a low open standing collar, comfortable modest neckline. A short small vermilion Chinese knotted ribbon at the collar, tidy and light, no large bow or long dangling tassels. One SMALL refined pale-gold garden lattice school emblem, smaller than in the original.
+A coordinated clear cyan-blue broad-pleated school skirt, age-appropriate just-above-knee length comparable to the original, lively movement and a few narrow vermilion accents visible within selected pleat folds, NOT a red hem band all around and NOT an all-over patterned costume. Subtle woven cloth sheen, precise seams and discreet modern closures suggest future craftsmanship; no armor, circuit prints, neon or glowing edges.
+SHOES AND SOCKS: replace the brown loafers with light warm ivory low-top practical campus sneakers, clean slim soles, small clear cyan-blue panels and tiny vermilion heel tabs, fine premium textile finish. Warm ivory ankle socks with a single slim cyan stripe at the cuff. Both feet and shoes fully visible.
+BAG: replace the heavy dark brown leather satchel with a lightweight compact warm ivory technical woven-fabric school backpack, clear cyan-blue panels and straps, small vermilion zipper pull/short cord knot, restrained subtly geometric garden-lattice seam detail, elegant and usable with a real book-carrying volume. Keep bag placement at the same shoulder/side and preserve the hand holding the strap. Avoid excessive buckles, large gold ornament or floating gadgets.
+One person, no text, no labels, no collage. Preserve face and rendering from the source rather than inventing a new character.

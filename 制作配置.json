@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "project": "未来女孩林知夏",
+  "updated": "2026-10-19",
+  "workflow_plugin": "film-studio@film-studio",
+  "video_policy": {
+    "order": [
+      "local_h3",
+      "cloud_h3",
+      "seedance25"
+    ],
+    "local_video_input": false,
+    "local_video_input_basis": "author current tool constraint; reverify at execution",
+    "video_input_trial": "cloud_h3",
+    "seedance_requires_actual_h3_failure": true,
+    "stop_generation_when_qualified": true,
+    "exact_model_endpoints": "resolve from actual installed workflow or live provider catalog",
+    "request_seconds": "use live verified limits; preserve batching preference, not fixed across models",
+    "author_review": "full prompts, reference order and roles, model/mode and parameters before every video submission; preserve already-given authorization scope"
+  },
+  "deliverables": {
+    "asset_atlas": "existing project atlas",
+    "storyboard_and_execution": "shared shot facts, existing views preserved",
+    "manual_extra_tables": false
+  },
+  "postproduction": "DaVinci Resolve",
+  "media_home": "project directory",
+  "voice": {
+    "preferred_engine": null,
+    "basis": "read current project decisions; do not inherit another project choice"
+  }
+}

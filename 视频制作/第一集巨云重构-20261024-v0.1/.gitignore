@@ -1,0 +1,6 @@
+*.log
+*.blend1
+*.npz
+motion-frames/
+motion-test/
+encode-frames.txt

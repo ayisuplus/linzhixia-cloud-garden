@@ -1,0 +1,58 @@
+{
+  "images_decoded": [
+    {
+      "file": "01-overview.png",
+      "size": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "02-clear-structure.png",
+      "size": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "03-water-gardens.png",
+      "size": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "04-low-waterside-pavilion.png",
+      "size": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "05-home-workshop.png",
+      "size": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "06-school-hidden-port.png",
+      "size": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "transport-plan.png",
+      "size": [
+        1700,
+        1120
+      ]
+    }
+  ],
+  "html_local_references": 12,
+  "audit_hashes_match": true,
+  "source_preserved": true,
+  "new_video": false,
+  "visual_review": "Six static rendered views inspected; low silhouettes and boarding relationships readable. Cloud cores, plants and water remain simplified. No continuous video review."
+}

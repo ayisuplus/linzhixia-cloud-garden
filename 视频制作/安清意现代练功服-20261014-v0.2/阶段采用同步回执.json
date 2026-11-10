@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-14",
+  "scope": "first-episode character visual-design stage temporarily closed; no new generation",
+  "target": {
+    "connectionId": "f617bd89-16e6-4e7b-8725-4b5116956896",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "人物设计.json"
+  },
+  "nodes": [
+    {
+      "id": "531d6d8f-11ad-452f-8a9f-02d23103c0da",
+      "label": "安清意｜现代练功服·短裤高马尾主图·鞋袜v0.2·阶段采用"
+    },
+    {
+      "id": "6ec23eea-703b-48d9-97ed-5c44129cef28",
+      "label": "安清意｜现代练功服·四视图·鞋袜v0.2·阶段采用"
+    },
+    {
+      "id": "41d42a53-c34e-43da-8bcf-6cc52f8a67cd",
+      "label": "安清意｜现代练功服·当前要求与版本·鞋袜v0.2·阶段采用"
+    }
+  ],
+  "library": [
+    {
+      "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.2/README.md",
+      "contentMatch": true
+    },
+    {
+      "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.2/artifact-manifest.json",
+      "contentMatch": true
+    },
+    {
+      "path": "未来女孩林知夏-当前可用素材/安清意/现代练功服-20261014-v0.2/采用与阶段状态-20261014.md",
+      "contentMatch": true
+    }
+  ],
+  "priorMetadataPreserved": true,
+  "imagesUnchanged": true
+}

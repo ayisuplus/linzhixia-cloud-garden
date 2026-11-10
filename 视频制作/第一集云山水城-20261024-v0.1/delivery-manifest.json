@@ -1,0 +1,41 @@
+{
+  "source_preservation_audit_matches": true,
+  "local_html_links_exist": true,
+  "files": [
+    {
+      "path": "cloud-stone-water-city-58s-v07.blend",
+      "size_bytes": 111481506,
+      "sha256": "a298118ba9aa76998825dcc18dc9ab7b9a324c7cccb3dd1a012f388a96a1894d"
+    },
+    {
+      "path": "cloud-stone-water-flight-58s-v07.mp4",
+      "size_bytes": 11743504,
+      "sha256": "60a9db5be99c3d253f969fd338281440479a5f74f973aca55bc9855fcbe05412"
+    },
+    {
+      "path": "B01-cloud-stone-water-0-30s.mp4",
+      "size_bytes": 6163394,
+      "sha256": "5abbc005fe5b937fe6354e2c811f022790802d7dfdc3f9bb70e276f0dafd635b"
+    },
+    {
+      "path": "B02-cloud-stone-water-28-58s.mp4",
+      "size_bytes": 5893211,
+      "sha256": "8891181c3205e4fd468b5089887780ec0c48260c9549f70e8987f39c0d8c8ff1"
+    },
+    {
+      "path": "review.html",
+      "size_bytes": 3329,
+      "sha256": "47e73b660d218fc4aaa469c1c9f9a6acba51eef5032da556e4a244472f634243"
+    },
+    {
+      "path": "details/grotto-and-spillway.png",
+      "size_bytes": 1163014,
+      "sha256": "7c02f8f37aeef419f8d51e3737d55705fd37cb780ec9795af2558b708df9e50f"
+    },
+    {
+      "path": "details/mountain-water-overview.png",
+      "size_bytes": 1255262,
+      "sha256": "887ecbb790bc4ef9f156adac0e86dadae4ac993523e6e80547b7f7a95b3925ee"
+    }
+  ]
+}

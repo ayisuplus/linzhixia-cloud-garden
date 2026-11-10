@@ -1,0 +1,122 @@
+{
+  "E01-A-009-01-固定臂预备位.png": {
+    "method": "built-in imagegen",
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-d59b5517-060c-412f-b049-2cb8215734c4.png",
+    "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-固定臂预备位修正.txt",
+    "references": [
+      "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/历史-固定臂预备位-挂钩回退.png"
+    ],
+    "status": "candidate_pending_author_review",
+    "generated_date": "2026-10-17—18"
+  },
+  "E01-A-009-02-固定臂旋出.png": {
+    "method": "built-in imagegen",
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-4c6b225b-a903-4262-a12d-eacda5f5effe.png",
+    "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-固定臂旋出.txt",
+    "references": [
+      "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/E01-A-009-03-固定臂停稳.png"
+    ],
+    "status": "candidate_pending_author_review",
+    "generated_date": "2026-10-17—18"
+  },
+  "E01-A-009-03-固定臂停稳.png": {
+    "method": "built-in imagegen",
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-5153e822-1cf5-4024-ac37-224e45588396.png",
+    "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-固定臂停稳.txt",
+    "references": [
+      "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-009-旋杆递衣.png"
+    ],
+    "status": "candidate_pending_author_review",
+    "generated_date": "2026-10-17—18"
+  },
+  "E01-A-010-W-01-微型侧掠起始.png": {
+    "method": "built-in imagegen",
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-f6cea185-2948-4be2-9101-396ababe358c.png",
+    "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-微型侧掠起始.txt",
+    "references": [
+      "视频制作/半园卧室试稿-v0.1/知夏卧室-清晨-候选02.png"
+    ],
+    "status": "candidate_pending_author_review",
+    "generated_date": "2026-10-17—18"
+  },
+  "E01-A-010-W-03-微型侧掠完成.png": {
+    "method": "built-in imagegen",
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-61f8b629-203d-417c-a4ef-6d07c5323509.png",
+    "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-微型侧掠完成.txt",
+    "references": [
+      "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/E01-A-010-W-01-微型侧掠起始.png",
+      "视频制作/第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-011-旋杆与步履.png"
+    ],
+    "status": "candidate_pending_author_review",
+    "generated_date": "2026-10-17—18"
+  },
+  "E01-A-010-W-02-微型侧掠蔓延-锁景.png": {
+    "method": "built-in imagegen",
+    "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-ada4db52-41a5-4d71-ad12-fac0261cc09c.png",
+    "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-微型侧掠蔓延锁景.txt",
+    "references": [
+      "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/E01-A-010-W-03-微型侧掠完成.png",
+      "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/E01-A-010-W-01-微型侧掠起始.png"
+    ],
+    "status": "candidate_pending_author_review",
+    "generated_date": "2026-10-18"
+  },
+  "_history": [
+    {
+      "path": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/历史-衣柜停稳-夹架连接不清.png",
+      "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-a9a880c0-5753-4981-be02-1a8a6dc014bd.png",
+      "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-衣柜初稿.txt",
+      "status": "superseded_not_current",
+      "reason": "裙夹连接不清"
+    },
+    {
+      "path": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/历史-衣柜夹架-上端连接待修.png",
+      "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-839b6fc7-10cf-4c68-b333-86a45727eac3.png",
+      "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-衣柜夹架修正.txt",
+      "status": "superseded_not_current",
+      "reason": "上端悬空；外围框随后被作者否定"
+    },
+    {
+      "path": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/E01-A-009-03-停稳展示.png",
+      "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-cb987c46-d96a-4611-b6ff-d2e57b89bb20.png",
+      "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-衣柜上端修正.txt",
+      "status": "superseded_not_current",
+      "reason": "作者否定外围框"
+    },
+    {
+      "path": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/E01-A-010-W-01-原庭院.png",
+      "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-787c17f6-d869-4997-9223-5bfff86c3e6c.png",
+      "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-窗户起始.txt",
+      "status": "superseded_not_current",
+      "reason": "作者否定普通室内斜看机位"
+    },
+    {
+      "path": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/E01-A-010-W-02-换景蔓延.png",
+      "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-532fa06a-5609-473b-b956-f38d6131da79.png",
+      "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-窗户蔓延.txt",
+      "status": "superseded_not_current",
+      "reason": "作者否定普通室内斜看机位"
+    },
+    {
+      "path": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/E01-A-010-W-03-整窗水巷.png",
+      "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-ec141293-c259-4d51-b512-39b757d8b55e.png",
+      "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-窗户完成.txt",
+      "status": "superseded_not_current",
+      "reason": "作者否定普通室内斜看机位"
+    },
+    {
+      "path": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/历史-固定臂预备位-挂钩回退.png",
+      "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-932aeef7-d60a-4563-b902-59a66c11bc8e.png",
+      "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-固定臂预备初稿.txt",
+      "status": "superseded_not_current",
+      "reason": "模型回退弯钩，已修正"
+    },
+    {
+      "path": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/E01-A-010-W-02-微型侧掠蔓延.png",
+      "source_output": "C:/Users/36322/.codex/generated_images/01a14a75-6eac-7b41-bba8-e9ad752db73e/exec-39100110-6422-4269-b4bb-d93b5d2907f3.png",
+      "prompt": "视频制作/第一幕窗户与衣柜补帧-20261017-v0.1/prompt-微型侧掠蔓延.txt",
+      "status": "superseded_not_current",
+      "reason": "水巷桥船位置与终态漂移，后续锁景修订"
+    }
+  ]
+}

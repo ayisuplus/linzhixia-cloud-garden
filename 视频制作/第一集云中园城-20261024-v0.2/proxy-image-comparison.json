@@ -1,0 +1,36 @@
+{
+  "comparison": "same camera, same 960x540 16 sample Eevee settings; editable scene vs batched render derivative",
+  "samples": [
+    {
+      "frame": 331,
+      "mean_absolute_channel_difference_0_255": 0.05839313271604938,
+      "maximum_channel_difference": 8.0,
+      "p99_difference": 2.0
+    },
+    {
+      "frame": 600,
+      "mean_absolute_channel_difference_0_255": 0.06672067901234568,
+      "maximum_channel_difference": 10.0,
+      "p99_difference": 2.0
+    },
+    {
+      "frame": 1177,
+      "mean_absolute_channel_difference_0_255": 0.10486754115226338,
+      "maximum_channel_difference": 8.0,
+      "p99_difference": 2.0
+    },
+    {
+      "frame": 1,
+      "mean_absolute_channel_difference_0_255": 0.029845036008230453,
+      "maximum_channel_difference": 18.0,
+      "p99_difference": 1.0
+    },
+    {
+      "frame": 1392,
+      "mean_absolute_channel_difference_0_255": 0.4272460133744856,
+      "maximum_channel_difference": 18.0,
+      "p99_difference": 5.0
+    }
+  ],
+  "limitation": "sampled image equivalence, not bit-exact identity or exhaustive all-view proof"
+}

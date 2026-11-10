@@ -1,0 +1,75 @@
+{
+  "status": "spatial candidate, author review pending",
+  "files": [
+    {
+      "path": "zhixia-bedroom-v01.blend",
+      "bytes": 5739382,
+      "sha256": "af5c9310cc4bf013fba4b9f8125adac5ba9d8ed6304781c71e8661db455991a9"
+    },
+    {
+      "path": "camera-sheet.jpg",
+      "bytes": 291089,
+      "sha256": "51aeeded264de0a0f9f73b53947279e1c27755968f14344278e473001be5178c"
+    },
+    {
+      "path": "window-path.mp4",
+      "bytes": 300199,
+      "sha256": "996f55ab65dff84351c0d47451b8abb55a5d620a6a62a054526d1cf240fe243b"
+    },
+    {
+      "path": "plan.svg",
+      "bytes": 4126,
+      "sha256": "e498563449cf0ce35e472fb77fc13ff3b675f98ec4e2a62d712ad24418ef1633"
+    },
+    {
+      "path": "spatial-checks.json",
+      "bytes": 5099,
+      "sha256": "84d8f9000b817a00a82b9e742b2989bbdc48cb77af356f7e1013194af4e7f194"
+    },
+    {
+      "path": "walk-checks.json",
+      "bytes": 636,
+      "sha256": "f2013c69dc3b4fc565ca140f8406bdc337a7a8b83ef5ec01601adbad9b1c5240"
+    },
+    {
+      "path": "C01.png",
+      "bytes": 954491,
+      "sha256": "8859df59a9227bc7285b478b2bf03844cd18766d4cb38b3ade74cb8bd4f65ed8"
+    },
+    {
+      "path": "C02.png",
+      "bytes": 858434,
+      "sha256": "ea74aa32e217d479b22d0702967c525eb8f7394748758b40479f925952764310"
+    },
+    {
+      "path": "C03.png",
+      "bytes": 932227,
+      "sha256": "1c84e47601c698ba0b83e2b2b7ce021c02e670374025bdf18bcff5a031d04cee"
+    },
+    {
+      "path": "C04.png",
+      "bytes": 802010,
+      "sha256": "e186a2a7845e0b0b483e413cbd6a0eb8acc1d48c6a089e4507233b4a113e9618"
+    },
+    {
+      "path": "C05.png",
+      "bytes": 847396,
+      "sha256": "2050e7d1f9294cbdb349e9a2485c1c7257f0a008ee7102af15de627f5dbcc372"
+    },
+    {
+      "path": "C06.png",
+      "bytes": 886085,
+      "sha256": "92c6693f03b27e9b9bb41b236381066d35330d697768ea09779ff3ef4fd6cbcf"
+    },
+    {
+      "path": "C07.png",
+      "bytes": 957366,
+      "sha256": "a6c7e6c9870e35afe55bd84b6bf59e766a108810ea9f607199eebc3c74e0fcbb"
+    },
+    {
+      "path": "C08.png",
+      "bytes": 819651,
+      "sha256": "2715641b9799129e168fcf1d69e98309c4f6acc388a2f73a696629b65b8b265e"
+    }
+  ]
+}

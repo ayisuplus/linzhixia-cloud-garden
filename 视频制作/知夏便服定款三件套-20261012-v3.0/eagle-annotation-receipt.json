@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "MV4W3GFN4NHN9",
+      "success": true
+    },
+    {
+      "id": "MV4W3GFNAK12S",
+      "success": true
+    },
+    {
+      "id": "MV4W3GFNY8LYN",
+      "success": true
+    },
+    {
+      "id": "MV4W3GFNP7C0H",
+      "success": true
+    },
+    {
+      "id": "MV4W3GFN7LQ7T",
+      "success": true
+    },
+    {
+      "id": "MV4W3GFN2SOVI",
+      "success": true
+    },
+    {
+      "id": "MV4W3GFNTM1X9",
+      "success": true
+    },
+    {
+      "id": "MV4W3GFNYERUE",
+      "success": true
+    },
+    {
+      "id": "MV4W3GFNMIWL8",
+      "success": true
+    }
+  ],
+  "message": "Successfully updated 9/9 items",
+  "timestamp": "2026-10-12T06:54:46.702Z",
+  "totalItems": 9,
+  "successCount": 9,
+  "failureCount": 0,
+  "sharedParams": []
+}

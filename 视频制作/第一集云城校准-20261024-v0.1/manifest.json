@@ -1,0 +1,37 @@
+{
+  "files": {
+    "cloud-city-route-58s-v12.blend": {
+      "bytes": 6894347,
+      "sha256": "01b4f932e44a997cabeb065a9a13281415a36bf65539a33b148edf67cb5a3d12"
+    },
+    "cloud-city-flight-58s-v12.mp4": {
+      "bytes": 7344245,
+      "sha256": "34f802abd4e08b102fb1ca79fc73ef04234546dd6d9521b70d087f19d1a631d5"
+    },
+    "batch-A-00-30.mp4": {
+      "bytes": 3864339,
+      "sha256": "cd1ed663606e82532c5a46b04f81b30320ef6dfa7e37b4a7e14745dfd552734f"
+    },
+    "batch-B-28-58.mp4": {
+      "bytes": 3512159,
+      "sha256": "21266de0cc3656a24a1f145b7a01609e7f80ac64ebab90529f79f69700f3f6a7"
+    },
+    "route-poses.json": {
+      "bytes": 295921,
+      "sha256": "8b6ba8013d1f3ec547a9ddc56a0a66e481231ff4d002fb329fbef8b37cc75e2a"
+    },
+    "world-repair-data.json": {
+      "bytes": 33064,
+      "sha256": "a25743c82fc72181e939b6c42b5b10a891d56a75fef83cff374cbead871e3e52"
+    },
+    "audit.json": {
+      "bytes": 504862,
+      "sha256": "520053b5dca8d2730b70ff3862cbaa630ad61090efa7cbc948cd15d9324783e0"
+    },
+    "render-batching-probe.json": {
+      "bytes": 291,
+      "sha256": "7c14df329faa027736ab828c02a6355cb01c8ff57effc97db96fc7fca76056f3"
+    }
+  },
+  "source_v11_sha256": "078ea53ebb4272c6780dc52e8f942441a71b71eb1761014844c82aa8bc54037c"
+}

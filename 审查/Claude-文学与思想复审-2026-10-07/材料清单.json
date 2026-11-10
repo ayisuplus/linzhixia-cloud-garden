@@ -1,0 +1,102 @@
+{
+  "sourceCommit": "2ad38755b7651d2f46fbe92e4cf23a4550ff5075",
+  "files": [
+    {
+      "path": "世界观/世界观设定集-v0.25.md",
+      "sha256": "372c08d24adc4780ab2035d8fee65e0c3a65566f0f425f98fff9c033465f5d28",
+      "lines": 521,
+      "characters": 22035
+    },
+    {
+      "path": "世界观/多形态生命-边界规则-v0.2.md",
+      "sha256": "58c5f171056d71d8d33e695e51e7ee275c26c5e753bf0ef6755c38709c1dd076",
+      "lines": 55,
+      "characters": 2298
+    },
+    {
+      "path": "人物/人物-林知夏-人物小传-v0.5.md",
+      "sha256": "366ec8841e4c5501b7f7a66da1f29a1875272a9b3659ce24aaa1f744c8c5da27",
+      "lines": 175,
+      "characters": 3604
+    },
+    {
+      "path": "人物/人物-汤圆-搭档小档案-v0.3.md",
+      "sha256": "9947f95e6bc7927311a631e7b68edaf41197d2a4cde0b00ac8bd462f25731925",
+      "lines": 153,
+      "characters": 3941
+    },
+    {
+      "path": "文明与精神/文明与精神-卷十三-修复记忆与主体性-v0.1.md",
+      "sha256": "c57d07356a9a4776d3d3518cadae279f0edfe6efa46b24bbad7d7e2e36108fcf",
+      "lines": 71,
+      "characters": 2738
+    },
+    {
+      "path": "文明与精神/文明与精神-卷十二-机器保障与自愿人时-v0.2.md",
+      "sha256": "538fe516d02bb36b511860a34ef98a6d383f91118173926c46ecbff69a750b79",
+      "lines": 96,
+      "characters": 3969
+    },
+    {
+      "path": "文明与精神/文明与精神-卷十-界线登台与潮汐台-v0.1.md",
+      "sha256": "1f3ad40fd3643e97a850dd406e6e854608ae1b43023debdaf4e8f2b667531fd2",
+      "lines": 379,
+      "characters": 14084
+    },
+    {
+      "path": "文明与精神/文明与精神-卷三-信仰仪式与精神生活-v0.2.md",
+      "sha256": "886d1fc590b7ac9731b752658181b2e8ef0869d96eefe89f1620329ed733be0e",
+      "lines": 169,
+      "characters": 4610
+    },
+    {
+      "path": "文明与精神/文明与精神-卷四-艺术音乐与审美-v0.1.md",
+      "sha256": "eb11ccd2cd17af046c70aac4bb90e96e762413b4128e259b628be0e4402e20cf",
+      "lines": 96,
+      "characters": 2092
+    },
+    {
+      "path": "文明与精神/文明与精神-卷二-历法节日与集会-v0.1.md",
+      "sha256": "d3df8a292347a198b46b9e66ac0a883eff896c8b748c36185da92433d1ce10e6",
+      "lines": 118,
+      "characters": 2390
+    },
+    {
+      "path": "世界观/物质基础-卷三-城市与建筑-长洲姑苏城-v0.2.md",
+      "sha256": "79f53f95166030a782daa6882554357a8af775f4a2e2470513bb6a94d6fd1761",
+      "lines": 143,
+      "characters": 2865
+    },
+    {
+      "path": "世界观/物质基础-卷七-日用品与器物-百物图-v0.1.md",
+      "sha256": "494d4251f7570e6ecdd3dae1ec889105333b391e6b0eea2ca06c56f2247fd989",
+      "lines": 132,
+      "characters": 2364
+    },
+    {
+      "path": "文明与精神/文明与精神-卷八-医疗与健康-v0.1.md",
+      "sha256": "12838e3048890beea7871de29033ca719365417e9cee382c90d5042ebe24a3f8",
+      "lines": 143,
+      "characters": 4656
+    },
+    {
+      "path": "文明与精神/文明与精神-卷十四-人时发行与流转-v0.1.md",
+      "sha256": "b19fb688560c2a6f98ac54a65a359027165d0ae66cd78b6b6fe805dc145fe04d",
+      "lines": 155,
+      "characters": 6287
+    },
+    {
+      "path": "文明与精神/文明与精神-卷十一-司法与修复-v0.2.md",
+      "sha256": "08faf6f550a08fa11947885ebf606c0401d7d0d625272a6b6fc4d3c8398961ed",
+      "lines": 92,
+      "characters": 4207
+    }
+  ],
+  "packetSha256": "24b0509a58adde690d78087a36061f2e0b5919069b7504c6e8c3528efa2c1747",
+  "packetCharacters": 97137,
+  "normalizedTextSha256": "be26b720016c5da86ff9e053b35c974039b1e8c666ba69df9f4c0e20595bcaa9",
+  "transmittedBytesSha256": "24b0509a58adde690d78087a36061f2e0b5919069b7504c6e8c3528efa2c1747",
+  "packetHashDefinition": "SHA-256 of exact stdin bytes, including CRLF; normalizedTextSha256 preserves the original LF-normalized text hash.",
+  "transmittedBytes": 238849,
+  "packetCharactersDefinition": "Unicode characters before platform newline translation."
+}

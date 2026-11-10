@@ -1,0 +1,20 @@
+{
+  "shotCount": 16,
+  "budgetSeconds": 90,
+  "allHtmlLinksExist": true,
+  "allManifestReferencesExist": true,
+  "all16AnchorsExist": true,
+  "imageSourceHashesMatch": {
+    "01-床头玉璧与回应光纹.png": "2368893a42bd3a556f0427acd8d9234ee03d7b24eba74c2e492100f5c4750d87",
+    "02-衣柜玉扣与等待亮弧.png": "dfa9dbed824fde0d2f8c1d42daa1072ad819e2c8c5f50172c8d56ea6644dc802",
+    "03-杯托玉芯与叶脉光.png": "e922eff6096c9e51db2b11c5e822aef5ea276202d1a3bc753f1f0ae567c70ac1"
+  },
+  "toonflowTextMatches": true,
+  "videoProduced": false,
+  "visualReview": "3张已目视，独立审查记录另见审查记录.md",
+  "limits": [
+    "旧图只作指定参考，未全量重画固定玉件",
+    "亮弧转向与听懂停的动画未制作",
+    "90秒未经配音测时"
+  ]
+}

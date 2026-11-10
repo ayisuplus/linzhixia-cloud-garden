@@ -1,0 +1,33 @@
+{
+  "files": {
+    "valley-masterplan-v10.blend": {
+      "bytes": 6077257,
+      "sha256": "85daea84928dd29e9f97ee752c534fa1fd33e284c308159f789f0fa9a91912a1"
+    },
+    "valley-route-58s-v10.blend": {
+      "bytes": 6240780,
+      "sha256": "f22b16e120012d70c6e44273a93be15c4dee84c1a0e0843b73ff03d63140691a"
+    },
+    "valley-flight-58s-v10.mp4": {
+      "bytes": 6733652,
+      "sha256": "7f33ecbe9ef6cf5eec136ddf1fcff732d6e05ed65533ac8f585f285af8df1809"
+    },
+    "batch-A-00-30.mp4": {
+      "bytes": 3267355,
+      "sha256": "0f64c4d762b205e05b36c5dc3e94c7a7b444f9e5ceccc016b91f555027a9b222"
+    },
+    "batch-B-28-58.mp4": {
+      "bytes": 3437784,
+      "sha256": "d1210818ac812b4145504c3dc6550bbd3ff4946c285f7280cbad4c232fd6c7e3"
+    },
+    "route-poses.json": {
+      "bytes": 295957,
+      "sha256": "26d80f81589e1d393baa759e0e3daf9d6fefc79d241513d9c124d3849e8593ba"
+    },
+    "landscape-data.json": {
+      "bytes": 58016,
+      "sha256": "d7e2c8b151964b5a43683e913f7e36cdbbad1dc18f5fc86aab77c56e503f6283"
+    }
+  },
+  "source_v09_sha256": "bac2f19f29aa4d97586bcbd39554bf8bb25686b591892ea5b7942811889e397d"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Main-cloud-stone",
+  "watertight": true,
+  "winding_consistent": true,
+  "volume_positive": true,
+  "vertices": 253986,
+  "faces": 507972,
+  "connected_components": 2,
+  "scope": "New rock mesh topology only; not final game topology or structural engineering.",
+  "components": [
+    {
+      "faces": 507948,
+      "volume_m3": 162033.4471623396,
+      "role": "main connected rock mass"
+    },
+    {
+      "faces": 24,
+      "volume_m3": 0.0008419506165561567,
+      "role": "tiny retained SDF remnant near grotto; reference only, clean before final game retopology"
+    }
+  ]
+}

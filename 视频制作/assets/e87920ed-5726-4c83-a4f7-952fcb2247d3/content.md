@@ -1,0 +1,16 @@
+当前状态（2026-10-11）：作者认可为可继续使用的初稿。未完成多视图、合景与动态一致性验证。下文保留生成时的检查记录和原始实际提示词，其中“待采用”为当时状态，现以本段为准。
+
+--- 生成时记录 ---
+便服06｜珊瑚红水青花卉｜2026-10-11｜候选待采用
+
+以作者认可的校服03为面容与画风主参考，以原对应服装为用途和结构参考。内置imagegen生成。
+便服06：珊瑚红短衫、水青单层裙，花卉领袖缘饰与局部折枝花。半束发、暖白便鞋。目视偏差：领口仍接近校服交叠结构，裙面花卉比提示词要求的淡暗纹更明显；姿态双手移到背后。
+
+完整实际提示词：
+Use case: identity-preserve. Make ONE full-body costume portrait of Lin Zhixia, one person, no collage, labels or text.
+IMAGE 1 is the APPROVED SCHOOL03 portrait: it is the authority for her face, facial proportions, friendly gentle expression, eye size, age around 15, youthful body proportions, Japanese healing stylized 3D game-CG rendering, natural delicate skin, premium lightweight cloth, and the successful integration of Chinese garment construction and refined textile patterns.
+IMAGE 2 is the previous outfit to REDESIGN. Its clothing type, functional role and practical details are the starting point, but match the exact recognizable face and rendering of IMAGE 1. Never average faces, never change eye size, never make her photorealistic, older, chibi or doll-like. No adult makeup. The approved school uniform is not to be copied onto this outfit.
+Use an eye-level full-body portrait with the same gentle pale warm studio background and light as IMAGE 1, head and feet fully visible, clean readable silhouette. She is a cheerful approachable student in a hopeful abundant future Chinese garden city. Express future craftsmanship through textiles and precise discreet functional details, no armor, neon or circuits.
+DAILY CASUAL OUTFIT: retain medium-long half-up hair as IMAGE 1. Redesign the previous pale ivory and green outfit into a fresh modern Chinese everyday ensemble with soft light coral-red top (#E9A09A), light watery jade skirt (#BFE4D8), warm ivory narrow facings and tiny soft gold details. Colors should be luminous and clear, not dark maroon, not washed-out gray, not saturated festive red/green.
+One complete light coral short-sleeved waist-length shirt, comfortable and modest with no bare midriff. A low open Chinese standing collar and subtle right-lapped asymmetrical front line; one or two very small functional cloth closures, no vest. Short sleeves with a gentle curved opening and narrow ivory facing. Integrate a graceful small flowering branch on one side of the lower shirt and a fine related floral vine along collar and sleeve edges; warm ivory petals and muted green leaves, delicate woven/embroidered detail with plenty of plain fabric. This casual outfit should not duplicate the school's crossover collar and skirt-door construction.
+A lightweight single-layer watery-jade A-line skirt ending around the knee, soft drape and two broad relaxed folds, no tulle layers or heavy ballgown volume. Only subtle tonal floral woven texture near one lower corner, keep the coral upper garment the main decorative focus. Warm ivory slim comfortable Mary Jane flats with a tiny coral tab, short ivory socks. No pearls, school badge or school backpack. Natural relaxed standing pose with an easy gentle smile; hands relaxed, no handkerchief. Full body, youthful lively elegance, same approved face and CG quality.

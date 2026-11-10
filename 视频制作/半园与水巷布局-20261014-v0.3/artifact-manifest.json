@@ -1,0 +1,68 @@
+{
+  "status": "proposal, not adopted",
+  "source": "original local Blender geometry",
+  "base_script": "第一季\\制作\\空间规划\\半园与水巷-v0.2\\build_layout.py",
+  "base_script_sha256": "212454e5ef597ab0fec867810839e7e5201e0258230790de4dd06aa7babac0dc",
+  "files": [
+    {
+      "file": "01_lane.png",
+      "bytes": 1641185,
+      "sha256": "140fbd8383691cece26fa67d75081cdeb9762dbeef50c92e0f893f82ab3094db"
+    },
+    {
+      "file": "02_entry.png",
+      "bytes": 1725690,
+      "sha256": "4944d021623b41fcdc8b8932b47a6e0204e4da9e6cf0780e11d8e01fcfa7e4d4"
+    },
+    {
+      "file": "03_workshop.png",
+      "bytes": 1719139,
+      "sha256": "8895e3a619fe4d50ac169ca0a5c111b1590c68c4ee74fe632cf9433be2da6e9f"
+    },
+    {
+      "file": "04_overview.png",
+      "bytes": 1761421,
+      "sha256": "3a15fc4240f1d1a26c1cd8a6d6f6fdc18b4415c41dd7fbb5980c01c4229c0a44"
+    },
+    {
+      "file": "05_plan.png",
+      "bytes": 1610394,
+      "sha256": "ba2c8be5cdf4d6262891ce08910fca7be4922be24b31b0033840656d37b8cd12"
+    },
+    {
+      "file": "banyuan-water-lane-v03.blend",
+      "bytes": 232200,
+      "sha256": "5dbffc72aceec20456c6a0d2e7b5521cab43fd819d9c9de6331ab0faaaa02364"
+    },
+    {
+      "file": "layout-data.json",
+      "bytes": 2817,
+      "sha256": "6b3bec332bcb674d06c0dbbe179d627fef7a52b7e9f0136bedfadb6e036352fa"
+    },
+    {
+      "file": "半园与水巷-动线机位图.png",
+      "bytes": 1128560,
+      "sha256": "f19d5b285da8852bd523f27df188ebf7c64e348fdcea6962a235fbd666fe227d"
+    },
+    {
+      "file": "半园与水巷-总览v0.3.png",
+      "bytes": 1247165,
+      "sha256": "8c661f4f46cccbff972aa76afb3421d57cd3c9fd3e69da6683762afdc0af09c5"
+    },
+    {
+      "file": "视角01-水巷望园门.png",
+      "bytes": 1114582,
+      "sha256": "ccf282a2d47bfc954c4be9394b075f42bf6633f8e321bb5a4e172d209312bbfd"
+    },
+    {
+      "file": "视角02-进门见池庭.png",
+      "bytes": 1193920,
+      "sha256": "df6ce8768a124171c8b5fd573b71faba12117081539cef27e444f714c8c259d3"
+    },
+    {
+      "file": "视角03-工坊望院外.png",
+      "bytes": 1181559,
+      "sha256": "f40b8cfa52c3f348e89b98f16d7a369f7b1484f518fd53ec56e269a78ce94743"
+    }
+  ]
+}

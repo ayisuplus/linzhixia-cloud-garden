@@ -1,0 +1,1530 @@
+{
+  "removed": [
+    "Rooted bamboo culm.065",
+    "Bamboo airy leaf crown.065",
+    "Rooted bamboo culm.066",
+    "Bamboo airy leaf crown.066",
+    "Rooted bamboo culm.067",
+    "Bamboo airy leaf crown.067",
+    "Rooted bamboo culm.068",
+    "Bamboo airy leaf crown.068",
+    "Rooted bamboo culm.069",
+    "Bamboo airy leaf crown.069",
+    "Rooted woodland understory.111",
+    "Rooted woodland understory.112",
+    "Rooted woodland understory.113",
+    "Rooted bamboo culm.070",
+    "Bamboo airy leaf crown.070",
+    "Rooted bamboo culm.071",
+    "Bamboo airy leaf crown.071",
+    "Rooted bamboo culm.072",
+    "Bamboo airy leaf crown.072",
+    "Rooted bamboo culm.073",
+    "Bamboo airy leaf crown.073",
+    "Rooted bamboo culm.074",
+    "Bamboo airy leaf crown.074",
+    "Rooted woodland understory.114",
+    "Rooted woodland understory.115",
+    "Rooted woodland understory.116",
+    "Rooted bamboo culm.075",
+    "Bamboo airy leaf crown.075",
+    "Rooted bamboo culm.076",
+    "Bamboo airy leaf crown.076",
+    "Rooted bamboo culm.077",
+    "Bamboo airy leaf crown.077",
+    "Rooted bamboo culm.078",
+    "Bamboo airy leaf crown.078",
+    "Rooted bamboo culm.079",
+    "Bamboo airy leaf crown.079",
+    "Rooted woodland understory.117",
+    "Rooted woodland understory.118",
+    "Rooted woodland understory.119",
+    "Rooted bamboo culm.080",
+    "Bamboo airy leaf crown.080",
+    "Rooted bamboo culm.081",
+    "Bamboo airy leaf crown.081",
+    "Rooted bamboo culm.082",
+    "Bamboo airy leaf crown.082",
+    "Rooted bamboo culm.083",
+    "Bamboo airy leaf crown.083",
+    "Rooted bamboo culm.084",
+    "Bamboo airy leaf crown.084",
+    "Rooted woodland understory.120",
+    "Rooted woodland understory.121",
+    "Rooted woodland understory.122",
+    "Rooted bamboo culm.085",
+    "Bamboo airy leaf crown.085",
+    "Rooted bamboo culm.086",
+    "Bamboo airy leaf crown.086",
+    "Rooted bamboo culm.087",
+    "Bamboo airy leaf crown.087",
+    "Rooted bamboo culm.088",
+    "Bamboo airy leaf crown.088",
+    "Rooted bamboo culm.089",
+    "Bamboo airy leaf crown.089",
+    "Rooted woodland understory.123",
+    "Rooted woodland understory.124",
+    "Rooted woodland understory.125",
+    "Rooted bamboo culm.100",
+    "Bamboo airy leaf crown.100",
+    "Rooted bamboo culm.101",
+    "Bamboo airy leaf crown.101",
+    "Rooted bamboo culm.102",
+    "Bamboo airy leaf crown.102",
+    "Rooted bamboo culm.103",
+    "Bamboo airy leaf crown.103",
+    "Rooted bamboo culm.104",
+    "Bamboo airy leaf crown.104",
+    "Rooted woodland understory.132",
+    "Rooted woodland understory.133",
+    "Rooted woodland understory.134",
+    "Rooted bamboo culm.105",
+    "Bamboo airy leaf crown.105",
+    "Rooted bamboo culm.106",
+    "Bamboo airy leaf crown.106",
+    "Rooted bamboo culm.107",
+    "Bamboo airy leaf crown.107",
+    "Rooted bamboo culm.108",
+    "Bamboo airy leaf crown.108",
+    "Rooted bamboo culm.109",
+    "Bamboo airy leaf crown.109",
+    "Rooted woodland understory.135",
+    "Rooted woodland understory.136",
+    "Rooted woodland understory.137",
+    "Rooted bamboo culm.110",
+    "Bamboo airy leaf crown.110",
+    "Rooted bamboo culm.111",
+    "Bamboo airy leaf crown.111",
+    "Rooted bamboo culm.112",
+    "Bamboo airy leaf crown.112",
+    "Rooted bamboo culm.113",
+    "Bamboo airy leaf crown.113",
+    "Rooted bamboo culm.114",
+    "Bamboo airy leaf crown.114",
+    "Rooted woodland understory.138",
+    "Rooted woodland understory.139",
+    "Rooted woodland understory.140",
+    "Rooted hillside pine.018",
+    "Pine lateral branch.072",
+    "Contour pine irregular crown.072",
+    "Pine lateral branch.073",
+    "Contour pine irregular crown.073",
+    "Pine lateral branch.074",
+    "Contour pine irregular crown.074",
+    "Pine lateral branch.075",
+    "Contour pine irregular crown.075",
+    "Rooted woodland understory.054",
+    "Rooted woodland understory.055",
+    "Rooted woodland understory.056",
+    "Rooted bamboo culm.025",
+    "Bamboo airy leaf crown.025",
+    "Rooted bamboo culm.026",
+    "Bamboo airy leaf crown.026",
+    "Rooted bamboo culm.027",
+    "Bamboo airy leaf crown.027",
+    "Rooted bamboo culm.028",
+    "Bamboo airy leaf crown.028",
+    "Rooted bamboo culm.029",
+    "Bamboo airy leaf crown.029",
+    "Rooted woodland understory.087",
+    "Rooted woodland understory.088",
+    "Rooted woodland understory.089"
+  ],
+  "features": [
+    {
+      "id": "Dorm departure perch",
+      "kind": "parcel interface proposal",
+      "xy": [
+        -235.90656256668373,
+        803.3226198982651
+      ],
+      "tray_top": 99.58
+    },
+    {
+      "id": "campus",
+      "kind": "public ink environment, private color dorm and actual outdoor parcel berth",
+      "boundary": "atmospheric visual transition only"
+    },
+    {
+      "id": "H1 shared lift",
+      "kind": "two stop candidate, static cabin lower; operation not animated",
+      "center": [
+        -17.66718470839556,
+        561.0429579804652
+      ],
+      "lower": 91.82188720703125,
+      "upper": 110.83650512695313
+    },
+    {
+      "id": "H2 shared lift",
+      "kind": "two stop candidate, static cabin lower; operation not animated",
+      "center": [
+        13.978593347934286,
+        369.84287055147956
+      ],
+      "lower": 77.77455444335938,
+      "upper": 82.13576049804688
+    },
+    {
+      "id": "H3 shared lift",
+      "kind": "two stop candidate, static cabin lower; operation not animated",
+      "center": [
+        44.30111634666522,
+        227.72475694957285
+      ],
+      "lower": 58.87898559570313,
+      "upper": 78.55205078125
+    },
+    {
+      "id": "bay-ferry",
+      "kind": "one physical docked public vehicle and two height landing, form candidate",
+      "center": [
+        42.20331240400628,
+        -131.64656635316055,
+        49.3
+      ],
+      "station": 0.635
+    },
+    {
+      "id": "Workshop arrival perch",
+      "kind": "parcel interface proposal",
+      "xy": [
+        331.4156859062367,
+        -614.7980023485222
+      ],
+      "tray_top": 23.0
+    },
+    {
+      "id": "Repair-workshop",
+      "kind": "retained two-bank identity with exterior use cues",
+      "center": [
+        311.64441580274547,
+        -608.3959262004187
+      ]
+    },
+    {
+      "id": "Zhixia-home",
+      "kind": "retained two-bank identity with exterior use cues",
+      "center": [
+        412.9788580277906,
+        -578.8324732121426
+      ]
+    },
+    {
+      "id": "cloud-root-garden",
+      "kind": "ecological form candidate, no species name or mechanism adopted",
+      "position": [
+        -79.58776608735027,
+        425.90370399300275,
+        97.5260009765625
+      ]
+    },
+    {
+      "id": "water-cycle-node",
+      "kind": "clean-water collection/drop/catch/return topology candidate, not flow simulation or sewage route"
+    }
+  ],
+  "walk_links": [
+    {
+      "name": "Dorm shipping jetty",
+      "points": [
+        [
+          -227.3284320104891,
+          806.0459626609772,
+          98.26
+        ],
+        [
+          -235.90591078386967,
+          803.320736451613,
+          98.26
+        ]
+      ],
+      "width": 3.4
+    },
+    {
+      "name": "Dorm door approach",
+      "points": [
+        [
+          -224.46927241936226,
+          806.9543713974319,
+          98.26
+        ],
+        [
+          -221.6101128282354,
+          807.8627801338868,
+          98.26
+        ],
+        [
+          -219.22747983562968,
+          808.6197874142657,
+          99.5
+        ]
+      ],
+      "width": 3
+    },
+    {
+      "name": "Practice hall shore access",
+      "points": [
+        [
+          -246.31088100499267,
+          707.4773355792659,
+          98.26
+        ],
+        [
+          -250.90165853142437,
+          705.4962344453483,
+          98.26
+        ]
+      ],
+      "width": 3
+    },
+    {
+      "name": "H1 lower access",
+      "points": [
+        [
+          -18.577999767087267,
+          570.9004635436826,
+          91.82188720703125
+        ],
+        [
+          -13.193839456132753,
+          566.4271182914198,
+          91.82188720703125
+        ],
+        [
+          -16.612753327505043,
+          562.312081482333,
+          91.82188720703125
+        ]
+      ],
+      "width": 2.5
+    },
+    {
+      "name": "H1 upper gallery",
+      "points": [
+        [
+          -20.416929179012627,
+          602.3308364116259,
+          110.83650512695313
+        ],
+        [
+          1.5042949441593265,
+          584.1179307416988,
+          110.83650512695313
+        ],
+        [
+          -16.612753327505043,
+          562.312081482333,
+          110.83650512695313
+        ]
+      ],
+      "width": 2.5
+    },
+    {
+      "name": "H2 lower access",
+      "points": [
+        [
+          -3.752726799898369,
+          394.43657474208624,
+          77.77455444335938
+        ],
+        [
+          7.508716162615734,
+          367.1706637468152,
+          77.77455444335938
+        ],
+        [
+          12.453550868537768,
+          369.2129932332372,
+          77.77455444335938
+        ]
+      ],
+      "width": 2.5
+    },
+    {
+      "name": "H2 upper gallery",
+      "points": [
+        [
+          -16.421658536666726,
+          364.86043285966514,
+          82.13576049804688
+        ],
+        [
+          -13.749451732002363,
+          358.39055567434656,
+          82.13576049804688
+        ],
+        [
+          12.453550868537768,
+          369.2129932332372,
+          82.13576049804688
+        ]
+      ],
+      "width": 2.5
+    },
+    {
+      "name": "H3 lower access",
+      "points": [
+        [
+          54.06603770582591,
+          229.35150550094994,
+          58.87898559570313
+        ],
+        [
+          49.996951301934104,
+          223.65567054568103,
+          58.87898559570313
+        ],
+        [
+          45.64370601469289,
+          226.76561515436978,
+          58.87898559570313
+        ]
+      ],
+      "width": 2.5
+    },
+    {
+      "name": "H3 upper gallery",
+      "points": [
+        [
+          88.18532251644264,
+          237.54445393310903,
+          78.55205078125
+        ],
+        [
+          68.71183758353186,
+          210.28581521860795,
+          78.55205078125
+        ],
+        [
+          45.64370601469289,
+          226.76561515436978,
+          78.55205078125
+        ]
+      ],
+      "width": 2.5
+    },
+    {
+      "name": "Ferry lower bank entry",
+      "points": [
+        [
+          48.49316826593625,
+          -106.339695483056,
+          40.26
+        ],
+        [
+          50.66672571215945,
+          -104.27193146654741,
+          40.26
+        ],
+        [
+          52.91273507325674,
+          -102.13524198282187,
+          41.02281494140625
+        ],
+        [
+          54.28932145586475,
+          -100.82565810569976,
+          41.02281494140625
+        ]
+      ],
+      "width": 3.2
+    },
+    {
+      "name": "Ferry upper landing",
+      "points": [
+        [
+          54.28932145586475,
+          -100.82565810569976,
+          49.3
+        ],
+        [
+          43.42153422474881,
+          -111.1644781882427,
+          49.3
+        ],
+        [
+          53.07109963512222,
+          -121.3077462706176,
+          49.3
+        ]
+      ],
+      "width": 3.5
+    },
+    {
+      "name": "Upper boarding bridge",
+      "points": [
+        [
+          53.07109963512222,
+          -121.3077462706176,
+          49.3
+        ],
+        [
+          45.101388998970535,
+          -128.88954766448242,
+          49.3
+        ]
+      ],
+      "width": 2.5
+    },
+    {
+      "name": "Workshop receiving porch",
+      "points": [
+        [
+          331.24853192665597,
+          -609.3005429764931,
+          21.505703125
+        ],
+        [
+          331.4156859062367,
+          -614.7980023485222,
+          21.68
+        ]
+      ],
+      "width": 3.2
+    },
+    {
+      "name": "Banyuan small front sitting terrace",
+      "points": [
+        [
+          394.7345508467632,
+          -585.7534428595621,
+          21.67
+        ],
+        [
+          394.9345718598436,
+          -589.7484386786246,
+          21.67
+        ]
+      ],
+      "width": 2.5
+    }
+  ],
+  "support_roots": [
+    {
+      "name": "Dorm shipping jetty side support 1",
+      "xy": [
+        -236.51151660817283,
+        805.2268428456975
+      ],
+      "bottom": 93.50658569335937,
+      "top": 98.11
+    },
+    {
+      "name": "Dorm shipping jetty side support 1",
+      "xy": [
+        -235.30030495956652,
+        801.4146300575285
+      ],
+      "bottom": 93.45101318359374,
+      "top": 98.11
+    },
+    {
+      "name": "Dorm jetty foot",
+      "xy": [
+        -237.91528055857987,
+        804.3611369074382
+      ],
+      "bottom": 93.37188110351562,
+      "top": 98.26
+    },
+    {
+      "name": "Dorm jetty foot",
+      "xy": [
+        -234.86551032804456,
+        805.3301062263232
+      ],
+      "bottom": 93.69262084960937,
+      "top": 98.26
+    },
+    {
+      "name": "Dorm jetty foot",
+      "xy": [
+        -236.9463112396948,
+        801.3113666769028
+      ],
+      "bottom": 93.35048828125,
+      "top": 98.26
+    },
+    {
+      "name": "Dorm jetty foot",
+      "xy": [
+        -233.8965410091595,
+        802.2803359957878
+      ],
+      "bottom": 93.65062866210937,
+      "top": 98.26
+    },
+    {
+      "name": "Dorm desk leg",
+      "xy": [
+        -216.63637841938052,
+        810.7021402783863
+      ],
+      "bottom": 97.9531494140625,
+      "top": 100.55
+    },
+    {
+      "name": "Dorm desk leg",
+      "xy": [
+        -215.9096514302167,
+        808.4148126054848
+      ],
+      "bottom": 97.9428955078125,
+      "top": 100.55
+    },
+    {
+      "name": "Dorm door approach side support 2",
+      "xy": [
+        -218.68243459375682,
+        806.9042916595896
+      ],
+      "bottom": 97.83129272460937,
+      "top": 99.35
+    },
+    {
+      "name": "Dorm door approach side support 2",
+      "xy": [
+        -219.77252507750254,
+        810.3352831689418
+      ],
+      "bottom": 97.84664306640624,
+      "top": 99.35
+    },
+    {
+      "name": "Practice hall slender frame",
+      "xy": [
+        -240.17337271467812,
+        721.0173131267479
+      ],
+      "bottom": 93.27657470703124,
+      "top": 105.76
+    },
+    {
+      "name": "Practice hall slender frame",
+      "xy": [
+        -249.3549277675415,
+        717.0551108589127
+      ],
+      "bottom": 97.20153198242187,
+      "top": 105.76
+    },
+    {
+      "name": "Practice hall slender frame",
+      "xy": [
+        -232.24896817900776,
+        702.6542030210212
+      ],
+      "bottom": 93.2767578125,
+      "top": 105.76
+    },
+    {
+      "name": "Practice hall slender frame",
+      "xy": [
+        -241.43052323187115,
+        698.692000753186
+      ],
+      "bottom": 97.44765625,
+      "top": 105.76
+    },
+    {
+      "name": "H1 lift frame",
+      "xy": [
+        -20.201971853222865,
+        560.8087483939445
+      ],
+      "bottom": 85.54476318359374,
+      "top": 113.83650512695313
+    },
+    {
+      "name": "H1 lift frame",
+      "xy": [
+        -17.90139429491628,
+        563.5777451252925
+      ],
+      "bottom": 86.61800537109374,
+      "top": 113.83650512695313
+    },
+    {
+      "name": "H1 lift frame",
+      "xy": [
+        -17.432975121874833,
+        558.5081708356379
+      ],
+      "bottom": 85.56881103515624,
+      "top": 113.83650512695313
+    },
+    {
+      "name": "H1 lift frame",
+      "xy": [
+        -15.132397563568247,
+        561.2771675669859
+      ],
+      "bottom": 86.65511474609374,
+      "top": 113.83650512695313
+    },
+    {
+      "name": "H1 lower access side support 0",
+      "xy": [
+        -19.5685262158026,
+        569.7082566176855
+      ],
+      "bottom": 87.813134765625,
+      "top": 91.67188720703125
+    },
+    {
+      "name": "H1 lower access side support 0",
+      "xy": [
+        -17.587473318371934,
+        572.0926704696797
+      ],
+      "bottom": 88.9671875,
+      "top": 91.67188720703125
+    },
+    {
+      "name": "H1 lower access side support 1",
+      "xy": [
+        -14.704786492996321,
+        566.0813740914782
+      ],
+      "bottom": 87.95687255859374,
+      "top": 91.67188720703125
+    },
+    {
+      "name": "H1 lower access side support 1",
+      "xy": [
+        -11.682892419269185,
+        566.7728624913614
+      ],
+      "bottom": 88.83114013671874,
+      "top": 91.67188720703125
+    },
+    {
+      "name": "H1 lower access side support 2",
+      "xy": [
+        -17.804960253502124,
+        563.3026079310483
+      ],
+      "bottom": 86.5716796875,
+      "top": 91.67188720703125
+    },
+    {
+      "name": "H1 lower access side support 2",
+      "xy": [
+        -15.420546401507963,
+        561.3215550336178
+      ],
+      "bottom": 86.60439453125,
+      "top": 91.67188720703125
+    },
+    {
+      "name": "H1 upper gallery side support 0",
+      "xy": [
+        -21.40745562772796,
+        601.1386294856288
+      ],
+      "bottom": 102.35808715820312,
+      "top": 110.68650512695312
+    },
+    {
+      "name": "H1 upper gallery side support 0",
+      "xy": [
+        -19.426402730297294,
+        603.523043337623
+      ],
+      "bottom": 105.39141235351562,
+      "top": 110.68650512695312
+    },
+    {
+      "name": "H1 upper gallery side support 1",
+      "xy": [
+        -0.03874897673396149,
+        583.9712492561791
+      ],
+      "bottom": 101.91961059570312,
+      "top": 110.68650512695312
+    },
+    {
+      "name": "H1 upper gallery side support 1",
+      "xy": [
+        3.0473388650526143,
+        584.2646122272185
+      ],
+      "bottom": 104.1576171875,
+      "top": 110.68650512695312
+    },
+    {
+      "name": "H1 upper gallery side support 2",
+      "xy": [
+        -17.804960253502113,
+        563.3026079310483
+      ],
+      "bottom": 86.5716796875,
+      "top": 110.68650512695312
+    },
+    {
+      "name": "H1 upper gallery side support 2",
+      "xy": [
+        -15.420546401507972,
+        561.3215550336178
+      ],
+      "bottom": 86.60439453125,
+      "top": 110.68650512695312
+    },
+    {
+      "name": "H2 lift frame",
+      "xy": [
+        14.955137160102502,
+        372.1936921489037
+      ],
+      "bottom": 69.09957275390624,
+      "top": 85.13576049804688
+    },
+    {
+      "name": "H2 lift frame",
+      "xy": [
+        11.627771750510114,
+        370.81941436364775
+      ],
+      "bottom": 69.63253173828124,
+      "top": 85.13576049804688
+    },
+    {
+      "name": "H2 lift frame",
+      "xy": [
+        16.329414945358458,
+        368.8663267393113
+      ],
+      "bottom": 68.5927978515625,
+      "top": 85.13576049804688
+    },
+    {
+      "name": "H2 lift frame",
+      "xy": [
+        13.00204953576607,
+        367.49204895405535
+      ],
+      "bottom": 69.08828125,
+      "top": 85.13576049804688
+    },
+    {
+      "name": "H2 lower access side support 0",
+      "xy": [
+        -5.185342462361762,
+        393.8448718067677
+      ],
+      "bottom": 73.6701904296875,
+      "top": 77.62455444335937
+    },
+    {
+      "name": "H2 lower access side support 0",
+      "xy": [
+        -2.3201111374349757,
+        395.0282776774048
+      ],
+      "bottom": 73.22139892578124,
+      "top": 77.62455444335937
+    },
+    {
+      "name": "H2 lower access side support 1",
+      "xy": [
+        6.204680695343086,
+        366.3328144166281
+      ],
+      "bottom": 69.69033203125,
+      "top": 77.62455444335937
+    },
+    {
+      "name": "H2 lower access side support 1",
+      "xy": [
+        8.812751629888382,
+        368.0085130770023
+      ],
+      "bottom": 69.7400146484375,
+      "top": 77.62455444335937
+    },
+    {
+      "name": "H2 lower access side support 2",
+      "xy": [
+        13.045253803856301,
+        367.78037757077385
+      ],
+      "bottom": 69.107568359375,
+      "top": 77.62455444335937
+    },
+    {
+      "name": "H2 lower access side support 2",
+      "xy": [
+        11.861847933219234,
+        370.6456088957006
+      ],
+      "bottom": 69.580712890625,
+      "top": 77.62455444335937
+    },
+    {
+      "name": "H2 upper gallery side support 0",
+      "xy": [
+        -17.85427419913012,
+        364.2687299243466
+      ],
+      "bottom": 73.4326416015625,
+      "top": 81.98576049804687
+    },
+    {
+      "name": "H2 upper gallery side support 0",
+      "xy": [
+        -14.989042874203331,
+        365.4521357949837
+      ],
+      "bottom": 72.3203369140625,
+      "top": 81.98576049804687
+    },
+    {
+      "name": "H2 upper gallery side support 1",
+      "xy": [
+        -13.518419464389595,
+        356.8578704192072
+      ],
+      "bottom": 70.1167236328125,
+      "top": 81.98576049804687
+    },
+    {
+      "name": "H2 upper gallery side support 1",
+      "xy": [
+        -13.980483999615132,
+        359.9232409294859
+      ],
+      "bottom": 70.79140625,
+      "top": 81.98576049804687
+    },
+    {
+      "name": "H2 upper gallery side support 2",
+      "xy": [
+        13.045253803856305,
+        367.78037757077385
+      ],
+      "bottom": 69.107568359375,
+      "top": 81.98576049804687
+    },
+    {
+      "name": "H2 upper gallery side support 2",
+      "xy": [
+        11.86184793321923,
+        370.6456088957006
+      ],
+      "bottom": 69.580712890625,
+      "top": 81.98576049804687
+    },
+    {
+      "name": "H3 lift frame",
+      "xy": [
+        43.882809576311125,
+        230.23573672764275
+      ],
+      "bottom": 53.54781494140625,
+      "top": 81.55205078125
+    },
+    {
+      "name": "H3 lift frame",
+      "xy": [
+        46.81209612473511,
+        228.14306371992697
+      ],
+      "bottom": 53.8568359375,
+      "top": 81.55205078125
+    },
+    {
+      "name": "H3 lift frame",
+      "xy": [
+        41.79013656859534,
+        227.30645017921873
+      ],
+      "bottom": 53.305810546875,
+      "top": 81.55205078125
+    },
+    {
+      "name": "H3 lift frame",
+      "xy": [
+        44.71942311701933,
+        225.21377717150295
+      ],
+      "bottom": 53.67183837890625,
+      "top": 81.55205078125
+    },
+    {
+      "name": "H3 lower access side support 0",
+      "xy": [
+        52.8048171085878,
+        230.25251749038313
+      ],
+      "bottom": 54.60885009765625,
+      "top": 58.72898559570313
+    },
+    {
+      "name": "H3 lower access side support 0",
+      "xy": [
+        55.32725830306403,
+        228.45049351151675
+      ],
+      "bottom": 55.13271484375,
+      "top": 58.72898559570313
+    },
+    {
+      "name": "H3 lower access side support 1",
+      "xy": [
+        49.54201772667983,
+        225.13740447662354
+      ],
+      "bottom": 54.369287109375,
+      "top": 58.72898559570313
+    },
+    {
+      "name": "H3 lower access side support 1",
+      "xy": [
+        50.45188487718838,
+        222.17393661473852
+      ],
+      "bottom": 54.84151611328125,
+      "top": 58.72898559570313
+    },
+    {
+      "name": "H3 lower access side support 2",
+      "xy": [
+        46.544718004126075,
+        228.02683575160788
+      ],
+      "bottom": 53.82406005859375,
+      "top": 58.72898559570313
+    },
+    {
+      "name": "H3 lower access side support 2",
+      "xy": [
+        44.7426940252597,
+        225.5043945571317
+      ],
+      "bottom": 53.666650390625,
+      "top": 58.72898559570313
+    },
+    {
+      "name": "H3 upper gallery side support 0",
+      "xy": [
+        86.92410191920453,
+        238.4454659225422
+      ],
+      "bottom": 67.21077880859374,
+      "top": 78.40205078125
+    },
+    {
+      "name": "H3 upper gallery side support 0",
+      "xy": [
+        89.44654311368075,
+        236.64344194367584
+      ],
+      "bottom": 69.9975830078125,
+      "top": 78.40205078125
+    },
+    {
+      "name": "H3 upper gallery side support 1",
+      "xy": [
+        68.33114130323617,
+        211.78833654696538
+      ],
+      "bottom": 65.90426025390624,
+      "top": 78.40205078125
+    },
+    {
+      "name": "H3 upper gallery side support 1",
+      "xy": [
+        69.09253386382755,
+        208.78329389025052
+      ],
+      "bottom": 67.67000732421874,
+      "top": 78.40205078125
+    },
+    {
+      "name": "H3 upper gallery side support 2",
+      "xy": [
+        46.544718004126075,
+        228.0268357516079
+      ],
+      "bottom": 53.82406005859375,
+      "top": 78.40205078125
+    },
+    {
+      "name": "H3 upper gallery side support 2",
+      "xy": [
+        44.7426940252597,
+        225.50439455713166
+      ],
+      "bottom": 53.666650390625,
+      "top": 78.40205078125
+    },
+    {
+      "name": "Ferry lower bank entry side support 2",
+      "xy": [
+        54.22231895037885,
+        -103.51182836542988
+      ],
+      "bottom": 40.02095947265625,
+      "top": 40.872814941406254
+    },
+    {
+      "name": "Ferry lower bank entry side support 2",
+      "xy": [
+        51.60315119613463,
+        -100.75865560021386
+      ],
+      "bottom": 39.973779296875,
+      "top": 40.872814941406254
+    },
+    {
+      "name": "Ferry lower bank entry side support 3",
+      "xy": [
+        52.97973757874264,
+        -99.44907172309175
+      ],
+      "bottom": 40.074609375,
+      "top": 40.872814941406254
+    },
+    {
+      "name": "Ferry upper landing side support 0",
+      "xy": [
+        52.876349377917215,
+        -99.34039385078059
+      ],
+      "bottom": 40.07283935546875,
+      "top": 49.15
+    },
+    {
+      "name": "Ferry upper landing side support 0",
+      "xy": [
+        55.70229353381229,
+        -102.31092236061893
+      ],
+      "bottom": 40.25289306640625,
+      "top": 49.15
+    },
+    {
+      "name": "Ferry upper landing side support 1",
+      "xy": [
+        41.37515063554647,
+        -111.04276456598393
+      ],
+      "bottom": 35.90889892578125,
+      "top": 49.15
+    },
+    {
+      "name": "Ferry upper landing side support 1",
+      "xy": [
+        45.46791781395115,
+        -111.28619181050146
+      ],
+      "bottom": 38.51741943359375,
+      "top": 49.15
+    },
+    {
+      "name": "Ferry upper landing side support 2",
+      "xy": [
+        51.585835380203044,
+        -122.72071834856513
+      ],
+      "bottom": 36.1250244140625,
+      "top": 49.15
+    },
+    {
+      "name": "Ferry upper landing side support 2",
+      "xy": [
+        54.5563638900414,
+        -119.89477419267007
+      ],
+      "bottom": 39.66390380859375,
+      "top": 49.15
+    },
+    {
+      "name": "Public lift frame",
+      "xy": [
+        51.46177381404357,
+        -100.75512915255672
+      ],
+      "bottom": 39.96834716796875,
+      "top": 52.0
+    },
+    {
+      "name": "Public lift frame",
+      "xy": [
+        54.35985040900782,
+        -97.99811046387859
+      ],
+      "bottom": 40.18221435546875,
+      "top": 52.0
+    },
+    {
+      "name": "Public lift frame",
+      "xy": [
+        54.21879250272168,
+        -103.65320574752096
+      ],
+      "bottom": 40.010888671875,
+      "top": 52.0
+    },
+    {
+      "name": "Public lift frame",
+      "xy": [
+        57.116869097685935,
+        -100.89618705884283
+      ],
+      "bottom": 40.42281494140625,
+      "top": 52.0
+    },
+    {
+      "name": "Workshop bench leg",
+      "xy": [
+        327.97639302987164,
+        -600.3958752656714
+      ],
+      "bottom": 21.1,
+      "top": 22.5
+    },
+    {
+      "name": "Workshop bench leg",
+      "xy": [
+        328.06756792782477,
+        -603.3944894685964
+      ],
+      "bottom": 21.1,
+      "top": 22.5
+    }
+  ],
+  "terrain": {
+    "changed_vertex_count": 16175,
+    "removed_outer_face_count": 9112,
+    "scope": "outer s .155-.415 q>80 plus uninhabited left s .23-.34 q>58; no housing bench moved"
+  },
+  "plant_groups_pruned_for_access": 10,
+  "route": {
+    "duration": 58,
+    "frames": 1392,
+    "changed_frame_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      1302,
+      1303,
+      1304,
+      1305,
+      1306,
+      1307,
+      1308,
+      1309,
+      1310,
+      1311,
+      1312,
+      1313,
+      1314,
+      1315,
+      1316,
+      1317,
+      1318,
+      1319,
+      1320,
+      1321,
+      1322,
+      1323,
+      1324,
+      1325,
+      1326,
+      1327,
+      1328,
+      1329,
+      1330,
+      1331,
+      1332,
+      1333,
+      1334,
+      1335,
+      1336,
+      1337,
+      1338,
+      1339,
+      1340,
+      1341,
+      1342,
+      1343,
+      1344,
+      1345,
+      1346,
+      1347,
+      1348,
+      1349,
+      1350,
+      1351,
+      1352,
+      1353,
+      1354,
+      1355,
+      1356,
+      1357,
+      1358,
+      1359,
+      1360,
+      1361,
+      1362,
+      1363,
+      1364,
+      1365,
+      1366,
+      1367,
+      1368,
+      1369,
+      1370,
+      1371,
+      1372,
+      1373,
+      1374,
+      1375,
+      1376,
+      1377,
+      1378,
+      1379,
+      1380,
+      1381,
+      1382,
+      1383,
+      1384,
+      1385,
+      1386,
+      1387,
+      1388,
+      1389,
+      1390,
+      1391,
+      1392
+    ],
+    "source_poses_sha256": "26d80f81589e1d393baa759e0e3daf9d6fefc79d241513d9c124d3849e8593ba",
+    "scope": "school outside arcade, last arrival beside workshop; middle route retained"
+  },
+  "source_sha256": "078ea53ebb4272c6780dc52e8f942441a71b71eb1761014844c82aa8bc54037c",
+  "material_copies": [
+    "Whitebox / terrain",
+    "Integrated terrain retaining rock and leaf palette",
+    "Retained CITY05 palette / leaf",
+    "Retained CITY05 palette / water",
+    "Whitebox / road",
+    "Retained CITY05 palette / wood",
+    "Retained CITY05 palette / stone",
+    "Retained CITY05 palette / wall",
+    "Retained CITY05 palette / roof",
+    "Retained CITY05 palette / window",
+    "Retained CITY05 palette / redwood",
+    "Retained CITY05 palette / pine",
+    "Whitebox / rock",
+    "Retained CITY05 palette / gold",
+    "Shared lift lightly glazed sides",
+    "Whitebox / cloudwhite"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tool": "image_gen.imagegen",
+  "mode": "built-in",
+  "calls": 1,
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-7aa71b03-1623-4c8e-a487-0d6869913683.png",
+  "file": "起居室-夜海观星01.png",
+  "sha256": "8b6b63e52dd5e3c8db1da29e156df83a90a061b707637da66e948c417a4a0e19",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "reference": "视频制作/半园空间概念-20261014-v0.1/半园-云上园居-两岸分设概念01.png",
+  "status": "candidate, not adopted",
+  "review": "Virtual sea and real courtyard are both legible; tray levitation unclear. No voice, transformation, dressing or geometric validation."
+}

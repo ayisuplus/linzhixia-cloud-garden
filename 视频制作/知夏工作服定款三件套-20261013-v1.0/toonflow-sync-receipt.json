@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-13",
+  "target": {
+    "connectionId": "f617bd89-16e6-4e7b-8725-4b5116956896",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "人物设计.json"
+  },
+  "nodes": [
+    {
+      "id": "8bd44390-9d38-4568-b5a9-ff0301cf98b3",
+      "label": "四视图",
+      "path": "知夏工作服定款三件套-20261013-v1.0/知夏-工作服四视图-v1.0.png"
+    },
+    {
+      "id": "d8ac3a1d-a91b-4d3b-ae00-6ded8acb1c4a",
+      "label": "穿搭分解",
+      "path": "知夏工作服定款三件套-20261013-v1.0/知夏-工作服穿搭分解-v1.0.png"
+    },
+    {
+      "id": "4da1e719-3df4-44cf-b3fc-468c83b59f1b",
+      "label": "妆造分解",
+      "path": "知夏工作服定款三件套-20261013-v1.0/知夏-工作服妆造分解-v1.0.png"
+    },
+    {
+      "id": "fc51832a-7538-4b03-8157-0f3eedbdb1ae",
+      "label": "正面半身",
+      "path": "知夏工作服定款三件套-20261013-v1.0/四视图独立图/01_front-half.png"
+    },
+    {
+      "id": "3d0b1824-af34-46ff-bba2-1d8d8a42b8d2",
+      "label": "左向侧面",
+      "path": "知夏工作服定款三件套-20261013-v1.0/四视图独立图/02_facing-left.png"
+    },
+    {
+      "id": "af8561c3-53da-4c80-9bd9-30107bc4d5ae",
+      "label": "背面",
+      "path": "知夏工作服定款三件套-20261013-v1.0/四视图独立图/03_back.png"
+    },
+    {
+      "id": "ce2e0579-e782-4f4f-b260-1382ca121059",
+      "label": "右向侧面",
+      "path": "知夏工作服定款三件套-20261013-v1.0/四视图独立图/04_facing-right.png"
+    }
+  ],
+  "textNode": "72efab9b-87a5-497e-9d19-37b4442c0548",
+  "reopened": true,
+  "readback": {
+    "details": {
+      "canvasId": "人物设计.json",
+      "nodes": [
+        {
+          "id": "8bd44390-9d38-4568-b5a9-ff0301cf98b3",
+          "label": "知夏｜工作服定款16｜四视图 v1.0",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏工作服定款三件套-20261013-v1.0/知夏-工作服四视图-v1.0.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        },
+        {
+          "id": "d8ac3a1d-a91b-4d3b-ae00-6ded8acb1c4a",
+          "label": "知夏｜工作服定款16｜穿搭分解 v1.0",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏工作服定款三件套-20261013-v1.0/知夏-工作服穿搭分解-v1.0.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        },
+        {
+          "id": "4da1e719-3df4-44cf-b3fc-468c83b59f1b",
+          "label": "知夏｜工作服定款16｜妆造分解 v1.0",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏工作服定款三件套-20261013-v1.0/知夏-工作服妆造分解-v1.0.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        },
+        {
+          "id": "fc51832a-7538-4b03-8157-0f3eedbdb1ae",
+          "label": "知夏｜工作服定款16｜正面半身 v1.0",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏工作服定款三件套-20261013-v1.0/四视图独立图/01_front-half.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        },
+        {
+          "id": "3d0b1824-af34-46ff-bba2-1d8d8a42b8d2",
+          "label": "知夏｜工作服定款16｜左向侧面 v1.0",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏工作服定款三件套-20261013-v1.0/四视图独立图/02_facing-left.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        },
+        {
+          "id": "af8561c3-53da-4c80-9bd9-30107bc4d5ae",
+          "label": "知夏｜工作服定款16｜背面 v1.0",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏工作服定款三件套-20261013-v1.0/四视图独立图/03_back.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        },
+        {
+          "id": "ce2e0579-e782-4f4f-b260-1382ca121059",
+          "label": "知夏｜工作服定款16｜右向侧面 v1.0",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏工作服定款三件套-20261013-v1.0/四视图独立图/04_facing-right.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        }
+      ],
+      "hasMore": false,
+      "nextCursor": null
+    }
+  },
+  "textReadbackMatches": true
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-16",
+  "tool": "image_gen.imagegen",
+  "calls": 1,
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-7ae04908-5cba-4fc4-b445-ac6c6dbda313.png",
+  "output": "E01-A-K03-SIT-坐稳没醒透01.png",
+  "reference": "视频制作/第一幕晨起-汤圆眼神修订-20261015-v0.1/03-K02-STOP-侧眼埋怨.png",
+  "size": [
+    1672,
+    941
+  ],
+  "sha256": "373f3826c17876d665a304baa1fab58749205f03a986c1a4aabe46e718dc1487",
+  "status": "候选待审",
+  "prompt": "prompt.txt",
+  "toonflow": "工具不可用，未同步，未直接写画布"
+}

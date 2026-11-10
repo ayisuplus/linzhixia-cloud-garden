@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-10",
+  "upstream": {
+    "repo": "https://github.com/wuwangzhang1216/DirectorSKILL",
+    "commit": "c65ae0d14457053efb1e354c7e7f7e120d97fad1",
+    "license": "MIT",
+    "localChanges": [
+      "SKILL.md entrypoint links LOCAL_ADAPTATION.md",
+      "LOCAL_ADAPTATION.md",
+      "agents/openai.yaml"
+    ]
+  },
+  "skills": [
+    {
+      "name": "cinematic-director",
+      "installedPath": "C:\\Users\\36322\\.codex\\skills\\cinematic-director",
+      "files": [
+        {
+          "path": ".github/workflows/evals.yml",
+          "sha256": "15AB139A75AAC7DB3C4C2E18ECA430BC08F8B48CB3D83B0589E4B71DF944696F"
+        },
+        {
+          "path": ".github/workflows/links.yml",
+          "sha256": "D30DF50DD3A4C1B026A9C4CDC5CFDB327B68FF64A8511D1212B89D00953F8B32"
+        },
+        {
+          "path": ".github/workflows/markdownlint.yml",
+          "sha256": "81407C7D78784B7BE6B6FC40BEBA351F26AC944B78C3D421BE53433A33DDA211"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "4CD32F2352680F1E437937E10DD2A8D5EB4602EE09AEC96CAB13470E1FFFEF68"
+        },
+        {
+          "path": ".markdownlint.json",
+          "sha256": "5DA0463240B2AA83142A85213B4851007B70FB8F8F5E2B9529C8D81141C4962D"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "F01DCE6E34EEFD5CE691DFCF52A781AB92E88230652412BD02E5CE0124333151"
+        },
+        {
+          "path": "assets/beat-sheet-template.md",
+          "sha256": "E53E846E9F43CDC80CF261BDE4978001628D6383A6D4BD702762F88131E04BDA"
+        },
+        {
+          "path": "assets/director-book-template.md",
+          "sha256": "D6F0901207A822220FE87A7CA2FEEEA0DDEAF142A168A03704456E69B0AD68B0"
+        },
+        {
+          "path": "assets/edit-timeline-template.md",
+          "sha256": "B6A6AD673094A419ADA6AFB9D8E613B4D2C8538CFACE5CB17031BC7B408FC5EE"
+        },
+        {
+          "path": "assets/keyframe-prompt-template.md",
+          "sha256": "9D9F4463E87551C29268E6179890291CE90BBD1ADB6CC2C48E62116DF90FA527"
+        },
+        {
+          "path": "assets/qc-checklist.md",
+          "sha256": "CA10D9BD57A253D555B18A5CA4F1E29E7FF944434ADB1E74B45FA4DFFE2F4A11"
+        },
+        {
+          "path": "assets/shot-plan-template.md",
+          "sha256": "74AAD412013E13FF0B3FF05880F55F74AADF009A080188A7ADC91B4B3FF87688"
+        },
+        {
+          "path": "assets/sound-plan-template.md",
+          "sha256": "F8A4064CC2817AABA3E49027E6C93552693B773FFCE2AB4058223F8745CC42D6"
+        },
+        {
+          "path": "assets/video-prompt-template.md",
+          "sha256": "0F70494E620E9AD72355799421FF53B02B8E347EB1FB10A80A008BBA9BB4473B"
+        },
+        {
+          "path": "CHANGELOG.md",
+          "sha256": "EBCBAF9BB45908127B0C3BD71873B90BC42E356293B2B32EDD72B79EBC431401"
+        },
+        {
+          "path": "CONTRIBUTING.md",
+          "sha256": "B457E8094B71F8619685073032B38DCB342A5DF4D3439F1F20440B9F71A9D1AD"
+        },
+        {
+          "path": "evals/evals.json",
+          "sha256": "DF30EC8C85FDAFFF8E66E8025D42E6EC25892C95276738B4763DFA991F914562"
+        },
+        {
+          "path": "evals/run.md",
+          "sha256": "27F46FDBEFAB8EB7B21991D6D8EF7D5AFA6CAC7A5B980693276D7E8462C7CA1A"
+        },
+        {
+          "path": "LICENSE",
+          "sha256": "DF731EA2E1FFD3B8890AD246DA3DF96CEBA3301C16FB4970C16811DF4C728B56"
+        },
+        {
+          "path": "LOCAL_ADAPTATION.md",
+          "sha256": "489F93D6C77895F8A0300F9321F4311BE6077FBF84D01CA3C22BC1D5C6AB11ED"
+        },
+        {
+          "path": "README.md",
+          "sha256": "DE61800434C2FF91CB5AFF1B86D35D542B70D3B64716ECB09C1FA8322B9C1FD9"
+        },
+        {
+          "path": "references/ai-video-tool-adapters.md",
+          "sha256": "4FEC32BD0DBE95A87AF84F6319C428AF1F58F0E266E42F907E2DFC51EDBE7334"
+        },
+        {
+          "path": "references/blocking-and-staging.md",
+          "sha256": "16203DD654D61459DF6EABB7754D5B450A17774AD18484F27A1C05E73D392402"
+        },
+        {
+          "path": "references/cinematic-language.md",
+          "sha256": "2E899733FDEFB12D316FAEEAED1A5DC466DEA55EF3818B28E7CEC13D7A501933"
+        },
+        {
+          "path": "references/continuity-bible.md",
+          "sha256": "92AAD85488AEE0FCAD6D432CE29F66286D66245BB2A17499A325AFB356C74826"
+        },
+        {
+          "path": "references/director_styles/01_spielberg.md",
+          "sha256": "C1D8DB44AE145E3A5BC1791967AFB2D02A9F838AE5691DBBE47D006B754D7783"
+        },
+        {
+          "path": "references/director_styles/02_hitchcock.md",
+          "sha256": "FCD7952D7C1970ED9B477D1D8AC3C03B3C3C956D4FC057DFB2A061A8A180B4A8"
+        },
+        {
+          "path": "references/director_styles/03_kubrick.md",
+          "sha256": "FB63F95A6E0467CAC92C7A876BF5D371D844AC60BEE160280CBF94F895F32117"
+        },
+        {
+          "path": "references/director_styles/04_kurosawa.md",
+          "sha256": "492E644362F4942616F28AE51C330A82C0116094A20A0BCF7C54378009A8E2AC"
+        },
+        {
+          "path": "references/director_styles/05_scorsese.md",
+          "sha256": "CF1449787769CD918B6B8438A66A61979211005039FFBA24C48EC4AB1969C942"
+        },
+        {
+          "path": "references/director_styles/06_fellini.md",
+          "sha256": "6F6FE403C2DA97E8BDA4C6C2429F5F9418E9F04DA74D91F201DF6B5B3FD74211"
+        },
+        {
+          "path": "references/director_styles/07_bergman.md",
+          "sha256": "E277116732258C3557EBA5C040ADE8B71646FA5C23B704355017F4688BB6FD00"
+        },
+        {
+          "path": "references/director_styles/08_tarkovsky.md",
+          "sha256": "FE7E26E409AE727A859F07374D8A5F910E6A8A737695B0A6605DB8F24BD6D77D"
+        },
+        {
+          "path": "references/director_styles/09_wong_kar_wai.md",
+          "sha256": "C60E33B3D99CC1E52DC02D57E40F61FB008C5647AC2EAB30A51C45544711C57B"
+        },
+        {
+          "path": "references/director_styles/10_nolan.md",
+          "sha256": "EF506940F2447567427C819725351F6BAFC91E51C935C3BBDC6CACDF94F5A6DD"
+        },
+        {
+          "path": "references/director_styles/11_villeneuve.md",
+          "sha256": "8F825927D68091767CD901E293484BFE50646B778C1CAC8A8F77CCCCA198CA9C"
+        },
+        {
+          "path": "references/director_styles/12_fincher.md",
+          "sha256": "4CF9CCE055DD14088BA7CD01446B389AC62E327A7AEA7DAC2D345939526061B5"
+        },
+        {
+          "path": "references/director_styles/13_refn.md",
+          "sha256": "05DC74F79684CC9F1BB4EC760D69BA4498E1FCCA904FA504F58ACDE96442DE74"
+        },
+        {
+          "path": "references/director_styles/14_bi_gan.md",
+          "sha256": "47CA34530E8573FBE49818C0DCAF8553CE92BE37279C03AE388E92E6FAF6A82A"
+        },
+        {
+          "path": "references/director_styles/15_zhang_yimou.md",
+          "sha256": "9BC951BABBF3E51F8C2F0E129216578378536D17FAC42663596A8397B28505C3"
+        },
+        {
+          "path": "references/director_styles/16_hou_hsiao_hsien.md",
+          "sha256": "C336FAB4D549603BEAF47A01EC0DBDCB52BE99837D774425E50EC0350691F8B1"
+        },
+        {
+          "path": "references/director_styles/17_park_chan_wook.md",
+          "sha256": "8ADA598768C187EA8B057A1B5E1107045B567811487EEE73F64199507C1EFB7B"
+        },
+        {
+          "path": "references/director_styles/18_malick.md",
+          "sha256": "EE5C6786C58385772E99EB003430BD24EAFEA83DB19023619D63E47954AF1F95"
+        },
+        {
+          "path": "references/director_styles/19_michael_mann.md",
+          "sha256": "B34FD4C8B0CA4833818F4D3F6471777341C6B23481B6EFC6F69B4CFB0554CF79"
+        },
+        {
+          "path": "references/director_styles/20_coen_brothers.md",
+          "sha256": "4809D2861E696A54DF4B28F3ABE442311DC722B0A67F2F6E99DB19DD385D5A68"
+        },
+        {
+          "path": "references/director_styles/example_comparisons.md",
+          "sha256": "D13BD746F88418FDF259B25115B6CAB4D259BA31EF6D57F251FDEEADDEBC9504"
+        },
+        {
+          "path": "references/director_styles/README.md",
+          "sha256": "FCD5FC6193E0B86765BE168AF4CB43EE30BD1CB805CEB5BCC27241DBCD2D1798"
+        },
+        {
+          "path": "references/editing-and-assembly.md",
+          "sha256": "8256BB843E8D45BA66ABA927EDEF30CD586A0A32030E4A4639D26BE156E850DE"
+        },
+        {
+          "path": "references/failure-modes.md",
+          "sha256": "9A374E78AC8257ED8C91D7C247EBC2F1D27A3484B0C1486FEE7D77E554FB9BE7"
+        },
+        {
+          "path": "references/genre-playbooks.md",
+          "sha256": "5713431B20DCD6C4804D086385106ECCE9EF483210287DFDCEACC351077D33E1"
+        },
+        {
+          "path": "references/image-model-adapters.md",
+          "sha256": "307F429A66CE7AE2C4F4E7D6893E59B8017549DD12D944C2A1AEFD605B2F543A"
+        },
+        {
+          "path": "references/lighting-and-color.md",
+          "sha256": "FB34EDEA030BBB29B047FF7E489968DDED8978F1A3ACB768EDE230A1C106792B"
+        },
+        {
+          "path": "references/product-and-macro.md",
+          "sha256": "C6B791FE96DB082517C8E3D639269228CEE3AE68D55DDABABBB7B09D967CA350"
+        },
+        {
+          "path": "references/production-workflow.md",
+          "sha256": "3F5E431B23931AE636D6637C92B63BC084407A1B4A8B1625FB5E9C393BB97998"
+        },
+        {
+          "path": "references/prompt-lexicon.md",
+          "sha256": "8E2172F9255DBC9CE51B7F54AF9CB570283808A6AD4AA34FCF439C56C513138F"
+        },
+        {
+          "path": "references/sound-and-dialogue.md",
+          "sha256": "FCC99CACF1BC35CAF3DD5E9430A0F3C731B5B65868171CC488282559017D43DE"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "66FD79A93B90B7AB8606D5FE9025B91968CF7DEF0FFC8F7EAAB2049EAFA2B90F"
+        }
+      ]
+    },
+    {
+      "name": "linzhixia-production",
+      "installedPath": "C:\\Users\\36322\\.codex\\skills\\linzhixia-production",
+      "files": [
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "05A6BEAA06542A4FF4EEB150A2D4ABF1EBFF10B6D0FE666F8A34413424EC0E02"
+        },
+        {
+          "path": "references/deliverables.md",
+          "sha256": "E4B183669E401E28BC613448364BB4683DA4939154654D637109C5EDF8D1B1A9"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "22D6F7CBDF7A19953A81AE5429B3D5063CFE74A6EF8E1EAFD2A4720EBDD1AFC8"
+        }
+      ]
+    }
+  ]
+}

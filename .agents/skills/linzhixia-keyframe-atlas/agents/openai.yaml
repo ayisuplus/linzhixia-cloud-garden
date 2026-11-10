@@ -1,0 +1,4 @@
+interface:
+  display_name: "关键帧图册"
+  short_description: "整理林知夏项目关键帧母版、逐镜状态与连续性，生成可交接的视频制作图册"
+  default_prompt: "使用 $linzhixia-keyframe-atlas 整理当前场次的关键帧图册，明确图像用途、动作起止状态与缺口。"

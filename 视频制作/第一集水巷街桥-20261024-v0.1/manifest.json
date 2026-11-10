@@ -1,0 +1,33 @@
+{
+  "files": {
+    "waterlane-masterplan-v09.blend": {
+      "bytes": 5517556,
+      "sha256": "bac2f19f29aa4d97586bcbd39554bf8bb25686b591892ea5b7942811889e397d"
+    },
+    "waterlane-route-58s-v09.blend": {
+      "bytes": 5685310,
+      "sha256": "5b568af002f2cf0dee1718782925ef7e6a63961d45fc6ed3a6ed61dba680d2f9"
+    },
+    "waterlane-flight-58s-v09.mp4": {
+      "bytes": 5968338,
+      "sha256": "dc7772e1cf39f42bd70c264c5ec810463f617ea729d7334d4ef0040cdea268e0"
+    },
+    "batch-A-00-30.mp4": {
+      "bytes": 2534869,
+      "sha256": "85dcaa5088ddb76f41a03cd89a5703fdd637b5f13932a788b65b36396135144f"
+    },
+    "batch-B-28-58.mp4": {
+      "bytes": 3437795,
+      "sha256": "313f6f23c1b82240796050fc070db370ddb53a484280b893d1c8c2497fd0c6da"
+    },
+    "route-poses.json": {
+      "bytes": 295839,
+      "sha256": "a7f867a13ef1888c72b2540bb2ae385ad70d31538efad00acc27ae383279e7dc"
+    },
+    "design-data.json": {
+      "bytes": 70855,
+      "sha256": "176af6f92db67f2fcaff890a5b0f2d957d9de6ab3f8ff14188f0664e913876c8"
+    }
+  },
+  "source_v08_sha256": "c59a0b2db4093a17bdc11d8b4b9b6d4dbda0a41c348c358f3ca2af2fccce3206"
+}

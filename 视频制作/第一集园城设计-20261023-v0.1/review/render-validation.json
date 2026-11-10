@@ -1,0 +1,23 @@
+{
+  "source_sha256": "2b91285c9d2d7ae92ee24d3b5cfc41895c912cdefb602db6f7cb339f607e4815",
+  "renderer": "Blender 5.1 EEVEE",
+  "width": 640,
+  "height": 360,
+  "fps": 24,
+  "native_frames": 1392,
+  "duration_s": 58,
+  "png_decode_verified": 1392,
+  "full_video_decode_passed": true,
+  "batch_video_decode_passed": true,
+  "reused_frames": [
+    1,
+    1284
+  ],
+  "rerendered_frames": [
+    1285,
+    1392
+  ],
+  "reuse_pose_proof": "tail-final-check.json",
+  "reuse_scope": "Identical poses verified independently; same static design and render_preview.py parameters used. No retiming or frame interpolation.",
+  "review_scope": "6 paired design views, 18 keyframes and 0.5-second full sequence sheets; continuous real-time comfort remains author review"
+}

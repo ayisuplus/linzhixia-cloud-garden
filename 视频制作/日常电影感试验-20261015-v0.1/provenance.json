@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-15",
+  "tool": "built-in image_gen.imagegen",
+  "generationCalls": 4,
+  "primaryCandidates": 3,
+  "items": [
+    {
+      "id": "01",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-8914aac5-2b68-44fc-aefb-af10f7da5f4a.png",
+      "file": "01-清晨卧室-光影试验.png",
+      "references": [
+        "../知夏卧室-20261015-v0.2/卧室02合景-纵向侧卧候选03.png"
+      ],
+      "prompt": "prompt-01.txt",
+      "status": "edit_candidate",
+      "width": 1672,
+      "height": 941,
+      "sha256": "cfad9f9fccc569c3dd23f9a43f3f3fe641b46eab4e9bd87056706751e2f51f00",
+      "copyHashVerified": true
+    },
+    {
+      "id": "02a",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-4d449b9b-e8ea-43fd-ad2f-145614d3566a.png",
+      "file": "历史-02a-旧舞鞋-初稿.png",
+      "references": [
+        "../修复作坊室内-20261014-v0.1/修复作坊-室内全景01.png",
+        "../安清意现代练功服-20261014-v0.2/00-全身主图.png"
+      ],
+      "prompt": "prompt-02.txt",
+      "status": "historical_large_wear_and_corner_artifact",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6a51496aefdf7d75b785a7d061caeefb6f5cdecbe91201a892bd67543113739d",
+      "copyHashVerified": true
+    },
+    {
+      "id": "02b",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-7187d5ae-7120-419e-a09d-e8df1ea51232.png",
+      "file": "02-旧舞鞋-桌面近景试验.png",
+      "references": [
+        "历史-02a-旧舞鞋-初稿.png"
+      ],
+      "prompt": "prompt-02b.txt",
+      "status": "candidate_corner_artifact_unresolved",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c5ccc8691f378f9aa979f81ca7335c585cc87410d8c60e416ea515c4f93a3607",
+      "copyHashVerified": true
+    },
+    {
+      "id": "03",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-00a15682-f5be-45bd-a18e-a4cf99ad2622.png",
+      "file": "03-临水作坊-暮色借景试验.png",
+      "references": [
+        "../半园两岸核心空间-20261014-v0.1/作坊望半园-概念01.png"
+      ],
+      "prompt": "prompt-03.txt",
+      "status": "edit_time_of_day_candidate",
+      "width": 1672,
+      "height": 941,
+      "sha256": "993f10ee9b403d4942617b9557462f40ce926e1496640437dcfcb8bf1593b73e",
+      "copyHashVerified": true
+    }
+  ]
+}

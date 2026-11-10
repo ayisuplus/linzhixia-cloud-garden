@@ -1,0 +1,46 @@
+{
+  "garden-city-design-v01.blend": {
+    "bytes": 32969317,
+    "sha256": "a1100f3ea6b4c3f4b094d41fef04ee756f7e92047792ac9b49f1dc0b824aea54"
+  },
+  "garden-city-flight-58s-v03.blend": {
+    "bytes": 32964543,
+    "sha256": "2b91285c9d2d7ae92ee24d3b5cfc41895c912cdefb602db6f7cb339f607e4815"
+  },
+  "E01-C-FAST-B01-30s-v03.mp4": {
+    "bytes": 1739857,
+    "sha256": "a7a95ba5839438911100d957d83019ac8230f8780377dad1fa90d89674ba4fcd"
+  },
+  "E01-C-FAST-B02-30s-v03.mp4": {
+    "bytes": 1935322,
+    "sha256": "55e1603b83a33b2d1d8a9a97164257f21bababe5e0c51b99d7a009da9a5b535b"
+  },
+  "garden-city-flight-58s-v03.mp4": {
+    "bytes": 3605257,
+    "sha256": "26b20b9cb889e32ad83aa6f00e31513173e76f647d65b3baa62a3274896cebdb"
+  },
+  "views\\01-school-compare.jpg": {
+    "bytes": 175365,
+    "sha256": "a9dd08073fb1419cff7f66439d487ad440b439bffae48f8bd99ac94056b85d1d"
+  },
+  "views\\02-upper-compare.jpg": {
+    "bytes": 149137,
+    "sha256": "40524145a545aca51a59b5e7fe7bd0d4d193bb2f8f131a39448aa4957b2934ed"
+  },
+  "views\\03-middle-compare.jpg": {
+    "bytes": 163852,
+    "sha256": "94037644e2441a7d98cbd3bb79aa531f2915ed48b29130eb5952071d18c1b0b7"
+  },
+  "views\\04-lower-compare.jpg": {
+    "bytes": 130306,
+    "sha256": "47a8c8ca3b2a693498918566a506ee13fb5f777dfed410e987239d2d3252f2de"
+  },
+  "views\\05-moon-compare.jpg": {
+    "bytes": 131177,
+    "sha256": "08a112213e30918bf2b3d4b177806c256ff7bbca4e23c0494d40370af2a9c248"
+  },
+  "views\\06-canal-compare.jpg": {
+    "bytes": 159436,
+    "sha256": "0971aad10559e5d83a7f0bdb0f27119114d73fd6e6a7199624740cfed8d12774"
+  }
+}

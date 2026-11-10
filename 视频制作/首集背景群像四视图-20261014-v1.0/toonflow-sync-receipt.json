@@ -1,0 +1,433 @@
+{
+  "date": "2026-10-14",
+  "target": {
+    "connectionId": "f617bd89-16e6-4e7b-8725-4b5116956896",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "人物设计.json"
+  },
+  "canvas": {
+    "beforeCount": 46,
+    "afterCount": 77,
+    "added": 31,
+    "reopened": true,
+    "nodes": [
+      {
+        "nodeId": "ab4e0309-999c-4c49-bb96-e8412c7d1c82",
+        "label": "EP01-BG-001｜学院女生·四视图",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/01-学院女生/01-四视图.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "57e42b34-ceb7-4019-8d10-6ec14c06dd37",
+        "label": "EP01-BG-001｜学院女生·正面半身",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/01_front-half.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "3697fbad-7372-4fab-b73e-3164d999c0b1",
+        "label": "EP01-BG-001｜学院女生·左向侧面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/02_facing-left.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "13f8e6ab-e39e-4cbb-ba3d-5c060fcf9b71",
+        "label": "EP01-BG-001｜学院女生·背面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/03_back.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "64bb16a2-3f77-49a2-a24c-9d777d9db3bd",
+        "label": "EP01-BG-001｜学院女生·右向侧面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/04_facing-right.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "dc9749b4-6987-4980-a278-e2ac03dce5bd",
+        "label": "EP01-BG-001｜学院女生·提示词与来源",
+        "type": "remote-textNode",
+        "path": "assets/dc9749b4-6987-4980-a278-e2ac03dce5bd/content.md",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "dd65e2f7-4139-4019-b6ad-f359b9252692",
+        "label": "EP01-BG-002｜学院男生·四视图",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/02-学院男生/01-四视图.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "3dae4f2c-73e2-47a1-911e-38c35ea4efcf",
+        "label": "EP01-BG-002｜学院男生·正面半身",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/01_front-half.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "4d351ea3-593c-44ef-90c0-e92a2a1995e7",
+        "label": "EP01-BG-002｜学院男生·左向侧面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/02_facing-left.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "c4fc7fc1-12b1-4025-a50c-d33f36ac6ed0",
+        "label": "EP01-BG-002｜学院男生·背面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/03_back.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "4ff80b20-02ca-4694-b135-09f3da141712",
+        "label": "EP01-BG-002｜学院男生·右向侧面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/04_facing-right.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "f953618a-9a77-4f88-b3c5-27d1f11d83da",
+        "label": "EP01-BG-002｜学院男生·提示词与来源",
+        "type": "remote-textNode",
+        "path": "assets/f953618a-9a77-4f88-b3c5-27d1f11d83da/content.md",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "8d78ee5b-ebb7-4488-a03b-77c05d9724ff",
+        "label": "EP01-BG-003｜生活园女居民·四视图",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/01-四视图.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "7d7ccca1-7bc3-4e94-9450-5df663bda4bc",
+        "label": "EP01-BG-003｜生活园女居民·正面半身",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/01_front-half.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "68f0b840-46f5-4573-8ca5-1285b91443bf",
+        "label": "EP01-BG-003｜生活园女居民·左向侧面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/02_facing-left.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "f1da913d-bd81-4953-bede-289519019ca0",
+        "label": "EP01-BG-003｜生活园女居民·背面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/03_back.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "3cb7cd23-94dc-4f82-a5f0-60aa7790ba1d",
+        "label": "EP01-BG-003｜生活园女居民·右向侧面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/04_facing-right.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "1a379660-80ad-48c5-b53a-d10001f5dab7",
+        "label": "EP01-BG-003｜生活园女居民·提示词与来源",
+        "type": "remote-textNode",
+        "path": "assets/1a379660-80ad-48c5-b53a-d10001f5dab7/content.md",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "c7040dad-e288-4af4-836e-9a98986b80b6",
+        "label": "EP01-BG-004｜手艺园男活动者·四视图",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/01-四视图.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "98e515ad-ac23-4311-a72f-59d2b7a28c9a",
+        "label": "EP01-BG-004｜手艺园男活动者·正面半身",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/01_front-half.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "dda1db59-64a4-46d6-bef9-2c117fc1c559",
+        "label": "EP01-BG-004｜手艺园男活动者·左向侧面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/02_facing-left.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "0a2f44e9-9fa0-485f-beec-5371f0db8544",
+        "label": "EP01-BG-004｜手艺园男活动者·背面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/03_back.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "df58b783-3c08-4446-9ede-75dda361ecbe",
+        "label": "EP01-BG-004｜手艺园男活动者·右向侧面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/04_facing-right.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "0193bc60-186c-4aac-959f-82059f2a9326",
+        "label": "EP01-BG-004｜手艺园男活动者·提示词与来源",
+        "type": "remote-textNode",
+        "path": "assets/0193bc60-186c-4aac-959f-82059f2a9326/content.md",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "76fb6327-5b64-4a4b-8596-2f1e0f2d8286",
+        "label": "EP01-BG-005｜人工生命居民·四视图",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/01-四视图.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "90e86fa5-135b-47e0-a44a-0a8f3a5e2e76",
+        "label": "EP01-BG-005｜人工生命居民·正面半身",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/01_front-half.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "61c1ce2b-a84b-4eae-8452-98e51f4ed2de",
+        "label": "EP01-BG-005｜人工生命居民·左向侧面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/02_facing-left.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "e253e33c-a6e2-4ad9-b98d-62943f4b340f",
+        "label": "EP01-BG-005｜人工生命居民·背面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/03_back.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "79c6c535-a2b8-41e0-865a-54ec6c5312cb",
+        "label": "EP01-BG-005｜人工生命居民·右向侧面",
+        "type": "remote-imageNode",
+        "path": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/04_facing-right.png",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "8ff6698b-1179-4156-b667-b74a3067ed52",
+        "label": "EP01-BG-005｜人工生命居民·提示词与来源",
+        "type": "remote-textNode",
+        "path": "assets/8ff6698b-1179-4156-b667-b74a3067ed52/content.md",
+        "outputMatch": true
+      },
+      {
+        "nodeId": "41bf83dd-564c-4f54-a032-122257e55762",
+        "label": "首集背景群像｜索引与使用说明",
+        "type": "remote-textNode",
+        "path": "assets/41bf83dd-564c-4f54-a032-122257e55762/content.md",
+        "outputMatch": true
+      }
+    ]
+  },
+  "library": {
+    "root": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0",
+    "files": [
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/01-学院女生/01-四视图.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/01-学院女生/01-四视图.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/01_front-half.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/01_front-half.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/02_facing-left.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/02_facing-left.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/03_back.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/03_back.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/04_facing-right.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/04_facing-right.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/02-学院男生/01-四视图.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/02-学院男生/01-四视图.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/01_front-half.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/01_front-half.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/02_facing-left.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/02_facing-left.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/03_back.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/03_back.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/04_facing-right.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/04_facing-right.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/01-四视图.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/03-生活园女居民/01-四视图.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/01_front-half.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/01_front-half.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/02_facing-left.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/02_facing-left.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/03_back.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/03_back.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/04_facing-right.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/04_facing-right.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/01-四视图.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/01-四视图.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/01_front-half.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/01_front-half.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/02_facing-left.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/02_facing-left.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/03_back.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/03_back.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/04_facing-right.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/04_facing-right.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/01-四视图.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/05-人工生命居民/01-四视图.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/01_front-half.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/01_front-half.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/02_facing-left.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/02_facing-left.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/03_back.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/03_back.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/04_facing-right.png",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/04_facing-right.png",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/01-学院女生/生成提示词.txt",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/01-学院女生/生成提示词.txt",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/split-manifest.json",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/split-manifest.json",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/02-学院男生/生成提示词.txt",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/02-学院男生/生成提示词.txt",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/split-manifest.json",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/split-manifest.json",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/生成提示词.txt",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/03-生活园女居民/生成提示词.txt",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/split-manifest.json",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/split-manifest.json",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/生成提示词.txt",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/生成提示词.txt",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/split-manifest.json",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/split-manifest.json",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/生成提示词.txt",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/05-人工生命居民/生成提示词.txt",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/split-manifest.json",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/split-manifest.json",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/README.md",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/README.md",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/generation-record.json",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/generation-record.json",
+        "contentMatch": true
+      },
+      {
+        "source": "首集背景群像四视图-20261014-v1.0/verification.json",
+        "path": "未来女孩林知夏-当前可用素材/首集背景群像四视图-20261014-v1.0/verification.json",
+        "contentMatch": true
+      }
+    ],
+    "filesVerified": 38
+  },
+  "generationTool": "built-in image_gen",
+  "sourcePixelCopiesVerified": 5,
+  "independentCropPixelMatches": 20,
+  "existingNodesPreserved": true
+}

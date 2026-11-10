@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-17",
+  "status": "synced",
+  "connectionId": "a8e9b1e4-4f34-45d4-b990-668ea24cfc0e",
+  "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+  "canvasId": "场景设计-半园两岸-20261014.json",
+  "nodeCounts": {
+    "before": 53,
+    "after": 61
+  },
+  "addedNodeIds": [
+    "4602b189-9949-413e-8b30-6a3d0b123778",
+    "369659ef-5d21-4889-bde6-f02366709b5c",
+    "a1ff71c1-f40f-48c5-9927-4bc84dedd195",
+    "547f2b40-5e6a-41f5-b6f5-8498be66e185",
+    "e7218c0c-a63b-47da-96d5-3c75a12803d6",
+    "8012e8ba-4178-4fa0-8991-32b96ccfc1fe",
+    "b14fc44d-dd2f-4a63-b064-1d299c9bf210",
+    "c28684fc-3545-48a0-9fac-5de7a65a2377"
+  ],
+  "updatedMasterTextId": "07f7dba7-79ba-4398-b2f0-404eb60c84ef",
+  "imageReadback": {
+    "canvasId": "场景设计-半园两岸-20261014.json",
+    "nodes": [
+      {
+        "id": "4602b189-9949-413e-8b30-6a3d0b123778",
+        "path": [
+          "outputs",
+          "image",
+          "value"
+        ],
+        "value": {
+          "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/01-床托背-发夹统一.png",
+          "mimeType": "image/png"
+        },
+        "truncated": []
+      },
+      {
+        "id": "369659ef-5d21-4889-bde6-f02366709b5c",
+        "path": [
+          "outputs",
+          "image",
+          "value"
+        ],
+        "value": {
+          "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/02-第二拳-发夹统一.png",
+          "mimeType": "image/png"
+        },
+        "truncated": []
+      },
+      {
+        "id": "a1ff71c1-f40f-48c5-9927-4bc84dedd195",
+        "path": [
+          "outputs",
+          "image",
+          "value"
+        ],
+        "value": {
+          "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/03-第三拳-发夹统一.png",
+          "mimeType": "image/png"
+        },
+        "truncated": []
+      },
+      {
+        "id": "547f2b40-5e6a-41f5-b6f5-8498be66e185",
+        "path": [
+          "outputs",
+          "image",
+          "value"
+        ],
+        "value": {
+          "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/04-坐稳-发夹统一.png",
+          "mimeType": "image/png"
+        },
+        "truncated": []
+      },
+      {
+        "id": "e7218c0c-a63b-47da-96d5-3c75a12803d6",
+        "path": [
+          "outputs",
+          "image",
+          "value"
+        ],
+        "value": {
+          "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/05-喊停-发夹统一.png",
+          "mimeType": "image/png"
+        },
+        "truncated": []
+      },
+      {
+        "id": "8012e8ba-4178-4fa0-8991-32b96ccfc1fe",
+        "path": [
+          "outputs",
+          "image",
+          "value"
+        ],
+        "value": {
+          "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/06-相拥盖被-发夹统一.png",
+          "mimeType": "image/png"
+        },
+        "truncated": []
+      },
+      {
+        "id": "b14fc44d-dd2f-4a63-b064-1d299c9bf210",
+        "path": [
+          "outputs",
+          "image",
+          "value"
+        ],
+        "value": {
+          "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/07-全景布局-发夹统一.png",
+          "mimeType": "image/png"
+        },
+        "truncated": []
+      }
+    ],
+    "hasMore": false,
+    "nextCursor": null
+  },
+  "textContentChecks": [
+    {
+      "nodeId": "c28684fc-3545-48a0-9fac-5de7a65a2377",
+      "source": "第一季/分镜/第一集-A-今天没有安排-发夹统一-v0.5.md",
+      "matches": true
+    },
+    {
+      "nodeId": "07f7dba7-79ba-4398-b2f0-404eb60c84ef",
+      "source": "人物/知夏-晨起发夹母版-20261017.md",
+      "matches": true
+    }
+  ]
+}

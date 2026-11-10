@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "08a04dd7-df55-48d9-811d-37bdd96abcbe",
+      "type": "remote-imageNode",
+      "label": "知夏｜睡衣07｜荷叶织纹与发箍·候选",
+      "selected": false,
+      "position": {
+        "x": 4000,
+        "y": 4300
+      }
+    },
+    {
+      "id": "d41a76f6-4c91-4eaf-a491-343ec8df9b41",
+      "type": "remote-textNode",
+      "label": "睡衣07｜荷叶实拍参考与实际提示词",
+      "selected": false,
+      "position": {
+        "x": 4900,
+        "y": 4300
+      }
+    }
+  ],
+  "imageReadback": {
+    "details": {
+      "canvasId": "人物设计.json",
+      "nodes": [
+        {
+          "id": "08a04dd7-df55-48d9-811d-37bdd96abcbe",
+          "label": "知夏｜睡衣07｜荷叶织纹与发箍·候选",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏睡衣精修-20261012-v0.1/知夏-睡衣07-荷叶织纹与发箍.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        }
+      ],
+      "hasMore": false,
+      "nextCursor": null
+    }
+  }
+}

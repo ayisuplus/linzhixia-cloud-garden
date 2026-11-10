@@ -1,0 +1,72 @@
+{
+  "source_name": "知夏-水墨校服四视图-v1.0.png",
+  "source_sha256": "5d079e1fa2b4fce5a64f4676e3f7c051f89fcb0ee5a5859119f3fe0a41d29bb4",
+  "oriented_size": [
+    1536,
+    1024
+  ],
+  "coordinates": "EXIF-oriented pixels; right and bottom edges exclusive",
+  "operation": "crop only; no redraw, resizing, padding or background removal",
+  "views": [
+    {
+      "view": "01_front-half",
+      "file": "01_front-half.png",
+      "box_xyxy": [
+        0,
+        0,
+        520,
+        1024
+      ],
+      "size": [
+        520,
+        1024
+      ],
+      "sha256": "8724c09ceae033821543771f6de8b873155db12929f7abce59c5b590407ce997"
+    },
+    {
+      "view": "02_facing-left",
+      "file": "02_facing-left.png",
+      "box_xyxy": [
+        520,
+        0,
+        820,
+        1024
+      ],
+      "size": [
+        300,
+        1024
+      ],
+      "sha256": "fb6f353abb53836c3b15536a331548b221d7cba988e7450a0e7d25b4ec5d40ea"
+    },
+    {
+      "view": "03_back",
+      "file": "03_back.png",
+      "box_xyxy": [
+        820,
+        0,
+        1225,
+        1024
+      ],
+      "size": [
+        405,
+        1024
+      ],
+      "sha256": "a2688c8e718dc2241e6e7d9ff219ba52995fd9929b386d66df22968045832d0d"
+    },
+    {
+      "view": "04_facing-right",
+      "file": "04_facing-right.png",
+      "box_xyxy": [
+        1225,
+        0,
+        1536,
+        1024
+      ],
+      "size": [
+        311,
+        1024
+      ],
+      "sha256": "366b6852bd855ccade97b329817e31da14474fad7d6fa6ff25373abd8f77397e"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "role": "Additional inspection cameras; original flight unchanged",
+  "views": [
+    [
+      "mountain-water-overview",
+      [
+        -1190,
+        930,
+        140
+      ],
+      [
+        -1020,
+        805,
+        55
+      ],
+      33
+    ],
+    [
+      "grotto-and-spillway",
+      [
+        -1050,
+        902,
+        73
+      ],
+      [
+        -991,
+        826,
+        49
+      ],
+      34
+    ]
+  ]
+}

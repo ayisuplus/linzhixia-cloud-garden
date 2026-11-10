@@ -1,0 +1,81 @@
+{
+  "native_frames": 1392,
+  "dimensions": [
+    960,
+    540
+  ],
+  "fps": 24,
+  "duration_seconds": 58,
+  "interpolated": false,
+  "all_pngs_decoded": true,
+  "videos": [
+    {
+      "file": "cloud-neighbourhood-flight-58s-v19.mp4",
+      "metadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 960,
+            "height": 540,
+            "r_frame_rate": "24/1",
+            "duration": "58.000000",
+            "nb_frames": "1392"
+          }
+        ],
+        "format": {
+          "duration": "58.000000"
+        }
+      },
+      "full_decode_passed": true
+    },
+    {
+      "file": "B01-reference-0-30s.mp4",
+      "metadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 960,
+            "height": 540,
+            "r_frame_rate": "24/1",
+            "duration": "30.000000",
+            "nb_frames": "720"
+          }
+        ],
+        "format": {
+          "duration": "30.000000"
+        }
+      },
+      "full_decode_passed": true
+    },
+    {
+      "file": "B02-reference-28-58s.mp4",
+      "metadata": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 960,
+            "height": 540,
+            "r_frame_rate": "24/1",
+            "duration": "30.000000",
+            "nb_frames": "720"
+          }
+        ],
+        "format": {
+          "duration": "30.000000"
+        }
+      },
+      "full_decode_passed": true
+    }
+  ],
+  "min_frame_std": 20.429535760043112,
+  "max_near_white_fraction": 0.04142156862745098,
+  "max_near_black_fraction": 0.0,
+  "continuous_visual_review": "pending; decoding and contact sheets do not prove motion comfort",
+  "audio": "silent spatial reference"
+}

@@ -1,0 +1,838 @@
+{
+  "hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山谷植物-20261024-v0.1\\valley-masterplan-v10.blend": "85daea84928dd29e9f97ee752c534fa1fd33e284c308159f789f0fa9a91912a1",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山聚落-20261024-v0.1\\cloud-hamlet-masterplan-v11.blend": "cbc9bf538aee32499efbd7a72c93776be97e67e967f8777e7e8ad49a15e27c81",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山谷植物-20261024-v0.1\\valley-route-58s-v10.blend": "f22b16e120012d70c6e44273a93be15c4dee84c1a0e0843b73ff03d63140691a",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山聚落-20261024-v0.1\\cloud-hamlet-route-58s-v11.blend": "d420a63410d403829c09b9955074296333a345a79f5c2a9696f85ff7a866686d",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山谷植物-20261024-v0.1\\route-poses.json": "26d80f81589e1d393baa759e0e3daf9d6fefc79d241513d9c124d3849e8593ba",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山聚落-20261024-v0.1\\route-poses.json": "26d80f81589e1d393baa759e0e3daf9d6fefc79d241513d9c124d3849e8593ba",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山聚落-20261024-v0.1\\landscape-data.json": "496d61df94812c4f5c24088bcb98b2221f39899f763499bb528522b9c380f5ff"
+  },
+  "stable": true,
+  "allowed_removed_count": 1098,
+  "original_unallowed_object_changes": [],
+  "original_material_changes": [],
+  "ground_changed_vertex_count": 13573,
+  "tree_building_surface_intersections": [],
+  "new_house_old_building_surface_intersections": [],
+  "full_flight_27_swept_hits": [],
+  "old_walk_core_new_object_hits": [],
+  "old_road_ground_change_samples": [],
+  "stilt_bottom_corners": [
+    {
+      "name": "H1 lower grounded stilt",
+      "bottom_corner_ground_offsets_m": [
+        -0.33864593505859375,
+        -0.28557586669921875,
+        -0.36138153076171875,
+        -0.41439056396484375
+      ]
+    },
+    {
+      "name": "H1 lower grounded stilt.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25936126708984375,
+        -0.24535369873046875,
+        -0.44261932373046875,
+        -0.45464324951171875
+      ]
+    },
+    {
+      "name": "H1 lower grounded stilt.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.30211639404296875,
+        -0.27474212646484375,
+        -0.39794158935546875,
+        -0.42531585693359375
+      ]
+    },
+    {
+      "name": "H1 lower grounded stilt.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.24071502685546875,
+        -0.23952484130859375,
+        -0.45931243896484375,
+        -0.46102142333984375
+      ]
+    },
+    {
+      "name": "H1 lower grounded stilt.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.28020477294921875,
+        -0.27422332763671875,
+        -0.42543792724609375,
+        -0.42696380615234375
+      ]
+    },
+    {
+      "name": "H1 lower grounded stilt.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.24733734130859375,
+        -0.24297332763671875,
+        -0.45326995849609375,
+        -0.45702362060546875
+      ]
+    },
+    {
+      "name": "H1 upper grounded stilt",
+      "bottom_corner_ground_offsets_m": [
+        -0.13121795654296875,
+        -0.12938690185546875,
+        -0.5712203979492188,
+        -0.5714950561523438
+      ]
+    },
+    {
+      "name": "H1 upper grounded stilt.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.08422088623046875,
+        -0.09706878662109375,
+        -0.6154403686523438,
+        -0.6019210815429688
+      ]
+    },
+    {
+      "name": "H1 upper grounded stilt.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.11666107177734375,
+        -0.11965179443359375,
+        -0.5833663940429688,
+        -0.5804061889648438
+      ]
+    },
+    {
+      "name": "H1 upper grounded stilt.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.08956146240234375,
+        -0.09078216552734375,
+        -0.6104660034179688,
+        -0.6091842651367188
+      ]
+    },
+    {
+      "name": "H1 upper grounded stilt.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.12191009521484375,
+        -0.11974334716796875,
+        -0.5781173706054688,
+        -0.5802841186523438
+      ]
+    },
+    {
+      "name": "H1 upper grounded stilt.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.09664154052734375,
+        -0.08898162841796875,
+        -0.6016769409179688,
+        -0.6109848022460938
+      ]
+    },
+    {
+      "name": "H2 lower grounded stilt",
+      "bottom_corner_ground_offsets_m": [
+        -0.39006805419921875,
+        -0.27352142333984375,
+        -0.31014251708984375,
+        -0.42717742919921875
+      ]
+    },
+    {
+      "name": "H2 lower grounded stilt.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.40203094482421875,
+        -0.31917572021484375,
+        -0.29793548583984375,
+        -0.38082122802734375
+      ]
+    },
+    {
+      "name": "H2 lower grounded stilt.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.39162445068359375,
+        -0.28670501708984375,
+        -0.30681610107421875,
+        -0.41658782958984375
+      ]
+    },
+    {
+      "name": "H2 lower grounded stilt.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.40901947021484375,
+        -0.35991668701171875,
+        -0.29006195068359375,
+        -0.34011077880859375
+      ]
+    },
+    {
+      "name": "H2 lower grounded stilt.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.39965057373046875,
+        -0.32045745849609375,
+        -0.30031585693359375,
+        -0.37975311279296875
+      ]
+    },
+    {
+      "name": "H2 lower grounded stilt.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.41585540771484375,
+        -0.37828826904296875,
+        -0.28414154052734375,
+        -0.32173919677734375
+      ]
+    },
+    {
+      "name": "H2 upper grounded stilt",
+      "bottom_corner_ground_offsets_m": [
+        -0.5073471069335938,
+        -0.37740325927734375,
+        -0.19268035888671875,
+        -0.31789398193359375
+      ]
+    },
+    {
+      "name": "H2 upper grounded stilt.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.5225448608398438,
+        -0.35668182373046875,
+        -0.17748260498046875,
+        -0.34328460693359375
+      ]
+    },
+    {
+      "name": "H2 upper grounded stilt.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.5022201538085938,
+        -0.32933807373046875,
+        -0.19274139404296875,
+        -0.35973358154296875
+      ]
+    },
+    {
+      "name": "H2 upper grounded stilt.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.5377731323242188,
+        -0.37731170654296875,
+        -0.16182708740234375,
+        -0.32268524169921875
+      ]
+    },
+    {
+      "name": "H2 upper grounded stilt.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.5111312866210938,
+        -0.31887054443359375,
+        -0.18883514404296875,
+        -0.37932586669921875
+      ]
+    },
+    {
+      "name": "H2 upper grounded stilt.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.5552902221679688,
+        -0.40691375732421875,
+        -0.14473724365234375,
+        -0.29308319091796875
+      ]
+    },
+    {
+      "name": "H3 lower grounded stilt",
+      "bottom_corner_ground_offsets_m": [
+        -0.36751556396484375,
+        -0.30483245849609375,
+        -0.33254241943359375,
+        -0.39702606201171875
+      ]
+    },
+    {
+      "name": "H3 lower grounded stilt.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.33415985107421875,
+        -0.27773284912109375,
+        -0.36583709716796875,
+        -0.42229461669921875
+      ]
+    },
+    {
+      "name": "H3 lower grounded stilt.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.36489105224609375,
+        -0.31041717529296875,
+        -0.33519744873046875,
+        -0.38961029052734375
+      ]
+    },
+    {
+      "name": "H3 lower grounded stilt.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.32097625732421875,
+        -0.28206634521484375,
+        -0.37899017333984375,
+        -0.43230438232421875
+      ]
+    },
+    {
+      "name": "H3 lower grounded stilt.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.35540008544921875,
+        -0.30849456787109375,
+        -0.34465789794921875,
+        -0.39534759521484375
+      ]
+    },
+    {
+      "name": "H3 lower grounded stilt.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.28655242919921875,
+        -0.27898406982421875,
+        -0.41344451904296875,
+        -0.42101287841796875
+      ]
+    },
+    {
+      "name": "H3 upper grounded stilt",
+      "bottom_corner_ground_offsets_m": [
+        -0.20781707763671875,
+        -0.11022186279296875,
+        -0.49217987060546875,
+        -0.5897140502929688
+      ]
+    },
+    {
+      "name": "H3 upper grounded stilt.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.13951873779296875,
+        -0.04897308349609375,
+        -0.5636520385742188,
+        -0.6709823608398438
+      ]
+    },
+    {
+      "name": "H3 upper grounded stilt.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.21352386474609375,
+        -0.11348724365234375,
+        -0.48647308349609375,
+        -0.5864791870117188
+      ]
+    },
+    {
+      "name": "H3 upper grounded stilt.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.14516448974609375,
+        -0.04711151123046875,
+        -0.5548934936523438,
+        -0.6547775268554688
+      ]
+    },
+    {
+      "name": "H3 upper grounded stilt.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.18877410888671875,
+        -0.13018035888671875,
+        -0.5112228393554688,
+        -0.5697860717773438
+      ]
+    },
+    {
+      "name": "H3 upper grounded stilt.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.14846038818359375,
+        -0.06511688232421875,
+        -0.5575485229492188,
+        -0.6348800659179688
+      ]
+    }
+  ],
+  "stairs": [
+    {
+      "id": "H1 bank approach",
+      "missing_samples": [],
+      "terrain_intrusions": [],
+      "headroom_hits": {
+        "Continuous bank lane 1": {
+          "point": [
+            -69.41429138183594,
+            572.7706298828125,
+            88.44449615478516
+          ],
+          "floor_z": 88.36182403564453,
+          "headroom_m": 0.082672119140625,
+          "lateral": 0.8,
+          "path_point": [
+            -68.73667584137992,
+            572.3453520912931,
+            88.36182644129971
+          ]
+        }
+      },
+      "step_support_bottom_center_max_gap_m": 0.0093536376953125,
+      "step_support_bottom_center_max_gap_sample": {
+        "name": "H1 bank approach stone step.050",
+        "bottom_center_ground_gap_m": 0.0093536376953125,
+        "point": [
+          -56.10909652709961,
+          586.9063110351562,
+          89.62437438964844
+        ]
+      },
+      "max_successive_step_top_difference_m": 0.060394287109375,
+      "step_top_max_plan_difference_m": 3.7754401773781865e-06,
+      "sample_count_center": 309
+    },
+    {
+      "id": "H1 uphill steps",
+      "missing_samples": [],
+      "terrain_intrusions": [
+        {
+          "point": [
+            -45.85844220483426,
+            616.5779783952077,
+            98.66041564941406
+          ],
+          "ground_above_step_m": 0.0441741943359375
+        },
+        {
+          "point": [
+            -45.85844220483356,
+            616.5779783952075,
+            98.66041564941406
+          ],
+          "ground_above_step_m": 0.0441741943359375
+        }
+      ],
+      "headroom_hits": {},
+      "step_support_bottom_center_max_gap_m": -0.0397796630859375,
+      "step_support_bottom_center_max_gap_sample": {
+        "name": "H1 uphill steps stone step.038",
+        "bottom_center_ground_gap_m": -0.0397796630859375,
+        "point": [
+          -40.23259735107422,
+          599.9091796875,
+          92.34910583496094
+        ]
+      },
+      "max_successive_step_top_difference_m": 0.1574554443359375,
+      "step_top_max_plan_difference_m": 3.7868389739514896e-06,
+      "sample_count_center": 483
+    },
+    {
+      "id": "H2 bank approach",
+      "missing_samples": [],
+      "terrain_intrusions": [],
+      "headroom_hits": {
+        "Continuous bank lane -1": {
+          "point": [
+            9.01379680633545,
+            440.9259338378906,
+            78.55374908447266
+          ],
+          "floor_z": 78.48269653320312,
+          "headroom_m": 0.07105255126953125,
+          "lateral": -0.8,
+          "path_point": [
+            9.195843691593113,
+            440.14692327600466,
+            78.48269397111063
+          ]
+        }
+      },
+      "step_support_bottom_center_max_gap_m": 0.0269317626953125,
+      "step_support_bottom_center_max_gap_sample": {
+        "name": "H2 bank approach stone step.077",
+        "bottom_center_ground_gap_m": 0.0269317626953125,
+        "point": [
+          -10.678008079528809,
+          422.0780944824219,
+          78.96476745605469
+        ]
+      },
+      "max_successive_step_top_difference_m": 0.07842254638671875,
+      "step_top_max_plan_difference_m": 3.8024421940008324e-06,
+      "sample_count_center": 309
+    },
+    {
+      "id": "H2 uphill steps",
+      "missing_samples": [],
+      "terrain_intrusions": [],
+      "headroom_hits": {},
+      "step_support_bottom_center_max_gap_m": -0.0316314697265625,
+      "step_support_bottom_center_max_gap_sample": {
+        "name": "H2 uphill steps stone step.029",
+        "bottom_center_ground_gap_m": -0.0316314697265625,
+        "point": [
+          -20.915830612182617,
+          417.44403076171875,
+          78.31166076660156
+        ]
+      },
+      "max_successive_step_top_difference_m": 0.1324005126953125,
+      "step_top_max_plan_difference_m": 3.7078527554967877e-06,
+      "sample_count_center": 360
+    },
+    {
+      "id": "H3 bank approach",
+      "missing_samples": [],
+      "terrain_intrusions": [],
+      "headroom_hits": {
+        "Continuous bank lane 1": {
+          "point": [
+            50.88454055786133,
+            281.0015869140625,
+            56.58906555175781
+          ],
+          "floor_z": 56.52177429199219,
+          "headroom_m": 0.067291259765625,
+          "lateral": 0.8,
+          "path_point": [
+            50.50600786103409,
+            280.2968103456516,
+            56.52177408816289
+          ]
+        }
+      },
+      "step_support_bottom_center_max_gap_m": 0.06507492065429688,
+      "step_support_bottom_center_max_gap_sample": {
+        "name": "H3 bank approach stone step.049",
+        "bottom_center_ground_gap_m": 0.06507492065429688,
+        "point": [
+          66.44490814208984,
+          269.7377014160156,
+          57.74653244018555
+        ]
+      },
+      "max_successive_step_top_difference_m": 0.06325149536132812,
+      "step_top_max_plan_difference_m": 1.90721490866963e-06,
+      "sample_count_center": 321
+    },
+    {
+      "id": "H3 uphill steps",
+      "missing_samples": [],
+      "terrain_intrusions": [
+        {
+          "point": [
+            100.72502778318277,
+            265.95056731312616,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.14394378662109375
+        },
+        {
+          "point": [
+            100.70942117663256,
+            265.7818676192403,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.13362884521484375
+        },
+        {
+          "point": [
+            100.70942117663256,
+            265.7818676192403,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.13362884521484375
+        },
+        {
+          "point": [
+            100.69381457008235,
+            265.6131679253545,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.12334442138671875
+        },
+        {
+          "point": [
+            100.69381457008235,
+            265.6131679253545,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.12334442138671875
+        },
+        {
+          "point": [
+            100.67820796353215,
+            265.44446823146865,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.11302947998046875
+        },
+        {
+          "point": [
+            100.67820796353215,
+            265.44446823146865,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.11302947998046875
+        },
+        {
+          "point": [
+            100.66260135698194,
+            265.2757685375828,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.10274505615234375
+        },
+        {
+          "point": [
+            100.66260135698194,
+            265.2757685375828,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.10274505615234375
+        },
+        {
+          "point": [
+            100.64699475043173,
+            265.107068843697,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.09243011474609375
+        },
+        {
+          "point": [
+            100.64699475043173,
+            265.107068843697,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.09243011474609375
+        },
+        {
+          "point": [
+            100.63138814388152,
+            264.93836914981114,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.10875701904296875
+        },
+        {
+          "point": [
+            100.63138814388152,
+            264.93836914981114,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.10875701904296875
+        },
+        {
+          "point": [
+            100.61578153733132,
+            264.7696694559253,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.17128753662109375
+        },
+        {
+          "point": [
+            100.61578153733132,
+            264.7696694559253,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.17128753662109375
+        },
+        {
+          "point": [
+            100.60017493078111,
+            264.6009697620395,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.23387908935546875
+        },
+        {
+          "point": [
+            100.60017493078111,
+            264.6009697620394,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.23387908935546875
+        },
+        {
+          "point": [
+            100.58456832423089,
+            264.43227006815357,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.29647064208984375
+        },
+        {
+          "point": [
+            100.58456832423089,
+            264.4322700681536,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.29647064208984375
+        },
+        {
+          "point": [
+            100.56896171768068,
+            264.26357037426783,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.35729217529296875
+        },
+        {
+          "point": [
+            100.56896171768068,
+            264.26357037426783,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.35729217529296875
+        },
+        {
+          "point": [
+            100.55335511113047,
+            264.094870680382,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.41796112060546875
+        },
+        {
+          "point": [
+            100.55335511113047,
+            264.094870680382,
+            69.55872344970703
+          ],
+          "ground_above_step_m": 0.41796112060546875
+        },
+        {
+          "point": [
+            100.53774850458026,
+            263.9261709864961,
+            69.60625457763672
+          ],
+          "ground_above_step_m": 0.43106842041015625
+        },
+        {
+          "point": [
+            100.53774850458026,
+            263.9261709864961,
+            69.60625457763672
+          ],
+          "ground_above_step_m": 0.43106842041015625
+        },
+        {
+          "point": [
+            100.52214189803006,
+            263.7574712926103,
+            69.73239135742188
+          ],
+          "ground_above_step_m": 0.3656005859375
+        },
+        {
+          "point": [
+            100.52214189803006,
+            263.7574712926103,
+            69.73239135742188
+          ],
+          "ground_above_step_m": 0.3656005859375
+        },
+        {
+          "point": [
+            100.50653529147985,
+            263.58877159872446,
+            69.88959503173828
+          ],
+          "ground_above_step_m": 0.26909637451171875
+        },
+        {
+          "point": [
+            100.50653529147985,
+            263.58877159872446,
+            69.88959503173828
+          ],
+          "ground_above_step_m": 0.26909637451171875
+        },
+        {
+          "point": [
+            100.49092868492964,
+            263.4200719048386,
+            70.04679107666016
+          ],
+          "ground_above_step_m": 0.17247772216796875
+        },
+        {
+          "point": [
+            100.49092868492964,
+            263.4200719048386,
+            70.04679107666016
+          ],
+          "ground_above_step_m": 0.17247772216796875
+        },
+        {
+          "point": [
+            100.47532207837943,
+            263.2513722109528,
+            70.20399475097656
+          ],
+          "ground_above_step_m": 0.0759735107421875
+        },
+        {
+          "point": [
+            100.47532207837943,
+            263.2513722109528,
+            70.20399475097656
+          ],
+          "ground_above_step_m": 0.0759735107421875
+        }
+      ],
+      "headroom_hits": {
+        "Continuous stable cloud terrain / river bed and inhabited slopes": {
+          "point": [
+            100.72502899169922,
+            265.9505615234375,
+            69.70265197753906
+          ],
+          "floor_z": 69.55872344970703,
+          "headroom_m": 0.14392852783203125,
+          "lateral": 0.8,
+          "path_point": [
+            99.92842929213865,
+            266.02426157386753,
+            69.55872192382813
+          ]
+        },
+        "H3 uphill steps stair handrail.002": {
+          "point": [
+            98.91333770751953,
+            263.73614501953125,
+            70.59410858154297
+          ],
+          "floor_z": 69.88959503173828,
+          "headroom_m": 0.7045135498046875,
+          "lateral": -0.8,
+          "path_point": [
+            99.70993680043573,
+            263.66246585946584,
+            69.81099187534952
+          ]
+        }
+      },
+      "step_support_bottom_center_max_gap_m": 0.12000274658203125,
+      "step_support_bottom_center_max_gap_sample": {
+        "name": "H3 uphill steps stone step.035",
+        "bottom_center_ground_gap_m": 0.12000274658203125,
+        "point": [
+          79.97459411621094,
+          252.4190673828125,
+          59.735877990722656
+        ]
+      },
+      "max_successive_step_top_difference_m": 0.15720367431640625,
+      "step_top_max_plan_difference_m": 3.8107023669908813e-06,
+      "sample_count_center": 512
+    }
+  ],
+  "poses_byte_identical": true,
+  "camera_actual_keyframe_changes": {
+    "positions": 0.0,
+    "quats": 0.0
+  },
+  "saved_camera_vs_json_max_position_error_m": 3.039981027086469e-05,
+  "limits": [
+    "Read only CPU, no render/save/Git.",
+    "Original object summary includes mesh coordinates/topology/material indices/bindings/matrix, and material node input/link summaries. Ground and allowed deletions excluded.",
+    "Surface intersection is not complete solid containment test.",
+    "Full flight is 27 finite offset sweeps, including actual terrain; not exact swept-solid proof.",
+    "Old road footprint terrain protection samples route stations/edges; stair width +/-0.8m and <=0.2m along segment samples. Not infinite-resolution navigation proof.",
+    "No continuous playback or cloud visual acceptance."
+  ]
+}

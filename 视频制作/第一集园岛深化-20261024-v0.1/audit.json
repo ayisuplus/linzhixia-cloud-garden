@@ -1,0 +1,787 @@
+{
+  "hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园岛深化-20261024-v0.1\\island-garden-developed-v17.blend": "f97fae960fd51366160395864992ed36ed184d42af3899b82085ad42d4f58960",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集独立园岛-20261024-v0.1\\island-garden-masterplan-v16.blend": "0b49bf592533b782622683399fb93f9cd60aa7c9cf71d14f133e8765d3c6af5b",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园岛深化-20261024-v0.1\\planning-data.json": "0bbd5d99c87803e73f8fdc16793a8a1cfb843619f71d938a0a8d8ae5f16f3de7",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园岛深化-20261024-v0.1\\development-data.json": "c1b7e5d3b34d07fed117fd7f09d1103c263c553438e854842bde876e3a471d5f",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集园岛深化-v0.1\\build.py": "86476f129123623a7b64e06b2accf51291073b77c7c86e2b0e4667dc797e1b08"
+  },
+  "stable": true,
+  "island_support_intersections": [],
+  "waterfall_checks": [
+    {
+      "id": "W1",
+      "freefall_hits": []
+    },
+    {
+      "id": "W2",
+      "freefall_hits": []
+    },
+    {
+      "id": "W3",
+      "freefall_hits": []
+    }
+  ],
+  "pool_beds": [
+    {
+      "id": "W1",
+      "island": "A",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W1",
+      "island": "B",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W2",
+      "island": "B",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W2",
+      "island": "C",
+      "bed_missing": [],
+      "min_depth": 1.0999992370605476,
+      "max_depth": 1.0999992370605476
+    },
+    {
+      "id": "W3",
+      "island": "F",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W3",
+      "island": "G",
+      "bed_missing": [],
+      "min_depth": 1.099999237060544,
+      "max_depth": 1.099999237060544
+    }
+  ],
+  "walking_checks": [
+    {
+      "name": "A internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "A internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "A internal garden path 2",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 2",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "C internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "C internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 2",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "E internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "E internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "F internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "F internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "G internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "L1 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "A internal garden path 0": {
+          "point": [
+            -227.75035095214844,
+            104.22592163085938,
+            126.13999938964844
+          ],
+          "above_floor": 0.1399993896484375
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L2 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L3 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "E internal garden path 0": {
+          "point": [
+            64.23741912841797,
+            -34.57558059692383,
+            72.13999938964844
+          ],
+          "above_floor": 0.1399993896484375
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L4 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L5 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L6 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "F internal garden path 1": {
+          "point": [
+            267.41400146484375,
+            -96.64910125732422,
+            66.13999938964844
+          ],
+          "above_floor": 0.1399993896484375
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    },
+    {
+      "name": "L7 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {
+        "D internal garden path 2": {
+          "point": [
+            24.03253936767578,
+            152.5858612060547,
+            104.13999938964844
+          ],
+          "above_floor": 0.1399993896484375
+        }
+      },
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    }
+  ],
+  "tower_stair_headroom": [
+    {
+      "link": "L1",
+      "treads_and_halves": 253,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    },
+    {
+      "link": "L2",
+      "treads_and_halves": 299,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    },
+    {
+      "link": "L3",
+      "treads_and_halves": 230,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    },
+    {
+      "link": "L4",
+      "treads_and_halves": 184,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    },
+    {
+      "link": "L5",
+      "treads_and_halves": 38,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    },
+    {
+      "link": "L6",
+      "treads_and_halves": 105,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    },
+    {
+      "link": "L7",
+      "treads_and_halves": 126,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    }
+  ],
+  "courtyard_support": [
+    {
+      "name": "A reused School-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "A reused School-+1-01 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "A reused School-+1-02 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "B reused Water-bay-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "C reused Water-bay-+1-02 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "D reused Slope-neighbourhood-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "D reused Slope-neighbourhood--1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "F reused Zhixia-home court floor",
+      "support_issues": []
+    },
+    {
+      "name": "G reused Repair-workshop court floor",
+      "support_issues": []
+    }
+  ],
+  "pool_architecture_surface_intersections": [],
+  "scope": "Static saved geometry only. No inherited flight check. Sampled clearances, not structural or hydraulic certification.",
+  "actual_stair_platform_seams": [
+    {
+      "link": "L1",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L2",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L3",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L4",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L5",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L6",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    },
+    {
+      "link": "L7",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    }
+  ],
+  "bridge_endpoints": [
+    {
+      "link": "L1",
+      "point": [
+        -229,
+        103,
+        126
+      ],
+      "contact": "A internal garden path 0",
+      "support_z": 126.13999938964844
+    },
+    {
+      "link": "L1",
+      "point": [
+        -160,
+        55.3,
+        126
+      ],
+      "contact": "L1 change-level pavilion landing.011",
+      "support_z": 126.0
+    },
+    {
+      "link": "L2",
+      "point": [
+        -107,
+        55,
+        82
+      ],
+      "contact": "B internal garden path 1",
+      "support_z": 82.13999938964844
+    },
+    {
+      "link": "L2",
+      "point": [
+        -55,
+        4.3,
+        82
+      ],
+      "contact": "L2 change-level pavilion landing.013",
+      "support_z": 82.0
+    },
+    {
+      "link": "L3",
+      "point": [
+        -4,
+        -1.7000000000000002,
+        72
+      ],
+      "contact": "L3 change-level pavilion landing.010",
+      "support_z": 72.0
+    },
+    {
+      "link": "L3",
+      "point": [
+        65,
+        -33,
+        72
+      ],
+      "contact": "E internal garden path 0",
+      "support_z": 72.13999938964844
+    },
+    {
+      "link": "L4",
+      "point": [
+        90,
+        -15.7,
+        104
+      ],
+      "contact": "L4 change-level pavilion landing.008",
+      "support_z": 104.0
+    },
+    {
+      "link": "L4",
+      "point": [
+        65,
+        137,
+        104
+      ],
+      "contact": "D internal garden path 0",
+      "support_z": 104.13999938964844
+    },
+    {
+      "link": "L5",
+      "point": [
+        120,
+        -48,
+        72
+      ],
+      "contact": "E separate cloud support",
+      "support_z": 72.0
+    },
+    {
+      "link": "L5",
+      "point": [
+        190,
+        -88.7,
+        72
+      ],
+      "contact": "L5 change-level pavilion landing.002",
+      "support_z": 72.0
+    },
+    {
+      "link": "L6",
+      "point": [
+        268,
+        -95,
+        66
+      ],
+      "contact": "F separate cloud support",
+      "support_z": 66.0
+    },
+    {
+      "link": "L6",
+      "point": [
+        307,
+        -97.7,
+        66
+      ],
+      "contact": "L6 change-level pavilion landing.005",
+      "support_z": 66.0
+    },
+    {
+      "link": "L7",
+      "point": [
+        -68,
+        70.3,
+        104
+      ],
+      "contact": "L7 change-level pavilion landing.006",
+      "support_z": 104.0
+    },
+    {
+      "link": "L7",
+      "point": [
+        23,
+        154,
+        104
+      ],
+      "contact": "D internal garden path 2",
+      "support_z": 104.13999938964844
+    }
+  ],
+  "independent_bridge_full_width": [
+    {
+      "link": "L1",
+      "actual_top_triangles": 20,
+      "negative_top_triangles": 0,
+      "degenerate_top_triangles": 0,
+      "samples": 8463,
+      "missing_4_98m_deck": [],
+      "rail_in_4_5m_core": []
+    },
+    {
+      "link": "L2",
+      "actual_top_triangles": 20,
+      "negative_top_triangles": 0,
+      "degenerate_top_triangles": 0,
+      "samples": 7854,
+      "missing_4_98m_deck": [],
+      "rail_in_4_5m_core": []
+    },
+    {
+      "link": "L3",
+      "actual_top_triangles": 20,
+      "negative_top_triangles": 0,
+      "degenerate_top_triangles": 0,
+      "samples": 6846,
+      "missing_4_98m_deck": [],
+      "rail_in_4_5m_core": []
+    },
+    {
+      "link": "L4",
+      "actual_top_triangles": 26,
+      "negative_top_triangles": 0,
+      "degenerate_top_triangles": 0,
+      "samples": 16590,
+      "missing_4_98m_deck": [],
+      "rail_in_4_5m_core": []
+    },
+    {
+      "link": "L5",
+      "actual_top_triangles": 20,
+      "negative_top_triangles": 0,
+      "degenerate_top_triangles": 0,
+      "samples": 8547,
+      "missing_4_98m_deck": [],
+      "rail_in_4_5m_core": []
+    },
+    {
+      "link": "L6",
+      "actual_top_triangles": 20,
+      "negative_top_triangles": 0,
+      "degenerate_top_triangles": 0,
+      "samples": 4137,
+      "missing_4_98m_deck": [],
+      "rail_in_4_5m_core": []
+    },
+    {
+      "link": "L7",
+      "actual_top_triangles": 20,
+      "negative_top_triangles": 0,
+      "degenerate_top_triangles": 0,
+      "samples": 12201,
+      "missing_4_98m_deck": [],
+      "rail_in_4_5m_core": []
+    }
+  ],
+  "asset_preservation": {
+    "unexpected_changes": [],
+    "original_material_changes": [],
+    "original_materials_absent_after_save": [
+      "v16 ground from retained terrain diffuse"
+    ],
+    "declared_removed": 70,
+    "declared_material_slots": 10,
+    "source_hash_matches_metadata": true
+  },
+  "court_threshold_checks": [
+    {
+      "court": "School-+1-00",
+      "island": "A",
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "court": "School-+1-01",
+      "island": "A",
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "court": "School-+1-02",
+      "island": "A",
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "court": "Water-bay-+1-00",
+      "island": "B",
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "court": "Water-bay-+1-02",
+      "island": "C",
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "court": "Slope-neighbourhood-+1-00",
+      "island": "D",
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "court": "Slope-neighbourhood--1-00",
+      "island": "D",
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "court": "Zhixia-home",
+      "island": "F",
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "court": "Repair-workshop",
+      "island": "G",
+      "headroom_hits": {},
+      "floor_missing": []
+    }
+  ],
+  "balcony_access_checks": [
+    {
+      "link": "L1",
+      "floor": 102.0,
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "link": "L2",
+      "floor": 55.07692307692308,
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "link": "L3",
+      "floor": 52.0,
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "link": "L4",
+      "floor": 88.0,
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "link": "L6",
+      "floor": 55.2,
+      "headroom_hits": {},
+      "floor_missing": []
+    },
+    {
+      "link": "L7",
+      "floor": 93.0,
+      "headroom_hits": {},
+      "floor_missing": []
+    }
+  ],
+  "bridge_all_solids_core_regression": [
+    {
+      "link": "L1",
+      "samples": 6365,
+      "body_hits": {}
+    },
+    {
+      "link": "L2",
+      "samples": 5909,
+      "body_hits": {}
+    },
+    {
+      "link": "L3",
+      "samples": 5149,
+      "body_hits": {}
+    },
+    {
+      "link": "L4",
+      "samples": 12483,
+      "body_hits": {}
+    },
+    {
+      "link": "L5",
+      "samples": 6422,
+      "body_hits": {}
+    },
+    {
+      "link": "L6",
+      "samples": 3116,
+      "body_hits": {}
+    },
+    {
+      "link": "L7",
+      "samples": 9177,
+      "body_hits": {}
+    }
+  ],
+  "cloud_sleeve_role_check": {
+    "count": 124,
+    "physical_count": 0,
+    "note": "Only original seven core meshes bear structure; sleeve volumes excluded from solid collision, optical visibility requires rendered review."
+  },
+  "final_verdict": {
+    "status": "pass bounded static geometry regression",
+    "remaining_required_geometry_fixes": []
+  },
+  "cloud_material_revision": {
+    "reference": "immediately previous blend1 save",
+    "reference_sha256": "fdb72cbf50d4c7671a856ca72c108680bc6bcd264b42288a66a9ca923af83dce",
+    "reference_stable": true,
+    "object_geometry_transform_binding_changes": [],
+    "material_node_digest_changes": [
+      "v17 edge mist non bearing",
+      "v17 soft shoulder mist"
+    ]
+  },
+  "nonbearing_cloud_collections": [
+    {
+      "collection": "06 Optional atmospheric enclosure",
+      "objects": 7,
+      "physical_objects": 0
+    },
+    {
+      "collection": "11 Cloud edge sleeves",
+      "objects": 124,
+      "physical_objects": 0
+    },
+    {
+      "collection": "13 Local cloud veils",
+      "objects": 18,
+      "physical_objects": 0
+    }
+  ],
+  "density_emission_verification": [
+    {
+      "material": "v17 edge mist non bearing",
+      "exists": true,
+      "density_weighted_emission": true,
+      "emission_gain": 0.11999999731779099
+    },
+    {
+      "material": "v17 soft shoulder mist",
+      "exists": true,
+      "density_weighted_emission": true,
+      "emission_gain": 0.11999999731779099
+    }
+  ]
+}

@@ -1,0 +1,2540 @@
+{
+  "toonflowCanvas": true,
+  "nodes": [
+    {
+      "id": "e6204ac6-9785-44dc-a235-fe3f37842ec6",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "当前素材总索引｜一致性修复 v1.0",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/e6204ac6-9785-44dc-a235-fe3f37842ec6/content.md"
+      }
+    },
+    {
+      "id": "1002d4da-b0b5-4f18-90d6-c8eea800cf13",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 650
+      },
+      "data": {
+        "label": "便服｜主图·双同款短白袜",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/01-便服/00-主图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "8c840e6e-1580-4a0a-a082-f50aba15aca1",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 300
+      },
+      "data": {
+        "label": "01-便服｜当前制作约束",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/8c840e6e-1580-4a0a-a082-f50aba15aca1/content.md"
+      }
+    },
+    {
+      "id": "c0762481-b2cf-4c6b-82e8-54db7da09326",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1100,
+        "y": 300
+      },
+      "data": {
+        "label": "02-校服｜当前制作约束",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/c0762481-b2cf-4c6b-82e8-54db7da09326/content.md"
+      }
+    },
+    {
+      "id": "521e9b86-5b2e-46c3-a2d0-45b1a4a21bcc",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 2200,
+        "y": 300
+      },
+      "data": {
+        "label": "03-睡衣｜当前制作约束",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/521e9b86-5b2e-46c3-a2d0-45b1a4a21bcc/content.md"
+      }
+    },
+    {
+      "id": "c28ba864-1d36-49d1-9f34-6021d6e3be7d",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 3300,
+        "y": 300
+      },
+      "data": {
+        "label": "04-工作服｜当前制作约束",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/c28ba864-1d36-49d1-9f34-6021d6e3be7d/content.md"
+      }
+    },
+    {
+      "id": "0c97b941-3abf-47e1-b4c3-9f13421f59f2",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 1550
+      },
+      "data": {
+        "label": "便服｜四视图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/01-便服/01-四视图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "a5add4f1-b71b-4c5c-a01e-193ceb327b17",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 2450
+      },
+      "data": {
+        "label": "便服｜穿搭分解",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/01-便服/02-穿搭分解.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "557bd6be-cf1b-4322-90c9-d768eee418e5",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 3350
+      },
+      "data": {
+        "label": "便服｜妆造分解",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/01-便服/03-妆造分解.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "585c3c43-1fb4-448b-b5e8-cb37329d5bf7",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 4250
+      },
+      "data": {
+        "label": "便服｜正面半身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/01-便服/独立视图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "8ad173dc-d4f5-49a9-b73c-d89b1d038509",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 500,
+        "y": 4250
+      },
+      "data": {
+        "label": "便服｜左向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/01-便服/独立视图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "82deced8-ee9e-4e47-9b62-36459ed90a21",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 5300
+      },
+      "data": {
+        "label": "便服｜背面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/01-便服/独立视图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "c6d77b9c-4a1e-4539-adca-e631228bd824",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 500,
+        "y": 5300
+      },
+      "data": {
+        "label": "便服｜右向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/01-便服/独立视图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "688a3066-dd1e-4c59-8121-b9d3f1038086",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1100,
+        "y": 650
+      },
+      "data": {
+        "label": "校服｜主图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/02-校服/00-主图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "244f528e-e010-410b-a281-b46508836a52",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1100,
+        "y": 1550
+      },
+      "data": {
+        "label": "校服｜四视图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/02-校服/01-四视图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "a9c56ed1-34cf-458d-97c4-4f85890ba7c5",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1100,
+        "y": 2450
+      },
+      "data": {
+        "label": "校服｜穿搭分解",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/02-校服/02-穿搭分解.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "0b2da0a3-ffc9-4f21-b7b7-cceb5f575518",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1100,
+        "y": 3350
+      },
+      "data": {
+        "label": "校服｜妆造分解",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/02-校服/03-妆造分解.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "3674851b-cce2-485e-837a-1c6ff0846fe7",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1100,
+        "y": 4250
+      },
+      "data": {
+        "label": "校服｜正面半身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/02-校服/独立视图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "7d33c49a-8c63-4e28-b369-87fe69b203d4",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1600,
+        "y": 4250
+      },
+      "data": {
+        "label": "校服｜左向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/02-校服/独立视图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "01365051-b615-4e8f-816d-91864ab48bf5",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1100,
+        "y": 5300
+      },
+      "data": {
+        "label": "校服｜背面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/02-校服/独立视图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "ae769e11-9463-4e21-9a11-52f9234660aa",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1600,
+        "y": 5300
+      },
+      "data": {
+        "label": "校服｜右向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/02-校服/独立视图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "cb3751cf-8dd5-4c4d-81d6-83b0e7ce7ee5",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2200,
+        "y": 650
+      },
+      "data": {
+        "label": "睡衣｜主图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/03-睡衣/00-主图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "0cfff1da-4182-4bb2-8dd0-99f8acf3a014",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2200,
+        "y": 1550
+      },
+      "data": {
+        "label": "睡衣｜四视图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/03-睡衣/01-四视图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "ce24a004-df3e-4873-b39f-d4c062bd8107",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2200,
+        "y": 2450
+      },
+      "data": {
+        "label": "睡衣｜穿搭分解",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/03-睡衣/02-穿搭分解.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "7bf01b1d-7a0f-4272-a9a8-0edcfc4f5814",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2200,
+        "y": 3350
+      },
+      "data": {
+        "label": "睡衣｜妆造分解",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/03-睡衣/03-妆造分解.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "acfed110-a374-4e4e-80b7-ede443d2429c",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2200,
+        "y": 4250
+      },
+      "data": {
+        "label": "睡衣｜正面半身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/03-睡衣/独立视图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "dd747961-a1d0-4b8a-b903-2c68e45d22db",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2700,
+        "y": 4250
+      },
+      "data": {
+        "label": "睡衣｜左向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/03-睡衣/独立视图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "f4ffa82f-746e-4dc5-b0a8-b506aa16291b",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2200,
+        "y": 5300
+      },
+      "data": {
+        "label": "睡衣｜背面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/03-睡衣/独立视图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "bc9d8544-4e81-4789-907c-e3be45c995c1",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2700,
+        "y": 5300
+      },
+      "data": {
+        "label": "睡衣｜右向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/03-睡衣/独立视图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "cf794101-58af-4a04-bb6e-e079283e4eda",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3300,
+        "y": 650
+      },
+      "data": {
+        "label": "工作服｜主图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/04-工作服/00-主图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "6c40f166-ad8c-4fe3-a395-aee7cad4d210",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3300,
+        "y": 1550
+      },
+      "data": {
+        "label": "工作服｜四视图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/04-工作服/01-四视图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "6fac9049-176f-4104-9184-9c367f873e89",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3300,
+        "y": 2450
+      },
+      "data": {
+        "label": "工作服｜穿搭分解",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/04-工作服/02-穿搭分解.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "56e02cb6-b54d-4d1e-926c-f283cb8d80b5",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3300,
+        "y": 3350
+      },
+      "data": {
+        "label": "工作服｜妆造分解",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/04-工作服/03-妆造分解.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "78c32ab7-61ab-4427-90f5-e80088cd9a3b",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3300,
+        "y": 4250
+      },
+      "data": {
+        "label": "工作服｜正面半身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/04-工作服/独立视图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "9d84158c-a8ad-4233-910d-174ee7f10e0e",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3800,
+        "y": 4250
+      },
+      "data": {
+        "label": "工作服｜左向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/04-工作服/独立视图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "499b81df-7963-4efd-ad23-772a69629891",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3300,
+        "y": 5300
+      },
+      "data": {
+        "label": "工作服｜背面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/04-工作服/独立视图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "69878fa2-51df-445a-8ec1-5531123a2df9",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3800,
+        "y": 5300
+      },
+      "data": {
+        "label": "工作服｜右向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "人物一致性修复-20261013-v1.0/04-工作服/独立视图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "810871b8-5d19-41c8-8156-261d3795f018",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4500,
+        "y": 650
+      },
+      "data": {
+        "label": "面容依据｜面容依据·服装为历史",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "主角定稿素材-20261013/00-面容依据/面容主参考-便服07.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "96f507ba-3814-487b-9071-aae5b0221c41",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4500,
+        "y": 1650
+      },
+      "data": {
+        "label": "场景参考｜卧室02·方向参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "主角定稿素材-20261013/05-场景参考/01-半园卧室02.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "e0ed5a1a-3f63-442e-9c06-2027b343179c",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4500,
+        "y": 2650
+      },
+      "data": {
+        "label": "场景参考｜工坊03·方向参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "主角定稿素材-20261013/05-场景参考/02-半园修复工坊03.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "eaa25d7b-00c6-4c1b-86d6-c060326984b7",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 5500,
+        "y": 0
+      },
+      "data": {
+        "label": "汤圆01｜糯玉团子·待审候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "汤圆设计-20261013-v0.1/汤圆01-糯玉团子候选.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "c518cb32-d49f-4214-b356-6cd529628460",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 6150,
+        "y": 0
+      },
+      "data": {
+        "label": "汤圆01｜提示词与来源·待审",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/c518cb32-d49f-4214-b356-6cd529628460/content.md"
+      }
+    },
+    {
+      "id": "1bb8b172-d828-4509-852c-f7b7a52c5069",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 5500,
+        "y": 1500
+      },
+      "data": {
+        "label": "汤圆参考｜真实汤圆·形态与材质",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "汤圆设计-20261013-v0.1/参考/真实汤圆-TingTingsNest.jpg",
+              "mimeType": "image/jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "5fec720c-3fd3-44c9-aad4-ae137ac4a67c",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 5500,
+        "y": 3000
+      },
+      "data": {
+        "label": "汤圆02｜柔光温润·当前采用稿",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "汤圆设计-20261013-v0.2/汤圆02-柔光温润候选.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "eec3adf2-962b-4345-a682-8cc57d5cf1d9",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 6150,
+        "y": 3000
+      },
+      "data": {
+        "label": "汤圆02｜材质调整提示词与记录",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/eec3adf2-962b-4345-a682-8cc57d5cf1d9/content.md"
+      }
+    },
+    {
+      "id": "cba8825e-13c4-4388-b939-8abe3abe7d32",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 5500,
+        "y": -850
+      },
+      "data": {
+        "label": "汤圆｜当前表达设定·会说话但发音含混",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/cba8825e-13c4-4388-b939-8abe3abe7d32/content.md"
+      }
+    },
+    {
+      "id": "ab4e0309-999c-4c49-bb96-e8412c7d1c82",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 7300,
+        "y": 0
+      },
+      "data": {
+        "label": "EP01-BG-001｜学院女生·四视图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/01-学院女生/01-四视图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "41bf83dd-564c-4f54-a032-122257e55762",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 7300,
+        "y": -950
+      },
+      "data": {
+        "label": "首集背景群像｜索引与使用说明",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/41bf83dd-564c-4f54-a032-122257e55762/content.md"
+      }
+    },
+    {
+      "id": "57e42b34-ceb7-4019-8d10-6ec14c06dd37",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8000,
+        "y": 0
+      },
+      "data": {
+        "label": "EP01-BG-001｜学院女生·正面半身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "3697fbad-7372-4fab-b73e-3164d999c0b1",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8480,
+        "y": 0
+      },
+      "data": {
+        "label": "EP01-BG-001｜学院女生·左向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "13f8e6ab-e39e-4cbb-ba3d-5c060fcf9b71",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8960,
+        "y": 0
+      },
+      "data": {
+        "label": "EP01-BG-001｜学院女生·背面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "64bb16a2-3f77-49a2-a24c-9d777d9db3bd",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 9440,
+        "y": 0
+      },
+      "data": {
+        "label": "EP01-BG-001｜学院女生·右向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/01-学院女生/独立视图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "dc9749b4-6987-4980-a278-e2ac03dce5bd",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 10000,
+        "y": 0
+      },
+      "data": {
+        "label": "EP01-BG-001｜学院女生·提示词与来源",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/dc9749b4-6987-4980-a278-e2ac03dce5bd/content.md"
+      }
+    },
+    {
+      "id": "dd65e2f7-4139-4019-b6ad-f359b9252692",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 7300,
+        "y": 1500
+      },
+      "data": {
+        "label": "EP01-BG-002｜学院男生·四视图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/02-学院男生/01-四视图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "3dae4f2c-73e2-47a1-911e-38c35ea4efcf",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8000,
+        "y": 1500
+      },
+      "data": {
+        "label": "EP01-BG-002｜学院男生·正面半身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "4d351ea3-593c-44ef-90c0-e92a2a1995e7",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8480,
+        "y": 1500
+      },
+      "data": {
+        "label": "EP01-BG-002｜学院男生·左向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "c4fc7fc1-12b1-4025-a50c-d33f36ac6ed0",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8960,
+        "y": 1500
+      },
+      "data": {
+        "label": "EP01-BG-002｜学院男生·背面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "4ff80b20-02ca-4694-b135-09f3da141712",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 9440,
+        "y": 1500
+      },
+      "data": {
+        "label": "EP01-BG-002｜学院男生·右向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/02-学院男生/独立视图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "f953618a-9a77-4f88-b3c5-27d1f11d83da",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 10000,
+        "y": 1500
+      },
+      "data": {
+        "label": "EP01-BG-002｜学院男生·提示词与来源",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/f953618a-9a77-4f88-b3c5-27d1f11d83da/content.md"
+      }
+    },
+    {
+      "id": "8d78ee5b-ebb7-4488-a03b-77c05d9724ff",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 7300,
+        "y": 3000
+      },
+      "data": {
+        "label": "EP01-BG-003｜生活园女居民·四视图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/01-四视图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "7d7ccca1-7bc3-4e94-9450-5df663bda4bc",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8000,
+        "y": 3000
+      },
+      "data": {
+        "label": "EP01-BG-003｜生活园女居民·正面半身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "68f0b840-46f5-4573-8ca5-1285b91443bf",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8480,
+        "y": 3000
+      },
+      "data": {
+        "label": "EP01-BG-003｜生活园女居民·左向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "f1da913d-bd81-4953-bede-289519019ca0",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8960,
+        "y": 3000
+      },
+      "data": {
+        "label": "EP01-BG-003｜生活园女居民·背面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "3cb7cd23-94dc-4f82-a5f0-60aa7790ba1d",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 9440,
+        "y": 3000
+      },
+      "data": {
+        "label": "EP01-BG-003｜生活园女居民·右向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/03-生活园女居民/独立视图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1a379660-80ad-48c5-b53a-d10001f5dab7",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 10000,
+        "y": 3000
+      },
+      "data": {
+        "label": "EP01-BG-003｜生活园女居民·提示词与来源",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/1a379660-80ad-48c5-b53a-d10001f5dab7/content.md"
+      }
+    },
+    {
+      "id": "c7040dad-e288-4af4-836e-9a98986b80b6",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 7300,
+        "y": 4500
+      },
+      "data": {
+        "label": "EP01-BG-004｜手艺园男活动者·四视图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/01-四视图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "98e515ad-ac23-4311-a72f-59d2b7a28c9a",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8000,
+        "y": 4500
+      },
+      "data": {
+        "label": "EP01-BG-004｜手艺园男活动者·正面半身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "dda1db59-64a4-46d6-bef9-2c117fc1c559",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8480,
+        "y": 4500
+      },
+      "data": {
+        "label": "EP01-BG-004｜手艺园男活动者·左向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "0a2f44e9-9fa0-485f-beec-5371f0db8544",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8960,
+        "y": 4500
+      },
+      "data": {
+        "label": "EP01-BG-004｜手艺园男活动者·背面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "df58b783-3c08-4446-9ede-75dda361ecbe",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 9440,
+        "y": 4500
+      },
+      "data": {
+        "label": "EP01-BG-004｜手艺园男活动者·右向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/04-手艺园男活动者/独立视图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "0193bc60-186c-4aac-959f-82059f2a9326",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 10000,
+        "y": 4500
+      },
+      "data": {
+        "label": "EP01-BG-004｜手艺园男活动者·提示词与来源",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/0193bc60-186c-4aac-959f-82059f2a9326/content.md"
+      }
+    },
+    {
+      "id": "76fb6327-5b64-4a4b-8596-2f1e0f2d8286",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 7300,
+        "y": 6000
+      },
+      "data": {
+        "label": "EP01-BG-005｜人工生命居民·四视图",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/01-四视图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "90e86fa5-135b-47e0-a44a-0a8f3a5e2e76",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8000,
+        "y": 6000
+      },
+      "data": {
+        "label": "EP01-BG-005｜人工生命居民·正面半身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "61c1ce2b-a84b-4eae-8452-98e51f4ed2de",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8480,
+        "y": 6000
+      },
+      "data": {
+        "label": "EP01-BG-005｜人工生命居民·左向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "e253e33c-a6e2-4ad9-b98d-62943f4b340f",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8960,
+        "y": 6000
+      },
+      "data": {
+        "label": "EP01-BG-005｜人工生命居民·背面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "79c6c535-a2b8-41e0-865a-54ec6c5312cb",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 9440,
+        "y": 6000
+      },
+      "data": {
+        "label": "EP01-BG-005｜人工生命居民·右向侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "首集背景群像四视图-20261014-v1.0/05-人工生命居民/独立视图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "8ff6698b-1179-4156-b667-b74a3067ed52",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 10000,
+        "y": 6000
+      },
+      "data": {
+        "label": "EP01-BG-005｜人工生命居民·提示词与来源",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/8ff6698b-1179-4156-b667-b74a3067ed52/content.md"
+      }
+    },
+    {
+      "id": "531d6d8f-11ad-452f-8a9f-02d23103c0da",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 11600,
+        "y": 0
+      },
+      "data": {
+        "label": "安清意｜现代练功服·短裤高马尾主图·鞋袜v0.2·阶段采用",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "安清意现代练功服-20261014-v0.2/00-全身主图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "6ec23eea-703b-48d9-97ed-5c44129cef28",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 11600,
+        "y": 1800
+      },
+      "data": {
+        "label": "安清意｜现代练功服·四视图·鞋袜v0.2·阶段采用",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "安清意现代练功服-20261014-v0.2/01-四视图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "4ab0d9b5-9aab-43a9-88e0-f21f9246c941",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 12300,
+        "y": 1800
+      },
+      "data": {
+        "label": "安清意｜现代练功服·正面半身·鞋袜v0.2",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "安清意现代练功服-20261014-v0.2/独立视图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "86d5896e-4121-4019-ac5d-7c24df71e82e",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 12800,
+        "y": 1800
+      },
+      "data": {
+        "label": "安清意｜现代练功服·左向侧面·鞋袜v0.2",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "安清意现代练功服-20261014-v0.2/独立视图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "919d64b6-c035-4feb-b87a-0318f4d43205",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 13300,
+        "y": 1800
+      },
+      "data": {
+        "label": "安清意｜现代练功服·背面·鞋袜v0.2",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "安清意现代练功服-20261014-v0.2/独立视图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2cd79f9d-63f9-4b8d-8fa1-4ecbea493e6a",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 13800,
+        "y": 1800
+      },
+      "data": {
+        "label": "安清意｜现代练功服·右向侧面·鞋袜v0.2",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "安清意现代练功服-20261014-v0.2/独立视图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "41d42a53-c34e-43da-8bcf-6cc52f8a67cd",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 12300,
+        "y": 0
+      },
+      "data": {
+        "label": "安清意｜现代练功服·当前要求与版本·鞋袜v0.2·阶段采用",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/41d42a53-c34e-43da-8bcf-6cc52f8a67cd/content.md"
+      }
+    },
+    {
+      "id": "76fa21f6-106c-4b44-91d8-70bf73aec3d3",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 14100,
+        "y": 0
+      },
+      "data": {
+        "label": "安清意｜现代练功服·实际提示词·鞋袜v0.2",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/76fa21f6-106c-4b44-91d8-70bf73aec3d3/content.md"
+      }
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 545.4482758620688,
+    "y": 439.3509139032923,
+    "zoom": 0.2
+  }
+}

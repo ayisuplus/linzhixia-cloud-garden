@@ -1,0 +1,12 @@
+{
+  "status": "candidate_pending_review",
+  "tool": "image_gen",
+  "file": "知夏-睡衣07-荷叶织纹与发箍.png",
+  "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-d493db50-1e56-47f6-9905-02e3d2cdfc18.png",
+  "sha256": "484a0723e745a30a3e89d3d2b0a113a8f1e8a5afbbaf87082aa4841b8c7556c8",
+  "size": [
+    1024,
+    1536
+  ],
+  "materialReference": "参考/荷叶表面-Unsplash-Sebastian-Schuster.jpg"
+}

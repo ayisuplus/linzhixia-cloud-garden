@@ -1,0 +1,246 @@
+{
+  "version": "v06",
+  "status": "reference_candidate_pending_author_review",
+  "artifacts": [
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/.gitignore",
+      "bytes": 88,
+      "sha256": "ec6a311495260859605b1344c6da8bbacafbdc277bbb6f575d62516badf509cf"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/B01-layered-city-0-30s.mp4",
+      "bytes": 6132305,
+      "sha256": "f014da73e86ba557d577577e4039e989ea29f8aa3de63bad2c0402a9112ea38e"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/B02-layered-city-28-58s.mp4",
+      "bytes": 5889860,
+      "sha256": "6659be513b8ed9c55d6bbaecc306e746cfe4161d6b7aa280bfa36a6e88ce3c19"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/cloud-city-layered-58s-v06.blend",
+      "bytes": 96235972,
+      "sha256": "171e9b615fea0990a125457cee0a614455923f93660ea65a653852148e2ee214"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/cloud-city-layered-flight-58s-v06.mp4",
+      "bytes": 11709349,
+      "sha256": "7e9338ce8178fad3263149ceb3d00a02bed56712ed5d11e5db68b37caaa966b7"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/cloud-inventory.json",
+      "bytes": 47918,
+      "sha256": "b06f2d77de746f1962e1a84a2d4d29a351ec93dd551c2de4f0feff83ba0a8264"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/contact-01.jpg",
+      "bytes": 414966,
+      "sha256": "5ef71715829df6682c6e38df4861bb6267a1217b9e8b4019e1e3466ac61f8bea"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/contact-02.jpg",
+      "bytes": 456977,
+      "sha256": "686917a60711229f909887c2dbfcaaa6adab04fe43f287febf6ebc3f096dd938"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/contact-03.jpg",
+      "bytes": 414995,
+      "sha256": "12247fcfe3322a2a7fec5968feaea019ecc471fe9e5cb31ed763c7b5abf97625"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/contact-04.jpg",
+      "bytes": 131518,
+      "sha256": "a4c2d58440df36402be060974d2da68a5a4136906165cf25f4c8250b947f0b2c"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/diagnostic-no-envelope/0600.png",
+      "bytes": 661519,
+      "sha256": "bd8e99eb18580bc331e6efa3a7f112361ff02408fbfa7d83f77b1af62327f1c9"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/diagnostic-no-envelope/0697.png",
+      "bytes": 553086,
+      "sha256": "789f570b080d54ef49c514e16f84682e64f61282feb91a26880b3e621cb1b928"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/diagnostic-no-envelope.blend",
+      "bytes": 129606507,
+      "sha256": "b4c462a5b39cf62ec864c19d8dc9e60138ca7c38b05dfe3dc626007430b0aff9"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/diagnostic-no-support/0375.png",
+      "bytes": 756746,
+      "sha256": "e592669cc90e1ae5778b102872fb0368f2808d955d2ff4a2ff616006e920d320"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/diagnostic-no-support/0600.png",
+      "bytes": 687107,
+      "sha256": "03c50f595521a995d2f40d1ae333adfc653fb46651cabaf91044cbf2db802722"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/diagnostic-no-support/0697.png",
+      "bytes": 573154,
+      "sha256": "91d7d91b103c18fe3276da3aac8d291a996c7bcb53fc84ab08692b06107e006c"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/diagnostic-no-support/1177.png",
+      "bytes": 669923,
+      "sha256": "010dc73c81b0cac44a5738754ead4365a7af1aadb14fb6f197346e4319adb926"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/diagnostic-no-support.blend",
+      "bytes": 129606653,
+      "sha256": "69a4fe4b6f6104758d68b9574875c904776eb262a17975dd7f259b71159939bf"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/final-review.md",
+      "bytes": 1534,
+      "sha256": "9b47cd779941baad41ae48d7bef1065c5ccd5ed4180f363bfba0c2b4e462b26a"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/frame-statistics.json",
+      "bytes": 231569,
+      "sha256": "487de289f15d246ee33bd4d59b804285a99f01248c74e2e55d337f306e4a5a0d"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/independent-audit.json",
+      "bytes": 3279,
+      "sha256": "0596d19b843052e62f625bb9fae44524bbe9edd0334f8338dccdd3b2a4f77a36"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/independent-audit.py",
+      "bytes": 6251,
+      "sha256": "8510244441a15d1fac678cb6e522abf3e7150b02bcb7e8db82242abbdf9b26b2"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/media-validation.json",
+      "bytes": 1797,
+      "sha256": "b6ae8433a6e49416d331476bb203978ca5fa70e95e4f589aa69d50c72b3fd61a"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/preview-v06/0375.png",
+      "bytes": 750824,
+      "sha256": "57094eae572f90f594e81a2ba2339ec151e6bfa9b002e3ef18c265ebecc7dbf0"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/preview-v06/0600.png",
+      "bytes": 691341,
+      "sha256": "1f1ef408a1b6db6604b2b316b543ef7c3c25cfa19360809efca6e3dbaaf0453e"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/preview-v06/0697.png",
+      "bytes": 583558,
+      "sha256": "f248cbd58b72ef3a763dd19740ca81ca8fee9caa7387e6e2862f002607f01a6d"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/preview-v06/0900.png",
+      "bytes": 592132,
+      "sha256": "6de25730a4dac2fe7cc54653fab49448515a16f0d24037d82d83ce1179f5bda7"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/preview-v06/1177.png",
+      "bytes": 673856,
+      "sha256": "f4921a11d5df44b08ac2e2cbbbf947b32d5dd69ccc53ee2382ba193f508632c8"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/proxy-image-comparison.json",
+      "bytes": 263,
+      "sha256": "ea8d5e9357fb55085e74fd21ee0f7dbf0f9a0e1529614d2de8faef5dac694aac"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/README.md",
+      "bytes": 2922,
+      "sha256": "92814177392e3dee428ada92f0ec21fac502838bab5321dc71815a7866f55364"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/render-only-batched-v06.blend",
+      "bytes": 129621868,
+      "sha256": "55b9e04e720db0f43cd2854d5676390233286e966a0a5d543f7db10bb294fe4a"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/review-template.html",
+      "bytes": 2848,
+      "sha256": "aec21c6f37f5548d16a85cfcb3c043537112cd5501fddd10b287063c9bff7ea7"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/review-v06.md",
+      "bytes": 2043,
+      "sha256": "95482d42f31f644b62264324d78e006ee8c9f37adfe2bd844baeab678ce06d38"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/review.html",
+      "bytes": 3982,
+      "sha256": "5da316ebb9b27fb986df974cd99d70f2d9dfc132839d6ac9da88d1b5f6929a0c"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/revision.json",
+      "bytes": 737,
+      "sha256": "faf2c2e2f3d870becfe056762ad5714dfe8068f61eb4f7edb41f347a0d8c9771"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/source-check/0600.png",
+      "bytes": 690691,
+      "sha256": "48b054e18601ec289350853845d4aa6f1ba6a82af367e6a8e25bc492dc71adbd"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/source-check/0697.png",
+      "bytes": 583465,
+      "sha256": "2dbada7e8df80683815760f4dafb714265c40cffe8730d0b8d8fca8983a7606f"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/trial-a-preview/0375.png",
+      "bytes": 749771,
+      "sha256": "b3d8835dbb4f3ef921745a9be630ae73860c2533dd1f79eb765d6e0868323b9f"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/trial-a-preview/0600.png",
+      "bytes": 688696,
+      "sha256": "2d1942f9af10a96784016d107b00035c9ddbe24f54d20c03947595785fe0686e"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/trial-a-preview/0697.png",
+      "bytes": 581747,
+      "sha256": "45875970c2e162791c7f4afec13c669570d87538983285010d554d815ead6c25"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/trial-a-preview/0900.png",
+      "bytes": 588774,
+      "sha256": "27f42ef8a90f36937bc378682cdd5275d978e11a82b071c47114ce2181fd2e9a"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/trial-a-preview/1177.png",
+      "bytes": 674155,
+      "sha256": "3ceb682651b62d121ecebe41f32c6bab84fd6a29c9249e3c0ef188592749dc89"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/trial-a-soft-relief.blend",
+      "bytes": 129616552,
+      "sha256": "9df509569bcdd5fd31de071017ce229a82fc1e264fa23de0d7d34f91673fe03c"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/water-reveal-contact-01.jpg",
+      "bytes": 377912,
+      "sha256": "192f92983155993f91abc6079bab9056df18243d36e832a80c7b554427756bf9"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/water-reveal-contact-02.jpg",
+      "bytes": 479818,
+      "sha256": "831e5535de46186ffc598d1514457b6fc65ef6ee7d5c4408d2ca3067532ecbef"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/water-reveal-contact-03.jpg",
+      "bytes": 398020,
+      "sha256": "9473816d4e3304a65a2f1177f09ec33ea744ba7974acb47e5aa95e9bea458513"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/water-reveal-contact-04.jpg",
+      "bytes": 79158,
+      "sha256": "388e1dacc70050e299204777e061dadb08cf96fa016d6b46206cacf0e4b3e5ae"
+    },
+    {
+      "path": "视频制作/第一集云中园城-20261024-v0.4/打开云中园城v06.cmd",
+      "bytes": 103,
+      "sha256": "2d9a242a3d01a29b7280f5510fa9d9ddd2c9af70e6590050443db487e73db88e"
+    }
+  ]
+}

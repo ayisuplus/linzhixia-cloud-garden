@@ -1,0 +1,8551 @@
+{
+  "hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山谷植物-20261024-v0.1\\valley-masterplan-v10.blend": "85daea84928dd29e9f97ee752c534fa1fd33e284c308159f789f0fa9a91912a1",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山聚落-20261024-v0.1\\cloud-hamlet-masterplan-v11.blend": "078ea53ebb4272c6780dc52e8f942441a71b71eb1761014844c82aa8bc54037c",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山谷植物-20261024-v0.1\\valley-route-58s-v10.blend": "f22b16e120012d70c6e44273a93be15c4dee84c1a0e0843b73ff03d63140691a",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山聚落-20261024-v0.1\\cloud-hamlet-route-58s-v11.blend": "a10778091367c98000f9d9b0ba43b87eb0f1f6a8ffa4274069eb157c0d0743f3",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山谷植物-20261024-v0.1\\route-poses.json": "26d80f81589e1d393baa759e0e3daf9d6fefc79d241513d9c124d3849e8593ba",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山聚落-20261024-v0.1\\route-poses.json": "26d80f81589e1d393baa759e0e3daf9d6fefc79d241513d9c124d3849e8593ba",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山聚落-20261024-v0.1\\landscape-data.json": "19143db4a7f29f961959c447d1fc54207f3a4b855b9c9c8f8c9f373ad0cb9c55"
+  },
+  "stable": true,
+  "allowed_removed_count": 1098,
+  "original_unallowed_object_changes": [],
+  "original_material_changes": [],
+  "ground_changed_vertex_count": 13576,
+  "tree_building_surface_intersections": [],
+  "new_house_old_building_surface_intersections": [],
+  "full_flight_27_swept_hits": [],
+  "old_walk_core_new_object_hits": [],
+  "old_road_ground_change_samples": [],
+  "rock_building_surface_intersections": [],
+  "rock_boundary_support": [
+    {
+      "name": "Continuous rooted rock seam 1",
+      "boundary_vertex_count": 80,
+      "boundary_ground_offset_min_max_m": [
+        -0.3000030517578125,
+        -0.3000030517578125
+      ]
+    },
+    {
+      "name": "Continuous rooted rock seam 2",
+      "boundary_vertex_count": 80,
+      "boundary_ground_offset_min_max_m": [
+        -0.3000030517578125,
+        -0.3000030517578125
+      ]
+    },
+    {
+      "name": "Continuous rooted rock seam 3",
+      "boundary_vertex_count": 80,
+      "boundary_ground_offset_min_max_m": [
+        -0.3000030517578125,
+        -0.3000030517578125
+      ]
+    },
+    {
+      "name": "Continuous rooted rock seam 4",
+      "boundary_vertex_count": 80,
+      "boundary_ground_offset_min_max_m": [
+        -0.3000030517578125,
+        -0.3000030517578125
+      ]
+    },
+    {
+      "name": "Continuous rooted rock seam 5",
+      "boundary_vertex_count": 80,
+      "boundary_ground_offset_min_max_m": [
+        -0.3000030517578125,
+        -0.2999992370605469
+      ]
+    },
+    {
+      "name": "Continuous rooted rock seam 6",
+      "boundary_vertex_count": 80,
+      "boundary_ground_offset_min_max_m": [
+        -0.3000030517578125,
+        -0.2999992370605469
+      ]
+    }
+  ],
+  "step_landing_bottom_corners": [
+    {
+      "name": "H1 bank approach stone step",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.28452301025390625,
+        -0.27878570556640625
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.28980255126953125,
+        -0.28403472900390625
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.29511260986328125,
+        -0.28937530517578125
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.30030059814453125,
+        -0.29462432861328125
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.30545806884765625,
+        -0.29984283447265625
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.29001617431640625,
+        -0.28440093994140625
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.006",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.007",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.008",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.009",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.010",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.26580047607421875,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.011",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.283843994140625,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.012",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.013",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.014",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.015",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.016",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.017",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.018",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.019",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.020",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.021",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.022",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.023",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.024",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.025",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.026",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.027",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.028",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.029",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.030",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.031",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.032",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.033",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.034",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.035",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.036",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.037",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.038",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.039",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.040",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.041",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.042",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.043",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.044",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.045",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.046",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.047",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.048",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.049",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.050",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.051",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.052",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.053",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.054",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.055",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.056",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.057",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.058",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.059",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.060",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.061",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.062",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.063",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach turning landing",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.064",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.065",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.066",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.067",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.068",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.069",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.070",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.071",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.072",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.073",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.074",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.075",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.076",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.077",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.078",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.079",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.080",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.081",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.082",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.083",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.084",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.085",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.086",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.087",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.088",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.089",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.090",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.091",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.092",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.093",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.094",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.095",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.096",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.097",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.098",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.099",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.100",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.101",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach stone step.102",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach turning landing.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 bank approach arrival landing",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.006",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.007",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.008",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.009",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.010",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.011",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.012",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.013",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.014",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.015",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.016",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.017",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.018",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.019",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.020",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.021",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.022",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.023",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.024",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.025",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.026",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.027",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.028",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.029",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.030",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.031",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.032",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.033",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.034",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.035",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.036",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.037",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.038",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.039",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.040",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.041",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.042",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.043",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.044",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.045",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.046",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.047",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.048",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.049",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.050",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.051",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.052",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.053",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.054",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.055",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.056",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.057",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.058",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.059",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.060",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.061",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.062",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.063",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.064",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.065",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.066",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.067",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.068",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.069",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.070",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.071",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.072",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.073",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.074",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.075",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps turning landing",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.076",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.077",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.078",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.079",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.080",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.081",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.082",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.083",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.084",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25156402587890625,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.085",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.32694244384765625,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.086",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.40238189697265625,
+        -0.31113433837890625
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.087",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.47788238525390625,
+        -0.38654327392578125
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.088",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.4483489990234375,
+        -0.4296417236328125
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.089",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.2723541259765625,
+        -0.3482208251953125
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.090",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.091",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.092",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.093",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.094",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.095",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.096",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.097",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.098",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.099",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.100",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.101",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.102",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.103",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.104",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.105",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.106",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.107",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.108",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.109",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.110",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.111",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.112",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.113",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.114",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.115",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.116",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.117",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.118",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.119",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.120",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.121",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.122",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.123",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.124",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.125",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.126",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.127",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.128",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.129",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.130",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.131",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.132",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.133",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.134",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.135",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.136",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.137",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.138",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.139",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.140",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.141",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.142",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.143",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.144",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.145",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.146",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.147",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.148",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.149",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.150",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.151",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.152",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.153",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps turning landing.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.35639190673828125,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.154",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.155",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.156",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.157",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.158",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.159",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.160",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.161",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.162",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.163",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.164",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.165",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.166",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.167",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.168",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.169",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.170",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.171",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.172",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.173",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.174",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.175",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.176",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.177",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.178",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.179",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.180",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.181",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.182",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.183",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.184",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.185",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.186",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.187",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.188",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.189",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.190",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.191",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.192",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.193",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.194",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.195",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.196",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.197",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.198",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.199",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.200",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.201",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.202",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.203",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.204",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.205",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.206",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.207",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.208",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.209",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.210",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.211",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.212",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.213",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps stone step.214",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H1 uphill steps turning landing.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.6088943481445312
+      ]
+    },
+    {
+      "name": "H1 uphill steps arrival landing",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step",
+      "bottom_corner_ground_offsets_m": [
+        -0.2600555419921875,
+        -0.2723236083984375,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.2712860107421875,
+        -0.2837677001953125,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.2827606201171875,
+        -0.2951812744140625,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.2941436767578125,
+        -0.3065032958984375,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.3055267333984375,
+        -0.3175506591796875,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.30332183837890625,
+        -0.31555938720703125,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.006",
+      "bottom_corner_ground_offsets_m": [
+        -0.28354644775390625,
+        -0.29608917236328125,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.007",
+      "bottom_corner_ground_offsets_m": [
+        -0.2596282958984375,
+        -0.2721710205078125,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.008",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.009",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.010",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.011",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.012",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.013",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.014",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.015",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.016",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.017",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.018",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.019",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.020",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.021",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.022",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.023",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.024",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.025",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.026",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.027",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.028",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.029",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.030",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.031",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.032",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.033",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.034",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.035",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.036",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.037",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.038",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.039",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.040",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.041",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.042",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.043",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.044",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.045",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.046",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.047",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.048",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.049",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.050",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.051",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.052",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.053",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.054",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.055",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.056",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.057",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.058",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.059",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach turning landing",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.060",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.061",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.062",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.063",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.064",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.065",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.066",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.067",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.068",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.069",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.070",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.071",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.072",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.073",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.074",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.075",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.076",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.077",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.078",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.079",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.080",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.081",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.082",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.083",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.084",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.085",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.086",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.087",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.088",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.089",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.090",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.091",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.092",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.093",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.094",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.095",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.096",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.097",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.098",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.099",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.100",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.101",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach stone step.102",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach turning landing.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 bank approach arrival landing",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.006",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.007",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.008",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.009",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.010",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.011",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.012",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.013",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.014",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.015",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.016",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.017",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.018",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.019",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.020",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.021",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.022",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.023",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.024",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.025",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.026",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.027",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.028",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.029",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.030",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.031",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.032",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.033",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.034",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.035",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.036",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.037",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.038",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.039",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.040",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.041",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.042",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.043",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.044",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.045",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.046",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.047",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.048",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.049",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.050",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.051",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.052",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.053",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.054",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.055",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.056",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.057",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.058",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.059",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.060",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.061",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.062",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.063",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.064",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.065",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.066",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.067",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.068",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.069",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.070",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.071",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.072",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.073",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.074",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.075",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.076",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.077",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.078",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.079",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.080",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.081",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.082",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.083",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.084",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps turning landing",
+      "bottom_corner_ground_offsets_m": [
+        -0.37644195556640625,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.085",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.086",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.087",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.088",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.089",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.090",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.091",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.092",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.093",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.094",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.095",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.096",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.097",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.098",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.099",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.100",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.101",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.102",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.103",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.104",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.105",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.106",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.107",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.108",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.109",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.110",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.111",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.112",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.113",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.114",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.115",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.116",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.117",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.118",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps stone step.119",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps turning landing.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.26090240478515625,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H2 uphill steps arrival landing",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.2544212341308594,
+        -0.2542381286621094
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.2546043395996094,
+        -0.2544212341308594
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.2547264099121094,
+        -0.2545738220214844
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.2548789978027344,
+        -0.2547264099121094
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.2932395935058594,
+        -0.2548484802246094
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.317596435546875,
+        -0.274017333984375
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.006",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.319580078125,
+        -0.27606201171875
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.007",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.3193626403808594,
+        -0.2714195251464844
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.008",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.3200263977050781,
+        -0.2707405090332031
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.009",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.3207511901855469,
+        -0.2714653015136719
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.010",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.32144927978515625,
+        -0.27213287353515625
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.011",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.2728271484375
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.012",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.013",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.014",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.015",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.016",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.017",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.018",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.019",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.020",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.021",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.022",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.023",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.024",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.025",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.026",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.027",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.028",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.029",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.030",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.031",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.032",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.033",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.034",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.035",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.036",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.037",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.038",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.039",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.040",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.041",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.042",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.043",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.044",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.045",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.046",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.047",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.048",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.049",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.050",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.051",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.052",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.053",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.054",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.055",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.056",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.057",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.058",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.059",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.060",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.061",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.062",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.063",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.064",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.065",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.066",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.067",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach turning landing",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.068",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.069",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.070",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.071",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.072",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.073",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.074",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.075",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.076",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.077",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.078",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.079",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.080",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.081",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.082",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.083",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.084",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.085",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.086",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.087",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.088",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.089",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.090",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.091",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.092",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.093",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.094",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.095",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.096",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.097",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.098",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.099",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.100",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.101",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.102",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.103",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.104",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.105",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach stone step.106",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach turning landing.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 bank approach arrival landing",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.006",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.007",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.008",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.009",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.010",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.011",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.012",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.013",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.014",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.015",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.016",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.017",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.018",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.019",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.020",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.021",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.022",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.023",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.024",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.025",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.026",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.027",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.028",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.029",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.030",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.031",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.032",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.033",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.034",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.035",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.036",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.037",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.038",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.039",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.040",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.041",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.042",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.043",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.044",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.045",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.046",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.047",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.048",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.049",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.050",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.051",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.052",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.053",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.054",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.055",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.056",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.057",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.058",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.059",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.060",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.061",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.062",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.063",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.064",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.065",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.066",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.067",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.068",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.069",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.070",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.071",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.072",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.073",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.074",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.075",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.076",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.077",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.078",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.079",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.080",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.081",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.082",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.083",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.084",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.085",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.086",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.087",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.088",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps turning landing",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.089",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.090",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.091",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.092",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.093",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.094",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.095",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.096",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.097",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.098",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.099",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.100",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.101",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.102",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.103",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.104",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.105",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.106",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.107",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.108",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.109",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.110",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.111",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.112",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.113",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.114",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.115",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.116",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.117",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.118",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.119",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.120",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.121",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.122",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.123",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.124",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.125",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.126",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.127",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.128",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.129",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.130",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.131",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.132",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.133",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.134",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.135",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.136",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.137",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.138",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.139",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.140",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.141",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.142",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.143",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.144",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.145",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.146",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.147",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.148",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.149",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.150",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.151",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.152",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.153",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.154",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.155",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.156",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.157",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.158",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.159",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.160",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.161",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.162",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.163",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.164",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.165",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.166",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.167",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.168",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.169",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.170",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.171",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.172",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.173",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.174",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.175",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.176",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.177",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.178",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps turning landing.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.179",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.180",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.181",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.182",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.183",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.28678131103515625,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.184",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.185",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.186",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.187",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.188",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.189",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.190",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.191",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.192",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.193",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.194",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.195",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.196",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.197",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.198",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.199",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.200",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.201",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.202",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.203",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.204",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.205",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.206",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.207",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.208",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps stone step.209",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps turning landing.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.5177383422851562,
+        -0.25
+      ]
+    },
+    {
+      "name": "H3 uphill steps arrival landing",
+      "bottom_corner_ground_offsets_m": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25
+      ]
+    }
+  ],
+  "stilt_bottom_corners": [
+    {
+      "name": "H1 lower grounded stilt",
+      "bottom_corner_ground_offsets_m": [
+        -0.33864593505859375,
+        -0.28557586669921875,
+        -0.36138153076171875,
+        -0.41439056396484375
+      ]
+    },
+    {
+      "name": "H1 lower grounded stilt.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.25936126708984375,
+        -0.24535369873046875,
+        -0.44261932373046875,
+        -0.45464324951171875
+      ]
+    },
+    {
+      "name": "H1 lower grounded stilt.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.30211639404296875,
+        -0.27474212646484375,
+        -0.39794158935546875,
+        -0.42531585693359375
+      ]
+    },
+    {
+      "name": "H1 lower grounded stilt.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.24071502685546875,
+        -0.23952484130859375,
+        -0.45931243896484375,
+        -0.46102142333984375
+      ]
+    },
+    {
+      "name": "H1 lower grounded stilt.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.28020477294921875,
+        -0.27422332763671875,
+        -0.42543792724609375,
+        -0.42696380615234375
+      ]
+    },
+    {
+      "name": "H1 lower grounded stilt.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.24733734130859375,
+        -0.24297332763671875,
+        -0.45326995849609375,
+        -0.45702362060546875
+      ]
+    },
+    {
+      "name": "H1 upper grounded stilt",
+      "bottom_corner_ground_offsets_m": [
+        -0.13121795654296875,
+        -0.12938690185546875,
+        -0.5712203979492188,
+        -0.5714950561523438
+      ]
+    },
+    {
+      "name": "H1 upper grounded stilt.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.08422088623046875,
+        -0.09706878662109375,
+        -0.6154403686523438,
+        -0.6019210815429688
+      ]
+    },
+    {
+      "name": "H1 upper grounded stilt.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.11666107177734375,
+        -0.11965179443359375,
+        -0.5833663940429688,
+        -0.5804061889648438
+      ]
+    },
+    {
+      "name": "H1 upper grounded stilt.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.08956146240234375,
+        -0.09078216552734375,
+        -0.6104660034179688,
+        -0.6091842651367188
+      ]
+    },
+    {
+      "name": "H1 upper grounded stilt.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.12191009521484375,
+        -0.11974334716796875,
+        -0.5781173706054688,
+        -0.5802841186523438
+      ]
+    },
+    {
+      "name": "H1 upper grounded stilt.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.09664154052734375,
+        -0.08898162841796875,
+        -0.6016769409179688,
+        -0.6109848022460938
+      ]
+    },
+    {
+      "name": "H2 lower grounded stilt",
+      "bottom_corner_ground_offsets_m": [
+        -0.39006805419921875,
+        -0.27352142333984375,
+        -0.31014251708984375,
+        -0.42717742919921875
+      ]
+    },
+    {
+      "name": "H2 lower grounded stilt.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.40203094482421875,
+        -0.31917572021484375,
+        -0.29793548583984375,
+        -0.38082122802734375
+      ]
+    },
+    {
+      "name": "H2 lower grounded stilt.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.39162445068359375,
+        -0.28670501708984375,
+        -0.30681610107421875,
+        -0.41658782958984375
+      ]
+    },
+    {
+      "name": "H2 lower grounded stilt.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.40901947021484375,
+        -0.35991668701171875,
+        -0.29006195068359375,
+        -0.34011077880859375
+      ]
+    },
+    {
+      "name": "H2 lower grounded stilt.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.39965057373046875,
+        -0.32045745849609375,
+        -0.30031585693359375,
+        -0.37975311279296875
+      ]
+    },
+    {
+      "name": "H2 lower grounded stilt.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.41585540771484375,
+        -0.37828826904296875,
+        -0.28414154052734375,
+        -0.32173919677734375
+      ]
+    },
+    {
+      "name": "H2 upper grounded stilt",
+      "bottom_corner_ground_offsets_m": [
+        -0.5073471069335938,
+        -0.37740325927734375,
+        -0.19268035888671875,
+        -0.31789398193359375
+      ]
+    },
+    {
+      "name": "H2 upper grounded stilt.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.5225448608398438,
+        -0.35668182373046875,
+        -0.17748260498046875,
+        -0.34328460693359375
+      ]
+    },
+    {
+      "name": "H2 upper grounded stilt.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.5022201538085938,
+        -0.32933807373046875,
+        -0.19274139404296875,
+        -0.35973358154296875
+      ]
+    },
+    {
+      "name": "H2 upper grounded stilt.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.5377731323242188,
+        -0.37731170654296875,
+        -0.16182708740234375,
+        -0.32268524169921875
+      ]
+    },
+    {
+      "name": "H2 upper grounded stilt.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.5111312866210938,
+        -0.31887054443359375,
+        -0.18883514404296875,
+        -0.37932586669921875
+      ]
+    },
+    {
+      "name": "H2 upper grounded stilt.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.5552902221679688,
+        -0.40691375732421875,
+        -0.14473724365234375,
+        -0.29308319091796875
+      ]
+    },
+    {
+      "name": "H3 lower grounded stilt",
+      "bottom_corner_ground_offsets_m": [
+        -0.36751556396484375,
+        -0.30483245849609375,
+        -0.33254241943359375,
+        -0.39702606201171875
+      ]
+    },
+    {
+      "name": "H3 lower grounded stilt.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.33415985107421875,
+        -0.27773284912109375,
+        -0.36583709716796875,
+        -0.42229461669921875
+      ]
+    },
+    {
+      "name": "H3 lower grounded stilt.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.36489105224609375,
+        -0.31041717529296875,
+        -0.33519744873046875,
+        -0.38961029052734375
+      ]
+    },
+    {
+      "name": "H3 lower grounded stilt.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.32097625732421875,
+        -0.28206634521484375,
+        -0.37899017333984375,
+        -0.43230438232421875
+      ]
+    },
+    {
+      "name": "H3 lower grounded stilt.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.35540008544921875,
+        -0.30849456787109375,
+        -0.34465789794921875,
+        -0.39534759521484375
+      ]
+    },
+    {
+      "name": "H3 lower grounded stilt.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.28655242919921875,
+        -0.27898406982421875,
+        -0.41344451904296875,
+        -0.42101287841796875
+      ]
+    },
+    {
+      "name": "H3 upper grounded stilt",
+      "bottom_corner_ground_offsets_m": [
+        -0.20781707763671875,
+        -0.11022186279296875,
+        -0.49217987060546875,
+        -0.5897140502929688
+      ]
+    },
+    {
+      "name": "H3 upper grounded stilt.001",
+      "bottom_corner_ground_offsets_m": [
+        -0.13951873779296875,
+        -0.04897308349609375,
+        -0.5636520385742188,
+        -0.6709823608398438
+      ]
+    },
+    {
+      "name": "H3 upper grounded stilt.002",
+      "bottom_corner_ground_offsets_m": [
+        -0.21352386474609375,
+        -0.11348724365234375,
+        -0.48647308349609375,
+        -0.5864791870117188
+      ]
+    },
+    {
+      "name": "H3 upper grounded stilt.003",
+      "bottom_corner_ground_offsets_m": [
+        -0.14516448974609375,
+        -0.04711151123046875,
+        -0.5548934936523438,
+        -0.6547775268554688
+      ]
+    },
+    {
+      "name": "H3 upper grounded stilt.004",
+      "bottom_corner_ground_offsets_m": [
+        -0.18877410888671875,
+        -0.13018035888671875,
+        -0.5112228393554688,
+        -0.5697860717773438
+      ]
+    },
+    {
+      "name": "H3 upper grounded stilt.005",
+      "bottom_corner_ground_offsets_m": [
+        -0.14846038818359375,
+        -0.06511688232421875,
+        -0.5575485229492188,
+        -0.6348800659179688
+      ]
+    }
+  ],
+  "stairs": [
+    {
+      "id": "H1 bank approach",
+      "missing_samples": [],
+      "terrain_intrusions": [],
+      "headroom_hits": {
+        "Continuous bank lane 1": {
+          "point": [
+            -69.41429138183594,
+            572.7706298828125,
+            88.44449615478516
+          ],
+          "floor_z": 88.36182403564453,
+          "headroom_m": 0.082672119140625,
+          "lateral": 0.8,
+          "path_point": [
+            -68.73667584137992,
+            572.3453520912931,
+            88.36182644129971
+          ]
+        }
+      },
+      "step_support_bottom_center_max_gap_m": -0.25,
+      "step_support_bottom_center_max_gap_sample": {
+        "name": "H1 bank approach stone step",
+        "bottom_center_ground_gap_m": -0.25,
+        "point": [
+          -67.72956085205078,
+          571.692626953125,
+          87.81353759765625
+        ]
+      },
+      "max_successive_step_top_difference_m": 0.060394287109375,
+      "step_top_max_plan_difference_m": 3.7754401773781865e-06,
+      "sample_count_center": 309
+    },
+    {
+      "id": "H1 uphill steps",
+      "missing_samples": [],
+      "terrain_intrusions": [],
+      "headroom_hits": {},
+      "step_support_bottom_center_max_gap_m": -0.25,
+      "step_support_bottom_center_max_gap_sample": {
+        "name": "H1 uphill steps stone step",
+        "bottom_center_ground_gap_m": -0.25,
+        "point": [
+          -37.360450744628906,
+          585.0999755859375,
+          88.83050537109375
+        ]
+      },
+      "max_successive_step_top_difference_m": 0.16706085205078125,
+      "step_top_max_plan_difference_m": 3.798341694505325e-06,
+      "sample_count_center": 506
+    },
+    {
+      "id": "H2 bank approach",
+      "missing_samples": [],
+      "terrain_intrusions": [],
+      "headroom_hits": {
+        "Continuous bank lane -1": {
+          "point": [
+            9.01379680633545,
+            440.9259338378906,
+            78.55374908447266
+          ],
+          "floor_z": 78.48269653320312,
+          "headroom_m": 0.07105255126953125,
+          "lateral": -0.8,
+          "path_point": [
+            9.195843691593113,
+            440.14692327600466,
+            78.48269397111063
+          ]
+        }
+      },
+      "step_support_bottom_center_max_gap_m": -0.25,
+      "step_support_bottom_center_max_gap_sample": {
+        "name": "H2 bank approach stone step",
+        "bottom_center_ground_gap_m": -0.25,
+        "point": [
+          9.485955238342285,
+          438.9823913574219,
+          77.94769287109375
+        ]
+      },
+      "max_successive_step_top_difference_m": 0.07842254638671875,
+      "step_top_max_plan_difference_m": 3.8024421940008324e-06,
+      "sample_count_center": 309
+    },
+    {
+      "id": "H2 uphill steps",
+      "missing_samples": [],
+      "terrain_intrusions": [],
+      "headroom_hits": {},
+      "step_support_bottom_center_max_gap_m": -0.25,
+      "step_support_bottom_center_max_gap_sample": {
+        "name": "H2 uphill steps stone step",
+        "bottom_center_ground_gap_m": -0.25,
+        "point": [
+          -11.584901809692383,
+          410.94647216796875,
+          76.46383666992188
+        ]
+      },
+      "max_successive_step_top_difference_m": 0.1324005126953125,
+      "step_top_max_plan_difference_m": 3.7078527554967877e-06,
+      "sample_count_center": 360
+    },
+    {
+      "id": "H3 bank approach",
+      "missing_samples": [],
+      "terrain_intrusions": [],
+      "headroom_hits": {
+        "Continuous bank lane 1": {
+          "point": [
+            50.88454055786133,
+            281.0015869140625,
+            56.58906555175781
+          ],
+          "floor_z": 56.52177429199219,
+          "headroom_m": 0.067291259765625,
+          "lateral": 0.8,
+          "path_point": [
+            50.50600786103409,
+            280.2968103456516,
+            56.52177408816289
+          ]
+        }
+      },
+      "step_support_bottom_center_max_gap_m": -0.25,
+      "step_support_bottom_center_max_gap_sample": {
+        "name": "H3 bank approach stone step",
+        "bottom_center_ground_gap_m": -0.25,
+        "point": [
+          49.922794342041016,
+          279.2479248046875,
+          56.00054931640625
+        ]
+      },
+      "max_successive_step_top_difference_m": 0.06325149536132812,
+      "step_top_max_plan_difference_m": 1.90721490866963e-06,
+      "sample_count_center": 321
+    },
+    {
+      "id": "H3 uphill steps",
+      "missing_samples": [],
+      "terrain_intrusions": [],
+      "headroom_hits": {},
+      "step_support_bottom_center_max_gap_m": -0.160430908203125,
+      "step_support_bottom_center_max_gap_sample": {
+        "name": "H3 uphill steps stone step.052",
+        "bottom_center_ground_gap_m": -0.160430908203125,
+        "point": [
+          84.27973937988281,
+          259.6647644042969,
+          60.49870300292969
+        ]
+      },
+      "max_successive_step_top_difference_m": 0.161834716796875,
+      "step_top_max_plan_difference_m": 3.780018204224689e-06,
+      "sample_count_center": 540
+    }
+  ],
+  "poses_byte_identical": true,
+  "camera_actual_keyframe_changes": {
+    "positions": 0.0,
+    "quats": 0.0
+  },
+  "saved_camera_vs_json_max_position_error_m": 3.039981027086469e-05,
+  "limits": [
+    "Read only CPU, no render/save/Git.",
+    "Original object summary includes mesh coordinates/topology/material indices/bindings/matrix, and material node input/link summaries. Ground and allowed deletions excluded.",
+    "Surface intersection is not complete solid containment test.",
+    "Full flight is 27 finite offset sweeps, including actual terrain; not exact swept-solid proof.",
+    "Old road footprint terrain protection samples route stations/edges; stair width +/-0.8m and <=0.2m along segment samples. Not infinite-resolution navigation proof.",
+    "No continuous playback or cloud visual acceptance."
+  ],
+  "certified_geometry_baseline_hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山谷植物-20261024-v0.1\\valley-masterplan-v10.blend": "85daea84928dd29e9f97ee752c534fa1fd33e284c308159f789f0fa9a91912a1",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山聚落-20261024-v0.1\\cloud-hamlet-masterplan-v11.blend": "69f69333342117a48c4f5378e0c5907740159541468be3ea1a771581841bb041",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山谷植物-20261024-v0.1\\valley-route-58s-v10.blend": "f22b16e120012d70c6e44273a93be15c4dee84c1a0e0843b73ff03d63140691a",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山聚落-20261024-v0.1\\cloud-hamlet-route-58s-v11.blend": "cc5362d66cfd4ab5e471fef220cb07c1f433cf5fd10950501d43f63cdb5b89bd",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山谷植物-20261024-v0.1\\route-poses.json": "26d80f81589e1d393baa759e0e3daf9d6fefc79d241513d9c124d3849e8593ba",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山聚落-20261024-v0.1\\route-poses.json": "26d80f81589e1d393baa759e0e3daf9d6fefc79d241513d9c124d3849e8593ba",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山聚落-20261024-v0.1\\landscape-data.json": "6f64fd667ad9d03563174ce49fbb6c98ec427bfd44101510e7c4ceaf218cd7c6"
+  },
+  "final_tree_rock_refinement": {
+    "baseline_static_hash": "69f69333342117a48c4f5378e0c5907740159541468be3ea1a771581841bb041",
+    "baseline_route_hash": "cc5362d66cfd4ab5e471fef220cb07c1f433cf5fd10950501d43f63cdb5b89bd",
+    "outside_tree_rock_object_changes": [],
+    "material_changes": [],
+    "tree_rock_building_surface_intersections": [],
+    "tree_rock_old_and_new_walk_hits": [],
+    "tree_rock_all_frame_27_swept_hits": [],
+    "rock_boundary_support": [
+      {
+        "name": "Continuous rooted rock seam 1",
+        "boundary_vertex_count": 80,
+        "boundary_ground_offset_min_max_m": [
+          -0.5999984741210938,
+          -0.5999984741210938
+        ]
+      },
+      {
+        "name": "Continuous rooted rock seam 3",
+        "boundary_vertex_count": 80,
+        "boundary_ground_offset_min_max_m": [
+          -0.5999984741210938,
+          -0.3000030517578125
+        ]
+      },
+      {
+        "name": "Continuous rooted rock seam 6",
+        "boundary_vertex_count": 80,
+        "boundary_ground_offset_min_max_m": [
+          -0.5999984741210938,
+          -0.2999992370605469
+        ]
+      },
+      {
+        "name": "Continuous rooted rock seam 2",
+        "boundary_vertex_count": 80,
+        "boundary_ground_offset_min_max_m": [
+          -0.600006103515625,
+          -0.5999984741210938
+        ]
+      },
+      {
+        "name": "Continuous rooted rock seam 4",
+        "boundary_vertex_count": 80,
+        "boundary_ground_offset_min_max_m": [
+          -0.5999984741210938,
+          -0.5999984741210938
+        ]
+      },
+      {
+        "name": "Continuous rooted rock seam 5",
+        "boundary_vertex_count": 80,
+        "boundary_ground_offset_min_max_m": [
+          -0.5999984741210938,
+          -0.5999984741210938
+        ]
+      }
+    ],
+    "camera_action_identical": true,
+    "poses_byte_identical": true,
+    "scope": "Prior geometry checks reused only after exact mesh/matrix/material-binding snapshot equality outside tree/rock groups and matching baseline hash; new tree/rock rescanned."
+  }
+}

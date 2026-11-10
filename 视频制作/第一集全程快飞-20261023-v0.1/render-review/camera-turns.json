@@ -1,0 +1,471 @@
+{
+  "source": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集全程快飞-20261023-v0.1\\episode1-full-route-58s-v01.blend",
+  "source_sha256_before": "1a24f142ddcdff800e8501e31eebdcc1fe2103f33cb9b116b0efccc1bdde7fd2",
+  "source_sha256_after": "1a24f142ddcdff800e8501e31eebdcc1fe2103f33cb9b116b0efccc1bdde7fd2",
+  "source_unchanged": true,
+  "camera": "FAST_ROUTE_FPV",
+  "method": "Read assigned action slot quaternion FCurves directly, normalize each frame quaternion, compute 2*acos(abs(dot)) shortest orientation angle. No scene frame_set or scene geometry evaluation.",
+  "fps": 24.0,
+  "frame_count": 1392,
+  "interval_count": 1391,
+  "maximum": {
+    "frame_from": 1079,
+    "frame_to": 1080,
+    "time_from_s": 44.916666666666664,
+    "time_to_s": 44.958333333333336,
+    "shortest_rotation_deg": 54.811820081523564,
+    "angular_speed_deg_s": 1315.4836819565655
+  },
+  "threshold_deg_per_frame": 10,
+  "event_count": 35,
+  "event_groups": [
+    {
+      "frame_from": 121,
+      "frame_to": 125,
+      "time_from_s": 5.0,
+      "time_to_s": 5.166666666666667,
+      "interval_count": 4,
+      "peak_deg_per_frame": 18.59642889940636
+    },
+    {
+      "frame_from": 142,
+      "frame_to": 146,
+      "time_from_s": 5.875,
+      "time_to_s": 6.041666666666667,
+      "interval_count": 4,
+      "peak_deg_per_frame": 12.529321441811355
+    },
+    {
+      "frame_from": 261,
+      "frame_to": 263,
+      "time_from_s": 10.833333333333334,
+      "time_to_s": 10.916666666666666,
+      "interval_count": 2,
+      "peak_deg_per_frame": 12.92713045273511
+    },
+    {
+      "frame_from": 273,
+      "frame_to": 276,
+      "time_from_s": 11.333333333333334,
+      "time_to_s": 11.458333333333334,
+      "interval_count": 3,
+      "peak_deg_per_frame": 29.254435355557096
+    },
+    {
+      "frame_from": 479,
+      "frame_to": 481,
+      "time_from_s": 19.916666666666668,
+      "time_to_s": 20.0,
+      "interval_count": 2,
+      "peak_deg_per_frame": 12.89925101321945
+    },
+    {
+      "frame_from": 605,
+      "frame_to": 608,
+      "time_from_s": 25.166666666666668,
+      "time_to_s": 25.291666666666668,
+      "interval_count": 3,
+      "peak_deg_per_frame": 15.055866258578758
+    },
+    {
+      "frame_from": 626,
+      "frame_to": 630,
+      "time_from_s": 26.041666666666668,
+      "time_to_s": 26.208333333333332,
+      "interval_count": 4,
+      "peak_deg_per_frame": 21.173422912797395
+    },
+    {
+      "frame_from": 1078,
+      "frame_to": 1082,
+      "time_from_s": 44.875,
+      "time_to_s": 45.041666666666664,
+      "interval_count": 4,
+      "peak_deg_per_frame": 54.811820081523564
+    },
+    {
+      "frame_from": 1086,
+      "frame_to": 1089,
+      "time_from_s": 45.208333333333336,
+      "time_to_s": 45.333333333333336,
+      "interval_count": 3,
+      "peak_deg_per_frame": 30.502293494795445
+    },
+    {
+      "frame_from": 1291,
+      "frame_to": 1297,
+      "time_from_s": 53.75,
+      "time_to_s": 54.0,
+      "interval_count": 6,
+      "peak_deg_per_frame": 39.50847432738692
+    }
+  ],
+  "events": [
+    {
+      "frame_from": 121,
+      "frame_to": 122,
+      "time_from_s": 5.0,
+      "time_to_s": 5.041666666666667,
+      "shortest_rotation_deg": 14.925646449088918,
+      "angular_speed_deg_s": 358.21551477813404
+    },
+    {
+      "frame_from": 122,
+      "frame_to": 123,
+      "time_from_s": 5.041666666666667,
+      "time_to_s": 5.083333333333333,
+      "shortest_rotation_deg": 18.59642889940636,
+      "angular_speed_deg_s": 446.3142935857526
+    },
+    {
+      "frame_from": 123,
+      "frame_to": 124,
+      "time_from_s": 5.083333333333333,
+      "time_to_s": 5.125,
+      "shortest_rotation_deg": 18.37697396673628,
+      "angular_speed_deg_s": 441.0473752016707
+    },
+    {
+      "frame_from": 124,
+      "frame_to": 125,
+      "time_from_s": 5.125,
+      "time_to_s": 5.166666666666667,
+      "shortest_rotation_deg": 14.418769453801445,
+      "angular_speed_deg_s": 346.0504668912347
+    },
+    {
+      "frame_from": 142,
+      "frame_to": 143,
+      "time_from_s": 5.875,
+      "time_to_s": 5.916666666666667,
+      "shortest_rotation_deg": 11.414516958646828,
+      "angular_speed_deg_s": 273.9484070075239
+    },
+    {
+      "frame_from": 143,
+      "frame_to": 144,
+      "time_from_s": 5.916666666666667,
+      "time_to_s": 5.958333333333333,
+      "shortest_rotation_deg": 12.529321441811355,
+      "angular_speed_deg_s": 300.7037146034725
+    },
+    {
+      "frame_from": 144,
+      "frame_to": 145,
+      "time_from_s": 5.958333333333333,
+      "time_to_s": 6.0,
+      "shortest_rotation_deg": 12.373248561544438,
+      "angular_speed_deg_s": 296.9579654770665
+    },
+    {
+      "frame_from": 145,
+      "frame_to": 146,
+      "time_from_s": 6.0,
+      "time_to_s": 6.041666666666667,
+      "shortest_rotation_deg": 11.076981623293426,
+      "angular_speed_deg_s": 265.8475589590422
+    },
+    {
+      "frame_from": 261,
+      "frame_to": 262,
+      "time_from_s": 10.833333333333334,
+      "time_to_s": 10.875,
+      "shortest_rotation_deg": 11.532659688259074,
+      "angular_speed_deg_s": 276.78383251821776
+    },
+    {
+      "frame_from": 262,
+      "frame_to": 263,
+      "time_from_s": 10.875,
+      "time_to_s": 10.916666666666666,
+      "shortest_rotation_deg": 12.92713045273511,
+      "angular_speed_deg_s": 310.2511308656426
+    },
+    {
+      "frame_from": 273,
+      "frame_to": 274,
+      "time_from_s": 11.333333333333334,
+      "time_to_s": 11.375,
+      "shortest_rotation_deg": 22.918094209108315,
+      "angular_speed_deg_s": 550.0342610185995
+    },
+    {
+      "frame_from": 274,
+      "frame_to": 275,
+      "time_from_s": 11.375,
+      "time_to_s": 11.416666666666666,
+      "shortest_rotation_deg": 29.254435355557096,
+      "angular_speed_deg_s": 702.1064485333703
+    },
+    {
+      "frame_from": 275,
+      "frame_to": 276,
+      "time_from_s": 11.416666666666666,
+      "time_to_s": 11.458333333333334,
+      "shortest_rotation_deg": 20.61633544257869,
+      "angular_speed_deg_s": 494.7920506218886
+    },
+    {
+      "frame_from": 479,
+      "frame_to": 480,
+      "time_from_s": 19.916666666666668,
+      "time_to_s": 19.958333333333332,
+      "shortest_rotation_deg": 12.89925101321945,
+      "angular_speed_deg_s": 309.5820243172668
+    },
+    {
+      "frame_from": 480,
+      "frame_to": 481,
+      "time_from_s": 19.958333333333332,
+      "time_to_s": 20.0,
+      "shortest_rotation_deg": 11.210218537542783,
+      "angular_speed_deg_s": 269.04524490102676
+    },
+    {
+      "frame_from": 605,
+      "frame_to": 606,
+      "time_from_s": 25.166666666666668,
+      "time_to_s": 25.208333333333332,
+      "shortest_rotation_deg": 13.229528712352868,
+      "angular_speed_deg_s": 317.50868909646886
+    },
+    {
+      "frame_from": 606,
+      "frame_to": 607,
+      "time_from_s": 25.208333333333332,
+      "time_to_s": 25.25,
+      "shortest_rotation_deg": 15.055866258578758,
+      "angular_speed_deg_s": 361.3407902058902
+    },
+    {
+      "frame_from": 607,
+      "frame_to": 608,
+      "time_from_s": 25.25,
+      "time_to_s": 25.291666666666668,
+      "shortest_rotation_deg": 13.893456893376657,
+      "angular_speed_deg_s": 333.44296544103975
+    },
+    {
+      "frame_from": 626,
+      "frame_to": 627,
+      "time_from_s": 26.041666666666668,
+      "time_to_s": 26.083333333333332,
+      "shortest_rotation_deg": 14.601629319480216,
+      "angular_speed_deg_s": 350.43910366752516
+    },
+    {
+      "frame_from": 627,
+      "frame_to": 628,
+      "time_from_s": 26.083333333333332,
+      "time_to_s": 26.125,
+      "shortest_rotation_deg": 21.173422912797395,
+      "angular_speed_deg_s": 508.1621499071375
+    },
+    {
+      "frame_from": 628,
+      "frame_to": 629,
+      "time_from_s": 26.125,
+      "time_to_s": 26.166666666666668,
+      "shortest_rotation_deg": 20.599724982542863,
+      "angular_speed_deg_s": 494.3933995810287
+    },
+    {
+      "frame_from": 629,
+      "frame_to": 630,
+      "time_from_s": 26.166666666666668,
+      "time_to_s": 26.208333333333332,
+      "shortest_rotation_deg": 13.532387440001825,
+      "angular_speed_deg_s": 324.7772985600438
+    },
+    {
+      "frame_from": 1078,
+      "frame_to": 1079,
+      "time_from_s": 44.875,
+      "time_to_s": 44.916666666666664,
+      "shortest_rotation_deg": 26.54463545671951,
+      "angular_speed_deg_s": 637.0712509612683
+    },
+    {
+      "frame_from": 1079,
+      "frame_to": 1080,
+      "time_from_s": 44.916666666666664,
+      "time_to_s": 44.958333333333336,
+      "shortest_rotation_deg": 54.811820081523564,
+      "angular_speed_deg_s": 1315.4836819565655
+    },
+    {
+      "frame_from": 1080,
+      "frame_to": 1081,
+      "time_from_s": 44.958333333333336,
+      "time_to_s": 45.0,
+      "shortest_rotation_deg": 36.53848372708263,
+      "angular_speed_deg_s": 876.9236094499831
+    },
+    {
+      "frame_from": 1081,
+      "frame_to": 1082,
+      "time_from_s": 45.0,
+      "time_to_s": 45.041666666666664,
+      "shortest_rotation_deg": 10.103896556256078,
+      "angular_speed_deg_s": 242.49351735014588
+    },
+    {
+      "frame_from": 1086,
+      "frame_to": 1087,
+      "time_from_s": 45.208333333333336,
+      "time_to_s": 45.25,
+      "shortest_rotation_deg": 19.448666503272634,
+      "angular_speed_deg_s": 466.7679960785432
+    },
+    {
+      "frame_from": 1087,
+      "frame_to": 1088,
+      "time_from_s": 45.25,
+      "time_to_s": 45.291666666666664,
+      "shortest_rotation_deg": 30.502293494795445,
+      "angular_speed_deg_s": 732.0550438750906
+    },
+    {
+      "frame_from": 1088,
+      "frame_to": 1089,
+      "time_from_s": 45.291666666666664,
+      "time_to_s": 45.333333333333336,
+      "shortest_rotation_deg": 25.401421610492108,
+      "angular_speed_deg_s": 609.6341186518106
+    },
+    {
+      "frame_from": 1291,
+      "frame_to": 1292,
+      "time_from_s": 53.75,
+      "time_to_s": 53.791666666666664,
+      "shortest_rotation_deg": 12.189226891456455,
+      "angular_speed_deg_s": 292.5414453949549
+    },
+    {
+      "frame_from": 1292,
+      "frame_to": 1293,
+      "time_from_s": 53.791666666666664,
+      "time_to_s": 53.833333333333336,
+      "shortest_rotation_deg": 19.479132622586807,
+      "angular_speed_deg_s": 467.4991829420834
+    },
+    {
+      "frame_from": 1293,
+      "frame_to": 1294,
+      "time_from_s": 53.833333333333336,
+      "time_to_s": 53.875,
+      "shortest_rotation_deg": 31.72168840986204,
+      "angular_speed_deg_s": 761.320521836689
+    },
+    {
+      "frame_from": 1294,
+      "frame_to": 1295,
+      "time_from_s": 53.875,
+      "time_to_s": 53.916666666666664,
+      "shortest_rotation_deg": 39.50847432738692,
+      "angular_speed_deg_s": 948.2033838572861
+    },
+    {
+      "frame_from": 1295,
+      "frame_to": 1296,
+      "time_from_s": 53.916666666666664,
+      "time_to_s": 53.958333333333336,
+      "shortest_rotation_deg": 26.663763182159435,
+      "angular_speed_deg_s": 639.9303163718264
+    },
+    {
+      "frame_from": 1296,
+      "frame_to": 1297,
+      "time_from_s": 53.958333333333336,
+      "time_to_s": 54.0,
+      "shortest_rotation_deg": 14.376473426754954,
+      "angular_speed_deg_s": 345.0353622421189
+    }
+  ],
+  "top_10": [
+    {
+      "frame_from": 1079,
+      "frame_to": 1080,
+      "time_from_s": 44.916666666666664,
+      "time_to_s": 44.958333333333336,
+      "shortest_rotation_deg": 54.811820081523564,
+      "angular_speed_deg_s": 1315.4836819565655
+    },
+    {
+      "frame_from": 1294,
+      "frame_to": 1295,
+      "time_from_s": 53.875,
+      "time_to_s": 53.916666666666664,
+      "shortest_rotation_deg": 39.50847432738692,
+      "angular_speed_deg_s": 948.2033838572861
+    },
+    {
+      "frame_from": 1080,
+      "frame_to": 1081,
+      "time_from_s": 44.958333333333336,
+      "time_to_s": 45.0,
+      "shortest_rotation_deg": 36.53848372708263,
+      "angular_speed_deg_s": 876.9236094499831
+    },
+    {
+      "frame_from": 1293,
+      "frame_to": 1294,
+      "time_from_s": 53.833333333333336,
+      "time_to_s": 53.875,
+      "shortest_rotation_deg": 31.72168840986204,
+      "angular_speed_deg_s": 761.320521836689
+    },
+    {
+      "frame_from": 1087,
+      "frame_to": 1088,
+      "time_from_s": 45.25,
+      "time_to_s": 45.291666666666664,
+      "shortest_rotation_deg": 30.502293494795445,
+      "angular_speed_deg_s": 732.0550438750906
+    },
+    {
+      "frame_from": 274,
+      "frame_to": 275,
+      "time_from_s": 11.375,
+      "time_to_s": 11.416666666666666,
+      "shortest_rotation_deg": 29.254435355557096,
+      "angular_speed_deg_s": 702.1064485333703
+    },
+    {
+      "frame_from": 1295,
+      "frame_to": 1296,
+      "time_from_s": 53.916666666666664,
+      "time_to_s": 53.958333333333336,
+      "shortest_rotation_deg": 26.663763182159435,
+      "angular_speed_deg_s": 639.9303163718264
+    },
+    {
+      "frame_from": 1078,
+      "frame_to": 1079,
+      "time_from_s": 44.875,
+      "time_to_s": 44.916666666666664,
+      "shortest_rotation_deg": 26.54463545671951,
+      "angular_speed_deg_s": 637.0712509612683
+    },
+    {
+      "frame_from": 1088,
+      "frame_to": 1089,
+      "time_from_s": 45.291666666666664,
+      "time_to_s": 45.333333333333336,
+      "shortest_rotation_deg": 25.401421610492108,
+      "angular_speed_deg_s": 609.6341186518106
+    },
+    {
+      "frame_from": 273,
+      "frame_to": 274,
+      "time_from_s": 11.333333333333334,
+      "time_to_s": 11.375,
+      "shortest_rotation_deg": 22.918094209108315,
+      "angular_speed_deg_s": 550.0342610185995
+    }
+  ],
+  "limitations": [
+    "Orientation change alone, not screen-space object motion or perceptual video acceptance.",
+    "Threshold is a review flag, not a requirement to change the approved route."
+  ]
+}

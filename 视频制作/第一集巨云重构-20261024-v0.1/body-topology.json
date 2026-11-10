@@ -1,0 +1,177 @@
+{
+  "voxel_step_m": 7.5,
+  "solid_components": 1,
+  "vertices": 398370,
+  "faces": 796736,
+  "bounds": [
+    [
+      -1649.7518712495298,
+      -187.5010051992945,
+      -392.39558790947194
+    ],
+    [
+      300.6538090213485,
+      1204.3239601209866,
+      58.0
+    ]
+  ],
+  "body_role": "one connected supporting cloud mass; not ordinary penetrable fog",
+  "banks": [
+    {
+      "name": "School cloud shore",
+      "center": [
+        -1340,
+        970,
+        35.7
+      ],
+      "radii": [
+        220,
+        148
+      ],
+      "depth": 13
+    },
+    {
+      "name": "School gate garden",
+      "center": [
+        -1200,
+        859,
+        41.7
+      ],
+      "radii": [
+        75,
+        61
+      ],
+      "depth": 9
+    },
+    {
+      "name": "Upper hanging garden",
+      "center": [
+        -780,
+        760,
+        58
+      ],
+      "radii": [
+        154,
+        110
+      ],
+      "depth": 8
+    },
+    {
+      "name": "Middle courtyard garden",
+      "center": [
+        -655,
+        600,
+        23
+      ],
+      "radii": [
+        175,
+        102
+      ],
+      "depth": 10
+    },
+    {
+      "name": "West shaded garden",
+      "center": [
+        -1030,
+        500,
+        -15
+      ],
+      "radii": [
+        155,
+        105
+      ],
+      "depth": 10
+    },
+    {
+      "name": "Lower eastern garden",
+      "center": [
+        -365,
+        325,
+        4
+      ],
+      "radii": [
+        115,
+        105
+      ],
+      "depth": 8
+    },
+    {
+      "name": "Lower western garden",
+      "center": [
+        -520,
+        150,
+        -8
+      ],
+      "radii": [
+        140,
+        96
+      ],
+      "depth": 9
+    },
+    {
+      "name": "Water lane cloud bank",
+      "center": [
+        -150,
+        20,
+        -3.5
+      ],
+      "radii": [
+        220,
+        62
+      ],
+      "depth": 8
+    },
+    {
+      "name": "Cascade garden 0",
+      "center": [
+        -1070,
+        805,
+        44.6
+      ],
+      "radii": [
+        70,
+        55
+      ],
+      "depth": 7
+    },
+    {
+      "name": "Cascade garden 1",
+      "center": [
+        -1025,
+        755,
+        22.6
+      ],
+      "radii": [
+        68,
+        53
+      ],
+      "depth": 7
+    },
+    {
+      "name": "Cascade garden 2",
+      "center": [
+        -980,
+        705,
+        -0.4
+      ],
+      "radii": [
+        64,
+        50
+      ],
+      "depth": 7
+    },
+    {
+      "name": "Moon corridor garden",
+      "center": [
+        -920,
+        638,
+        48
+      ],
+      "radii": [
+        62,
+        48
+      ],
+      "depth": 7
+    }
+  ]
+}

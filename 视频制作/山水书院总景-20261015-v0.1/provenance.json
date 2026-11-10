@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-15",
+  "tool": "built-in image_gen.imagegen",
+  "generationCalls": 1,
+  "mode": "new_view_with_style_reference",
+  "references": [
+    {
+      "path": "../水墨学院宿舍-20261015-v0.2/山水书院-水墨世界与彩色宿舍02.png",
+      "role": "architectural_language_and_ink_world_style_not_camera_or_exact_layout"
+    }
+  ],
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-55450cbd-201a-41c7-a0e8-3956c098c0f9.png",
+  "file": "山水书院-宿舍水庭舞院总景01.png",
+  "width": 1672,
+  "height": 941,
+  "sha256": "827604027b90c23963797c7a7f12b1d8d9e8ceb0a0c814e1c26b361466f830a5",
+  "copyHashVerified": true,
+  "prompt": "prompt.txt",
+  "status": "candidate_pending_author_review"
+}

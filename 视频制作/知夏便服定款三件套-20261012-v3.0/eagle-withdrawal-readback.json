@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "data": [],
+  "message": "Successfully retrieved 0 items (0 total)",
+  "timestamp": "2026-10-12T10:21:22.054Z",
+  "totalCount": 0,
+  "filterCriteria": [
+    "ids"
+  ],
+  "coreFieldsOnly": false
+}

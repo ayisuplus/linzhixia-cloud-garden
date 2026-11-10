@@ -1,0 +1,2840 @@
+{
+  "toonflowCanvas": true,
+  "nodes": [
+    {
+      "id": "95337495-58d3-412c-8d00-3d0f79aa28b9",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 10500
+      },
+      "data": {
+        "label": "场景探索｜两岸分设概念首稿-方向依据",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "半园空间概念-20261014-v0.1/半园-云上园居-两岸分设概念01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2165c6df-afa4-4cb3-a86a-77af1977f94a",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 10500
+      },
+      "data": {
+        "label": "场景探索｜两岸空间关系-平面候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "半园两岸核心空间-20261014-v0.1/两岸空间关系-平面候选.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "20baf20b-c30a-45c5-aa93-f61a47444416",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 10500
+      },
+      "data": {
+        "label": "场景探索｜作坊望半园-概念01-待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "半园两岸核心空间-20261014-v0.1/作坊望半园-概念01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "c80aa23c-7232-4719-badf-e163dc19313a",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 10500
+      },
+      "data": {
+        "label": "场景探索｜本轮布局与审阅说明",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/c80aa23c-7232-4719-badf-e163dc19313a/content.md"
+      }
+    },
+    {
+      "id": "09730024-9fa5-4ec9-b1ab-b676f06e7c2d",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2600,
+        "y": 10500
+      },
+      "data": {
+        "label": "场景探索｜修复作坊-室内全景01-候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "修复作坊室内-20261014-v0.1/修复作坊-室内全景01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "da07437d-6744-4476-b7bc-ca5cea8169c4",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 3250,
+        "y": 10500
+      },
+      "data": {
+        "label": "场景探索｜作坊室内分区与微观检视架-设计候选",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/da07437d-6744-4476-b7bc-ca5cea8169c4/content.md"
+      }
+    },
+    {
+      "id": "351f2a5c-ab84-461a-88d9-f8396ef86a5e",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 11350
+      },
+      "data": {
+        "label": "场景探索｜起居室-夜海观星01-候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "起居室智能家居-20261015-v0.1/起居室-夜海观星01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "f97d3717-669f-40fb-b0b0-2ee0af969b6f",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 11350
+      },
+      "data": {
+        "label": "场景探索｜智能家居与全息场景-设计提案",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/f97d3717-669f-40fb-b0b0-2ee0af969b6f/content.md"
+      }
+    },
+    {
+      "id": "456e6cd5-1247-4f36-8016-c51263ebd4c4",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 11350
+      },
+      "data": {
+        "label": "场景探索｜知夏卧室01｜设计与生成记录",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/456e6cd5-1247-4f36-8016-c51263ebd4c4/content.md"
+      }
+    },
+    {
+      "id": "53d82acb-037e-40cb-adf7-f906a5ec9da9",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 11350
+      },
+      "data": {
+        "label": "场景探索｜知夏卧室01｜清晨抱枕汤圆·候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏卧室-20261015-v0.1/知夏卧室-清晨抱枕汤圆01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "c6bed2ef-1e5d-42f8-99d0-8fe99b9eda09",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2600,
+        "y": 11350
+      },
+      "data": {
+        "label": "场景探索｜卧室02原场景合景｜纵向侧卧03·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏卧室-20261015-v0.2/卧室02合景-纵向侧卧候选03.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2466065e-c397-4512-aaea-f42afe70f368",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 3250,
+        "y": 11350
+      },
+      "data": {
+        "label": "场景探索｜卧室纠偏｜原房间与睡姿",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/2466065e-c397-4512-aaea-f42afe70f368/content.md"
+      }
+    },
+    {
+      "id": "af3f9356-ca1c-487e-b08f-0d4840375e7c",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 12200
+      },
+      "data": {
+        "label": "场景探索｜水墨学院宿舍01｜门内外·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "水墨学院宿舍-20261015-v0.1/水墨学院宿舍-门内外01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "d254e858-3a36-4a3a-8d98-5cb2d1143820",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 12200
+      },
+      "data": {
+        "label": "场景探索｜水墨学院宿舍｜设计与来源",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/d254e858-3a36-4a3a-8d98-5cb2d1143820/content.md"
+      }
+    },
+    {
+      "id": "67b103b2-e980-4174-9608-5f6ce9186d45",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 12200
+      },
+      "data": {
+        "label": "场景探索｜山水书院02｜完整水墨世界·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "水墨学院宿舍-20261015-v0.2/山水书院-水墨世界与彩色宿舍02.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "c343e78e-9c8e-4660-9943-86fe43081e60",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 12200
+      },
+      "data": {
+        "label": "场景探索｜山水书院02｜纠偏与来源",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/c343e78e-9c8e-4660-9943-86fe43081e60/content.md"
+      }
+    },
+    {
+      "id": "eaa7d095-bf56-4845-9d19-3b060ba9bc34",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2600,
+        "y": 12200
+      },
+      "data": {
+        "label": "场景探索｜山水书院总景01｜宿舍·水庭·练功厅",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "山水书院总景-20261015-v0.1/山水书院-宿舍水庭舞院总景01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "bcb71f82-c6d3-4e31-b1b5-335180784e30",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 3250,
+        "y": 12200
+      },
+      "data": {
+        "label": "场景探索｜书院总景01｜布局与包裹路线",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/bcb71f82-c6d3-4e31-b1b5-335180784e30/content.md"
+      }
+    },
+    {
+      "id": "70d19b53-ab82-40a3-b965-78ff6b325be8",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 13050
+      },
+      "data": {
+        "label": "场景探索｜舞蹈室01｜日常练功·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "山水书院舞蹈室-20261015-v0.1/舞蹈室01-日常练功.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "ea13cb73-962c-4ae3-8cca-984b733a032d",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 13050
+      },
+      "data": {
+        "label": "场景探索｜舞蹈室02｜荷塘仿真·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "山水书院舞蹈室-20261015-v0.1/舞蹈室02-荷塘仿真.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "fdd798da-156b-4dcc-9c5e-f06ed42fb9e1",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 13050
+      },
+      "data": {
+        "label": "场景探索｜舞蹈室两状态｜设计与连续性",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/fdd798da-156b-4dcc-9c5e-f06ed42fb9e1/content.md"
+      }
+    },
+    {
+      "id": "a32bf0ef-a1ef-4a48-8b91-5ab72d4387f8",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 13050
+      },
+      "data": {
+        "label": "场景探索｜舞蹈室03｜顶地墙全沉浸·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "山水书院舞蹈室-20261015-v0.2/舞蹈室03-顶地墙全沉浸.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "7346c760-43f6-4262-aa6f-ba2d0abba53d",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 2600,
+        "y": 13050
+      },
+      "data": {
+        "label": "场景探索｜舞蹈室03｜全息规则纠正",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/7346c760-43f6-4262-aa6f-ba2d0abba53d/content.md"
+      }
+    },
+    {
+      "id": "3d8cb62c-9ab6-4675-908b-8a5df916cc87",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3250,
+        "y": 13050
+      },
+      "data": {
+        "label": "场景探索｜电影感试验01｜清晨卧室·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "日常电影感试验-20261015-v0.1/01-清晨卧室-光影试验.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "be44c2c2-3269-4537-86a2-daea820251cc",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 13900
+      },
+      "data": {
+        "label": "场景探索｜电影感试验02｜旧舞鞋·杂点待修",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "日常电影感试验-20261015-v0.1/02-旧舞鞋-桌面近景试验.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "af339f4b-481e-4644-8ba2-2bf4c23bcf74",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 13900
+      },
+      "data": {
+        "label": "场景探索｜电影感试验03｜暮色水巷·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "日常电影感试验-20261015-v0.1/03-临水作坊-暮色借景试验.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2447acac-69db-4d6c-bffd-09d978557b64",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 13900
+      },
+      "data": {
+        "label": "场景探索｜日常电影感｜试验与来源",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/2447acac-69db-4d6c-bffd-09d978557b64/content.md"
+      }
+    },
+    {
+      "id": "479903bd-0fd8-4279-9557-00c4f72c754b",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 4700
+      },
+      "data": {
+        "label": "历史｜E01-A K02｜催醒前床侧近景01·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕晨起-K02床侧近景-20261015-v0.1/E01-A-K02-催醒前床侧近景01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "04840f84-346b-46d4-907c-b85728d5648b",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 4700
+      },
+      "data": {
+        "label": "历史｜K02｜机位与动作衔接",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/04840f84-346b-46d4-907c-b85728d5648b/content.md"
+      }
+    },
+    {
+      "id": "9b5a0422-a5bd-4849-ad48-6d5070d2ec36",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 700
+      },
+      "data": {
+        "label": "E01-A-002｜知夏抱汤圆熟睡｜起始参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕晨起-K02长手闹钟-20261015-v0.2/E01-A-K02-长手闹钟催醒前02.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "552a1155-6d1f-4a26-b587-dcf5b013287f",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 4700
+      },
+      "data": {
+        "label": "历史｜K02｜圆闹钟与胖拳头",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/552a1155-6d1f-4a26-b587-dcf5b013287f/content.md"
+      }
+    },
+    {
+      "id": "ce095d36-577f-440f-9e09-95f6f63c952e",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 4700
+      },
+      "data": {
+        "label": "历史｜E01-A K02｜轻捶被子01·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕晨起-K02轻捶被子-20261015-v0.1/E01-A-K02-轻捶被子01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "92a0a84d-3402-4914-9cc3-a3d70a29fbe9",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 2600,
+        "y": 4700
+      },
+      "data": {
+        "label": "历史｜K02｜催醒触点与赖床反应",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/92a0a84d-3402-4914-9cc3-a3d70a29fbe9/content.md"
+      }
+    },
+    {
+      "id": "febf3723-17f1-459c-b2e2-a3eff8fe5998",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3250,
+        "y": 4700
+      },
+      "data": {
+        "label": "历史｜E01-A K02-P1｜第一拳碰头01·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕晨起-K02第一拳-20261015-v0.1/E01-A-K02-P1-第一拳碰头01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "6341f20b-7e03-47a3-b1e9-960e629bbfab",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 5550
+      },
+      "data": {
+        "label": "历史｜K02-P1｜触点与直拳方向审看",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/6341f20b-7e03-47a3-b1e9-960e629bbfab/content.md"
+      }
+    },
+    {
+      "id": "819ea276-ec77-4d9b-b091-118fe9675ce1",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 5550
+      },
+      "data": {
+        "label": "历史｜E01-A K02-P2｜举汤圆挡拳01·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕晨起-K02第二拳-20261015-v0.1/E01-A-K02-P2-举汤圆挡拳01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2d346ec0-3202-4969-b49d-d653d909d9f3",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 5550
+      },
+      "data": {
+        "label": "历史｜K02-P2｜脸前举盾与第二拳",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/2d346ec0-3202-4969-b49d-d653d909d9f3/content.md"
+      }
+    },
+    {
+      "id": "d37e37e1-9300-4a4d-b479-d3155c5b5f2a",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 5550
+      },
+      "data": {
+        "label": "历史｜E01-A K02-STOP｜第三拳按停01·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕晨起-K02第三拳-20261015-v0.1/E01-A-K02-STOP-第三拳按停01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "8c8b5988-003c-4b85-96db-382f586c0582",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 2600,
+        "y": 5550
+      },
+      "data": {
+        "label": "历史｜K02-STOP｜按键截停与悬停拳头",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/8c8b5988-003c-4b85-96db-382f586c0582/content.md"
+      }
+    },
+    {
+      "id": "eefa306d-4cde-46c2-ba1a-d9091ddc8fc9",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 700
+      },
+      "data": {
+        "label": "E01-A-003｜第一拳与抱紧翻身｜关键动作参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕晨起-汤圆眼神修订-20261015-v0.1/01-K02-P1-半醒偷看.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "d263875e-da3d-49a0-9761-9daf616da5ac",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3250,
+        "y": 5550
+      },
+      "data": {
+        "label": "历史｜K02-P2｜受拳错愕·表情修订待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕晨起-汤圆眼神修订-20261015-v0.1/02-K02-P2-受拳错愕.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "7eefab6e-f065-4113-af4e-7884fd153dc5",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 6400
+      },
+      "data": {
+        "label": "历史｜K02-STOP｜侧眼埋怨·表情修订待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕晨起-汤圆眼神修订-20261015-v0.1/03-K02-STOP-侧眼埋怨.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "ab88226d-5436-4668-8acc-9a4956facfd9",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 6400
+      },
+      "data": {
+        "label": "历史｜汤圆｜三拳眼神递进",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/ab88226d-5436-4668-8acc-9a4956facfd9/content.md"
+      }
+    },
+    {
+      "id": "fb6191e0-7ddc-4a24-9c88-da5109c8273c",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 6400
+      },
+      "data": {
+        "label": "历史｜A007｜智能床托背·修订候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕家具表演修订-20261016-v0.2/01-床托住知夏.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "91b2cc8c-34df-4cf7-91d7-5d4dfeb08318",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 6400
+      },
+      "data": {
+        "label": "历史｜A009｜衣柜递出搭配·修订候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕家具表演修订-20261016-v0.2/02-衣柜递出昨晚搭配.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "0c746565-6cea-4745-96d3-5a39f0a82b95",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2600,
+        "y": 6400
+      },
+      "data": {
+        "label": "历史｜A016｜床主动盖被·修订候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕家具表演修订-20261016-v0.2/03-床替他们盖好被子.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "52774ef4-261e-4bf1-a599-3287b1774754",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 3250,
+        "y": 6400
+      },
+      "data": {
+        "label": "历史｜第一幕v0.3｜家具动作与显示",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/52774ef4-261e-4bf1-a599-3287b1774754/content.md"
+      }
+    },
+    {
+      "id": "e7117439-29ea-4ac8-b56a-20859438ea15",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 7250
+      },
+      "data": {
+        "label": "历史｜A007｜床头玉璧·形制候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕家具智能形制-20261016-v0.3/01-床头玉璧与回应光纹.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "dce54f57-1856-4ffb-b16e-fd856b2e7fd3",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 7250
+      },
+      "data": {
+        "label": "历史｜A009｜衣柜玉扣·形制候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕家具智能形制-20261016-v0.3/02-衣柜玉扣与等待亮弧.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "51d0af27-a851-4ec5-b6cd-9a8605082e50",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 7250
+      },
+      "data": {
+        "label": "历史｜A010｜杯托玉芯·形制候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕家具智能形制-20261016-v0.3/03-杯托玉芯与叶脉光.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "9b0bf4c2-bb52-455e-8823-91dfec729293",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 7250
+      },
+      "data": {
+        "label": "历史｜第一幕v0.4｜家具智能形制与回应",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/9b0bf4c2-bb52-455e-8823-91dfec729293/content.md"
+      }
+    },
+    {
+      "id": "ca54a965-504c-4366-bd6a-fb0f089e9cb8",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 3700
+      },
+      "data": {
+        "label": "辅助｜作者指定｜晨起蝴蝶结状发夹母版",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "晨起发夹母版-20261017/作者指定-蝴蝶结状发夹.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "07f7dba7-79ba-4398-b2f0-404eb60c84ef",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 3700
+      },
+      "data": {
+        "label": "辅助｜发夹纠正｜取消独立三角小耳朵",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/07f7dba7-79ba-4398-b2f0-404eb60c84ef/content.md"
+      }
+    },
+    {
+      "id": "4602b189-9949-413e-8b30-6a3d0b123778",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 3700
+      },
+      "data": {
+        "label": "辅助｜发夹统一候选｜床托背-发夹统一",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/01-床托背-发夹统一.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "369659ef-5d21-4889-bde6-f02366709b5c",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 700
+      },
+      "data": {
+        "label": "E01-A-004｜第二拳打的是汤圆｜关键动作参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/02-第二拳-发夹统一.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "a1ff71c1-f40f-48c5-9927-4bc84dedd195",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 1400
+      },
+      "data": {
+        "label": "E01-A-005｜第三拳被按停｜关键动作参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/03-第三拳-发夹统一.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "547f2b40-5e6a-41f5-b6f5-8498be66e185",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 1400
+      },
+      "data": {
+        "label": "E01-A-006｜坐稳但没醒透｜结束状态参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/04-坐稳-发夹统一.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "e7218c0c-a63b-47da-96d5-3c75a12803d6",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 2800
+      },
+      "data": {
+        "label": "E01-A-013｜停停停｜关键动作参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/05-喊停-发夹统一.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "8012e8ba-4178-4fa0-8991-32b96ccfc1fe",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 2800
+      },
+      "data": {
+        "label": "E01-A-016｜汤圆自己靠回来｜结束状态参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/06-相拥盖被-发夹统一.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "b14fc44d-dd2f-4a63-b064-1d299c9bf210",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 3700
+      },
+      "data": {
+        "label": "辅助｜发夹统一候选｜全景布局-发夹统一",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕蝴蝶结发夹统一-20261017-v0.1/07-全景布局-发夹统一.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "c28684fc-3545-48a0-9fac-5de7a65a2377",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 2600,
+        "y": 7250
+      },
+      "data": {
+        "label": "历史｜晨起v0.5｜发夹统一完整动作稿",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/c28684fc-3545-48a0-9fac-5de7a65a2377/content.md"
+      }
+    },
+    {
+      "id": "6056d241-c128-4508-b29b-60f39195bf91",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3250,
+        "y": 7250
+      },
+      "data": {
+        "label": "历史｜停用｜误删托盘的杯子",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕智能水杯-20261017-v0.1/01-杯身温度读数.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "c56be710-1f05-45c9-8f96-ea434bf0fdf4",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 8100
+      },
+      "data": {
+        "label": "历史｜晨起v0.7｜保留托盘智能杯",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/c56be710-1f05-45c9-8f96-ea434bf0fdf4/content.md"
+      }
+    },
+    {
+      "id": "6334270e-e668-4d03-bf31-6d6484a86f83",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2600,
+        "y": 3700
+      },
+      "data": {
+        "label": "辅助｜A010｜保留荷叶托盘·杯身读数候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕智能水杯-20261017-v0.2/01-保留荷叶托盘-杯身读数.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "4aa5617f-cfdd-4049-a026-79b7a99515a9",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 2100
+      },
+      "data": {
+        "label": "E01-A-009｜旋转挂衣杆递衣·候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-009-旋杆递衣.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "ec6f18a4-2a51-4021-a97d-328b83ec4ee0",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 1400
+      },
+      "data": {
+        "label": "E01-A-007｜床托背，被子催醒｜结束状态参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕智能镜与表情被子-20261017-v0.1/02-被角动态材质-显像态.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "9b0d2b41-8158-4487-b210-664b6b7967fe",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": -800,
+        "y": 700
+      },
+      "data": {
+        "label": "当前动作稿｜晨起v0.13·17镜90秒",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/9b0d2b41-8158-4487-b210-664b6b7967fe/content.md"
+      }
+    },
+    {
+      "id": "80d9afbb-50b0-49f2-aba8-89b0eb5a017c",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": -800,
+        "y": 0
+      },
+      "data": {
+        "label": "00｜关键帧图册v1.6·Seedance生成分组",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/80d9afbb-50b0-49f2-aba8-89b0eb5a017c/content.md"
+      }
+    },
+    {
+      "id": "83995fc6-228b-4b5e-a0c6-f7be2c7a2a3b",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 700
+      },
+      "data": {
+        "label": "E01-A-001｜圆闹钟伸手｜结束状态参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕完整镜头包-20261016-v0.1/08-闹钟伸手.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "b76fb5be-63e1-427f-900c-d66bfd8e4ab7",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 1400
+      },
+      "data": {
+        "label": "E01-A-008｜床边踱步·3秒·候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-008-床边踱步.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "e9e3ba77-7bbb-4405-bd5f-4c77d7b3bb1d",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1950,
+        "y": 2100
+      },
+      "data": {
+        "label": "E01-A-012｜智能日历·时辰与晨起开关",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕智能日历-20261017-v0.1/E01-A-012-智能日历.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "97d31e8a-7660-4317-a79b-01ca3fc9ff1a",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 3250,
+        "y": 700
+      },
+      "data": {
+        "label": "E01-A-010｜补帧核对与动作说明",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/97d31e8a-7660-4317-a79b-01ca3fc9ff1a/content.md"
+      }
+    },
+    {
+      "id": "9339fd95-8735-4df2-a8a5-1874d20c428d",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 3250,
+        "y": 1400
+      },
+      "data": {
+        "label": "E01-A-011｜补帧核对与动作说明",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/9339fd95-8735-4df2-a8a5-1874d20c428d/content.md"
+      }
+    },
+    {
+      "id": "9e8fcafa-9fd6-4d7e-9c20-e0f2ea76619f",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 3250,
+        "y": 2100
+      },
+      "data": {
+        "label": "E01-A-014｜补帧核对与动作说明",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/9e8fcafa-9fd6-4d7e-9c20-e0f2ea76619f/content.md"
+      }
+    },
+    {
+      "id": "f7931412-6ae9-46aa-bfdd-cbdfbd3844fa",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 3250,
+        "y": 2800
+      },
+      "data": {
+        "label": "E01-A-015｜补帧核对与动作说明",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/f7931412-6ae9-46aa-bfdd-cbdfbd3844fa/content.md"
+      }
+    },
+    {
+      "id": "a5d49255-5e75-484d-9b78-203d8ff1d0ba",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 2100
+      },
+      "data": {
+        "label": "E01-A-010｜送水回避·关键状态候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕四镜补帧-20261017-v0.1/E01-A-010-送水回避.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "a32642fc-bb08-49d3-b125-1f250648b2d3",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 2100
+      },
+      "data": {
+        "label": "E01-A-011｜全屋忙碌·旋杆与步履·候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-011-旋杆与步履.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "917da247-0373-464a-acde-d1e5a780e753",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 650,
+        "y": 2800
+      },
+      "data": {
+        "label": "E01-A-014｜停止踱步·旋杆保持·候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-014-踱步喊停.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "c11a9278-3685-4eee-a21a-2d53cbb75a08",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1300,
+        "y": 2800
+      },
+      "data": {
+        "label": "E01-A-015｜躺回伸手·未抱回候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕四镜补帧-20261017-v0.1/E01-A-015-躺回伸手.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "7c601acf-c195-4061-9af8-23f5748808fd",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2600,
+        "y": 1400
+      },
+      "data": {
+        "label": "E01-A-008-PRE｜贴地跟随·2秒候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕拖鞋蚂蚁视角-20261017-v0.1/E01-A-008-PRE-贴地跟随.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "05edf015-1b97-49b7-90d6-8090756bafe5",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 2600,
+        "y": 2100
+      },
+      "data": {
+        "label": "拖鞋连续动作｜走来后持续踱步至喊停",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/05edf015-1b97-49b7-90d6-8090756bafe5/content.md"
+      }
+    },
+    {
+      "id": "6931f907-8854-483d-ac52-91745333e2d0",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3900,
+        "y": 0
+      },
+      "data": {
+        "label": "历史参考｜E01-A-009｜衣柜镜中预览搭配｜结束状态参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕智能镜云上花园-20261017-v0.1/01-智能镜-云上花园.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "043183d6-a065-4c8e-871e-d299dad1b275",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3900,
+        "y": 700
+      },
+      "data": {
+        "label": "历史参考｜E01-A-011｜整窗水巷·真实纵深候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕四镜补帧-20261017-v0.1/E01-A-011-整窗水巷-真实纵深.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "4d884ea7-717c-41e8-9817-1a32bb18b55d",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3900,
+        "y": 1400
+      },
+      "data": {
+        "label": "历史参考｜E01-A-014｜喊停后全景·候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕四镜补帧-20261017-v0.1/E01-A-014-喊停后全景.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "b12b3179-a078-4590-92f4-2b790915401b",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 3900,
+        "y": 2100
+      },
+      "data": {
+        "label": "当前家居修订｜踱步·日历·旋杆衣柜",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/b12b3179-a078-4590-92f4-2b790915401b/content.md"
+      }
+    },
+    {
+      "id": "6b2fa0be-c1cf-4dc4-83bd-70898080d2f5",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4550,
+        "y": 0
+      },
+      "data": {
+        "label": "历史v1.3｜E01-A-008｜拖鞋到位·3秒·接PRE",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕完整镜头包-20261016-v0.1/02-拖鞋到位.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "23995d18-efa0-466f-baa2-726877cfc85f",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4550,
+        "y": 700
+      },
+      "data": {
+        "label": "历史v1.3｜E01-A-009｜衣柜主动推荐·表情与递衣",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕家居忙碌表演-20261017-v0.1/E01-A-009-衣柜主动推荐.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1e8746c5-cc1f-4e29-81cb-c58ccade1f81",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4550,
+        "y": 1400
+      },
+      "data": {
+        "label": "历史v1.3｜E01-A-011｜全屋忙碌·姿态候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕家居忙碌表演-20261017-v0.1/E01-A-011-全屋忙碌-去支架.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "c04a3315-85d8-4d8f-a2d1-5f0273e28615",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4550,
+        "y": 2100
+      },
+      "data": {
+        "label": "历史v1.3｜E01-A-012｜发现今天没安排｜界面参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕完整镜头包-20261016-v0.1/05-今日无安排.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "d95204ac-bd7d-43db-bcc4-d777d4d13898",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4550,
+        "y": 2800
+      },
+      "data": {
+        "label": "历史v1.3｜E01-A-014｜全屋停在半途·候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕家居忙碌表演-20261017-v0.1/E01-A-014-全屋停在半途-去支架.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "4b35e039-bca2-4e46-af95-6fd46c1d9bd3",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 5200,
+        "y": 2100
+      },
+      "data": {
+        "label": "历史v1.4｜日历古雅文字版",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕步履与旋杆衣柜-20261017-v0.1/E01-A-012-今日无事宜休沐.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "182ee7e6-caf2-4b43-9eb4-868b158ef939",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 5200,
+        "y": 2800
+      },
+      "data": {
+        "label": "A012｜智能日历界面与动作说明",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/182ee7e6-caf2-4b43-9eb4-868b158ef939/content.md"
+      }
+    },
+    {
+      "id": "fb8b1447-512b-47dc-908d-dc35fb96ea73",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 5850,
+        "y": 0
+      },
+      "data": {
+        "label": "制作｜Seedance2.5·六段生成与日历插镜",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "[\"tfRouter\",\"deepseek-v4.1-flash\"]",
+        "textPath": "assets/fb8b1447-512b-47dc-908d-dc35fb96ea73/content.md"
+      }
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 325.03703703703707,
+    "y": 234.57407407407408,
+    "zoom": 0.2962962962962963
+  }
+}

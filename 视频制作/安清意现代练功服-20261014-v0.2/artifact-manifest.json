@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-14",
+  "files": [
+    {
+      "file": "00-全身主图.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "16ee4c713a5467b0bd0c5809824212060186bae05f8e3fa22a4fe38b3cc4c019",
+      "source_copy_match": true
+    },
+    {
+      "file": "历史候选/01-四视图-鞋袜首修.png",
+      "size": [
+        2100,
+        749
+      ],
+      "sha256": "02bba62d188a9a1057cbc45edcfe02b9250415004276a08e67a93b52b31ab5ce",
+      "source_copy_match": true
+    },
+    {
+      "file": "01-四视图.png",
+      "size": [
+        2100,
+        749
+      ],
+      "sha256": "aa2d2db80ab871926f86e2bd7a95f82983fa29c916bf87f8d5c81b221ed0b8d7",
+      "source_copy_match": true
+    }
+  ],
+  "current_images": 6,
+  "history_images": 1,
+  "crop_pixel_matches": 4,
+  "cuts": [
+    590,
+    920,
+    1720
+  ],
+  "status": "adopted for the current first-episode character-design stage on 2026-10-14"
+}

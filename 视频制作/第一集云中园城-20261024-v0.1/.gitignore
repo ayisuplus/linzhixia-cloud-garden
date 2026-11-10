@@ -1,0 +1,6 @@
+*.log
+*.blend1
+*.npz
+reveal-frames-v02/
+reveal-frames-v03/
+encode-frames.txt

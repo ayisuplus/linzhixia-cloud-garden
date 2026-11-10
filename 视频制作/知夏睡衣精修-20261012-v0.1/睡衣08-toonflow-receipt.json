@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "855356ac-372a-4d61-a804-fbebb458e54e",
+      "type": "remote-imageNode",
+      "label": "知夏｜睡衣08｜青瓷绿短裤套装·候选",
+      "selected": false,
+      "position": {
+        "x": 4000,
+        "y": 5200
+      }
+    },
+    {
+      "id": "da8539dc-77d1-497f-b848-f2539aa7b279",
+      "type": "remote-textNode",
+      "label": "睡衣08｜配色研究与实际提示词",
+      "selected": false,
+      "position": {
+        "x": 4900,
+        "y": 5200
+      }
+    }
+  ],
+  "readback": {
+    "details": {
+      "canvasId": "人物设计.json",
+      "nodes": [
+        {
+          "id": "855356ac-372a-4d61-a804-fbebb458e54e",
+          "label": "知夏｜睡衣08｜青瓷绿短裤套装·候选",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏睡衣精修-20261012-v0.1/知夏-睡衣08-青瓷绿短裤套装.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        }
+      ],
+      "hasMore": false,
+      "nextCursor": null
+    }
+  }
+}

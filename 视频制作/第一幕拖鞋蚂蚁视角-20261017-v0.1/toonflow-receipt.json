@@ -1,0 +1,49 @@
+{
+  "target": {
+    "connectionId": "a8e9b1e4-4f34-45d4-b990-668ea24cfc0e",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "场景设计-半园两岸-20261014.json"
+  },
+  "image": {
+    "canvasId": "场景设计-半园两岸-20261014.json",
+    "nodes": [
+      {
+        "id": "7c601acf-c195-4061-9af8-23f5748808fd",
+        "label": "E01-A-008-PRE｜贴地跟随·2秒候选",
+        "position": {
+          "x": 2600,
+          "y": 1400
+        },
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "第一幕拖鞋蚂蚁视角-20261017-v0.1/E01-A-008-PRE-贴地跟随.png",
+              "mimeType": "image/png"
+            }
+          }
+        },
+        "selected": false,
+        "truncated": []
+      }
+    ],
+    "hasMore": false,
+    "nextCursor": null
+  },
+  "text_checks": [
+    {
+      "id": "05edf015-1b97-49b7-90d6-8090756bafe5",
+      "exact_match": true
+    },
+    {
+      "id": "80d9afbb-50b0-49f2-aba8-89b0eb5a017c",
+      "exact_match": true
+    },
+    {
+      "id": "9b0d2b41-8158-4487-b210-664b6b7967fe",
+      "exact_match": true
+    }
+  ],
+  "method": "ToonFlow MCP",
+  "canvas_excluded_from_commit": "pre-existing unrelated changes preserved"
+}

@@ -1,0 +1,45 @@
+{
+  "route_xy_m": [
+    [
+      0,
+      -0.7
+    ],
+    [
+      1.9,
+      -0.3
+    ],
+    [
+      2.7,
+      0.8
+    ],
+    [
+      3.8,
+      1.2
+    ],
+    [
+      3.6,
+      3.2
+    ],
+    [
+      3.6,
+      5.7
+    ],
+    [
+      2.4,
+      5.7
+    ]
+  ],
+  "spacing_m_max": 0.1,
+  "sample_positions": 111,
+  "radial_probe_m": 0.25,
+  "directions": 24,
+  "heights_m": [
+    0.2,
+    0.9,
+    1.65
+  ],
+  "hits": [],
+  "scope": "Discrete horizontal rays only; not continuous actor collision, navigation or accessibility certification",
+  "saved_camera_count": 9,
+  "object_count": 1475
+}

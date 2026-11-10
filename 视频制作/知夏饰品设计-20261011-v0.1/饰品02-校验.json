@@ -1,0 +1,17 @@
+{
+  "status": "pending_author_review",
+  "file": "知夏-未来日常饰品02-智能水杯与头顶发饰.png",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "sha256": "d3d048e630d17fc17df3e80225bf460dc9e5e0305758a7e99cfb249a9a3d8601",
+  "copy_verified": true,
+  "tool": "built-in imagegen",
+  "checks": [
+    "头顶发饰与花分离",
+    "书包侧杯",
+    "杯有眼睛嘴巴",
+    "五件完整单品"
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "file": "garden-city-flight-58s-v04.mp4",
+    "bytes": 4216310,
+    "sha256": "dd705d148a45bb2d510515b888539ba5efc15dbcb1dbbe19a8ebfae7903da67d"
+  },
+  {
+    "file": "E01-C-FAST-B01-30s-v04.mp4",
+    "bytes": 2070430,
+    "sha256": "daabd97fce9d70ced6b18487df016af4f6038d1cc927e8825520f37676a91ba0"
+  },
+  {
+    "file": "E01-C-FAST-B02-30s-v04.mp4",
+    "bytes": 2246234,
+    "sha256": "d0f147b37714b5ad328ac6475bb251888bbcd0f544709b1de93740dd7d2c0330"
+  },
+  {
+    "file": "garden-city-flight-58s-v04.blend",
+    "bytes": 39570208,
+    "sha256": "1f0105de5ac9787c5cd2a87bc8c29945afcd2756f387e7aaecb490c28970d285"
+  },
+  {
+    "file": "garden-city-space-v01.blend",
+    "bytes": 39589625,
+    "sha256": "e30fda830d15eee83e5aac27d6135758a2dcb259c0414f06280549679ffb894f"
+  }
+]

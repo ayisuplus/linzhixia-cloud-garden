@@ -1,0 +1,77 @@
+{
+  "source": "saved Blender water cross-sections; projected main water only, courtyard pools excluded",
+  "old_main_water_area_m2": 67234.27709119165,
+  "new_main_water_area_m2": 16989.071992853584,
+  "reduction_fraction": 0.7473153170099405,
+  "min_width_m": 4.499992970811508,
+  "max_width_m": 34.0037974330838,
+  "courtyard_pools": [
+    {
+      "id": "Rock-side cascade 0.205",
+      "station": 0.205,
+      "side": -1,
+      "center": [
+        -52.81829186792549,
+        530.7173426567226
+      ],
+      "floor": 84.0419580078125,
+      "kind": "small upper rock basin, actual vertical drop and receiving runnel; no flow simulation"
+    },
+    {
+      "id": "Rock-side cascade 0.290",
+      "station": 0.29,
+      "side": 1,
+      "center": [
+        44.84989714208678,
+        412.7177902530019
+      ],
+      "floor": 73.60476318359375,
+      "kind": "small upper rock basin, actual vertical drop and receiving runnel; no flow simulation"
+    },
+    {
+      "id": "Rock-side cascade 0.365",
+      "station": 0.365,
+      "side": -1,
+      "center": [
+        27.236962641773506,
+        282.35196023748165
+      ],
+      "floor": 54.71313110351562,
+      "kind": "small upper rock basin, actual vertical drop and receiving runnel; no flow simulation"
+    },
+    {
+      "id": "West-neighbourhood-+1-01 enclosed garden pool",
+      "court": "West-neighbourhood-+1-01",
+      "station": 0.467,
+      "center": [
+        -22.162076572718227,
+        110.72392709738251
+      ],
+      "floor": 48.45635911111111,
+      "kind": "small still courtyard pool; retained rooms frame it; concealed return is reserved, not simulated"
+    },
+    {
+      "id": "East-neighbourhood--1-02 enclosed garden pool",
+      "court": "East-neighbourhood--1-02",
+      "station": 0.519,
+      "center": [
+        -132.75629804680779,
+        30.74435153083049
+      ],
+      "floor": 42.82575288888889,
+      "kind": "small still courtyard pool; retained rooms frame it; concealed return is reserved, not simulated"
+    },
+    {
+      "id": "Lower-lane--1-01 enclosed garden pool",
+      "court": "Lower-lane--1-01",
+      "station": 0.808,
+      "center": [
+        224.17551461012806,
+        -377.0829793340048
+      ],
+      "floor": 28.926038518518503,
+      "kind": "small still courtyard pool; retained rooms frame it; concealed return is reserved, not simulated"
+    }
+  ],
+  "dimension_status": "inferred design dimensions"
+}

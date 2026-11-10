@@ -1,0 +1,205 @@
+{
+  "candidate": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山水城-20261024-v0.1\\cloud-stone-water-city-58s-v07.blend",
+  "input_hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山水城-20261024-v0.1\\cloud-stone-water-city-58s-v07.blend": "a298118ba9aa76998825dcc18dc9ab7b9a324c7cccb3dd1a012f388a96a1894d",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云中园城-20261024-v0.4\\cloud-city-layered-58s-v06.blend": "171e9b615fea0990a125457cee0a614455923f93660ea65a653852148e2ee214",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集云山水城-v0.1\\build_landscape.py": "0a3435ebfbe1f922bcc3d85d98b9e878885f742b8db71cbefdf1b9ee69152394",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山水城-20261024-v0.1\\source-flight.json": "bfce6639aa8cb3489fd9824829865e78f36cead70c94a220d6b51df41c11e0d5",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山水城-20261024-v0.1\\construction-plan.json": "a8bac5da001a3c0352e7527bf940492dbe85caa9141113e62f22ab8e68c99308"
+  },
+  "inputs_stable": true,
+  "new_physical_objects": 132,
+  "carrier": {
+    "swept_ray_hits": [],
+    "inside_rock_samples": [],
+    "local_offset_samples": 0,
+    "conservative_whole_route_AABB_clearance_lower_bound_m": 48.36791621009104,
+    "nearby_sample_surface_distance_m": null,
+    "nearest_sample": null,
+    "offset_count": 2601
+  },
+  "camera": {
+    "swept_ray_hits": [],
+    "inside_rock_samples": [],
+    "local_offset_samples": 0,
+    "conservative_whole_route_AABB_clearance_lower_bound_m": 49.17960287265488,
+    "nearby_sample_surface_distance_m": null,
+    "nearest_sample": null,
+    "offset_count": 27
+  },
+  "original_objects_narrow_phase_checked": 0,
+  "rock_original_surface_or_containment_pairs": [],
+  "walk_points": [
+    [
+      -1016.0,
+      823.0,
+      45.29999923706055
+    ],
+    [
+      -1017.7579956054688,
+      852.00732421875,
+      45.29999923706055
+    ],
+    [
+      -1017.752197265625,
+      852.943115234375,
+      45.29999923706055
+    ],
+    [
+      -1017.6138916015625,
+      853.754150390625,
+      45.29999923706055
+    ],
+    [
+      -1017.3429565429688,
+      854.4403686523438,
+      45.29999923706055
+    ],
+    [
+      -1016.9395141601562,
+      855.0018310546875,
+      45.29999923706055
+    ],
+    [
+      -1016.4034423828125,
+      855.4385375976562,
+      45.29999923706055
+    ],
+    [
+      -1015.73486328125,
+      855.75048828125,
+      45.29999542236328
+    ],
+    [
+      -1014.9337158203125,
+      855.9376220703125,
+      45.29999923706055
+    ],
+    [
+      -1014.0,
+      856.0,
+      45.29999923706055
+    ],
+    [
+      -995.0,
+      856.0,
+      45.29999923706055
+    ],
+    [
+      -994.0625,
+      855.9375,
+      45.29999923706055
+    ],
+    [
+      -993.25,
+      855.75,
+      45.29999923706055
+    ],
+    [
+      -992.5625,
+      855.4375,
+      45.29999923706055
+    ],
+    [
+      -992.0,
+      855.0,
+      45.29999923706055
+    ],
+    [
+      -991.5625,
+      854.4375,
+      45.29999923706055
+    ],
+    [
+      -991.25,
+      853.75,
+      45.29999542236328
+    ],
+    [
+      -991.0625,
+      852.9375,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      852.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      816.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      815.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      814.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      813.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      812.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      811.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      810.0,
+      45.29999542236328
+    ],
+    [
+      -991.0,
+      809.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      808.0,
+      45.29999923706055
+    ],
+    [
+      -991.0,
+      790.0,
+      45.29999923706055
+    ]
+  ],
+  "walk_sample_count": 529,
+  "walk_body_hits": [],
+  "walk_floor_missing": [],
+  "exact_end_edge_ray_misses_with_inward_support": [
+    {
+      "segment": 0,
+      "exact_endpoint": [
+        -1015.2514038085938,
+        823.0453491210938,
+        45.29999923706055
+      ],
+      "inward_1cm_hit": [
+        -1015.2520141601562,
+        823.0553588867188,
+        45.29999923706055
+      ]
+    }
+  ],
+  "scope": "Added physical entities only versus exact v06 source-flight camera/carrier positions; dense offset swept rays near AABBs and conservative global AABB separation. Rock/original geometry triangle overlap and original-vertex containment. Walk core foot rays and body samples.",
+  "limits": [
+    "Interim candidate unless explicitly final. Does not modify source scene or render.",
+    "Closest-surface normal containment assumes generated rocks are closed and outward oriented. Not a continuous solid-volume proof.",
+    "Old building overlap excludes hidden and physical=false objects and cloud bodies; no collection-instance expansion in this pass.",
+    "Walk test covers authored deck/core and new rocks/rails; full original-ground support, old obstacles along walk, navigation and ergonomic compliance are not certified.",
+    "source-flight quaternion is authoritative; no obsolete forward vectors used. This report does not assess optical cloud visibility."
+  ]
+}

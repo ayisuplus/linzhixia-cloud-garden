@@ -1,0 +1,129 @@
+{
+  "baseline": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云中园城-20261024-v0.2\\cloud-city-water-reveal-58s-v04.blend",
+  "candidate": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云中园城-20261024-v0.3\\cloud-city-color-58s-v05.blend",
+  "baseline_sha256": [
+    "b42f0616e56006e4daa216b83557a07577dc3dcf7d829e9636ca6194fc97ffce",
+    "b42f0616e56006e4daa216b83557a07577dc3dcf7d829e9636ca6194fc97ffce"
+  ],
+  "candidate_sha256": [
+    "123dc11944f768ec908bb2f65fcd88810b93afc025df6eefc6206052f39ae03c",
+    "123dc11944f768ec908bb2f65fcd88810b93afc025df6eefc6206052f39ae03c"
+  ],
+  "source_files_stable": true,
+  "plan_sha256": "0b0ab63038cfb9fd752ccd87cc6135a3777fef9f33df31249a30b20bed464a60",
+  "plan_source_hash_matches": true,
+  "original_objects": 52024,
+  "original_geometry_blocks": 51913,
+  "missing_objects": [],
+  "added_objects": [],
+  "unexpected_asset_changes": [],
+  "authorized_sun_transform_changes": [
+    {
+      "object": "Neutral morning sun",
+      "field": "matrix_frame1",
+      "before": [
+        0.7036188244819641,
+        0.325936883687973,
+        -0.631415605545044,
+        0.0,
+        -0.4313924014568329,
+        0.9020381569862366,
+        -0.015090374276041985,
+        0.0,
+        0.5646424889564514,
+        0.2830057740211487,
+        0.7752977609634399,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "after": [
+        0.649004340171814,
+        0.4362066090106964,
+        -0.623311460018158,
+        0.0,
+        -0.6046101450920105,
+        0.7930245399475098,
+        -0.07455667108297348,
+        0.0,
+        0.4617791771888733,
+        0.42524802684783936,
+        0.7784112691879272,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ],
+  "planned_binding_objects": 32738,
+  "actual_binding_objects": 32738,
+  "binding_plan_errors": [],
+  "changed_original_cloud_materials": [
+    "ENCLOSING CLOUD local side tongues",
+    "ENCLOSING CLOUD with open courtyards",
+    "Lower ambient cloud sea",
+    "MOTHER CLOUD connected supporting cloud",
+    "MOTHER CLOUD feathered folded shoulders",
+    "Ordinary mist / open air only"
+  ],
+  "unexpected_original_material_changes": [],
+  "declared_cloud_changes_missing": [],
+  "original_material_count": 54,
+  "new_city_materials": [
+    "CITY05 gold / Garden leaves",
+    "CITY05 leaf / Garden leaves",
+    "CITY05 pine / Garden leaves",
+    "CITY05 redwood / V04 wood",
+    "CITY05 redwood / Warm timber / reference-derived family",
+    "CITY05 roof / Gray clay roof",
+    "CITY05 roof / V04 roof",
+    "CITY05 stone / V04 stone",
+    "CITY05 stone / Warm gray garden stone",
+    "CITY05 wall / V04 wall",
+    "CITY05 wall / Warm mineral plaster",
+    "CITY05 water / Longzhou water",
+    "CITY05 water / V04 water",
+    "CITY05 window / V04 window",
+    "CITY05 wood / V04 wood",
+    "CITY05 wood / Warm timber / reference-derived family"
+  ],
+  "unexpected_new_materials": [],
+  "protected_collections_object_counts": {
+    "E01_DANCE_HALL": 111,
+    "E01_DORM": 118,
+    "E01_HOME_EXTENSION": 97,
+    "E01_SCHOOL_GROUND": 300,
+    "E01_WORKSHOP": 268,
+    "HOME_01_Architecture": 140,
+    "HOME_02_Bed": 21,
+    "HOME_03_Cabinet": 17,
+    "HOME_04_Desk": 91,
+    "HOME_05_Curtains": 6,
+    "HOME_06_Corridor": 53,
+    "HOME_08_Props": 23
+  },
+  "protected_collection_binding_changes": {},
+  "camera_positions_max_difference_m": 0.0,
+  "camera_quaternion_components_max_difference": 0.0,
+  "carrier_positions_max_difference_m": 0.0,
+  "camera_action_identical": true,
+  "carrier_action_identical": true,
+  "camera_settings_identical": true,
+  "timing_identical": true,
+  "serializer_dependencies": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云海城市-20261023-v0.1\\independent-preservation-audit.py": "3537c9d6339dff8e46b79fef01e39afe8aa48137cb9a12e73c7b97573992c626",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云中园城-20261024-v0.2\\independent-audit.py": "d33e2fe7ae769d6840cdeb868bf247d31d266f8df6cf0e0341f64006f40d19b0"
+  },
+  "scope": "All original mesh coordinates/topology/material polygon indices/smoothing, object matrices (authorized sun rotation excepted), bindings against exact listed per-object source/destination assignments; every original object animation and direct material shader signature. Named original home/interior/school collections separately checked for unchanged bindings. Added CITY05 material datablocks allowed.",
+  "limits": [
+    "No render, GPU or scene save. No new collision or continuous viewing claim.",
+    "UV/custom attributes/custom normals/shape keys, external image bytes and recursively evaluated node groups excluded.",
+    "World, sunlight and AgX appearance changes authorized; unchanged interior material does not imply unchanged lit screen appearance.",
+    "Object-level bindings are intentionally allowed; original data-level materials must remain unchanged."
+  ],
+  "passed": true
+}

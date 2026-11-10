@@ -1,0 +1,1637 @@
+{
+  "input_hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山水总图白模-20261024-v0.1\\landscape-masterplan-v08.blend": "5c103598af0c6676ab52e809694f7cbb40955cea0368189cf4e9a86b4aa84b69",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集山水总图白模-20261024-v0.1\\layout-plan.json": "83dec79123aea5921328a2a8ab26f7cc8760592a729530ba295ab1132c087bea"
+  },
+  "inputs_stable": true,
+  "court_count": 50,
+  "court_footprint_overlaps": [],
+  "court_support_exceptions": [
+    {
+      "court": "West-neighbourhood-+1-00",
+      "missing": 0,
+      "max_floor_above_ground_m": 0.0585882297092013,
+      "max_ground_above_floor_m": 3.8704584011501737,
+      "most_buried_sample": {
+        "xy": [
+          18.810259942725054,
+          153.3316669095814
+        ],
+        "floor": 51.84488888888889,
+        "terrain_z": 55.71534729003906
+      },
+      "most_floating_sample": {
+        "xy": [
+          -14.457406382519466,
+          157.60511718683884
+        ],
+        "floor": 51.84488888888889,
+        "terrain_z": 51.78630065917969
+      }
+    },
+    {
+      "court": "Two-level-water-court",
+      "missing": 0,
+      "max_floor_above_ground_m": 0.0428924560546875,
+      "max_ground_above_floor_m": 8.0919189453125,
+      "most_buried_sample": {
+        "xy": [
+          62.206071627018304,
+          -27.444083893219243
+        ],
+        "floor": 41.5,
+        "terrain_z": 49.5919189453125
+      },
+      "most_floating_sample": {
+        "xy": [
+          40.80881007983655,
+          -62.84757522220397
+        ],
+        "floor": 41.5,
+        "terrain_z": 41.45710754394531
+      }
+    },
+    {
+      "court": "Lower-lane--1-02",
+      "missing": 0,
+      "max_floor_above_ground_m": 0.0233593750000054,
+      "max_ground_above_floor_m": 2.9629992675781196,
+      "most_buried_sample": {
+        "xy": [
+          253.43106668359994,
+          -438.63368835389934
+        ],
+        "floor": 23.580000000000005,
+        "terrain_z": 26.542999267578125
+      },
+      "most_floating_sample": {
+        "xy": [
+          270.72462623146333,
+          -408.2868137509933
+        ],
+        "floor": 23.580000000000005,
+        "terrain_z": 23.556640625
+      }
+    }
+  ],
+  "paths": [
+    {
+      "id": "bank--1",
+      "type": "daily-bank-route",
+      "maximum_slope_percent": 17.561895838871802,
+      "actual_mesh_center_maximum_slope_percent": 17.56020530635708,
+      "actual_mesh_center_steepest_segment": 348,
+      "steepest_segment": 348,
+      "steepest_segment_endpoints": [
+        [
+          32.013610787069226,
+          319.77432520616543,
+          60.158174409931384
+        ],
+        [
+          31.699734353231698,
+          318.4121983853432,
+          59.91269026903271
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "bank-1",
+      "type": "daily-bank-route",
+      "maximum_slope_percent": 13.700989161431554,
+      "actual_mesh_center_maximum_slope_percent": 13.70156220103189,
+      "actual_mesh_center_steepest_segment": 316,
+      "steepest_segment": 316,
+      "steepest_segment_endpoints": [
+        [
+          65.43441260811633,
+          374.5586397087786,
+          68.08614805367185
+        ],
+        [
+          65.68291634112983,
+          372.65283021230647,
+          67.82282288552429
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "School-+1-00-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 7.97363718573467,
+      "actual_mesh_center_maximum_slope_percent": 7.97509730292577,
+      "actual_mesh_center_steepest_segment": 11,
+      "steepest_segment": 13,
+      "steepest_segment_endpoints": [
+        [
+          -212.01979220549285,
+          797.1066695669509,
+          98.45588974498148
+        ],
+        [
+          -211.47232158390733,
+          797.2419897586234,
+          98.50085679146365
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "School-+1-01-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 6.84671636513013,
+      "actual_mesh_center_maximum_slope_percent": 6.84877182502616,
+      "actual_mesh_center_steepest_segment": 10,
+      "steepest_segment": 10,
+      "steepest_segment_endpoints": [
+        [
+          -191.16477887953297,
+          749.4519014588759,
+          98.36324813630765
+        ],
+        [
+          -190.56738750284924,
+          749.670685115027,
+          98.40680653176406
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "School-+1-02-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 9.000048762751401,
+      "actual_mesh_center_maximum_slope_percent": 9.00288741993709,
+      "actual_mesh_center_steepest_segment": 26,
+      "steepest_segment": 13,
+      "steepest_segment_endpoints": [
+        [
+          -171.538361476279,
+          704.6286527828345,
+          98.42124835425717
+        ],
+        [
+          -171.10686483058598,
+          704.9077410651649,
+          98.46749841521061
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "School-+1-03-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 6.747630260383404,
+      "actual_mesh_center_maximum_slope_percent": 6.748754173461783,
+      "actual_mesh_center_steepest_segment": 8,
+      "steepest_segment": 10,
+      "steepest_segment_endpoints": [
+        [
+          -150.8470401736251,
+          663.4056875093834,
+          98.36696386523568
+        ],
+        [
+          -150.46217999646456,
+          663.9216653502859,
+          98.41039840306117
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "School--1-00-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 7.997261660050365,
+      "actual_mesh_center_maximum_slope_percent": 8.000256535224153,
+      "actual_mesh_center_steepest_segment": 16,
+      "steepest_segment": 30,
+      "steepest_segment_endpoints": [
+        [
+          -282.0923429418605,
+          746.3270275400839,
+          99.22003422924939
+        ],
+        [
+          -282.63293537117823,
+          746.1710319389313,
+          99.26503080632446
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "School--1-01-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 6.844164569908501,
+      "actual_mesh_center_maximum_slope_percent": 6.845521777760047,
+      "actual_mesh_center_steepest_segment": 10,
+      "steepest_segment": 29,
+      "steepest_segment_endpoints": [
+        [
+          -258.80588115229193,
+          679.3757829786914,
+          99.19089273716378
+        ],
+        [
+          -259.3714252850081,
+          679.0839866011436,
+          99.23444794287617
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "School--1-02-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 8.474710225468788,
+      "actual_mesh_center_maximum_slope_percent": 8.47752303394302,
+      "actual_mesh_center_steepest_segment": 25,
+      "steepest_segment": 11,
+      "steepest_segment_endpoints": [
+        [
+          -203.59378296556787,
+          626.4919509073217,
+          98.3477917543268
+        ],
+        [
+          -203.92846317958984,
+          626.0707310950736,
+          98.39338514210866
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "West-neighbourhood-+1-00-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 8.529046939142109,
+      "actual_mesh_center_maximum_slope_percent": 8.54133837150808,
+      "actual_mesh_center_steepest_segment": 24,
+      "steepest_segment": 10,
+      "steepest_segment_endpoints": [
+        [
+          -27.448264002015353,
+          166.32967006012922,
+          50.64734692666534
+        ],
+        [
+          -27.004017057514456,
+          166.031317474825,
+          50.69298885352886
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "West-neighbourhood-+1-01-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 8.066364524067804,
+      "actual_mesh_center_maximum_slope_percent": 7.951665444094516,
+      "actual_mesh_center_steepest_segment": 8,
+      "steepest_segment": 11,
+      "steepest_segment_endpoints": [
+        [
+          -44.974315867926784,
+          119.21048031130573,
+          47.42893825630653
+        ],
+        [
+          -44.3488273179254,
+          119.11603042786861,
+          47.47996441721145
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "West-neighbourhood-+1-02-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 10.422535211268443,
+      "actual_mesh_center_maximum_slope_percent": 10.423945541605551,
+      "actual_mesh_center_steepest_segment": 34,
+      "steepest_segment": 11,
+      "steepest_segment_endpoints": [
+        [
+          -54.127264888655866,
+          64.24214601647355,
+          43.388294209702664
+        ],
+        [
+          -53.66961215239051,
+          64.18828901740237,
+          43.43632237871675
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "West-neighbourhood-+1-03-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 7.5947980208665005,
+      "actual_mesh_center_maximum_slope_percent": 7.206788066212664,
+      "actual_mesh_center_steepest_segment": 13,
+      "steepest_segment": 11,
+      "steepest_segment_endpoints": [
+        [
+          -37.888898002185705,
+          7.999273976158122,
+          40.59022977282716
+        ],
+        [
+          -37.309704890810565,
+          8.285808240178445,
+          40.63930689366922
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "East-neighbourhood--1-00-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 7.214484679666709,
+      "actual_mesh_center_maximum_slope_percent": 7.2188097509170825,
+      "actual_mesh_center_steepest_segment": 14,
+      "steepest_segment": 11,
+      "steepest_segment_endpoints": [
+        [
+          -82.39920936118114,
+          165.7002306865292,
+          49.28236381925101
+        ],
+        [
+          -82.95310731248803,
+          165.95608600240988,
+          49.3263819251006
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "East-neighbourhood--1-01-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 6.92569409713098,
+      "actual_mesh_center_maximum_slope_percent": 6.826228885836189,
+      "actual_mesh_center_steepest_segment": 37,
+      "steepest_segment": 18,
+      "steepest_segment_endpoints": [
+        [
+          -112.98450599418159,
+          105.05772535991241,
+          45.72108650674996
+        ],
+        [
+          -113.67496058046316,
+          105.14690205979937,
+          45.7693024717849
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "East-neighbourhood--1-02-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 8.500258924825939,
+      "actual_mesh_center_maximum_slope_percent": 8.540534732621456,
+      "actual_mesh_center_steepest_segment": 22,
+      "steepest_segment": 10,
+      "steepest_segment_endpoints": [
+        [
+          -123.74770706610406,
+          31.22772669046649,
+          41.631469686871405
+        ],
+        [
+          -124.28282927742657,
+          31.200570771571464,
+          41.67701499313753
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "East-neighbourhood--1-03-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 5.990600112902581,
+      "actual_mesh_center_maximum_slope_percent": 5.992730084184396,
+      "actual_mesh_center_steepest_segment": 16,
+      "steepest_segment": 27,
+      "steepest_segment_endpoints": [
+        [
+          -133.489237698946,
+          -47.94390866834948,
+          41.11765274816535
+        ],
+        [
+          -134.1060160501366,
+          -48.29407735090812,
+          41.16014099830648
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Water-bay-+1-00-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 8.04347826086984,
+      "actual_mesh_center_maximum_slope_percent": 8.047069370099537,
+      "actual_mesh_center_steepest_segment": 22,
+      "steepest_segment": 13,
+      "steepest_segment_endpoints": [
+        [
+          -6.581338827773874,
+          -33.12794868451264,
+          40.45353260869565
+        ],
+        [
+          -6.107809580462291,
+          -32.828747378443666,
+          40.49858695652174
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Two-level-water-court-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 8.083666038954805,
+      "actual_mesh_center_maximum_slope_percent": 8.085104698324475,
+      "actual_mesh_center_steepest_segment": 36,
+      "steepest_segment": 21,
+      "steepest_segment_endpoints": [
+        [
+          33.9732609811077,
+          -70.30765605250848,
+          40.81301293157484
+        ],
+        [
+          34.35527366892795,
+          -69.90096339967289,
+          40.858117514123535
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Water-bay-+1-02-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 9.700374531836466,
+      "actual_mesh_center_maximum_slope_percent": 9.705353844315132,
+      "actual_mesh_center_steepest_segment": 30,
+      "steepest_segment": 18,
+      "steepest_segment_endpoints": [
+        [
+          70.24803144980336,
+          -119.07546318945161,
+          40.63323970037453
+        ],
+        [
+          70.59439667757657,
+          -118.7348119412662,
+          40.68036516853933
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Water-bay-+1-03-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 6.819070635738653,
+      "actual_mesh_center_maximum_slope_percent": 6.8217523207726725,
+      "actual_mesh_center_steepest_segment": 24,
+      "steepest_segment": 8,
+      "steepest_segment_endpoints": [
+        [
+          102.58269207623009,
+          -168.484009475974,
+          40.27723717457047
+        ],
+        [
+          102.94752895847112,
+          -167.96029383049137,
+          40.32076101286515
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Water-bay-+1-04-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 8.043478260869959,
+      "actual_mesh_center_maximum_slope_percent": 8.04706937009967,
+      "actual_mesh_center_steepest_segment": 38,
+      "steepest_segment": 15,
+      "steepest_segment_endpoints": [
+        [
+          147.29113130398588,
+          -209.56308137614485,
+          40.54364130434783
+        ],
+        [
+          147.59917869610396,
+          -209.09525857441102,
+          40.58869565217392
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Water-bay--1-00-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 7.606461086637737,
+      "actual_mesh_center_maximum_slope_percent": 7.606770645388501,
+      "actual_mesh_center_steepest_segment": 20,
+      "steepest_segment": 33,
+      "steepest_segment_endpoints": [
+        [
+          -112.37692786302242,
+          -113.20123877824844,
+          41.35844346549192
+        ],
+        [
+          -112.86306279644126,
+          -113.52690110778542,
+          41.40295154185022
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Water-bay--1-01-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 6.485386189410186,
+      "actual_mesh_center_maximum_slope_percent": 6.487583527438521,
+      "actual_mesh_center_steepest_segment": 21,
+      "steepest_segment": 27,
+      "steepest_segment_endpoints": [
+        [
+          -70.11185330351108,
+          -175.39694222877125,
+          41.1096124744221
+        ],
+        [
+          -70.58125351338347,
+          -175.86753349123035,
+          41.15271920715887
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Water-bay--1-02-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 9.0718038528906,
+      "actual_mesh_center_maximum_slope_percent": 9.073529924665179,
+      "actual_mesh_center_steepest_segment": 35,
+      "steepest_segment": 28,
+      "steepest_segment_endpoints": [
+        [
+          -16.60185827252012,
+          -217.99226038052925,
+          41.113922942206656
+        ],
+        [
+          -16.963442933010914,
+          -218.35307088167764,
+          41.16026269702277
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Water-bay--1-03-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 6.485737924021659,
+      "actual_mesh_center_maximum_slope_percent": 6.487869208028534,
+      "actual_mesh_center_steepest_segment": 16,
+      "steepest_segment": 17,
+      "steepest_segment_endpoints": [
+        [
+          53.032952432541364,
+          -255.44237020510477,
+          40.6785350346844
+        ],
+        [
+          52.673332674145904,
+          -256.0013222751524,
+          40.72164220708943
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Water-bay--1-04-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 7.606461086638408,
+      "actual_mesh_center_maximum_slope_percent": 7.613289989445404,
+      "actual_mesh_center_steepest_segment": 16,
+      "steepest_segment": 37,
+      "steepest_segment_endpoints": [
+        [
+          106.27474709822489,
+          -288.7500967910125,
+          41.53647577092511
+        ],
+        [
+          105.95480131684596,
+          -289.24001293010923,
+          41.58098384728341
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Lower-lane-+1-00-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 9.710330134553868,
+      "actual_mesh_center_maximum_slope_percent": 9.726734214506367,
+      "actual_mesh_center_steepest_segment": 14,
+      "steepest_segment": 11,
+      "steepest_segment_endpoints": [
+        [
+          217.16215821069167,
+          -271.3587488240382,
+          35.98531859260116
+        ],
+        [
+          217.45188219041128,
+          -270.96962658756485,
+          36.032426815821495
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Lower-lane-+1-01-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 9.229036311346697,
+      "actual_mesh_center_maximum_slope_percent": 9.159305755937297,
+      "actual_mesh_center_steepest_segment": 38,
+      "steepest_segment": 39,
+      "steepest_segment_endpoints": [
+        [
+          276.9840759987174,
+          -305.07319834179845,
+          31.01792983916478
+        ],
+        [
+          277.4289703437885,
+          -304.720615809516,
+          31.070319999999988
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Lower-lane-+1-02-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 12.245862884161198,
+      "actual_mesh_center_maximum_slope_percent": 12.242367393092767,
+      "actual_mesh_center_steepest_segment": 15,
+      "steepest_segment": 15,
+      "steepest_segment_endpoints": [
+        [
+          303.7708880985035,
+          -359.89327126526996,
+          23.92046493301813
+        ],
+        [
+          304.090515170075,
+          -359.6351936463301,
+          23.97077226162333
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Lower-lane-+1-03-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 8.21773270594564,
+      "actual_mesh_center_maximum_slope_percent": 8.202269790948256,
+      "actual_mesh_center_steepest_segment": 39,
+      "steepest_segment": 14,
+      "steepest_segment_endpoints": [
+        [
+          339.0878194925128,
+          -406.2403885874163,
+          20.74177325301175
+        ],
+        [
+          339.59099640139146,
+          -405.98530655719765,
+          20.788132763319314
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Lower-lane-+1-04-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 9.718574108818466,
+      "actual_mesh_center_maximum_slope_percent": 9.722016315938042,
+      "actual_mesh_center_steepest_segment": 22,
+      "steepest_segment": 15,
+      "steepest_segment_endpoints": [
+        [
+          365.9529766118647,
+          -457.74867640560285,
+          20.49129455909944
+        ],
+        [
+          366.4035763168229,
+          -457.568909875809,
+          20.53844277673546
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Lower-lane-+1-05-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 7.7303049585357915,
+      "actual_mesh_center_maximum_slope_percent": 7.73155525942586,
+      "actual_mesh_center_steepest_segment": 35,
+      "steepest_segment": 15,
+      "steepest_segment_endpoints": [
+        [
+          385.56122371544893,
+          -524.511044345016,
+          20.553427970045767
+        ],
+        [
+          386.13889141758796,
+          -524.5215656774756,
+          20.59809085124394
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Zhixia-home-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 12.245862884161069,
+      "actual_mesh_center_maximum_slope_percent": 12.249796014083387,
+      "actual_mesh_center_steepest_segment": 18,
+      "steepest_segment": 32,
+      "steepest_segment_endpoints": [
+        [
+          394.1483912482098,
+          -579.7752749602836,
+          21.26754137115839
+        ],
+        [
+          394.55868811611356,
+          -579.754732261643,
+          21.317848699763598
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Lower-lane--1-00-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 9.077399464039148,
+      "actual_mesh_center_maximum_slope_percent": 9.09452122568339,
+      "actual_mesh_center_steepest_segment": 20,
+      "steepest_segment": 10,
+      "steepest_segment_endpoints": [
+        [
+          201.8040643926474,
+          -320.6713821632449,
+          34.18851926570923
+        ],
+        [
+          201.4817129884367,
+          -321.0667647985524,
+          34.23482626973186
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Lower-lane--1-01-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 8.671466883461733,
+      "actual_mesh_center_maximum_slope_percent": 8.117354487107532,
+      "actual_mesh_center_steepest_segment": 9,
+      "steepest_segment": 11,
+      "steepest_segment_endpoints": [
+        [
+          242.6112183709704,
+          -359.2224850692833,
+          27.863197320838147
+        ],
+        [
+          242.1453126007568,
+          -359.5857916150946,
+          27.914429462145936
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Lower-lane--1-02-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 11.260869565218039,
+      "actual_mesh_center_maximum_slope_percent": 11.254740870276065,
+      "actual_mesh_center_steepest_segment": 31,
+      "steepest_segment": 19,
+      "steepest_segment_endpoints": [
+        [
+          277.7163841985616,
+          -403.07656899440076,
+          22.71940217391305
+        ],
+        [
+          277.3669317468934,
+          -403.3369802976167,
+          22.768478260869575
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Lower-lane--1-03-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 7.487263165385298,
+      "actual_mesh_center_maximum_slope_percent": 7.489538361175706,
+      "actual_mesh_center_steepest_segment": 17,
+      "steepest_segment": 15,
+      "steepest_segment_endpoints": [
+        [
+          307.4803137772799,
+          -453.2516095389997,
+          20.561023026081727
+        ],
+        [
+          306.92754798075396,
+          -453.4648217633341,
+          20.605382105038462
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Lower-lane--1-04-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 9.087719298246114,
+      "actual_mesh_center_maximum_slope_percent": 9.09153009882066,
+      "actual_mesh_center_steepest_segment": 28,
+      "steepest_segment": 10,
+      "steepest_segment_endpoints": [
+        [
+          328.26944393396695,
+          -503.767011505162,
+          20.27921052631579
+        ],
+        [
+          327.77185100879836,
+          -503.87943542130773,
+          20.325570175438603
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Lower-lane--1-05-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 7.511147512368073,
+      "actual_mesh_center_maximum_slope_percent": 7.51354047376193,
+      "actual_mesh_center_steepest_segment": 12,
+      "steepest_segment": 28,
+      "steepest_segment_endpoints": [
+        [
+          323.89596372052904,
+          -557.5006470568957,
+          21.137332787314488
+        ],
+        [
+          323.30499846043915,
+          -557.4974196052151,
+          21.181721721704946
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Repair-workshop-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 11.260869565217881,
+      "actual_mesh_center_maximum_slope_percent": 11.266995215600518,
+      "actual_mesh_center_steepest_segment": 39,
+      "steepest_segment": 16,
+      "steepest_segment_endpoints": [
+        [
+          337.6594201037971,
+          -607.6049223560145,
+          20.49217391304348
+        ],
+        [
+          337.2238106081019,
+          -607.618167358082,
+          20.541250000000005
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Slope-neighbourhood-+1-00-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 0.0,
+      "actual_mesh_center_maximum_slope_percent": 0.00536413487232781,
+      "actual_mesh_center_steepest_segment": 14,
+      "steepest_segment": 0,
+      "steepest_segment_endpoints": [
+        [
+          9.037758647715961,
+          96.09509987572848,
+          55.64640017841146
+        ],
+        [
+          9.309686213677393,
+          96.0115978820621,
+          55.64640017841146
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Slope-neighbourhood-+1-01-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 4.202845863469816,
+      "actual_mesh_center_maximum_slope_percent": 2.3847388204016933,
+      "actual_mesh_center_steepest_segment": 5,
+      "steepest_segment": 11,
+      "steepest_segment_endpoints": [
+        [
+          10.220295804163872,
+          47.35770369620139,
+          53.92620868714465
+        ],
+        [
+          10.519406250079134,
+          47.43670780318925,
+          53.93921095741259
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Slope-neighbourhood-+1-02-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 0.0,
+      "actual_mesh_center_maximum_slope_percent": 0.22261159720161297,
+      "actual_mesh_center_steepest_segment": 14,
+      "steepest_segment": 0,
+      "steepest_segment_endpoints": [
+        [
+          125.34776586073444,
+          -100.09868415270637,
+          47.24849756195563
+        ],
+        [
+          125.54660662611158,
+          -99.89526455163458,
+          47.24849756195563
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Slope-neighbourhood-+1-03-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 2.289754970594334,
+      "actual_mesh_center_maximum_slope_percent": 1.3821873830386662,
+      "actual_mesh_center_steepest_segment": 2,
+      "steepest_segment": 9,
+      "steepest_segment_endpoints": [
+        [
+          161.21818162408468,
+          -142.26462225515536,
+          45.27964016771463
+        ],
+        [
+          161.3363430226739,
+          -141.99458580489903,
+          45.286389385105466
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Slope-neighbourhood-+1-04-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 0.0,
+      "actual_mesh_center_maximum_slope_percent": 0.005364134872327651,
+      "actual_mesh_center_steepest_segment": 17,
+      "steepest_segment": 0,
+      "steepest_segment_endpoints": [
+        [
+          213.44483089216024,
+          -191.93959084366404,
+          42.76954872514195
+        ],
+        [
+          213.60149487706053,
+          -191.70215963276047,
+          42.76954872514195
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Slope-neighbourhood--1-00-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 0.0,
+      "actual_mesh_center_maximum_slope_percent": 0.13820330301920042,
+      "actual_mesh_center_steepest_segment": 15,
+      "steepest_segment": 0,
+      "steepest_segment_endpoints": [
+        [
+          -168.8187148766708,
+          102.54731970545453,
+          61.17907435216102
+        ],
+        [
+          -169.0735400627364,
+          102.59613912423058,
+          61.17907435216102
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Slope-neighbourhood--1-01-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 12.822684165243444,
+      "actual_mesh_center_maximum_slope_percent": 4.50545550251881,
+      "actual_mesh_center_steepest_segment": 19,
+      "steepest_segment": 14,
+      "steepest_segment_endpoints": [
+        [
+          -187.30144621857295,
+          -20.371837122954634,
+          56.83059682170283
+        ],
+        [
+          -187.5535906679945,
+          -20.561997897895417,
+          56.871092544071026
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Slope-neighbourhood--1-02-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 0.0,
+      "actual_mesh_center_maximum_slope_percent": 0.1440842946370387,
+      "actual_mesh_center_steepest_segment": 14,
+      "steepest_segment": 0,
+      "steepest_segment_endpoints": [
+        [
+          26.175860974488614,
+          -300.7816284001109,
+          43.936394346785164
+        ],
+        [
+          26.0221940074227,
+          -300.99068742128856,
+          43.936394346785164
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Slope-neighbourhood--1-03-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 0.7997259663616116,
+      "actual_mesh_center_maximum_slope_percent": 0.38638556034116206,
+      "actual_mesh_center_steepest_segment": 39,
+      "steepest_segment": 0,
+      "steepest_segment_endpoints": [
+        [
+          107.86365755220856,
+          -336.1394758884295,
+          40.82147381043973
+        ],
+        [
+          107.73703066454522,
+          -336.36729046708126,
+          40.81938939484208
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Slope-neighbourhood--1-04-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 0.0,
+      "actual_mesh_center_maximum_slope_percent": 0.0558694203694641,
+      "actual_mesh_center_steepest_segment": 37,
+      "steepest_segment": 0,
+      "steepest_segment_endpoints": [
+        [
+          179.05986059503437,
+          -378.93909359685375,
+          37.90234446949973
+        ],
+        [
+          178.87709122356847,
+          -379.12325268014035,
+          37.90234446949973
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "Slope-neighbourhood--1-05-entry",
+      "type": "entry-ramp",
+      "maximum_slope_percent": 2.9909811529764374,
+      "actual_mesh_center_maximum_slope_percent": 1.9300051172683983,
+      "actual_mesh_center_steepest_segment": 19,
+      "steepest_segment": 9,
+      "steepest_segment_endpoints": [
+        [
+          230.0650992609848,
+          -438.01969212349263,
+          35.15744817855307
+        ],
+        [
+          229.82387742989985,
+          -438.1365030743624,
+          35.165464497412614
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "bridge-0.18",
+      "type": "cross-bank-bridge",
+      "maximum_slope_percent": 8.365368603053131,
+      "actual_mesh_center_maximum_slope_percent": 8.366128932006012,
+      "actual_mesh_center_steepest_segment": 22,
+      "steepest_segment": 7,
+      "steepest_segment_endpoints": [
+        [
+          -90.70254703115522,
+          555.8443964067288,
+          89.70983193666068
+        ],
+        [
+          -89.9238873715059,
+          556.821655051808,
+          89.81436039992833
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 5.678260803222656,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "bridge-0.51",
+      "type": "cross-bank-bridge",
+      "maximum_slope_percent": 5.111496727577656,
+      "actual_mesh_center_maximum_slope_percent": 5.111588230484509,
+      "actual_mesh_center_steepest_segment": 7,
+      "steepest_segment": 7,
+      "steepest_segment_endpoints": [
+        [
+          -103.04228421337268,
+          50.178815870327256,
+          42.90262465725507
+        ],
+        [
+          -100.99846669585945,
+          50.11023492975528,
+          43.00715312052272
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 5.74871826171875,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "bridge-0.91",
+      "type": "cross-bank-bridge",
+      "maximum_slope_percent": 7.322872155017262,
+      "actual_mesh_center_maximum_slope_percent": 7.323537731393244,
+      "actual_mesh_center_steepest_segment": 22,
+      "steepest_segment": 7,
+      "steepest_segment_endpoints": [
+        [
+          341.67562789389524,
+          -504.30898771261985,
+          20.797735768366174
+        ],
+        [
+          343.0720965187861,
+          -504.01332612918446,
+          20.90226423163383
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 5.722297668457031,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "hill-1",
+      "type": "upper-daily-route",
+      "maximum_slope_percent": 5.069008511187178,
+      "actual_mesh_center_maximum_slope_percent": 5.068116347065962,
+      "actual_mesh_center_steepest_segment": 38,
+      "steepest_segment": 38,
+      "steepest_segment_endpoints": [
+        [
+          15.236435331616775,
+          119.28092310638542,
+          56.48041208315466
+        ],
+        [
+          15.154931287206004,
+          118.9227693935784,
+          56.461793083486064
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "slope-link-1-0.423",
+      "type": "slope-connection",
+      "maximum_slope_percent": 11.081058028203827,
+      "actual_mesh_center_maximum_slope_percent": 11.090792142428086,
+      "actual_mesh_center_steepest_segment": 54,
+      "steepest_segment": 91,
+      "steepest_segment_endpoints": [
+        [
+          26.830145995851453,
+          150.25593808572393,
+          57.519138750823544
+        ],
+        [
+          27.345220815509315,
+          149.85945614394797,
+          57.59116562800687
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "slope-link-1-0.752",
+      "type": "slope-connection",
+      "maximum_slope_percent": 7.303730955723263,
+      "actual_mesh_center_maximum_slope_percent": 7.307786207932784,
+      "actual_mesh_center_steepest_segment": 20,
+      "steepest_segment": 11,
+      "steepest_segment_endpoints": [
+        [
+          199.08175805511982,
+          -254.30755198622106,
+          38.094725030362845
+        ],
+        [
+          199.4500769977901,
+          -253.771976448626,
+          38.142199281575046
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 2.1103363037109375,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "hill--1",
+      "type": "upper-daily-route",
+      "maximum_slope_percent": 4.548610923771235,
+      "actual_mesh_center_maximum_slope_percent": 4.5482378021251595,
+      "actual_mesh_center_steepest_segment": 21,
+      "steepest_segment": 21,
+      "steepest_segment_endpoints": [
+        [
+          -138.76562101173764,
+          182.84683407628145,
+          64.17943286937796
+        ],
+        [
+          -140.1670542992864,
+          179.6438919661031,
+          64.02040798377803
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "slope-link--1-0.433",
+      "type": "slope-connection",
+      "maximum_slope_percent": 27.762049252491867,
+      "actual_mesh_center_maximum_slope_percent": 27.755737304688193,
+      "actual_mesh_center_steepest_segment": 11,
+      "steepest_segment": 91,
+      "steepest_segment_endpoints": [
+        [
+          -106.80562122380243,
+          225.266287061017,
+          65.82847733816402
+        ],
+        [
+          -107.34021769217637,
+          225.63602563893676,
+          66.00893065830522
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 0,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "slope-link--1-0.568",
+      "type": "slope-connection",
+      "maximum_slope_percent": 24.178262005485042,
+      "actual_mesh_center_maximum_slope_percent": 24.181659405048592,
+      "actual_mesh_center_steepest_segment": 77,
+      "steepest_segment": 65,
+      "steepest_segment_endpoints": [
+        [
+          -142.85597982544715,
+          -99.25560408912234,
+          49.28640259704281
+        ],
+        [
+          -143.41991794608947,
+          -99.57882815395419,
+          49.443561300078464
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 1.430816650390625,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "slope-link--1-0.852",
+      "type": "slope-connection",
+      "maximum_slope_percent": 24.48536249305876,
+      "actual_mesh_center_maximum_slope_percent": 24.48566143329349,
+      "actual_mesh_center_steepest_segment": 17,
+      "steepest_segment": 84,
+      "steepest_segment_endpoints": [
+        [
+          250.89423934105415,
+          -445.56845785943796,
+          33.21961979655667
+        ],
+        [
+          250.3531444085658,
+          -445.92861931494843,
+          33.37877465276155
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 1.892730712890625,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    },
+    {
+      "id": "middle-entry",
+      "type": "upper-entry",
+      "maximum_slope_percent": 2.193443665313745,
+      "actual_mesh_center_maximum_slope_percent": 2.1935371960996877,
+      "actual_mesh_center_steepest_segment": 0,
+      "steepest_segment": 0,
+      "steepest_segment_endpoints": [
+        [
+          77.6082239790952,
+          -39.14315338783477,
+          49.95052732544122
+        ],
+        [
+          75.89224357787927,
+          -40.679970615742455,
+          49.9
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 8.400009155273438,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": [
+        [
+          64.19526327035005,
+          -50.43654268676017,
+          49.900001525878906
+        ]
+      ]
+    },
+    {
+      "id": "framing-bridge",
+      "type": "cross-bank-bridge",
+      "maximum_slope_percent": 0.0,
+      "actual_mesh_center_maximum_slope_percent": 0.0007721854007105337,
+      "actual_mesh_center_steepest_segment": 2,
+      "steepest_segment": 0,
+      "steepest_segment_endpoints": [
+        [
+          -208.8584721833758,
+          637.4126929583313,
+          98.3
+        ],
+        [
+          -208.06852832441922,
+          638.0061443794356,
+          98.3
+        ]
+      ],
+      "building_body_intersections": {},
+      "max_above_terrain_m": 4.698539733886719,
+      "max_below_terrain_m": 0,
+      "road_mesh_internal_ray_misses": []
+    }
+  ],
+  "water": {
+    "uphill_segments": 0,
+    "max_grade_percent": 32.96632042815614,
+    "total_drop_m": 88.0,
+    "water_bay_0575_0715_drop_m": 0.0,
+    "bay_length_m": 254.6696565772577
+  },
+  "limits": [
+    "Saved mesh geometry; no render or scene save.",
+    "Road samples spaced at most 1m longitudinally, three core lateral positions; floor projected onto actual road mesh and body tested at 0.15/0.9/1.8m. Includes courtyard walls and roofs. Not a continuous full-body sweep.",
+    "Plan footprint overlap does not alone prove volume collision. Different court surface intersections separately checked.",
+    "Court support uses actual half_size, 9x9 samples against actual terrain triangles. Road-to-ground gap remains diagnostic where deliberate bridge/support structures exist.",
+    "Slopes computed from authored centerline data; staircase geometry and accessible route certification not assumed.",
+    "No new flight present; no flight acceptance."
+  ],
+  "different_court_building_surface_intersections": []
+}

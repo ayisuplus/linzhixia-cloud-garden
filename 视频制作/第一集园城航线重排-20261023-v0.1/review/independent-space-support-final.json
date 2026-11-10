@@ -1,0 +1,691 @@
+{
+  "source_sha256_at_open": "8b17e835e91e968bf6ddc5e1d631428af5a74321600c30ed9abe9e15c7ac2ef4",
+  "source_sha256_at_end": "8b17e835e91e968bf6ddc5e1d631428af5a74321600c30ed9abe9e15c7ac2ef4",
+  "confirmed_plant_vertices_in_east_walls": [],
+  "confirmed_courts": 0,
+  "support_samples": 649,
+  "support_flags": [
+    {
+      "object": "Replan 00 compound 03",
+      "point": [
+        -1156.8327004294003,
+        927.7531393762926,
+        35.900000000000006
+      ],
+      "ground": null,
+      "gap": null
+    },
+    {
+      "object": "Replan 00 compound 03",
+      "point": [
+        -1156.8327004294003,
+        949.7531393762926,
+        35.900000000000006
+      ],
+      "ground": null,
+      "gap": null
+    },
+    {
+      "object": "Replan 00 compound 03",
+      "point": [
+        -1171.8327004294003,
+        919.7531393762926,
+        35.900000000000006
+      ],
+      "ground": null,
+      "gap": null
+    },
+    {
+      "object": "Replan 04 compound 10",
+      "point": [
+        -966.0601225314185,
+        579.7467386080923,
+        -14.8
+      ],
+      "ground": null,
+      "gap": null
+    },
+    {
+      "object": "canal 0",
+      "point": [
+        -305,
+        -20,
+        0.0
+      ],
+      "ground": "Water lane cloud bank structural cloud",
+      "gap": 3.5
+    },
+    {
+      "object": "canal 0",
+      "point": [
+        -312.5,
+        -24.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank structural cloud",
+      "gap": 3.5
+    },
+    {
+      "object": "canal 0",
+      "point": [
+        -297.5,
+        -24.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank structural cloud",
+      "gap": 3.5
+    },
+    {
+      "object": "canal 0",
+      "point": [
+        -312.5,
+        -15.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank structural cloud",
+      "gap": 3.5
+    },
+    {
+      "object": "canal 1",
+      "point": [
+        -261,
+        -20,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649996757507324
+    },
+    {
+      "object": "canal 1",
+      "point": [
+        -270.5,
+        -24.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank structural cloud",
+      "gap": 3.5
+    },
+    {
+      "object": "canal 1",
+      "point": [
+        -251.5,
+        -24.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649999141693115
+    },
+    {
+      "object": "canal 2",
+      "point": [
+        -195,
+        -20,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649999141693115
+    },
+    {
+      "object": "canal 2",
+      "point": [
+        -204.5,
+        -24.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649996757507324
+    },
+    {
+      "object": "canal 2",
+      "point": [
+        -185.5,
+        -24.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649999141693115
+    },
+    {
+      "object": "canal 3",
+      "point": [
+        -151,
+        -20,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649999141693115
+    },
+    {
+      "object": "canal 3",
+      "point": [
+        -159.5,
+        -24.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649999141693115
+    },
+    {
+      "object": "canal 3",
+      "point": [
+        -142.5,
+        -24.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649994373321533
+    },
+    {
+      "object": "canal 4",
+      "point": [
+        -107,
+        -20,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649999141693115
+    },
+    {
+      "object": "canal 4",
+      "point": [
+        -114.5,
+        -24.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649999141693115
+    },
+    {
+      "object": "canal 4",
+      "point": [
+        -99.5,
+        -24.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649999141693115
+    },
+    {
+      "object": "canal 5",
+      "point": [
+        -63,
+        -20,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649999141693115
+    },
+    {
+      "object": "canal 5",
+      "point": [
+        -72.5,
+        -24.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649999141693115
+    },
+    {
+      "object": "canal 5",
+      "point": [
+        -53.5,
+        -24.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649996757507324
+    },
+    {
+      "object": "canal 6",
+      "point": [
+        -305,
+        48,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649994373321533
+    },
+    {
+      "object": "canal 6",
+      "point": [
+        -312.5,
+        43.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4650001525878906
+    },
+    {
+      "object": "canal 6",
+      "point": [
+        -312.5,
+        52.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank structural cloud",
+      "gap": 3.5
+    },
+    {
+      "object": "canal 7",
+      "point": [
+        -217,
+        48,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649999141693115
+    },
+    {
+      "object": "canal 7",
+      "point": [
+        -225.5,
+        43.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649999141693115
+    },
+    {
+      "object": "canal 7",
+      "point": [
+        -208.5,
+        43.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4650001525878906
+    },
+    {
+      "object": "canal 7",
+      "point": [
+        -225.5,
+        52.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649996757507324
+    },
+    {
+      "object": "canal 7",
+      "point": [
+        -208.5,
+        52.5,
+        0.0
+      ],
+      "ground": "Water lane cloud bank garden surface",
+      "gap": 3.4649996757507324
+    },
+    {
+      "object": "grove 26",
+      "point": [
+        -1303.3808304747195,
+        1097.199822605476,
+        35.92
+      ],
+      "ground": null,
+      "gap": null
+    },
+    {
+      "object": "grove 70",
+      "point": [
+        -873.8534466464595,
+        690.7622308208087,
+        58.22
+      ],
+      "ground": null,
+      "gap": null
+    },
+    {
+      "object": "grove 71",
+      "point": [
+        -838.0762613905837,
+        673.4840357899177,
+        58.22
+      ],
+      "ground": null,
+      "gap": null
+    },
+    {
+      "object": "grove 124",
+      "point": [
+        -948.0978316469495,
+        428.07976774937856,
+        -14.78
+      ],
+      "ground": null,
+      "gap": null
+    },
+    {
+      "object": "grove 153",
+      "point": [
+        -452.04201513963653,
+        284.5822215740071,
+        4.22
+      ],
+      "ground": null,
+      "gap": null
+    },
+    {
+      "object": "grove 157",
+      "point": [
+        -350.2103695604605,
+        412.66903885398517,
+        4.22
+      ],
+      "ground": null,
+      "gap": null
+    }
+  ],
+  "max_ground_gap_m": 0.22000000000000064,
+  "ground_surfaces": [
+    "Ceiling - never hidden",
+    "Garden ground",
+    "Living room floor",
+    "Living room ceiling",
+    "East pocket court",
+    "Lane home -17 floor",
+    "Lane home -17 ceiling",
+    "Lane home -11 floor",
+    "Lane home -11 ceiling",
+    "Workshop floor",
+    "Workshop ceiling",
+    "Dry trial floor",
+    "School south promenade",
+    "Dorm forecourt",
+    "Hall platform",
+    "An Qingyi dorm floor",
+    "An Qingyi dorm ceiling",
+    "Dance hall floor",
+    "Dance hall ceiling",
+    "Demonstration clear floor",
+    "Neighbour pavilion floor",
+    "Neighbour pavilion ceiling",
+    "Neighbour pavilion floor.001",
+    "Neighbour pavilion ceiling.001",
+    "Neighbour pavilion floor.002",
+    "Neighbour pavilion ceiling.002",
+    "Cascade catch basin",
+    "School cloud shore structural cloud",
+    "School cloud shore garden surface",
+    "School gate garden structural cloud",
+    "School gate garden garden surface",
+    "Upper hanging garden structural cloud",
+    "Upper hanging garden garden surface",
+    "Middle courtyard garden structural cloud",
+    "Middle courtyard garden garden surface",
+    "West shaded garden structural cloud",
+    "West shaded garden garden surface",
+    "Lower eastern garden structural cloud",
+    "Lower eastern garden garden surface",
+    "Lower western garden structural cloud",
+    "Lower western garden garden surface",
+    "Cross district walking spine_0",
+    "Cross district walking spine_1",
+    "Cross district walking spine_2",
+    "Cross district walking spine_3",
+    "Cross district walking spine_4",
+    "Cross district walking spine_5",
+    "Cross district walking spine_6",
+    "Cross district walking spine_7",
+    "Cross district walking spine_8",
+    "Cross district walking spine_9",
+    "Cross district walking spine_10",
+    "Cross district walking spine_11",
+    "Cross district walking spine_12",
+    "Cross district walking spine_13",
+    "Cross district walking spine_14",
+    "Cross district walking spine_16",
+    "Cross district walking spine_17",
+    "Cross district walking spine_18",
+    "Cross district walking spine_19",
+    "Cross district walking spine_20",
+    "Cross district walking spine_21",
+    "Cross district walking spine_22",
+    "Cross district walking spine_23",
+    "Cross district walking spine_25",
+    "Cross district walking spine_26",
+    "Cross district walking spine_27",
+    "Cross district walking spine_28",
+    "Cross district walking spine_29",
+    "Cross district walking spine_30",
+    "Cross district walking spine_31",
+    "Cross district walking spine_32",
+    "Cross district walking spine_34",
+    "Cross district walking spine_35",
+    "Cross district walking spine_36",
+    "Cross district walking spine_37",
+    "Cross district walking spine_38",
+    "Cross district walking spine_40",
+    "Cross district walking spine_41",
+    "Cross district walking spine_42",
+    "Cross district walking spine_43",
+    "Cross district walking spine_44",
+    "Cross district walking spine_45",
+    "Cross district walking spine_46",
+    "Cross district walking spine_47",
+    "Cross district walking spine_48",
+    "Cross district walking spine_49",
+    "Cross district walking spine_50",
+    "Cross district walking spine_51",
+    "Learning garden apron",
+    "Learning garden apron.001",
+    "School exit rest pavilion stone terrace",
+    "Cascade garden 0 structural cloud",
+    "Cascade garden 0 garden surface",
+    "Cascade garden 1 structural cloud",
+    "Cascade garden 1 garden surface",
+    "Cascade garden 2 structural cloud",
+    "Cascade garden 2 garden surface",
+    "Moon corridor garden structural cloud",
+    "Moon corridor garden garden surface",
+    "Moon corridor deck_0",
+    "Moon corridor deck_1",
+    "Cloud observatory landmark stone terrace",
+    "Cloud observatory upper stone terrace",
+    "Upper east court apron",
+    "Upper west court apron",
+    "Middle dwelling court apron",
+    "Lower east court apron",
+    "Lower west court apron",
+    "West quiet court apron",
+    "West garden access deck_2",
+    "Lower west access deck_1",
+    "Middle garden access deck_1",
+    "Curving canal basin",
+    "Canal long gallery deck_0",
+    "Canal long gallery deck_1",
+    "Canal long gallery deck_2",
+    "Academy north study paved court",
+    "Academy north study principal hall plinth",
+    "Academy north study side study plinth",
+    "Academy west study paved court",
+    "Academy west study principal hall plinth",
+    "Academy west study side study plinth",
+    "Upper west annex paved court",
+    "Upper west annex principal hall plinth",
+    "Upper west annex side study plinth",
+    "Upper east annex paved court",
+    "Upper east annex principal hall plinth",
+    "Upper east annex side study plinth",
+    "Middle south court paved court",
+    "Middle south court principal hall plinth",
+    "Middle south court side study plinth",
+    "Middle north study paved court",
+    "Middle north study principal hall plinth",
+    "Middle north study side study plinth",
+    "Quiet west study paved court",
+    "Quiet west study principal hall plinth",
+    "Quiet west study side study plinth",
+    "Quiet east residence paved court",
+    "Quiet east residence principal hall plinth",
+    "Quiet east residence side study plinth",
+    "West bamboo court paved court",
+    "West bamboo court principal hall plinth",
+    "West bamboo court side study plinth",
+    "Retained court stone footing",
+    "Retained court stone footing.001",
+    "Retained court stone footing.002",
+    "Retained court stone footing.003",
+    "Retained court stone footing.004",
+    "Retained court stone footing.005",
+    "Retained court stone footing.006",
+    "Retained court stone footing.007",
+    "Retained court stone footing.008",
+    "Retained court stone footing.009",
+    "Retained court stone footing.010",
+    "Retained court stone footing.011",
+    "Retained court stone footing.012",
+    "Retained court stone footing.013",
+    "Retained court stone footing.014",
+    "Retained court stone footing.015",
+    "Retained court stone footing.016",
+    "Retained court stone footing.017",
+    "Retained court stone footing.018",
+    "Retained court stone footing.019",
+    "Retained court stone footing.020",
+    "Retained court stone footing.021",
+    "Retained court stone footing.022",
+    "Retained court stone footing.023",
+    "School cloud shore garden circuit_1",
+    "School cloud shore garden circuit_3",
+    "School cloud shore garden circuit_5",
+    "School cloud shore garden circuit_7",
+    "School cloud shore garden circuit_1.001",
+    "School cloud shore garden circuit_3.001",
+    "School cloud shore garden circuit_5.001",
+    "School cloud shore garden circuit_7.001",
+    "School cloud shore garden circuit_9",
+    "School cloud shore garden circuit_11",
+    "School cloud shore garden circuit_13",
+    "School cloud shore garden circuit_15",
+    "School cloud shore garden circuit_17",
+    "School cloud shore garden circuit_19",
+    "School cloud shore garden circuit_1.002",
+    "Academy north study walk link_0",
+    "Academy north study walk link_2",
+    "Upper hanging garden garden circuit_1",
+    "Upper hanging garden garden circuit_2.001",
+    "Upper hanging garden garden circuit_4",
+    "Upper hanging garden garden circuit_6",
+    "Upper hanging garden garden circuit_8",
+    "Upper hanging garden garden circuit_10",
+    "Upper hanging garden garden circuit_12",
+    "Upper hanging garden garden circuit_14",
+    "Upper hanging garden garden circuit_16",
+    "Upper hanging garden garden circuit_18",
+    "Upper hanging garden garden circuit_1.002",
+    "Upper hanging garden garden circuit_3.001",
+    "Upper hanging garden garden circuit_5.001",
+    "Upper hanging garden garden circuit_7.001",
+    "Upper hanging garden garden circuit_9.001",
+    "Upper hanging garden garden circuit_11.001",
+    "Upper hanging garden garden circuit_13.001",
+    "Upper hanging garden garden circuit_15.001",
+    "Middle courtyard garden garden circuit_1",
+    "Middle courtyard garden garden circuit_3",
+    "Middle courtyard garden garden circuit_5",
+    "Middle courtyard garden garden circuit_7",
+    "Middle courtyard garden garden circuit_9",
+    "Middle courtyard garden garden circuit_11",
+    "Middle courtyard garden garden circuit_13",
+    "Middle courtyard garden garden circuit_15",
+    "Middle courtyard garden garden circuit_17",
+    "Middle courtyard garden garden circuit_1.001",
+    "Middle courtyard garden garden circuit_3.001",
+    "Middle courtyard garden garden circuit_5.001",
+    "Middle north study walk link_0",
+    "Middle north study walk link_2",
+    "Middle north study walk link_6",
+    "Middle north study walk link_8",
+    "West shaded garden garden circuit_1",
+    "West shaded garden garden circuit_3",
+    "West shaded garden garden circuit_5",
+    "West shaded garden garden circuit_7",
+    "West shaded garden garden circuit_9",
+    "West shaded garden garden circuit_11",
+    "West shaded garden garden circuit_13",
+    "Lower western garden garden circuit_1",
+    "Lower western garden garden circuit_3",
+    "Gallery eave beam.014",
+    "Gallery eave beam.015",
+    "Gallery ridge tile.007",
+    "Gallery eave beam.016",
+    "Gallery eave beam.017",
+    "Gallery ridge tile.008",
+    "Gallery eave beam.018",
+    "Gallery eave beam.019",
+    "Gallery ridge tile.009",
+    "Gallery eave beam.020",
+    "Gallery eave beam.021",
+    "Gallery ridge tile.010",
+    "Gallery eave beam.022",
+    "Gallery eave beam.023",
+    "Gallery ridge tile.011",
+    "Gallery eave beam.024",
+    "Gallery eave beam.025",
+    "Gallery ridge tile.012",
+    "Gallery eave beam.026",
+    "Gallery eave beam.027",
+    "Gallery ridge tile.013",
+    "Gallery eave beam.028",
+    "Gallery eave beam.029",
+    "Gallery ridge tile.014",
+    "Gallery eave beam.030",
+    "Gallery eave beam.031",
+    "Gallery ridge tile.015",
+    "Gallery eave beam.032",
+    "Gallery eave beam.033",
+    "Gallery ridge tile.016",
+    "Gallery eave beam.034",
+    "Gallery eave beam.035",
+    "Gallery ridge tile.017",
+    "Gallery eave beam.036",
+    "Gallery eave beam.037",
+    "Gallery ridge tile.018",
+    "Gallery eave beam.038",
+    "Gallery eave beam.039",
+    "Gallery ridge tile.019",
+    "Gallery eave beam.040",
+    "Gallery eave beam.041",
+    "Gallery ridge tile.020",
+    "Gallery ridge tile.052",
+    "Gallery ridge tile.053",
+    "Gallery ridge tile.054",
+    "Gallery ridge tile.055",
+    "Gallery ridge tile.056",
+    "Gallery ridge tile.057",
+    "Gallery eave beam.156",
+    "Gallery eave beam.157",
+    "Gallery ridge tile.078",
+    "Gallery eave beam.158",
+    "Gallery eave beam.159",
+    "Gallery ridge tile.079",
+    "Gallery eave beam.160",
+    "Gallery eave beam.161",
+    "Gallery ridge tile.080",
+    "Gallery eave beam.162",
+    "Gallery eave beam.163",
+    "Gallery ridge tile.081",
+    "Gallery eave beam.164",
+    "Gallery eave beam.165",
+    "Gallery ridge tile.082",
+    "Gallery eave beam.166",
+    "Gallery eave beam.167",
+    "Gallery ridge tile.083",
+    "Gallery eave beam.212",
+    "Gallery eave beam.213",
+    "Gallery ridge tile.106",
+    "Gallery eave beam.214",
+    "Gallery eave beam.215",
+    "Gallery ridge tile.107",
+    "Gallery eave beam.216",
+    "Gallery eave beam.217",
+    "Gallery ridge tile.108",
+    "Gallery eave beam.218",
+    "Gallery eave beam.219",
+    "Gallery ridge tile.109"
+  ],
+  "limits": "Ground rays at court centers/corners/entrance-end, canal centers/corners, grove trunk base only; no full support polygon or continuous navigation check. Water lane cloud bank name was explicitly included after avoiding the broad water-material-name exclusion.",
+  "water_bank_filter_corrected": true,
+  "water_bank_source_sha256": "8b17e835e91e968bf6ddc5e1d631428af5a74321600c30ed9abe9e15c7ac2ef4"
+}

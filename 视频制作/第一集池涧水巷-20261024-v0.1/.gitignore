@@ -1,0 +1,6 @@
+frames/
+compact-probe/
+*.log
+*.blend1
+__pycache__/
+preview-check.jpg

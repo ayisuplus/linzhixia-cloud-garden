@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-12",
+  "tool": "built-in image_gen",
+  "approved_reference": "视频制作\\知夏水墨书院校服-20261012-v0.1\\知夏-水墨书院校服05-暖白布靴.png",
+  "reference_sha256": "ab1ead44fbefe225c45c1e2606f86f9c557b6bd5549e7795f0f6a49be35980f8",
+  "reference_copy_verified": true,
+  "artifacts": [
+    {
+      "file": "知夏-水墨校服四视图-v1.0.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-38e6dc1a-37b2-4aad-8365-bceb74154739.png",
+      "status": "final",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "5d079e1fa2b4fce5a64f4676e3f7c051f89fcb0ee5a5859119f3fe0a41d29bb4",
+      "copy_verified": true
+    },
+    {
+      "file": "知夏-水墨校服穿搭分解-v1.0.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-710e0d8d-2942-4f34-bf40-b91716128a4a.png",
+      "status": "final",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "0f7c2465c659dcca1dc6aa75d2952f7b524b788f154bd6edc2584785717a7ba6",
+      "copy_verified": true
+    },
+    {
+      "file": "知夏-水墨校服妆造分解-v1.0.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-53cbbc10-6334-4cc3-9176-ce57cb63d858.png",
+      "status": "final",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "bd9d3b0dd50a93052dafdfa9da812a2e84c5c1f4ae12de75fb0c1756f6bf4138",
+      "copy_verified": true
+    },
+    {
+      "file": "知夏-水墨校服穿搭分解-v1.0-初稿.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-3859b643-8b62-48bc-b8ab-6d2a5df1fa26.png",
+      "status": "superseded",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "50b88e42528158c8a421602d6ef171376724608614c54a697697ac3fda69cbf5",
+      "copy_verified": true
+    },
+    {
+      "file": "知夏-水墨校服妆造分解-v1.0-初稿.png",
+      "original": "C:\\Users\\36322\\.codex\\generated_images\\01a12e81-aba2-7671-9bba-88070c71bfe3\\exec-1d8a1056-bc32-4a11-817f-5b26b0421084.png",
+      "status": "superseded",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "1f32f612209b6698976627b093963f6f9e9d0aec3ebb1cc63f6d5aca001d2128",
+      "copy_verified": true
+    }
+  ],
+  "independent_views": {
+    "source_name": "知夏-水墨校服四视图-v1.0.png",
+    "source_sha256": "5d079e1fa2b4fce5a64f4676e3f7c051f89fcb0ee5a5859119f3fe0a41d29bb4",
+    "oriented_size": [
+      1536,
+      1024
+    ],
+    "coordinates": "EXIF-oriented pixels; right and bottom edges exclusive",
+    "operation": "crop only; no redraw, resizing, padding or background removal",
+    "views": [
+      {
+        "view": "01_front-half",
+        "file": "01_front-half.png",
+        "box_xyxy": [
+          0,
+          0,
+          520,
+          1024
+        ],
+        "size": [
+          520,
+          1024
+        ],
+        "sha256": "8724c09ceae033821543771f6de8b873155db12929f7abce59c5b590407ce997"
+      },
+      {
+        "view": "02_facing-left",
+        "file": "02_facing-left.png",
+        "box_xyxy": [
+          520,
+          0,
+          820,
+          1024
+        ],
+        "size": [
+          300,
+          1024
+        ],
+        "sha256": "fb6f353abb53836c3b15536a331548b221d7cba988e7450a0e7d25b4ec5d40ea"
+      },
+      {
+        "view": "03_back",
+        "file": "03_back.png",
+        "box_xyxy": [
+          820,
+          0,
+          1225,
+          1024
+        ],
+        "size": [
+          405,
+          1024
+        ],
+        "sha256": "a2688c8e718dc2241e6e7d9ff219ba52995fd9929b386d66df22968045832d0d"
+      },
+      {
+        "view": "04_facing-right",
+        "file": "04_facing-right.png",
+        "box_xyxy": [
+          1225,
+          0,
+          1536,
+          1024
+        ],
+        "size": [
+          311,
+          1024
+        ],
+        "sha256": "366b6852bd855ccade97b329817e31da14474fad7d6fa6ff25373abd8f77397e"
+      }
+    ]
+  },
+  "crops_pixel_equal": true,
+  "eagle_imported": false,
+  "toonflow_synced": false,
+  "limitations": [
+    "侧背和遮挡结构为生成补全，待作者审看",
+    "生成图间笔触、发丝和装饰存在细节差异；采用稿05优先"
+  ]
+}

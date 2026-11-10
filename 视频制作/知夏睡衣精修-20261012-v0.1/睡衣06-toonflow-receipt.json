@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "1a5435f5-b0d9-40aa-bfd5-003d31107b94",
+      "type": "remote-imageNode",
+      "label": "知夏｜睡衣06｜绿白长裤·顺滑高马尾·候选",
+      "selected": false,
+      "position": {
+        "x": 4000,
+        "y": 3400
+      }
+    },
+    {
+      "id": "2382393d-9bf5-4d72-95ea-7a2292fe2ca9",
+      "type": "remote-textNode",
+      "label": "睡衣06｜来源与实际提示词",
+      "selected": false,
+      "position": {
+        "x": 4900,
+        "y": 3400
+      }
+    }
+  ],
+  "readback": {
+    "details": {
+      "canvasId": "人物设计.json",
+      "nodes": [
+        {
+          "id": "1a5435f5-b0d9-40aa-bfd5-003d31107b94",
+          "label": "知夏｜睡衣06｜绿白长裤·顺滑高马尾·候选",
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏睡衣精修-20261012-v0.1/知夏-睡衣06-绿白长裤与顺滑高马尾.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        },
+        {
+          "id": "2382393d-9bf5-4d72-95ea-7a2292fe2ca9",
+          "label": "睡衣06｜来源与实际提示词",
+          "outputs": {
+            "text": {
+              "dataType": "STRING",
+              "value": "睡衣06候选｜2026-10-12\n作者要求：全部头发收后，顺滑高马尾、可爱缎带，手腕大肠发圈、小帽子；绿白小清新，以少量花鱼点缀，减少露腿。\n设计：薄荷绿宽松短袖上衣＋暖白及踝睡裤，锦鲤荷花；软荷叶"
+            }
+          },
+          "selected": false,
+          "truncated": [
+            {
+              "path": [
+                "outputs",
+                "text",
+                "value"
+              ],
+              "reason": "text",
+              "total": 5165,
+              "nextOffset": 100
+            }
+          ]
+        }
+      ],
+      "hasMore": false,
+      "nextCursor": null
+    }
+  }
+}

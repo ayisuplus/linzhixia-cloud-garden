@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-14",
+  "original_pixel_copies": [
+    {
+      "file": "历史候选/00-全身主图-竹青裤历史.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "34d7c81e9304753c319deeb98b9fd23bfe066bfe80d85c02d04e4bb54c14fb47",
+      "source_copy_match": true
+    },
+    {
+      "file": "历史候选/01-四视图-竹青裤历史.png",
+      "size": [
+        2098,
+        749
+      ],
+      "sha256": "f0b99117c227ca9dcb58f4f415e122e9b2f275b8ac8958e18f327ca38d825f92",
+      "source_copy_match": true
+    },
+    {
+      "file": "历史候选/00-全身主图-墨灰长裤历史.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "77360cec251afbe7759cc4bffbcff8567925c5c6357d794201b918b6fa681353",
+      "source_copy_match": true
+    },
+    {
+      "file": "历史候选/00-全身主图-短裤编发马尾历史.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "0ae34633f4f84657c04f3f619e3358b9edc059f65019c794d8be31b86655b57a",
+      "source_copy_match": true
+    },
+    {
+      "file": "00-全身主图.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "e633909a77cf98c6acfbf6ea1343f2ca55d67e6090b0682bd4f51e7a1bea7484",
+      "source_copy_match": true
+    },
+    {
+      "file": "历史候选/01-四视图-侧面姿势初稿.png",
+      "size": [
+        2098,
+        749
+      ],
+      "sha256": "fec000b519c2399ff9eaf297c2d18a1e5ca5f474598702ba7ee56f694b953654",
+      "source_copy_match": true
+    },
+    {
+      "file": "01-四视图.png",
+      "size": [
+        2100,
+        749
+      ],
+      "sha256": "aaf3b7b50ff18a43f7d1198572961c97b12cb2a14a49b00fafd37211ad325501",
+      "source_copy_match": true
+    }
+  ],
+  "current_images": 6,
+  "historical_generated_images": 5,
+  "crop_pixel_matches": 4,
+  "cuts": [
+    590,
+    920,
+    1720
+  ],
+  "visual_status": "Current production candidate; author image adoption not asserted",
+  "scope": "Modern fitted dancewear with shorts, classic ponytail, no green, flat soft dance shoes"
+}

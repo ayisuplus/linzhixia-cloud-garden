@@ -1,0 +1,68 @@
+{
+  "source_hash": "c3a9e36e070f2cc16c90a62a1a2324f644c913d8e18c0ae78a0be47c4a65bffa",
+  "stable": true,
+  "roof_headroom_surface_hits": [],
+  "walk_core_floor_misses": [
+    {
+      "segment": 3,
+      "t": 0.03333333333333333,
+      "point": [
+        61.71208682617735,
+        -49.876336990412526,
+        51.83670236500668
+      ],
+      "lateral": -0.9
+    },
+    {
+      "segment": 3,
+      "t": 0.23333333333333334,
+      "point": [
+        63.8747688942311,
+        -49.929311253208205,
+        51.83670236500668
+      ],
+      "lateral": 0.9
+    },
+    {
+      "segment": 3,
+      "t": 0.26666666666666666,
+      "point": [
+        63.98160072365983,
+        -50.098388041150585,
+        51.83670236500668
+      ],
+      "lateral": 0.9
+    },
+    {
+      "segment": 3,
+      "t": 0.3,
+      "point": [
+        64.08843255308855,
+        -50.26746482909296,
+        51.83670236500668
+      ],
+      "lateral": 0.9
+    },
+    {
+      "segment": 3,
+      "t": 0.3333333333333333,
+      "point": [
+        64.1952643825173,
+        -50.43654161703533,
+        51.83670236500668
+      ],
+      "lateral": 0.9
+    },
+    {
+      "segment": 3,
+      "t": 0.36666666666666664,
+      "point": [
+        64.30209621194602,
+        -50.605618404977704,
+        51.83670236500668
+      ],
+      "lateral": 0.9
+    }
+  ],
+  "method": "Actual saved middle-entry mesh, 0.2m path sampling, lateral +/-0.9m and center. Vertical headroom rays 0.03..1.8m from projected actual deck; no roof solid-containment assumption."
+}

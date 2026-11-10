@@ -1,0 +1,12 @@
+# 睡衣｜现代家居服+锦鲤荷叶云朵印花
+
+Same 15-year-old gentle Chinese girl, delicate slender build, refined soft healing 3D game-CG rendering (NOT realistic photography, NOT 2D anime style). Natural facial proportions, warm gentle eyes, soft natural smile. Clean pale neutral studio background. Full-body character, complete head, hands and feet visible. Healthy teenage proportions, no exaggerated fashion-model legs. Non-sexual everyday clothing. No glasses, no text, no watermark, no brand logos.
+
+OUTFIT: Cozy cute modern loungewear / pajamas.
+- Soft cream ivory base color, long-sleeve top and loose long pants set.
+- Adorable watercolor-style small print: tiny koi fish, round lotus leaves, and soft cloud motifs scattered across the fabric, in muted teal, soft pink and pale yellow. Cute and small-scale, not bold or busy.
+- Fabric: soft brushed cotton / light flannel feel, warm and cozy, slightly loose comfortable fit.
+- Small detail: a tiny cloth knot at the pajama collar (one small frog button), nothing elaborate.
+- Footwear: soft white cotton slip-on house shoes.
+- Hair: dark hair loose and slightly messy, natural bedhead, a few strands falling on her face.
+- Pose: sitting on the edge of a bed or windowsill, hugging a small pillow, sleepy gentle morning expression, soft warm light. Cozy and relaxed, not posed.

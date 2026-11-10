@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "validation_scope": "file_references_shot_coverage_and_duration_only",
+  "shots": 21,
+  "units": 9,
+  "edit_seconds": 115,
+  "ai_raw_seconds": 126.0,
+  "video_tested": false,
+  "adoption_verified": false
+}

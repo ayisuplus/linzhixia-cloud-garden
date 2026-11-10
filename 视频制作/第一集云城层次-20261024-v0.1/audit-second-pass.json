@@ -1,0 +1,557 @@
+{
+  "hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云城层次-20261024-v0.1\\cloud-neighbourhood-flight-58s-v19.blend": "41b5cee6a5d80c3253ccfcce62674668240de5ad5a1376e5bb9f843621e3e0d2",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集低亭云渡-20261024-v0.1\\low-pavilion-cloud-ferry-v18.blend": "cb3336be2b14f5ca640600bed24cf21941c5d6526ddb7b7170ce01a141c63f28",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云城层次-20261024-v0.1\\cloud-neighbourhood-v19.blend": "9abc5bce60d2d4c2c2fc693444394241f8b324cc04f5d04249efdfabb86f81fc",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云城层次-20261024-v0.1\\route-poses.json": "fa81f37539159e65164c74b01d328a506d5afc8920a6639adebc00e97702e566",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云城层次-20261024-v0.1\\development-data.json": "7dd1d6e7cc8099b219efc774e9e474dd3042257a7317e5524da10cffd4bc0fdf",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集云城层次-v0.1\\build.py": "fc14657a1b77b30bb860ee4c3645ef251d3e08d5f31c397b57860d9757e114bc"
+  },
+  "stable": true,
+  "island_support_intersections": [],
+  "waterfall_checks": [
+    {
+      "id": "W1",
+      "freefall_hits": []
+    },
+    {
+      "id": "W2",
+      "freefall_hits": []
+    },
+    {
+      "id": "W3",
+      "freefall_hits": []
+    }
+  ],
+  "pool_beds": [
+    {
+      "id": "W1",
+      "island": "A",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W1",
+      "island": "B",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W2",
+      "island": "B",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W2",
+      "island": "C",
+      "bed_missing": [],
+      "min_depth": 1.0999992370605476,
+      "max_depth": 1.0999992370605476
+    },
+    {
+      "id": "W3",
+      "island": "F",
+      "bed_missing": [],
+      "min_depth": 1.1000030517578097,
+      "max_depth": 1.1000030517578097
+    },
+    {
+      "id": "W3",
+      "island": "G",
+      "bed_missing": [],
+      "min_depth": 1.099999237060544,
+      "max_depth": 1.099999237060544
+    }
+  ],
+  "walking_checks": [
+    {
+      "name": "A internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "A internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "A internal garden path 2",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "B internal garden path 2",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "C internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "C internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "D internal garden path 2",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "E internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "E internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "F internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "F internal garden path 1",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "G internal garden path 0",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0.1399993896484375
+    },
+    {
+      "name": "L5 cross-cloud bridge",
+      "missing_floor": [],
+      "body_clearance_hits": {},
+      "off_island_or_over_cut": [],
+      "max_paving_gap": 0
+    }
+  ],
+  "tower_stair_headroom": [
+    {
+      "link": "L5",
+      "treads_and_halves": 38,
+      "minimum_detected_headroom_m": null,
+      "headroom_hits": []
+    }
+  ],
+  "courtyard_support": [
+    {
+      "name": "A reused School-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "A reused School-+1-01 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "A reused School-+1-02 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "B reused Water-bay-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "C reused Water-bay-+1-02 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "D reused Slope-neighbourhood-+1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "D reused Slope-neighbourhood--1-00 court floor",
+      "support_issues": []
+    },
+    {
+      "name": "F reused Zhixia-home court floor",
+      "support_issues": []
+    },
+    {
+      "name": "G reused Repair-workshop court floor",
+      "support_issues": []
+    }
+  ],
+  "pool_architecture_surface_intersections": [],
+  "scope": "Saved static and 27 trajectory sample audit; not exact swept-volume, dynamics or navigation certification.",
+  "actual_stair_platform_seams": [
+    {
+      "link": "L5",
+      "tread_to_platform_missing": [],
+      "over_20cm_seam": []
+    }
+  ],
+  "bridge_endpoints": [
+    {
+      "link": "L5",
+      "point": [
+        120,
+        -48,
+        72
+      ],
+      "contact": "E separate cloud support",
+      "support_z": 72.0
+    },
+    {
+      "link": "L5",
+      "point": [
+        190,
+        -88.7,
+        72
+      ],
+      "contact": "L5 change-level pavilion landing.002",
+      "support_z": 72.0
+    }
+  ],
+  "independent_bridge_full_width": [
+    {
+      "link": "L5",
+      "actual_top_triangles": 20,
+      "negative_top_triangles": 0,
+      "degenerate_top_triangles": 0,
+      "samples": 8547,
+      "missing_4_98m_deck": [],
+      "rail_in_4_5m_core": []
+    }
+  ],
+  "asset_preservation": {
+    "source_objects": 2893,
+    "unexpected_changes": [
+      {
+        "name": "G reused Repair-workshop / back hall",
+        "change": "materials"
+      }
+    ],
+    "original_material_changes": [],
+    "missing_materials": [],
+    "metadata_source_hash_matches": true
+  },
+  "transport_walk_checks": [
+    {
+      "label": "A pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "A boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "B pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "B boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "C pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "C boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "D pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "D boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "E pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "E boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "F pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "F boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "G pier",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    },
+    {
+      "label": "G boarding chain",
+      "missing_floor": [],
+      "headroom_hits": {},
+      "max_step": 0
+    }
+  ],
+  "new_old_surface_intersections": [
+    {
+      "new": "G entrance passage floor",
+      "old": "G courtyard approach",
+      "surface_pairs": 7,
+      "aabb_overlap_min": [
+        348.9694519042969,
+        -82.95904541015625,
+        48.02000045776367
+      ],
+      "aabb_overlap_max": [
+        352.71099853515625,
+        -80.29585266113281,
+        48.15999984741211
+      ]
+    },
+    {
+      "new": "G entrance passage floor",
+      "old": "G reused Repair-workshop court floor",
+      "surface_pairs": 6,
+      "aabb_overlap_min": [
+        346.07098388671875,
+        -82.56112670898438,
+        48.02000045776367
+      ],
+      "aabb_overlap_max": [
+        352.71099853515625,
+        -67.5383529663086,
+        48.15999984741211
+      ]
+    },
+    {
+      "new": "G entrance passage floor",
+      "old": "G reused Repair-workshop / back hall",
+      "surface_pairs": 8,
+      "aabb_overlap_min": [
+        346.07098388671875,
+        -81.40052795410156,
+        48.040000915527344
+      ],
+      "aabb_overlap_max": [
+        352.71099853515625,
+        -68.5946273803711,
+        48.18000030517578
+      ]
+    }
+  ],
+  "new_ground_support_issues": [],
+  "new_approach_walks": [
+    {
+      "name": "A arcade approach",
+      "missing_floor": [],
+      "body_hits": {}
+    },
+    {
+      "name": "G shed approach",
+      "missing_floor": [],
+      "body_hits": {}
+    }
+  ],
+  "all_island_core_intersections": [],
+  "flight": {
+    "camera": "v19 school to workshop FPV",
+    "frames": 1392,
+    "location_json_max_abs_m": 1.5148261354624992e-05,
+    "quaternion_json_max_abs": 1.635792019616389e-07,
+    "swept_27_hits": [],
+    "max_speed_m_s": 23.505041463953603,
+    "max_acceleration_m_s2": 7.890723199516579,
+    "max_rotation_deg_frame": 1.8396122077534518,
+    "max_rotation_time": 50.333333333333336,
+    "events_over_3deg": [],
+    "first_position": [
+      -248.99957275390625,
+      151.00149536132812,
+      131.99981689453125
+    ],
+    "last_position": [
+      343.9991760253906,
+      -89.99919891357422,
+      50.99946212768555
+    ],
+    "excluded_collections": [
+      "07 Planning guides hidden from renders"
+    ],
+    "scope": "27 swept world-axis sample lines of 1.2x1.2x.8 box, not exact swept-solid; integer keyframes verified, between-frame interpolation not evaluated."
+  },
+  "workshop_opening": {
+    "declared_object": "G reused Repair-workshop / back hall",
+    "outside_cutter_surface_changes": [],
+    "full_depth_3_2m_core_wall_hits": [],
+    "floor_holes": [],
+    "floor_support_issues": [],
+    "standing_1_8m_hits": [
+      {
+        "point": [
+          346.9731750488281,
+          -71.56930541992188,
+          49.48999786376953
+        ],
+        "object": "G reused Repair-workshop / back hall opening.001",
+        "above_floor": 1.30999755859375
+      },
+      {
+        "point": [
+          347.3644104003906,
+          -71.48613739013672,
+          49.48999786376953
+        ],
+        "object": "G reused Repair-workshop / back hall opening.001",
+        "above_floor": 1.30999755859375
+      },
+      {
+        "point": [
+          347.75567626953125,
+          -71.40296936035156,
+          49.48999786376953
+        ],
+        "object": "G reused Repair-workshop / back hall opening.001",
+        "above_floor": 1.30999755859375
+      },
+      {
+        "point": [
+          348.1469421386719,
+          -71.31980895996094,
+          49.48999786376953
+        ],
+        "object": "G reused Repair-workshop / back hall opening.001",
+        "above_floor": 1.30999755859375
+      },
+      {
+        "point": [
+          348.5382080078125,
+          -71.23664093017578,
+          49.48999786376953
+        ],
+        "object": "G reused Repair-workshop / back hall opening.001",
+        "above_floor": 1.30999755859375
+      },
+      {
+        "point": [
+          348.929443359375,
+          -71.15348052978516,
+          49.48999786376953
+        ],
+        "object": "G reused Repair-workshop / back hall opening.001",
+        "above_floor": 1.30999755859375
+      },
+      {
+        "point": [
+          349.3207092285156,
+          -71.0703125,
+          49.48999786376953
+        ],
+        "object": "G reused Repair-workshop / back hall opening.001",
+        "above_floor": 1.30999755859375
+      },
+      {
+        "point": [
+          349.71197509765625,
+          -70.98715209960938,
+          49.48999786376953
+        ],
+        "object": "G reused Repair-workshop / back hall opening.001",
+        "above_floor": 1.30999755859375
+      },
+      {
+        "point": [
+          350.1032409667969,
+          -70.90398406982422,
+          49.48999786376953
+        ],
+        "object": "G reused Repair-workshop / back hall opening.001",
+        "above_floor": 1.30999755859375
+      }
+    ],
+    "samples": 810,
+    "core_width_m": 3.2,
+    "scope": "Actual full-depth saved wall and floor geometry; closed side rooms/interior dressing are not certified."
+  }
+}

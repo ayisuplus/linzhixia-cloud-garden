@@ -1,0 +1,16 @@
+{
+  "duration_seconds": 58,
+  "frames": 1392,
+  "fps": 24,
+  "length_m": 833.3245257398804,
+  "max_speed_m_s": 23.505041264365463,
+  "max_acceleration_m_s2": 7.8913452965880815,
+  "max_rotation_deg_per_frame": 1.839671112138149,
+  "swept_sample_collisions": [],
+  "envelope_m": [
+    1.2,
+    1.2,
+    0.8
+  ],
+  "scope": "FPV geometric reference. 27 swept samples, not exact swept-solid or dynamics proof; no loading/unloading character action."
+}

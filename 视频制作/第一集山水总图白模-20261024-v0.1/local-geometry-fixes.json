@@ -1,0 +1,27 @@
+{
+  "trimmed_corners": [
+    {
+      "court": "West-neighbourhood-+1-00",
+      "method": "unused perimeter paving clipped at the actual terrain intersection",
+      "grid_m": 0.5
+    },
+    {
+      "court": "Two-level-water-court",
+      "method": "unused perimeter paving clipped at the actual terrain intersection",
+      "grid_m": 0.5
+    },
+    {
+      "court": "Lower-lane--1-02",
+      "method": "unused perimeter paving clipped at the actual terrain intersection",
+      "grid_m": 0.5
+    }
+  ],
+  "gallery": "9.6m x 3.6m continuous deck",
+  "filled_connections": [
+    "Bank to slope connector 1 0.423",
+    "Bank to slope connector 1 0.752",
+    "Bank to slope connector -1 0.433",
+    "Bank to slope connector -1 0.568",
+    "Bank to slope connector -1 0.852"
+  ]
+}

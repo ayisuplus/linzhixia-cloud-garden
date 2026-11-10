@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-13",
+  "target": {
+    "connectionId": "f617bd89-16e6-4e7b-8725-4b5116956896",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "人物设计.json"
+  },
+  "imageNode": "09c8ad76-50a1-4199-91bb-a8474ffcb45a",
+  "textNode": "db8d5531-a580-4d7c-a637-7bff6c449a1b",
+  "imageReadback": {
+    "id": "09c8ad76-50a1-4199-91bb-a8474ffcb45a",
+    "label": "睡衣10｜荷瓣袖与锦鲤口袋·新候选",
+    "outputs": {
+      "image": {
+        "dataType": "IMAGE",
+        "value": {
+          "url": "知夏睡衣重设计-20261013-v0.1/知夏-睡衣10-荷瓣袖与锦鲤口袋.png",
+          "mimeType": "image/png"
+        }
+      }
+    },
+    "selected": false,
+    "truncated": []
+  },
+  "fullTextVerified": true,
+  "libraryFilesVerified": 5,
+  "status": "candidate_not_adopted"
+}

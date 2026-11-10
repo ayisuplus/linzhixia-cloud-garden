@@ -1,0 +1,3047 @@
+{
+  "version": "v0.4",
+  "status": "Reference art readability candidate; v0.3 spatial mechanism accepted by author",
+  "source": "视频制作\\第一集三维场景与道路-20261022-v0.1\\episode1-connected-sets-v01.blend",
+  "source_sha256": "36982967793cdbd2181a633ad8757860424982df5719e26c5da1911992603538",
+  "previous_source": "视频制作\\第一集浮空园城-20261022-v0.3\\episode1-floating-garden-v03.blend",
+  "previous_sha256": "3e4f78a13a526da6212defb6ed34b018f338f143dd90a8722b1d6583200422a0",
+  "school_translation_m": [
+    -1350.0,
+    900.0,
+    36.0
+  ],
+  "flight_distance_m": 1892.692457390897,
+  "walking_route_distance_m": 2183.5230683239574,
+  "flight_points": [
+    [
+      -1399.9000244140625,
+      946.6500244140625,
+      43.13199996948242
+    ],
+    [
+      -1399.9000244140625,
+      945.7000122070312,
+      43.13199996948242
+    ],
+    [
+      -1395.0,
+      945.7000122070312,
+      45.0
+    ],
+    [
+      -1388.0,
+      953.0,
+      46.79999923706055
+    ],
+    [
+      -1380.0,
+      954.0,
+      46.79999923706055
+    ],
+    [
+      -1380.0,
+      944.0,
+      47.0
+    ],
+    [
+      -1290,
+      925,
+      54
+    ],
+    [
+      -1235,
+      885,
+      49
+    ],
+    [
+      -1215,
+      865,
+      47
+    ],
+    [
+      -1213,
+      842,
+      47
+    ],
+    [
+      -1190,
+      842,
+      47
+    ],
+    [
+      -1120,
+      815,
+      55
+    ],
+    [
+      -1050,
+      760,
+      66
+    ],
+    [
+      -990,
+      705,
+      62
+    ],
+    [
+      -945,
+      665,
+      55
+    ],
+    [
+      -945,
+      635,
+      55
+    ],
+    [
+      -920,
+      610,
+      55
+    ],
+    [
+      -895,
+      610,
+      55
+    ],
+    [
+      -890,
+      625,
+      55
+    ],
+    [
+      -850,
+      615,
+      57
+    ],
+    [
+      -790,
+      590,
+      57
+    ],
+    [
+      -680,
+      505,
+      48
+    ],
+    [
+      -570,
+      405,
+      42
+    ],
+    [
+      -450,
+      320,
+      34
+    ],
+    [
+      -335,
+      220,
+      26
+    ],
+    [
+      -300,
+      110,
+      21
+    ],
+    [
+      -260,
+      30,
+      12
+    ],
+    [
+      -225,
+      0,
+      6
+    ],
+    [
+      -225,
+      13.5,
+      6
+    ],
+    [
+      -180,
+      13.5,
+      6
+    ],
+    [
+      -145,
+      23,
+      8
+    ],
+    [
+      -105,
+      27,
+      8
+    ],
+    [
+      -70,
+      13.5,
+      8
+    ],
+    [
+      -25,
+      13.5,
+      5
+    ],
+    [
+      14,
+      14,
+      3
+    ],
+    [
+      10.8,
+      15.5,
+      1.132
+    ],
+    [
+      10.8,
+      18.5,
+      1.132
+    ]
+  ],
+  "walk_points": [
+    [
+      -1371,
+      950.2,
+      42
+    ],
+    [
+      -1371,
+      944.5,
+      42
+    ],
+    [
+      -1325.4083251953125,
+      922.5980834960938,
+      42.0
+    ],
+    [
+      -1320,
+      920,
+      42
+    ],
+    [
+      -1314.79052734375,
+      917.023193359375,
+      42.0
+    ],
+    [
+      -1255.20947265625,
+      882.976806640625,
+      42.0
+    ],
+    [
+      -1250,
+      880,
+      42
+    ],
+    [
+      -1246.9130859375,
+      874.8550415039062,
+      42.0
+    ],
+    [
+      -1223.0869140625,
+      835.1449584960938,
+      42.0
+    ],
+    [
+      -1220,
+      830,
+      42
+    ],
+    [
+      -1214.2530517578125,
+      828.2759399414062,
+      42.0
+    ],
+    [
+      -1175.7469482421875,
+      816.7240600585938,
+      42.0
+    ],
+    [
+      -1170,
+      815,
+      42
+    ],
+    [
+      -1167.023193359375,
+      809.79052734375,
+      42.0
+    ],
+    [
+      -1152.976806640625,
+      785.20947265625,
+      42.0
+    ],
+    [
+      -1150,
+      780,
+      42
+    ],
+    [
+      -1149.412353515625,
+      774.123291015625,
+      42.0
+    ],
+    [
+      -1140.587646484375,
+      685.876708984375,
+      24.0
+    ],
+    [
+      -1140,
+      680,
+      24
+    ],
+    [
+      -1134.0,
+      680.0,
+      24.0
+    ],
+    [
+      -1056.0,
+      680.0,
+      24.0
+    ],
+    [
+      -1050,
+      680,
+      24
+    ],
+    [
+      -1044.0526123046875,
+      680.79296875,
+      24.0
+    ],
+    [
+      -905.9473876953125,
+      699.20703125,
+      24.0
+    ],
+    [
+      -900,
+      700,
+      24
+    ],
+    [
+      -900.0,
+      694.0033569335938,
+      24.0
+    ],
+    [
+      -900.0,
+      525.9966430664062,
+      18.0
+    ],
+    [
+      -900,
+      520,
+      18
+    ],
+    [
+      -895.4444580078125,
+      516.0952758789062,
+      18.0
+    ],
+    [
+      -834.5555419921875,
+      463.9047546386719,
+      18.0
+    ],
+    [
+      -830,
+      460,
+      18
+    ],
+    [
+      -824.0,
+      460.0,
+      18.0
+    ],
+    [
+      -676.0,
+      460.0,
+      18.0
+    ],
+    [
+      -670,
+      460,
+      18
+    ],
+    [
+      -666.0663452148438,
+      455.50439453125,
+      18.0
+    ],
+    [
+      -603.9336547851562,
+      384.49560546875,
+      8.0
+    ],
+    [
+      -600,
+      380,
+      8
+    ],
+    [
+      -594.4615478515625,
+      377.69232177734375,
+      8.0
+    ],
+    [
+      -485.5384521484375,
+      332.30767822265625,
+      8.0
+    ],
+    [
+      -480,
+      330,
+      8
+    ],
+    [
+      -480.0,
+      324.0085144042969,
+      8.0
+    ],
+    [
+      -480.0,
+      185.99148559570312,
+      0.0
+    ],
+    [
+      -480,
+      180,
+      0
+    ],
+    [
+      -474.0,
+      180.0,
+      0.0
+    ],
+    [
+      -306.0,
+      180.0,
+      0.0
+    ],
+    [
+      -300,
+      180,
+      0
+    ],
+    [
+      -300.0,
+      174.0,
+      0.0
+    ],
+    [
+      -300.0,
+      -9.0,
+      0.0
+    ],
+    [
+      -300,
+      -15,
+      0
+    ],
+    [
+      -294.0,
+      -15.0,
+      0.0
+    ],
+    [
+      -36.0,
+      -15.0,
+      0.0
+    ],
+    [
+      -30,
+      -15,
+      0
+    ],
+    [
+      -30.0,
+      -9.0,
+      0.0
+    ],
+    [
+      -30,
+      10.1,
+      0
+    ],
+    [
+      5.8,
+      10.1,
+      0
+    ],
+    [
+      5.8,
+      9.1,
+      0
+    ],
+    [
+      8,
+      9.1,
+      0
+    ],
+    [
+      8,
+      17.9,
+      0
+    ],
+    [
+      2.2,
+      17.9,
+      0
+    ],
+    [
+      2.2,
+      21,
+      0
+    ]
+  ],
+  "blocks": [
+    {
+      "name": "Learning garden wing",
+      "center": [
+        -1310.0,
+        999.0,
+        38.79999923706055
+      ],
+      "size": [
+        6,
+        28,
+        6
+      ],
+      "district": "V03_LEARNING_GARDENS"
+    },
+    {
+      "name": "Learning garden wing.001",
+      "center": [
+        -1270.0,
+        999.0,
+        38.79999923706055
+      ],
+      "size": [
+        6,
+        28,
+        6
+      ],
+      "district": "V03_LEARNING_GARDENS"
+    },
+    {
+      "name": "Learning garden wing.002",
+      "center": [
+        -1290.0,
+        1013.0,
+        38.79999923706055
+      ],
+      "size": [
+        40,
+        7,
+        6
+      ],
+      "district": "V03_LEARNING_GARDENS"
+    },
+    {
+      "name": "Learning garden wing.003",
+      "center": [
+        -1200.0,
+        894.0,
+        44.79999923706055
+      ],
+      "size": [
+        6,
+        28,
+        6
+      ],
+      "district": "V03_LEARNING_GARDENS"
+    },
+    {
+      "name": "Learning garden wing.004",
+      "center": [
+        -1160.0,
+        894.0,
+        44.79999923706055
+      ],
+      "size": [
+        6,
+        28,
+        6
+      ],
+      "district": "V03_LEARNING_GARDENS"
+    },
+    {
+      "name": "Learning garden wing.005",
+      "center": [
+        -1180.0,
+        908.0,
+        44.79999923706055
+      ],
+      "size": [
+        40,
+        7,
+        6
+      ],
+      "district": "V03_LEARNING_GARDENS"
+    },
+    {
+      "name": "Upper east court wing",
+      "center": [
+        -732.0,
+        775.0,
+        61.0
+      ],
+      "size": [
+        6,
+        25,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Upper east court wing.001",
+      "center": [
+        -698.0,
+        775.0,
+        61.0
+      ],
+      "size": [
+        6,
+        25,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Upper east court wing.002",
+      "center": [
+        -715.0,
+        787.5,
+        61.0
+      ],
+      "size": [
+        34,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Upper west court wing",
+      "center": [
+        -852.0,
+        785.0,
+        61.0
+      ],
+      "size": [
+        6,
+        25,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Upper west court wing.001",
+      "center": [
+        -818.0,
+        785.0,
+        61.0
+      ],
+      "size": [
+        6,
+        25,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Upper west court wing.002",
+      "center": [
+        -835.0,
+        797.5,
+        61.0
+      ],
+      "size": [
+        34,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Middle dwelling court wing",
+      "center": [
+        -647.0,
+        610.0,
+        26.0
+      ],
+      "size": [
+        6,
+        25,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Middle dwelling court wing.001",
+      "center": [
+        -613.0,
+        610.0,
+        26.0
+      ],
+      "size": [
+        6,
+        25,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Middle dwelling court wing.002",
+      "center": [
+        -630.0,
+        622.5,
+        26.0
+      ],
+      "size": [
+        34,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Lower east court wing",
+      "center": [
+        -362.0,
+        350.0,
+        7.0
+      ],
+      "size": [
+        6,
+        25,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Lower east court wing.001",
+      "center": [
+        -328.0,
+        350.0,
+        7.0
+      ],
+      "size": [
+        6,
+        25,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Lower east court wing.002",
+      "center": [
+        -345.0,
+        362.5,
+        7.0
+      ],
+      "size": [
+        34,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Lower west court wing",
+      "center": [
+        -562.0,
+        175.0,
+        -5.0
+      ],
+      "size": [
+        6,
+        25,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Lower west court wing.001",
+      "center": [
+        -528.0,
+        175.0,
+        -5.0
+      ],
+      "size": [
+        6,
+        25,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Lower west court wing.002",
+      "center": [
+        -545.0,
+        187.5,
+        -5.0
+      ],
+      "size": [
+        34,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "West quiet court wing",
+      "center": [
+        -1067.0,
+        520.0,
+        -12.0
+      ],
+      "size": [
+        6,
+        25,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "West quiet court wing.001",
+      "center": [
+        -1033.0,
+        520.0,
+        -12.0
+      ],
+      "size": [
+        6,
+        25,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "West quiet court wing.002",
+      "center": [
+        -1050.0,
+        532.5,
+        -12.0
+      ],
+      "size": [
+        34,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing",
+      "center": [
+        -1264.8446044921875,
+        1010.1121826171875,
+        38.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.001",
+      "center": [
+        -1240.8446044921875,
+        1010.1121826171875,
+        38.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.002",
+      "center": [
+        -1252.8446044921875,
+        1018.6121826171875,
+        38.849998474121094
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.003",
+      "center": [
+        -1344.277099609375,
+        1040.8497314453125,
+        38.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.004",
+      "center": [
+        -1320.277099609375,
+        1040.8497314453125,
+        38.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.005",
+      "center": [
+        -1332.277099609375,
+        1049.3497314453125,
+        38.849998474121094
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.006",
+      "center": [
+        -1429.525146484375,
+        1018.2360229492188,
+        38.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.007",
+      "center": [
+        -1405.525146484375,
+        1018.2360229492188,
+        38.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.008",
+      "center": [
+        -1417.525146484375,
+        1026.7359619140625,
+        38.849998474121094
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.009",
+      "center": [
+        -1456.3951416015625,
+        959.299560546875,
+        38.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.010",
+      "center": [
+        -1432.3951416015625,
+        959.299560546875,
+        38.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.011",
+      "center": [
+        -1444.3951416015625,
+        967.799560546875,
+        38.849998474121094
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.012",
+      "center": [
+        -1404.6534423828125,
+        908.4207763671875,
+        38.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.013",
+      "center": [
+        -1380.6534423828125,
+        908.4207763671875,
+        38.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.014",
+      "center": [
+        -1392.6534423828125,
+        916.9207763671875,
+        38.849998474121094
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.015",
+      "center": [
+        -1251.041748046875,
+        949.1693115234375,
+        38.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.016",
+      "center": [
+        -1227.041748046875,
+        949.1693115234375,
+        38.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.017",
+      "center": [
+        -1239.041748046875,
+        957.6693115234375,
+        38.849998474121094
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.018",
+      "center": [
+        -1182.2879638671875,
+        875.53271484375,
+        44.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.019",
+      "center": [
+        -1158.2879638671875,
+        875.53271484375,
+        44.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.020",
+      "center": [
+        -1170.2879638671875,
+        884.03271484375,
+        44.849998474121094
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.021",
+      "center": [
+        -1209.3671875,
+        888.2015991210938,
+        44.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.022",
+      "center": [
+        -1185.3671875,
+        888.2015991210938,
+        44.849998474121094
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.023",
+      "center": [
+        -1197.3671875,
+        896.7015991210938,
+        44.849998474121094
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.024",
+      "center": [
+        -730.9912109375,
+        789.8131103515625,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.025",
+      "center": [
+        -706.9912109375,
+        789.8131103515625,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.026",
+      "center": [
+        -718.9912109375,
+        798.3131103515625,
+        61.150001525878906
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.027",
+      "center": [
+        -786.593994140625,
+        812.6586303710938,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.028",
+      "center": [
+        -762.593994140625,
+        812.6586303710938,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.029",
+      "center": [
+        -774.593994140625,
+        821.1586303710938,
+        61.150001525878906
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.030",
+      "center": [
+        -846.2676391601562,
+        795.85107421875,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.031",
+      "center": [
+        -822.2676391601562,
+        795.85107421875,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.032",
+      "center": [
+        -834.2676391601562,
+        804.35107421875,
+        61.150001525878906
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.033",
+      "center": [
+        -865.07666015625,
+        752.0469970703125,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.034",
+      "center": [
+        -841.07666015625,
+        752.0469970703125,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.035",
+      "center": [
+        -853.07666015625,
+        760.5469970703125,
+        61.150001525878906
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.036",
+      "center": [
+        -828.857421875,
+        714.2316284179688,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.037",
+      "center": [
+        -804.857421875,
+        714.2316284179688,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.038",
+      "center": [
+        -816.857421875,
+        722.7316284179688,
+        61.150001525878906
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.039",
+      "center": [
+        -764.8838500976562,
+        710.8807983398438,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.040",
+      "center": [
+        -740.8838500976562,
+        710.8807983398438,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.041",
+      "center": [
+        -752.8838500976562,
+        719.3807983398438,
+        61.150001525878906
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.042",
+      "center": [
+        -721.3292846679688,
+        744.5177612304688,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.043",
+      "center": [
+        -697.3292846679688,
+        744.5177612304688,
+        61.150001525878906
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.044",
+      "center": [
+        -709.3292846679688,
+        753.0177612304688,
+        61.150001525878906
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.045",
+      "center": [
+        -597.6718139648438,
+        627.6448974609375,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.046",
+      "center": [
+        -573.6718139648438,
+        627.6448974609375,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.047",
+      "center": [
+        -585.6718139648438,
+        636.1448974609375,
+        26.149999618530273
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.048",
+      "center": [
+        -660.8568115234375,
+        648.8289184570312,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.049",
+      "center": [
+        -636.8568115234375,
+        648.8289184570312,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.050",
+      "center": [
+        -648.8568115234375,
+        657.3289184570312,
+        26.149999618530273
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.051",
+      "center": [
+        -728.6677856445312,
+        633.2437133789062,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.052",
+      "center": [
+        -704.6677856445312,
+        633.2437133789062,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.053",
+      "center": [
+        -716.6677856445312,
+        641.7437133789062,
+        26.149999618530273
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.054",
+      "center": [
+        -750.0416259765625,
+        592.6253662109375,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.055",
+      "center": [
+        -726.0416259765625,
+        592.6253662109375,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.056",
+      "center": [
+        -738.0416259765625,
+        601.1253662109375,
+        26.149999618530273
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.057",
+      "center": [
+        -708.8834228515625,
+        557.5602416992188,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.058",
+      "center": [
+        -684.8834228515625,
+        557.5602416992188,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.059",
+      "center": [
+        -696.8834228515625,
+        566.0602416992188,
+        26.149999618530273
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.060",
+      "center": [
+        -636.1861572265625,
+        554.453125,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.061",
+      "center": [
+        -612.1861572265625,
+        554.453125,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.062",
+      "center": [
+        -624.1861572265625,
+        562.953125,
+        26.149999618530273
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.063",
+      "center": [
+        -586.6923217773438,
+        585.6437377929688,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.064",
+      "center": [
+        -562.6923217773438,
+        585.6437377929688,
+        26.149999618530273
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.065",
+      "center": [
+        -574.6923217773438,
+        594.1437377929688,
+        26.149999618530273
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.066",
+      "center": [
+        -980.5950317382812,
+        528.4580078125,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.067",
+      "center": [
+        -956.5950317382812,
+        528.4580078125,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.068",
+      "center": [
+        -968.5950317382812,
+        536.9580078125,
+        -11.850000381469727
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.069",
+      "center": [
+        -1036.5589599609375,
+        550.2650146484375,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.070",
+      "center": [
+        -1012.5588989257812,
+        550.2650146484375,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.071",
+      "center": [
+        -1024.5589599609375,
+        558.7650146484375,
+        -11.850000381469727
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.072",
+      "center": [
+        -1096.6199951171875,
+        534.2214965820312,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.073",
+      "center": [
+        -1072.6199951171875,
+        534.2214965820312,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.074",
+      "center": [
+        -1084.6199951171875,
+        542.7214965820312,
+        -11.850000381469727
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.075",
+      "center": [
+        -1115.5511474609375,
+        492.4084777832031,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.076",
+      "center": [
+        -1091.5511474609375,
+        492.4084777832031,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.077",
+      "center": [
+        -1103.5511474609375,
+        500.9084777832031,
+        -11.850000381469727
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.078",
+      "center": [
+        -1079.0968017578125,
+        456.31201171875,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.079",
+      "center": [
+        -1055.0968017578125,
+        456.31201171875,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.080",
+      "center": [
+        -1067.0968017578125,
+        464.81201171875,
+        -11.850000381469727
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.081",
+      "center": [
+        -1014.707763671875,
+        453.1134948730469,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.082",
+      "center": [
+        -990.707763671875,
+        453.1134948730469,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.083",
+      "center": [
+        -1002.707763671875,
+        461.6134948730469,
+        -11.850000381469727
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.084",
+      "center": [
+        -970.870361328125,
+        485.22149658203125,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.085",
+      "center": [
+        -946.870361328125,
+        485.22149658203125,
+        -11.850000381469727
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.086",
+      "center": [
+        -958.870361328125,
+        493.72149658203125,
+        -11.850000381469727
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.087",
+      "center": [
+        -331.44146728515625,
+        353.4579772949219,
+        7.150000095367432
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.088",
+      "center": [
+        -307.44146728515625,
+        353.4579772949219,
+        7.150000095367432
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.089",
+      "center": [
+        -319.44146728515625,
+        361.9579772949219,
+        7.150000095367432
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.090",
+      "center": [
+        -372.9630432128906,
+        375.2650451660156,
+        7.150000095367432
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.091",
+      "center": [
+        -348.9630432128906,
+        375.2650451660156,
+        7.150000095367432
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.092",
+      "center": [
+        -360.9630432128906,
+        383.7650451660156,
+        7.150000095367432
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.093",
+      "center": [
+        -417.5245361328125,
+        359.22149658203125,
+        7.150000095367432
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.094",
+      "center": [
+        -393.5245361328125,
+        359.22149658203125,
+        7.150000095367432
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.095",
+      "center": [
+        -405.5245361328125,
+        367.72149658203125,
+        7.150000095367432
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.096",
+      "center": [
+        -356.75091552734375,
+        278.1134948730469,
+        7.150000095367432
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.097",
+      "center": [
+        -332.75091552734375,
+        278.1134948730469,
+        7.150000095367432
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.098",
+      "center": [
+        -344.75091552734375,
+        286.6134948730469,
+        7.150000095367432
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.099",
+      "center": [
+        -324.22637939453125,
+        310.22149658203125,
+        7.150000095367432
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.100",
+      "center": [
+        -300.22637939453125,
+        310.22149658203125,
+        7.150000095367432
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.101",
+      "center": [
+        -312.22637939453125,
+        318.72149658203125,
+        7.150000095367432
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.102",
+      "center": [
+        -527.08544921875,
+        195.95660400390625,
+        -4.849999904632568
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.103",
+      "center": [
+        -503.08544921875,
+        195.95660400390625,
+        -4.849999904632568
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.104",
+      "center": [
+        -515.08544921875,
+        204.45660400390625,
+        -4.849999904632568
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.105",
+      "center": [
+        -581.334228515625,
+        181.28822326660156,
+        -4.849999904632568
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.106",
+      "center": [
+        -557.334228515625,
+        181.28822326660156,
+        -4.849999904632568
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.107",
+      "center": [
+        -569.334228515625,
+        189.78822326660156,
+        -4.849999904632568
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.108",
+      "center": [
+        -598.4332885742188,
+        143.05917358398438,
+        -4.849999904632568
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.109",
+      "center": [
+        -574.4332885742188,
+        143.05917358398438,
+        -4.849999904632568
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.110",
+      "center": [
+        -586.4332885742188,
+        151.55917358398438,
+        -4.849999904632568
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.111",
+      "center": [
+        -565.5067749023438,
+        110.05670166015625,
+        -4.849999904632568
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.112",
+      "center": [
+        -541.5067749023438,
+        110.05670166015625,
+        -4.849999904632568
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.113",
+      "center": [
+        -553.5067749023438,
+        118.55670166015625,
+        -4.849999904632568
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.114",
+      "center": [
+        -507.34893798828125,
+        107.13235473632812,
+        -4.849999904632568
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.115",
+      "center": [
+        -483.34893798828125,
+        107.13235473632812,
+        -4.849999904632568
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.116",
+      "center": [
+        -495.34893798828125,
+        115.63235473632812,
+        -4.849999904632568
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.117",
+      "center": [
+        -467.7538757324219,
+        136.48822021484375,
+        -4.849999904632568
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.118",
+      "center": [
+        -443.7538757324219,
+        136.48822021484375,
+        -4.849999904632568
+      ],
+      "size": [
+        6,
+        17,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Garden neighbourhood wing.119",
+      "center": [
+        -455.7538757324219,
+        144.98822021484375,
+        -4.849999904632568
+      ],
+      "size": [
+        24,
+        7,
+        6
+      ],
+      "district": "V03_GARDEN_ROOMS"
+    },
+    {
+      "name": "Canal house",
+      "center": [
+        -255.0,
+        39.0,
+        3.0
+      ],
+      "size": [
+        14,
+        9,
+        6.0
+      ],
+      "district": "V03_CANAL_NEIGHBOURHOOD"
+    },
+    {
+      "name": "Canal house.001",
+      "center": [
+        -160.0,
+        39.0,
+        2.25
+      ],
+      "size": [
+        14,
+        9,
+        4.5
+      ],
+      "district": "V03_CANAL_NEIGHBOURHOOD"
+    },
+    {
+      "name": "Canal house.002",
+      "center": [
+        -108.0,
+        39.0,
+        3.0
+      ],
+      "size": [
+        14,
+        9,
+        6.0
+      ],
+      "district": "V03_CANAL_NEIGHBOURHOOD"
+    },
+    {
+      "name": "Canal house.003",
+      "center": [
+        -60.0,
+        39.0,
+        2.25
+      ],
+      "size": [
+        14,
+        9,
+        4.5
+      ],
+      "district": "V03_CANAL_NEIGHBOURHOOD"
+    }
+  ],
+  "platforms": [
+    {
+      "name": "School cloud shore",
+      "center": [
+        -1340,
+        970,
+        35.7
+      ],
+      "radii": [
+        220,
+        148
+      ],
+      "depth": 13
+    },
+    {
+      "name": "School gate garden",
+      "center": [
+        -1200,
+        859,
+        41.7
+      ],
+      "radii": [
+        75,
+        61
+      ],
+      "depth": 9
+    },
+    {
+      "name": "Upper hanging garden",
+      "center": [
+        -780,
+        760,
+        58
+      ],
+      "radii": [
+        154,
+        110
+      ],
+      "depth": 8
+    },
+    {
+      "name": "Middle courtyard garden",
+      "center": [
+        -655,
+        600,
+        23
+      ],
+      "radii": [
+        175,
+        102
+      ],
+      "depth": 10
+    },
+    {
+      "name": "West shaded garden",
+      "center": [
+        -1030,
+        500,
+        -15
+      ],
+      "radii": [
+        155,
+        105
+      ],
+      "depth": 10
+    },
+    {
+      "name": "Lower eastern garden",
+      "center": [
+        -365,
+        325,
+        4
+      ],
+      "radii": [
+        115,
+        105
+      ],
+      "depth": 8
+    },
+    {
+      "name": "Lower western garden",
+      "center": [
+        -520,
+        150,
+        -8
+      ],
+      "radii": [
+        140,
+        96
+      ],
+      "depth": 9
+    },
+    {
+      "name": "Water lane cloud bank",
+      "center": [
+        -150,
+        20,
+        -3.5
+      ],
+      "radii": [
+        220,
+        62
+      ],
+      "depth": 8
+    },
+    {
+      "name": "Cascade garden 0",
+      "center": [
+        -1070,
+        805,
+        44.6
+      ],
+      "radii": [
+        70,
+        55
+      ],
+      "depth": 7
+    },
+    {
+      "name": "Cascade garden 1",
+      "center": [
+        -1025,
+        755,
+        22.6
+      ],
+      "radii": [
+        68,
+        53
+      ],
+      "depth": 7
+    },
+    {
+      "name": "Cascade garden 2",
+      "center": [
+        -980,
+        705,
+        -0.4
+      ],
+      "radii": [
+        64,
+        50
+      ],
+      "depth": 7
+    },
+    {
+      "name": "Moon corridor garden",
+      "center": [
+        -920,
+        638,
+        48
+      ],
+      "radii": [
+        62,
+        48
+      ],
+      "depth": 7
+    }
+  ],
+  "cameras": [
+    {
+      "id": "V03-OV",
+      "title": "云隙与层叠园城",
+      "position": [
+        -1650,
+        -1360,
+        1080
+      ],
+      "target": [
+        -730,
+        580,
+        12
+      ],
+      "lens_mm": 43,
+      "shots": "C-G01—06"
+    },
+    {
+      "id": "V03-SIDE",
+      "title": "侧看云岸：城下留空",
+      "position": [
+        -1520,
+        0,
+        120
+      ],
+      "target": [
+        -800,
+        660,
+        35
+      ],
+      "lens_mm": 40,
+      "shots": "C-G04"
+    },
+    {
+      "id": "V03-A0",
+      "title": "廊墙收景",
+      "position": [
+        -1215,
+        865,
+        47
+      ],
+      "target": [
+        -1070,
+        805,
+        50
+      ],
+      "lens_mm": 35,
+      "shots": "C-G03"
+    },
+    {
+      "id": "V03-AM",
+      "title": "转角中段：墙端与远景",
+      "position": [
+        -1213,
+        842,
+        47
+      ],
+      "target": [
+        -1070,
+        805,
+        50
+      ],
+      "lens_mm": 35,
+      "shots": "C-G03/G04"
+    },
+    {
+      "id": "V03-A1",
+      "title": "转过墙端，露出叠水",
+      "position": [
+        -1190,
+        842,
+        47
+      ],
+      "target": [
+        -1070,
+        805,
+        50
+      ],
+      "lens_mm": 35,
+      "shots": "C-G03/G04"
+    },
+    {
+      "id": "V03-B0",
+      "title": "近墙藏住上层水榭",
+      "position": [
+        -945,
+        635,
+        55
+      ],
+      "target": [
+        -810,
+        678,
+        68
+      ],
+      "lens_mm": 35,
+      "shots": "C-G04"
+    },
+    {
+      "id": "V03-BM",
+      "title": "绕墙中段：局部露出",
+      "position": [
+        -924,
+        614,
+        55
+      ],
+      "target": [
+        -810,
+        678,
+        68
+      ],
+      "lens_mm": 35,
+      "shots": "C-G04"
+    },
+    {
+      "id": "V03-B1",
+      "title": "绕墙后，水榭与悬廊展开",
+      "position": [
+        -890,
+        625,
+        55
+      ],
+      "target": [
+        -810,
+        678,
+        68
+      ],
+      "lens_mm": 35,
+      "shots": "C-G04"
+    },
+    {
+      "id": "V03-WATER",
+      "title": "同一水脉：从上池落入下庭",
+      "position": [
+        -1130,
+        695,
+        60
+      ],
+      "target": [
+        -1040,
+        770,
+        25
+      ],
+      "lens_mm": 35,
+      "shots": "C-G04"
+    },
+    {
+      "id": "V03-MID",
+      "title": "经过上层庭院的下方",
+      "position": [
+        -750,
+        490,
+        48
+      ],
+      "target": [
+        -810,
+        678,
+        68
+      ],
+      "lens_mm": 30,
+      "shots": "C-G04"
+    },
+    {
+      "id": "V03-C0",
+      "title": "水巷墙端收住去路",
+      "position": [
+        -225,
+        0,
+        6
+      ],
+      "target": [
+        10.8,
+        18.5,
+        3
+      ],
+      "lens_mm": 35,
+      "shots": "C-G05"
+    },
+    {
+      "id": "V03-CM",
+      "title": "转入水巷的墙边",
+      "position": [
+        -225,
+        13.5,
+        6
+      ],
+      "target": [
+        10.8,
+        18.5,
+        3
+      ],
+      "lens_mm": 35,
+      "shots": "C-G05"
+    },
+    {
+      "id": "V03-C1",
+      "title": "转入水巷，看到两岸住家",
+      "position": [
+        -180,
+        13.5,
+        6
+      ],
+      "target": [
+        10.8,
+        18.5,
+        3
+      ],
+      "lens_mm": 35,
+      "shots": "C-G05"
+    },
+    {
+      "id": "V03-C2",
+      "title": "越过弯岸，半园桥与作坊显露",
+      "position": [
+        -70,
+        13.5,
+        8
+      ],
+      "target": [
+        10.8,
+        18.5,
+        3
+      ],
+      "lens_mm": 35,
+      "shots": "C-G05/G06"
+    },
+    {
+      "id": "V03-HOME",
+      "title": "落回熟悉的桥与作坊",
+      "position": [
+        28,
+        -20,
+        22
+      ],
+      "target": [
+        -5,
+        17,
+        2
+      ],
+      "lens_mm": 32,
+      "shots": "C-G05/G06"
+    }
+  ],
+  "reveal_pairs": [
+    {
+      "id": "A",
+      "before": "V03-A0",
+      "after": "V03-A1",
+      "target": [
+        -1070,
+        805,
+        50
+      ],
+      "screen": "Reveal A garden screen"
+    },
+    {
+      "id": "B",
+      "before": "V03-B0",
+      "after": "V03-B1",
+      "target": [
+        -810,
+        678,
+        68
+      ],
+      "screen": "Reveal B garden screen"
+    },
+    {
+      "id": "C",
+      "before": "V03-C0",
+      "after": "V03-C1",
+      "target": [
+        10.8,
+        18.5,
+        3
+      ],
+      "screen": "Reveal C white wall"
+    }
+  ],
+  "limits": [
+    "Reference-stage polish only; no final asset topology or physically solved cloud/water simulation.",
+    "Original adopted art and character references retain authority over final style.",
+    "No new route timing or camera animation; still frame inspection does not prove downstream video interpretation."
+  ],
+  "appearance_changes": {
+    "gables": 148,
+    "window_panels": 1912,
+    "leaf_clusters": 1219,
+    "cloud_fringe_volumes": 180,
+    "vertical_waterfalls": 2
+  },
+  "reference_usage": {
+    "locks": [
+      "camera positions and lenses",
+      "flight/walk route points",
+      "original rooms and two-bank relationship",
+      "screen and landmark locations"
+    ],
+    "model_should_refine": [
+      "leaf detail",
+      "cloud softness",
+      "roof tile detail",
+      "water movement",
+      "plaster and wood microtexture"
+    ],
+    "do_not_infer": [
+      "game-low-poly style from remaining rough masses",
+      "rock or concrete islands from the retained cloud cores",
+      "solid ramps from waterfall water",
+      "character identity or final carrier form from proxies"
+    ],
+    "video_model_input_tested": false
+  }
+}

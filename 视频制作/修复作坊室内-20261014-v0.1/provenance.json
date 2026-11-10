@@ -1,0 +1,15 @@
+{
+  "tool": "image_gen.imagegen",
+  "mode": "built-in",
+  "calls": 1,
+  "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13a12-c15f-7431-88a9-5ceeb49cb3b0\\exec-3de3bbb6-b0ab-4def-bcc4-2771e9a2fe0b.png",
+  "file": "修复作坊-室内全景01.png",
+  "sha256": "472d7f2bce8552bd78f72646bbcc774ebc4cc6cc35f7353d08213c713a6aebf9",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "reference": "视频制作/半园两岸核心空间-20261014-v0.1/作坊望半园-概念01.png",
+  "status": "candidate, not adopted",
+  "review": "Four zones visible; inspection frame proposed, device mechanics and dimensions not verified; not a geometrically validated reverse shot."
+}

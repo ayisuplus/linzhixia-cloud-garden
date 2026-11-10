@@ -1,0 +1,116 @@
+{
+  "scope": "Flight: 27 sampled offset rays, <=0.5m increments, not complete swept volume. Walk: <=0.25m sampling, three height radial probes, floor support. Not final animation or navigation validation.",
+  "routes": {
+    "parcel": {
+      "samples": 3836,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    },
+    "regional_walk": {
+      "samples": 8808,
+      "obstacle_hits": [],
+      "floor_gaps": [],
+      "pass": true
+    }
+  },
+  "source_unchanged": true,
+  "preserved_scene_objects": {
+    "checked": 2557,
+    "unexpected_changes": [],
+    "scope": "Existing room/campus mesh counts and expected world transforms; school translation allowed"
+  },
+  "reveals": [
+    {
+      "id": "A",
+      "target": [
+        -1070,
+        805,
+        50
+      ],
+      "views": [
+        {
+          "camera": "V03-A0",
+          "first_hit": "Reveal A garden screen",
+          "hit_distance_m": 12.637413024902344,
+          "target_distance_m": 156.95222202950808,
+          "occluded_by_screen": true
+        },
+        {
+          "camera": "V03-A1",
+          "first_hit": null,
+          "hit_distance_m": null,
+          "target_distance_m": 125.61050911448453,
+          "occluded_by_screen": false
+        }
+      ],
+      "screen_transition_pass": true
+    },
+    {
+      "id": "B",
+      "target": [
+        -810,
+        678,
+        68
+      ],
+      "views": [
+        {
+          "camera": "V03-B0",
+          "first_hit": "Reveal B garden screen",
+          "hit_distance_m": 36.51801681518555,
+          "target_distance_m": 142.27789708876077,
+          "occluded_by_screen": true
+        },
+        {
+          "camera": "V03-B1",
+          "first_hit": "Cloud observatory landmark tiled roof",
+          "hit_distance_m": 84.69612884521484,
+          "target_distance_m": 96.84007434941384,
+          "occluded_by_screen": false
+        }
+      ],
+      "screen_transition_pass": true
+    },
+    {
+      "id": "C",
+      "target": [
+        10.8,
+        18.5,
+        3
+      ],
+      "views": [
+        {
+          "camera": "V03-C0",
+          "first_hit": "Reveal C white wall",
+          "hit_distance_m": 14.796516418457031,
+          "target_distance_m": 236.54363365983875,
+          "occluded_by_screen": true
+        },
+        {
+          "camera": "V03-C1",
+          "first_hit": "Workshop porch roof",
+          "hit_distance_m": 174.58145141601562,
+          "target_distance_m": 190.88907937595593,
+          "occluded_by_screen": false
+        }
+      ],
+      "screen_transition_pass": true
+    }
+  ],
+  "docks": [
+    {
+      "support": "Dispatch perch top",
+      "gap_m": 0.0020018005371085223,
+      "pass": true
+    },
+    {
+      "support": "Receiving perch top",
+      "gap_m": 0.002000042915344169,
+      "pass": true
+    }
+  ],
+  "old_adjacent_ramp_removed": true,
+  "walk_distance_m": 2183.5230683239574,
+  "flight_distance_m": 1892.692457390897,
+  "building_mass_count": 148
+}

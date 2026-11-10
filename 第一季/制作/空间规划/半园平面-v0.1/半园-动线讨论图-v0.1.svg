@@ -1,0 +1,227 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1630" viewBox="0 0 1800 1630">
+<rect width="100%" height="100%" fill="#f7f5ed"/>
+<text x="85" y="62" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="52" font-weight="700" fill="#354d48">半园</text>
+<text x="222" y="70" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="28" font-weight="400" fill="#354d48">生活在园中，手艺在窗边</text>
+<text x="85" y="120" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="400" fill="#748079">平面讨论稿 01  /  北入 · 东坊 · 西南居 · 池庭相连</text>
+<text x="85" y="161" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#748079">建议尺度 28 × 24 m（约 672㎡） · 单层 · 剖切示意，不是施工图</text>
+<rect x="85" y="200" width="24" height="24" fill="#e9ddc9" stroke="#354d48" stroke-width="1"/>
+<text x="121" y="212" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#354d48">接待 / 工作</text>
+<rect x="330" y="200" width="24" height="24" fill="#dfded2" stroke="#354d48" stroke-width="1"/>
+<text x="366" y="212" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#354d48">居住 / 生活</text>
+<rect x="575" y="200" width="24" height="24" fill="#eeeadc" stroke="#354d48" stroke-width="1"/>
+<text x="611" y="212" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#354d48">有顶廊</text>
+<rect x="770" y="200" width="24" height="24" fill="#c7e2de" stroke="#354d48" stroke-width="1"/>
+<text x="806" y="212" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#354d48">水</text>
+<rect x="900" y="200" width="24" height="24" fill="#d8e3cc" stroke="#354d48" stroke-width="1"/>
+<text x="936" y="212" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#354d48">植栽</text>
+<text x="85" y="259" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="700" fill="#354d48">动线叠加版</text>
+<polyline points="1165,207 1165,135" fill="none" stroke="#354d48" stroke-width="3"/>
+<polygon points="1165,126 1155,149 1175,149" fill="#354d48" stroke="none" stroke-width="2"/>
+<text x="1165" y="106" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#354d48">北 N</text>
+<polyline points="150,298.4 1158,298.4" fill="none" stroke="#748079" stroke-width="1"/>
+<polyline points="150,289.4 150,307.4" fill="none" stroke="#748079" stroke-width="2"/>
+<polyline points="1158,289.4 1158,307.4" fill="none" stroke="#748079" stroke-width="2"/>
+<text x="942" y="276.79999999999995" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="400" fill="#748079">28 m  /  暂定</text>
+<polyline points="108.6,455 108.6,1319" fill="none" stroke="#748079" stroke-width="1"/>
+<polyline points="99.6,455 117.6,455" fill="none" stroke="#748079" stroke-width="2"/>
+<polyline points="99.6,1319 117.6,1319" fill="none" stroke="#748079" stroke-width="2"/>
+<text x="108.6" y="887" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400" fill="#748079">24m</text>
+<rect x="150" y="321.79999999999995" width="1008" height="45.0" fill="#c7e2de" stroke="none" stroke-width="2"/>
+<text x="906" y="343.4" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#354d48">北侧水巷（外部环境）</text>
+<rect x="150" y="366.8" width="1008" height="88.2" fill="#e8e6dc" stroke="none" stroke-width="2"/>
+<text x="294" y="415.4" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="400" fill="#748079">沿水步道</text>
+<rect x="553.2" y="341.6" width="144" height="97.2" fill="#ded2bd" stroke="#354d48" stroke-width="2"/>
+<circle cx="625.2" cy="390.2" r="26" fill="#f7f5ed" stroke="#869a93" stroke-width="2"/>
+<text x="625.2" y="390.2" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#354d48">D</text>
+<text x="722.4" y="361.4" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400" fill="#354d48">门外收件台</text>
+<rect x="697.1999999999999" y="422.6" width="75.60000000000001" height="32.4" fill="#eeeadc" stroke="none" stroke-width="2"/>
+<rect x="150" y="455" width="1008" height="864" fill="#f0eee3" stroke="#4b5751" stroke-width="7"/>
+<polyline points="409.2,455 481.2,455" fill="none" stroke="#eeeadc" stroke-width="9"/>
+<rect x="196.8" y="494.6" width="439.2" height="190.79999999999998" fill="#e7e9db" stroke="none" stroke-width="2"/>
+<rect x="387.6" y="455" width="115.2" height="147.6" fill="#eeeadc" stroke="none" stroke-width="2"/>
+<rect x="495.59999999999997" y="602.6" width="374.40000000000003" height="122.39999999999999" fill="#eeeadc" stroke="none" stroke-width="2"/>
+<rect x="805.1999999999999" y="689.0" width="64.8" height="468" fill="#eeeadc" stroke="none" stroke-width="2"/>
+<circle cx="799.8000000000001" cy="714.2" r="4" fill="#4b5751" stroke="none" stroke-width="2"/>
+<circle cx="799.8000000000001" cy="822.2" r="4" fill="#4b5751" stroke="none" stroke-width="2"/>
+<circle cx="799.8000000000001" cy="930.2" r="4" fill="#4b5751" stroke="none" stroke-width="2"/>
+<circle cx="799.8000000000001" cy="1038.1999999999998" r="4" fill="#4b5751" stroke="none" stroke-width="2"/>
+<circle cx="799.8000000000001" cy="1139" r="4" fill="#4b5751" stroke="none" stroke-width="2"/>
+<polyline points="805.2,689.0 805.2,1157.0" fill="none" stroke="#c6bcaa" stroke-width="1" stroke-dasharray="8 7"/>
+<rect x="384.0" y="613.4" width="136.79999999999998" height="10.799999999999999" fill="#4b5751" stroke="none" stroke-width="2"/>
+<text x="450.59999999999997" y="644.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="400" fill="#354d48">照壁</text>
+<circle cx="255.84" cy="570.2" r="30.239999999999995" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="280.464" cy="565.88" r="30.239999999999995" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="268.8" cy="580.5680000000001" r="30.239999999999995" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="268.8" cy="558.9680000000001" r="30.239999999999995" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="268.8" cy="570.2" r="4" fill="#829771" stroke="none" stroke-width="2"/>
+<circle cx="569.2200000000001" cy="545.0" r="21.419999999999998" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="586.662" cy="541.94" r="21.419999999999998" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="578.4000000000001" cy="552.344" r="21.419999999999998" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="578.4000000000001" cy="537.044" r="21.419999999999998" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="578.4000000000001" cy="545.0" r="4" fill="#829771" stroke="none" stroke-width="2"/>
+<text x="394.79999999999995" y="537.8" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="24" font-weight="700" fill="#354d48">入园前庭</text>
+<text x="445.2" y="480.2" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400" fill="#354d48">门</text>
+<rect x="672.0" y="527" width="180" height="162.0" fill="#e9ddc9" stroke="#4b5751" stroke-width="5"/>
+<text x="762" y="579.2" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="700" fill="#354d48">接待茶廊</text>
+<rect x="699.0" y="608.0" width="50.4" height="25.2" fill="#c7b597" stroke="#354d48" stroke-width="1"/>
+<circle cx="704.4" cy="649.4" r="8" fill="#b5a286" stroke="none" stroke-width="2"/>
+<circle cx="740.4" cy="649.4" r="8" fill="#b5a286" stroke="none" stroke-width="2"/>
+<polyline points="693.6,689.0 808.8,689.0" fill="none" stroke="#eeeadc" stroke-width="9"/>
+<rect x="924.0" y="527" width="180" height="162.0" fill="#e9ddc9" stroke="#4b5751" stroke-width="5"/>
+<text x="1014" y="570.2" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="23" font-weight="700" fill="#354d48">工具材料间</text>
+<rect x="942" y="609.8" width="144" height="39.6" fill="#c9bda5" stroke="#354d48" stroke-width="1"/>
+<text x="1014" y="629.6" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="19" font-weight="400" fill="#354d48">分类柜</text>
+<rect x="870" y="689.0" width="234.0" height="288" fill="#e9ddc9" stroke="#4b5751" stroke-width="5"/>
+<text x="985.1999999999999" y="732.2" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="26" font-weight="700" fill="#354d48">修复工作室</text>
+<polyline points="978,689.0 1032.0,689.0" fill="none" stroke="#e9ddc9" stroke-width="9"/>
+<polyline points="927.6,527 1014,527" fill="none" stroke="#739b9b" stroke-width="7"/>
+<polyline points="927.6,527 1014,527" fill="none" stroke="#f7f5ed" stroke-width="2"/>
+<polyline points="870,753.8 870,815" fill="none" stroke="#eeeadc" stroke-width="9"/>
+<polyline points="877.2,753.8 877.2,782.6" fill="none" stroke="#869b91" stroke-width="2"/>
+<polyline points="870,843.8 870,941.0" fill="none" stroke="#739b9b" stroke-width="7"/>
+<polyline points="870,843.8 870,941.0" fill="none" stroke="#f7f5ed" stroke-width="2"/>
+<polyline points="1104.0,761.0 1104.0,905.0" fill="none" stroke="#739b9b" stroke-width="7"/>
+<polyline points="1104.0,761.0 1104.0,905.0" fill="none" stroke="#f7f5ed" stroke-width="2"/>
+<rect x="938.4" y="822.2" width="50.4" height="100.8" fill="#baa17b" stroke="#354d48" stroke-width="2"/>
+<text x="1017.6" y="869.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400" fill="#354d48">主工作台</text>
+<circle cx="1014" cy="840.2" r="10" fill="#ad9779" stroke="#354d48" stroke-width="1"/>
+<rect x="1050" y="926.5999999999999" width="36" height="28.8" fill="#c9ddd8" stroke="#354d48" stroke-width="1"/>
+<text x="988.8000000000001" y="944.5999999999999" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="19" font-weight="400" fill="#354d48">清洁 / 辅助检测</text>
+<rect x="870" y="977.0" width="234.0" height="180" fill="#e8e3d5" stroke="#4b5751" stroke-width="5"/>
+<polyline points="949.2,977.0 1032.0,977.0" fill="none" stroke="#eeeadc" stroke-width="9"/>
+<polyline points="870,1031 870,1103" fill="none" stroke="#eeeadc" stroke-width="9"/>
+<rect x="906" y="1004.0" width="162.0" height="126.0" fill="#f7f5ed" stroke="none" stroke-width="2"/>
+<polyline points="906,1004.0 1068.0,1004.0 1068.0,1130.0 906,1130.0 906,1004.0" fill="none" stroke="#a7997f" stroke-width="2" stroke-dasharray="8 7"/>
+<text x="987.0" y="1036.4" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="24" font-weight="700" fill="#354d48">多用试用廊</text>
+<text x="987.0" y="1074.1999999999998" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="19" font-weight="400" fill="#354d48">净空约 4.5 × 3.5 m</text>
+<text x="987.0" y="1108.4" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400" fill="#748079">平整 · 干燥 · 无杂物</text>
+<polygon points="510,757.4000000000001 682.8000000000001,735.8 769.1999999999999,793.4000000000001 762,941.0 708.0,1002.1999999999999 564.0,984.1999999999999 510,901.4000000000001" fill="#c7e2de" stroke="#82aaa4" stroke-width="3"/>
+<polyline points="582,793.4 607.2,793.4 618,796.28" fill="none" stroke="#97bfba" stroke-width="2"/>
+<polyline points="636.0,915.8 661.2,915.8 672.0,918.68" fill="none" stroke="#97bfba" stroke-width="2"/>
+<polyline points="589.2,937.4 614.4,937.4 625.2,940.28" fill="none" stroke="#97bfba" stroke-width="2"/>
+<text x="637.8" y="836.5999999999999" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="28" font-weight="700" fill="#354d48">小池</text>
+<text x="639.5999999999999" y="876.2" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="18" font-weight="400" fill="#748079">坐廊与工作窗互相借景</text>
+<rect x="474" y="1049.0" width="288" height="72" fill="#eeeadc" stroke="none" stroke-width="2"/>
+<text x="618" y="1083.1999999999998" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="24" font-weight="700" fill="#354d48">临水坐廊</text>
+<rect x="510" y="1052.6" width="108" height="12.6" fill="#bca780" stroke="none" stroke-width="2"/>
+<circle cx="748.32" cy="703.4" r="15.119999999999997" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="760.6320000000001" cy="701.24" r="15.119999999999997" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="754.8000000000001" cy="708.584" r="15.119999999999997" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="754.8000000000001" cy="697.784" r="15.119999999999997" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="754.8000000000001" cy="703.4" r="4" fill="#829771" stroke="none" stroke-width="2"/>
+<circle cx="751.92" cy="1020.1999999999999" r="15.119999999999997" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="764.232" cy="1018.04" r="15.119999999999997" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="758.4" cy="1025.384" r="15.119999999999997" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="758.4" cy="1014.584" r="15.119999999999997" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="758.4" cy="1020.1999999999999" r="4" fill="#829771" stroke="none" stroke-width="2"/>
+<rect x="366" y="721.4000000000001" width="100.8" height="399.59999999999997" fill="#eeeadc" stroke="none" stroke-width="2"/>
+<polyline points="200.4,710.6 405.6,710.6" fill="none" stroke="#4b5751" stroke-width="4"/>
+<polyline points="481.2,710.6 513.6,710.6" fill="none" stroke="#4b5751" stroke-width="4"/>
+<polyline points="405.6,710.6 405.6,753.8" fill="none" stroke="#869b91" stroke-width="3"/>
+<text x="445.2" y="730.4000000000001" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="17" font-weight="400" fill="#354d48">可闭内门</text>
+<circle cx="268.08000000000004" cy="721.4000000000001" r="35.279999999999994" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="296.80800000000005" cy="716.3600000000001" r="35.279999999999994" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="283.20000000000005" cy="733.4960000000001" r="35.279999999999994" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="283.20000000000005" cy="708.296" r="35.279999999999994" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="283.20000000000005" cy="721.4000000000001" r="4" fill="#829771" stroke="none" stroke-width="2"/>
+<rect x="204.0" y="779" width="162.0" height="162.0" fill="#dfded2" stroke="#4b5751" stroke-width="5"/>
+<text x="285.0" y="822.2" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="23" font-weight="700" fill="#354d48">旧物藏间</text>
+<text x="285.0" y="856.4000000000001" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="19" font-weight="400" fill="#748079">兼弹性空间</text>
+<rect x="218.39999999999998" y="887" width="104.39999999999999" height="30.599999999999998" fill="#c0bdad" stroke="#354d48" stroke-width="1"/>
+<polyline points="366,879.8 366,923" fill="none" stroke="#eeeadc" stroke-width="9"/>
+<polyline points="204.0,800.6 204.0,851" fill="none" stroke="#739b9b" stroke-width="7"/>
+<polyline points="204.0,800.6 204.0,851" fill="none" stroke="#f7f5ed" stroke-width="2"/>
+<rect x="204.0" y="959" width="162.0" height="108" fill="#dfded2" stroke="#4b5751" stroke-width="5"/>
+<text x="279.6" y="1000.4" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="700" fill="#354d48">卫浴 / 洗衣</text>
+<polyline points="366,987.8 366,1031" fill="none" stroke="#eeeadc" stroke-width="9"/>
+<rect x="216.60000000000002" y="1023.8000000000001" width="43.199999999999996" height="28.8" fill="#bfd0ca" stroke="#354d48" stroke-width="1"/>
+<rect x="276.0" y="1067" width="190.79999999999998" height="54.0" fill="#eeeadc" stroke="none" stroke-width="2"/>
+<rect x="204.0" y="1121.0" width="162.0" height="144" fill="#dfded2" stroke="#4b5751" stroke-width="5"/>
+<rect x="366" y="1121.0" width="234.0" height="144" fill="#dfded2" stroke="#4b5751" stroke-width="5"/>
+<rect x="600.0" y="1121.0" width="162.0" height="144" fill="#dfded2" stroke="#4b5751" stroke-width="5"/>
+<polyline points="283.2,1121.0 333.6,1121.0" fill="none" stroke="#eeeadc" stroke-width="9"/>
+<polyline points="481.2,1121.0 546,1121.0" fill="none" stroke="#eeeadc" stroke-width="9"/>
+<polyline points="643.2,1121.0 690,1121.0" fill="none" stroke="#eeeadc" stroke-width="9"/>
+<polyline points="366,1157.0 366,1196.6" fill="none" stroke="#dfded2" stroke-width="9"/>
+<polyline points="600.0,1157.0 600.0,1211" fill="none" stroke="#dfded2" stroke-width="9"/>
+<text x="286.79999999999995" y="1158.8000000000002" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="23" font-weight="700" fill="#354d48">知夏卧室</text>
+<rect x="222" y="1185.8000000000002" width="75.60000000000001" height="54.0" fill="#c3bca9" stroke="#354d48" stroke-width="1"/>
+<rect x="225.60000000000002" y="1189.4" width="18.0" height="46.800000000000004" fill="#f7f5ed" stroke="none" stroke-width="2"/>
+<text x="484.8" y="1164.1999999999998" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="24" font-weight="700" fill="#354d48">起居 / 读写</text>
+<rect x="402" y="1189.4" width="115.2" height="25.2" fill="#c2b8a2" stroke="#354d48" stroke-width="1"/>
+<rect x="492.0" y="1225.4" width="54.0" height="19.8" fill="#c2b8a2" stroke="#354d48" stroke-width="1"/>
+<text x="679.1999999999999" y="1164.1999999999998" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="700" fill="#354d48">厨房 / 餐叙</text>
+<rect x="618" y="1214.6" width="118.8" height="28.8" fill="#bebba9" stroke="#354d48" stroke-width="1"/>
+<polyline points="222,1265.0 312.0,1265.0" fill="none" stroke="#739b9b" stroke-width="7"/>
+<polyline points="222,1265.0 312.0,1265.0" fill="none" stroke="#f7f5ed" stroke-width="2"/>
+<polyline points="402,1265.0 535.2,1265.0" fill="none" stroke="#739b9b" stroke-width="7"/>
+<polyline points="402,1265.0 535.2,1265.0" fill="none" stroke="#f7f5ed" stroke-width="2"/>
+<polyline points="618,1265.0 718.8,1265.0" fill="none" stroke="#739b9b" stroke-width="7"/>
+<polyline points="618,1265.0 718.8,1265.0" fill="none" stroke="#f7f5ed" stroke-width="2"/>
+<text x="510" y="1293.8000000000002" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400" fill="#748079">南侧采光与维护带</text>
+<rect x="762" y="1157.0" width="342.0" height="108" fill="#e0e5d6" stroke="none" stroke-width="2"/>
+<circle cx="815.0999999999999" cy="1229.0" r="18.9" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="830.4899999999999" cy="1226.3" r="18.9" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="823.1999999999999" cy="1235.48" r="18.9" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="823.1999999999999" cy="1221.98" r="18.9" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="823.1999999999999" cy="1229.0" r="4" fill="#829771" stroke="none" stroke-width="2"/>
+<circle cx="994.02" cy="1239.8000000000002" r="21.419999999999998" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="1011.462" cy="1236.7400000000002" r="21.419999999999998" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="1003.1999999999999" cy="1247.1440000000002" r="21.419999999999998" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="1003.1999999999999" cy="1231.8440000000003" r="21.419999999999998" fill="#d8e3cc" stroke="#a8b899" stroke-width="1"/>
+<circle cx="1003.1999999999999" cy="1239.8000000000002" r="4" fill="#829771" stroke="none" stroke-width="2"/>
+<rect x="1064.4" y="1189.4" width="39.6" height="57.6" fill="#c6d9d6" stroke="#354d48" stroke-width="2"/>
+<text x="909.6" y="1207.4" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400" fill="#354d48">院务维护角</text>
+<circle cx="520.8" cy="483.8" r="17" fill="#354d48" stroke="none" stroke-width="2"/>
+<text x="520.8" y="483.8" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="19" font-weight="700" fill="#ffffff">1</text>
+<circle cx="682.8000000000001" cy="543.2" r="17" fill="#354d48" stroke="none" stroke-width="2"/>
+<text x="682.8000000000001" y="543.2" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="19" font-weight="700" fill="#ffffff">2</text>
+<circle cx="888.0" cy="712.4000000000001" r="17" fill="#354d48" stroke="none" stroke-width="2"/>
+<text x="888.0" y="712.4000000000001" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="19" font-weight="700" fill="#ffffff">3</text>
+<circle cx="888.0" cy="996.8000000000001" r="17" fill="#354d48" stroke="none" stroke-width="2"/>
+<text x="888.0" y="996.8000000000001" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="19" font-weight="700" fill="#ffffff">4</text>
+<circle cx="499.2" cy="1059.8000000000002" r="17" fill="#354d48" stroke="none" stroke-width="2"/>
+<text x="499.2" y="1059.8000000000002" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="19" font-weight="700" fill="#ffffff">5</text>
+<circle cx="384.0" cy="1139" r="17" fill="#354d48" stroke="none" stroke-width="2"/>
+<text x="384.0" y="1139" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="19" font-weight="700" fill="#ffffff">6</text>
+<polyline points="445.2,393.8 445.2,577.4 546,577.4 546,703.4 830.4,703.4 830.4,779 916.8,779" fill="none" stroke="#bb7351" stroke-width="5"/>
+<polygon points="916.8000000000001,779 905.0941876694153,784.654551943446 905.0941876694153,773.345448056554" fill="#bb7351" stroke="none" stroke-width="2"/>
+<polyline points="830.4,779 830.4,1063.4 891.6,1063.4" fill="none" stroke="#bb7351" stroke-width="5"/>
+<polygon points="891.6,1063.4 879.8941876694153,1069.054551943446 879.8941876694153,1057.745448056554" fill="#bb7351" stroke="none" stroke-width="2"/>
+<polyline points="402,577.4 358.8,577.4 358.8,656.6 441.6,656.6 441.6,1095.8 510,1095.8 510,1175" fill="none" stroke="#637b9c" stroke-width="4" stroke-dasharray="8 7"/>
+<polygon points="510,1175 504.345448056554,1163.2941876694151 515.654551943446,1163.2941876694151" fill="#637b9c" stroke="none" stroke-width="2"/>
+<text x="88" y="1480" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="400" fill="#354d48">橙线：来访 / 修复 / 试穿    蓝虚线：生活内院动线</text>
+<rect x="1240" y="282" width="480" height="1110" fill="#eeece2" stroke="none" stroke-width="2"/>
+<text x="1270" y="324" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="29" font-weight="700" fill="#354d48">这张图先决定什么</text>
+<text x="1270" y="393" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="700" fill="#354d48">01  入园与收件</text>
+<text x="1270" y="432" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#748079">门外取件，照壁后向东接待。</text>
+<text x="1270" y="466" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#748079">工作、生活在这里分流。</text>
+<text x="1270" y="529" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="700" fill="#354d48">02  接待茶廊</text>
+<text x="1270" y="568" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#748079">坐下说清旧物的来历与需求，</text>
+<text x="1270" y="602" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#748079">也能等候、闲聊、看庭院。</text>
+<text x="1270" y="665" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="700" fill="#354d48">03  修复工作室</text>
+<text x="1270" y="704" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#748079">工具材料间靠近主工作台，</text>
+<text x="1270" y="738" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#748079">桌边、门口、隔池都能取景。</text>
+<text x="1270" y="801" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="700" fill="#354d48">04  多用试用廊</text>
+<text x="1270" y="840" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#748079">平整干燥，与水边分开；</text>
+<text x="1270" y="874" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#748079">首集试穿，以后用于物件试用。</text>
+<text x="1270" y="937" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="700" fill="#354d48">05  临水坐廊</text>
+<text x="1270" y="976" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#748079">连接起居与池庭，留下休息、</text>
+<text x="1270" y="1010" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#748079">读书、聊天和安静相处的位置。</text>
+<text x="1270" y="1073" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="700" fill="#354d48">06  生活内院</text>
+<text x="1270" y="1112" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#748079">卧室、起居、厨房和卫浴，</text>
+<text x="1270" y="1146" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="400" fill="#748079">以可关闭内门保留私密。</text>
+<text x="1270" y="1235" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="400" fill="#748079">科技候选：配送、检测、环境调节。</text>
+<text x="1270" y="1280" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="22" font-weight="700" fill="#354d48">所有新增房间与尺寸均为提案</text>
+<text x="1270" y="1320" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="400" fill="#748079">先讨论平面，再定科技表达。</text>
+<rect x="150" y="1383" width="36" height="9" fill="#354d48" stroke="#354d48" stroke-width="1"/>
+<rect x="186" y="1383" width="36" height="9" fill="#f7f5ed" stroke="#354d48" stroke-width="1"/>
+<rect x="222" y="1383" width="36" height="9" fill="#354d48" stroke="#354d48" stroke-width="1"/>
+<rect x="258" y="1383" width="36" height="9" fill="#f7f5ed" stroke="#354d48" stroke-width="1"/>
+<rect x="294" y="1383" width="36" height="9" fill="#354d48" stroke="#354d48" stroke-width="1"/>
+<text x="150" y="1415" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400" fill="#354d48">0</text>
+<text x="330" y="1415" text-anchor="end" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="400" fill="#354d48">5 m</text>
+<text x="540" y="1408" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="400" fill="#748079">图面按米等比例绘制；屏幕显示比例不固定。</text>
+<text x="88" y="1540" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#748079">半园平面 v0.1  ·  2026-10-10  ·  先讨论空间，再讨论古典园林与科技如何融合</text>
+<text x="88" y="1580" text-anchor="start" dominant-baseline="central" font-family="Microsoft YaHei, sans-serif" font-size="21" font-weight="400" fill="#748079">既有设定：半旧小园 / 半园半坊、半居半店 / 小池、草木、修了一半的旧物。</text>
+</svg>

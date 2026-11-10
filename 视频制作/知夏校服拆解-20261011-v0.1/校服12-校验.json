@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-11",
+  "generator": "built-in imagegen",
+  "status": "pending_author_review",
+  "inputs": [
+    {
+      "path": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服11-纱罗裁片长袜.png",
+      "sha256": "503e4b6760beb06e8f433dc8850d7af68e9fd4ae27ecca61be8f46ae534d2355",
+      "role": "costume_edit_target"
+    },
+    {
+      "path": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\知夏四套服装试稿-20261011-v0.1\\知夏-校服03-浅天蓝花卉短衫.png",
+      "sha256": "1c1dac209933fbb9309ec1391839bfcc49d29d9ca8a18b13735f78a3b68c9c40",
+      "role": "face_and_render_quality_reference"
+    }
+  ],
+  "original": "C:\\Users\\36322\\.codex\\generated_images\\01a1298f-9773-7933-997e-fe2b6ee36209\\exec-c58848f8-b193-4f52-b786-cf408a954e92.png",
+  "output": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\知夏校服拆解-20261011-v0.1\\知夏-校服12-清晰修复膝下袜.png",
+  "sha256": "d0e75ba3dbe78bf30f7a6d307d6df29e6f752b57fc22a709f4783b37ff264b89",
+  "copy_verified": true,
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "canvas_node_ids": [
+    "26f1a57d-a4f3-4050-8bdd-f9bb5ddec86f",
+    "d9ee263d-1a0b-4d11-821d-d6b716a729e3"
+  ]
+}

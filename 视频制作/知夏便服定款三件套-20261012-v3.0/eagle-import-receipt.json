@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "data": [
+    {
+      "success": true,
+      "type": "path",
+      "itemId": "MV4W3GFN4NHN9",
+      "name": "林知夏_便服07_已采用面容参考"
+    },
+    {
+      "success": true,
+      "type": "path",
+      "itemId": "MV4W3GFNAK12S",
+      "name": "林知夏_便服15_双白袜玉饰当前方案"
+    },
+    {
+      "success": true,
+      "type": "path",
+      "itemId": "MV4W3GFNY8LYN",
+      "name": "林知夏_便服四视图_v3.0_总图"
+    },
+    {
+      "success": true,
+      "type": "path",
+      "itemId": "MV4W3GFNP7C0H",
+      "name": "林知夏_便服穿搭分解_v3.0"
+    },
+    {
+      "success": true,
+      "type": "path",
+      "itemId": "MV4W3GFN7LQ7T",
+      "name": "林知夏_便服妆造分解_v3.0"
+    },
+    {
+      "success": true,
+      "type": "path",
+      "itemId": "MV4W3GFN2SOVI",
+      "name": "林知夏_便服四视图_v3.0_正面大半身"
+    },
+    {
+      "success": true,
+      "type": "path",
+      "itemId": "MV4W3GFNTM1X9",
+      "name": "林知夏_便服四视图_v3.0_朝画面左侧面全身"
+    },
+    {
+      "success": true,
+      "type": "path",
+      "itemId": "MV4W3GFNYERUE",
+      "name": "林知夏_便服四视图_v3.0_背面全身"
+    },
+    {
+      "success": true,
+      "type": "path",
+      "itemId": "MV4W3GFNMIWL8",
+      "name": "林知夏_便服四视图_v3.0_朝画面右侧面全身"
+    }
+  ],
+  "message": "Added 9/9 items",
+  "timestamp": "2026-10-12T06:47:16.538Z",
+  "successCount": 9,
+  "totalCount": 9,
+  "sourceTypes": [
+    "path"
+  ],
+  "sharedParams": []
+}

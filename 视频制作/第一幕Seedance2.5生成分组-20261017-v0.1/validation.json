@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "shots": 17,
+  "units": 7,
+  "ai_generations": 6,
+  "edit_seconds": 90,
+  "ai_raw_seconds": 97,
+  "handles_seconds": 11,
+  "video_generated": false
+}

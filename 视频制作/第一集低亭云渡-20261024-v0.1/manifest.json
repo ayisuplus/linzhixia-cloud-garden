@@ -1,0 +1,20 @@
+{
+  ".gitignore": "c6cbaf5744d83fcc4c7f9d04640c2eb3751a4de81669b1bbec4142cd0a3f319b",
+  "01-overview.png": "a5f9d938f8aca9e7be23ccc5101318b4eba6bbbec73f325a9c03d364738f3f38",
+  "02-clear-structure.png": "de216bd03776f121b922cd9bb4934028816eca395a6c53a5037754e2bc407542",
+  "03-water-gardens.png": "17d8035ec2a5b142cd6dc6c883ca98480f1936bfd043fe72fba062cca65c78ff",
+  "04-low-waterside-pavilion.png": "7f4959a5ddb936cb2a7590b53b1eb3cd216abccdcfb16983f51fff14f7f029ff",
+  "05-home-workshop.png": "40c6205b412f2059604faa12849ad5b9bf67a101d6289720a995b920d9a81797",
+  "06-school-hidden-port.png": "403fb30436bfe477e516fbfa93f2cc4a12249ecd2eb14bd24054f581147d9907",
+  "audit-first-pass.json": "05d4e3d828c6893c128e4194bde7f83ae370960c3da8f7364882f42b19da6637",
+  "audit.json": "578d1d736653c00335e8bed2ea6990918b5081023e05bce1361297f7a3323007",
+  "audit.md": "1e9994aa95b708c571a10582a8b5bc4e7c1ac58e8fdc1330c995762455faa5a9",
+  "audit.py": "a779b1a5d2406ba47fa10e2260fbfba3f9d2805139a3c8d765334f894b1399c5",
+  "final-review.json": "f1bce5f8715e4e0e9c36e5cdfdec2a90e8330d023963e64934d3c64971360ac2",
+  "low-pavilion-cloud-ferry-v18.blend": "cb3336be2b14f5ca640600bed24cf21941c5d6526ddb7b7170ce01a141c63f28",
+  "planning-data.json": "7a1a0cf0d7776810740baf0c07354a6a29eb3cd17727ac769ee6e8c6470202fd",
+  "README.md": "3dd24b234afea5aa392dc617918caa13bb205db3ae9d91132e9f2f26efbc151e",
+  "review.html": "28239e55d00366a972732363ee997d6db3fe4539161e4e27b833d5fdd6730bf4",
+  "transport-data.json": "f39ebbad4aad57b0cfe33ddc0f978d223384f8f7ecbf9c06a17913f1ac63ab68",
+  "transport-plan.png": "9c43921d99555052f1000788baf4666279f0118ceb20c73c35e7deda6a9f1175"
+}

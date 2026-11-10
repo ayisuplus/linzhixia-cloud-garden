@@ -1,0 +1,76 @@
+{
+  "previous_failed_source": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\review\\before-tail.local.blend",
+  "source": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\garden-city-flight-58s-v03.blend",
+  "hashes_before": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\review\\before-tail.local.blend": "0cb957cf3d5e1b94a8391511e98b05c4218ac06599e43ca8f2fcdeaeda31e78b",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\garden-city-flight-58s-v03.blend": "2b91285c9d2d7ae92ee24d3b5cfc41895c912cdefb602db6f7cb339f607e4815"
+  },
+  "hashes_after": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\review\\before-tail.local.blend": "0cb957cf3d5e1b94a8391511e98b05c4218ac06599e43ca8f2fcdeaeda31e78b",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\garden-city-flight-58s-v03.blend": "2b91285c9d2d7ae92ee24d3b5cfc41895c912cdefb602db6f7cb339f607e4815"
+  },
+  "prior_failed_report": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集园城设计-20261023-v0.1\\review\\independent-flight-check-before-tail-fix.json",
+  "prefix_comparison": {
+    "FAST_ROUTE_FPV": {
+      "frame_range": [
+        1,
+        1284
+      ],
+      "exact_components_equal": true,
+      "changed_frames": [],
+      "max_location_delta_m": 0,
+      "max_quaternion_component_delta": 0,
+      "max_quaternion_angle_deg": 0
+    },
+    "Same carrier ROOT placeholder": {
+      "frame_range": [
+        1,
+        1284
+      ],
+      "exact_components_equal": true,
+      "changed_frames": [],
+      "max_location_delta_m": 0,
+      "max_quaternion_component_delta": 0,
+      "max_quaternion_angle_deg": 0
+    }
+  },
+  "tested_frame_range": [
+    1284,
+    1392
+  ],
+  "tested_intervals": 108,
+  "stationary_intervals_skipped": 23,
+  "dense_grid": [
+    17,
+    17,
+    9
+  ],
+  "grid_spacing_m": [
+    0.07625,
+    0.07625,
+    0.061875
+  ],
+  "rays_cast": 221085,
+  "hit_count": 0,
+  "hits": [],
+  "camera_hit_count": 0,
+  "camera_hits": [],
+  "frame_count": 1392,
+  "fps": 24.0,
+  "duration_s": 58.0,
+  "max_frame_acceleration_m_s2": 42.63669203767451,
+  "max_tail_acceleration_m_s2": 40.173459520697804,
+  "max_camera_turn_deg_per_frame_double_precision_dot": 3.4031955936355045,
+  "max_tail_camera_turn_deg_per_frame": 2.82701517193708,
+  "unchanged_terminal_position": true,
+  "terminal_position": [
+    10.800000190734863,
+    18.5,
+    1.1319999694824219
+  ],
+  "limitations": [
+    "Tail-only dense rays, not continuous exact swept-solid collision proof.",
+    "Prefix reuse evidence compares exact saved animation pose components, not lighting/render-setting file equivalence.",
+    "Static design preservation and unaffected route use the separately saved prior audit; no claim of full video viewing."
+  ]
+}

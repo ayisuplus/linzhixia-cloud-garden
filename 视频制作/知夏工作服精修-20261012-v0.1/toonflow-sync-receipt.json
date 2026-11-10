@@ -1,0 +1,64 @@
+{
+  "target": {
+    "connectionId": "f617bd89-16e6-4e7b-8725-4b5116956896",
+    "directory": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作",
+    "canvasId": "人物设计.json"
+  },
+  "imageNode": "1ac5935c-1169-4144-bf86-9bc000e94212",
+  "textNode": "a9187841-9a96-44f4-b279-79d1ba553ed8",
+  "readback": {
+    "details": {
+      "canvasId": "人物设计.json",
+      "nodes": [
+        {
+          "id": "1ac5935c-1169-4144-bf86-9bc000e94212",
+          "label": "知夏｜工作服11｜针线围腰与低盘发·候选",
+          "position": {
+            "x": 4000,
+            "y": 6200
+          },
+          "outputs": {
+            "image": {
+              "dataType": "IMAGE",
+              "value": {
+                "url": "知夏工作服精修-20261012-v0.1/知夏-工作服11-针线围腰与低盘发.png",
+                "mimeType": "image/png"
+              }
+            }
+          },
+          "selected": false,
+          "truncated": []
+        },
+        {
+          "id": "a9187841-9a96-44f4-b279-79d1ba553ed8",
+          "label": "工作服11｜来源与实际提示词",
+          "position": {
+            "x": 4900,
+            "y": 6200
+          },
+          "outputs": {
+            "text": {
+              "dataType": "STRING",
+              "value": "# 工作服11｜针线围腰与低盘发\n\n2026-10-12，试装候选，待作者审看。\n\n面容依据：知夏便服07；颜色与鞋袜依据：工作服10。新结构为浅竹绿窄袖短衫、杏黄裙及布围腰、少量工具、低盘发和短木簪。没有恢复皮肤云纹。图中裙长实际落在膝下，上衣生成偏小立领斜襟，与计划的小交领和小腿中段裙长有差异；先作为本轮方向试稿，不能称为历史复原或已定款。配色沿用原色族，衣长变化带来的颜色面积不是精确复现。\n\n来源图片：知夏工作服精修-20261012-v0.1/知夏-工作服11-针线围腰与低盘发.png\n\n历史研究线索：故宫《御制耕织图》https://www.dpm.org.cn/ancient/hall/161234.html 。本图未把历史图像作为视觉输入，属于作者认可方向的原创转译。\n\n内置 image_gen；项目保存，不导入 Eagle。旧工作服10保留。\n\n## 实际生成提示词\n\nUs"
+            }
+          },
+          "selected": false,
+          "truncated": [
+            {
+              "path": [
+                "outputs",
+                "text",
+                "value"
+              ],
+              "reason": "text",
+              "total": 4377,
+              "nextOffset": 400
+            }
+          ]
+        }
+      ],
+      "hasMore": false,
+      "nextCursor": null
+    }
+  }
+}

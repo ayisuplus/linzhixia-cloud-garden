@@ -1,0 +1,2331 @@
+[
+  {
+    "name": "Shared cloud ridge soft edge.090",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -947.013916015625,
+      691.318603515625,
+      -26.357500076293945
+    ],
+    "max": [
+      -880.92041015625,
+      750.5975341796875,
+      13.557500839233398
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      330.0,
+      120.0,
+      -800.73828125
+    ],
+    "max": [
+      1170.0,
+      740.0,
+      -540.73828125
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.072",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -146.50146484375,
+      -84.54934692382812,
+      -31.9395809173584
+    ],
+    "max": [
+      -79.10424041748047,
+      -7.7193450927734375,
+      12.939580917358398
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.063",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -520.642822265625,
+      9.587894439697266,
+      -30.317291259765625
+    ],
+    "max": [
+      -472.01531982421875,
+      85.60896301269531,
+      2.317291259765625
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.007",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      -1919.7220458984375,
+      -1489.46337890625,
+      -854.8505249023438
+    ],
+    "max": [
+      -1079.7220458984375,
+      -869.46337890625,
+      -594.8505249023438
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.045",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -905.1982421875,
+      432.5484313964844,
+      -41.641212463378906
+    ],
+    "max": [
+      -832.238525390625,
+      506.6949157714844,
+      -0.35878753662109375
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.006",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1561.2037353515625,
+      851.3455810546875,
+      8.871944427490234
+    ],
+    "max": [
+      -1514.8189697265625,
+      911.9676513671875,
+      50.52805709838867
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.002",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1339.341552734375,
+      1093.7579345703125,
+      9.226158142089844
+    ],
+    "max": [
+      -1279.810791015625,
+      1163.2904052734375,
+      50.17384338378906
+    ],
+    "hidden": false
+  },
+  {
+    "name": "B cloud valley side veil",
+    "materials": [
+      "Ordinary mist / open air only"
+    ],
+    "min": [
+      -978.0,
+      638.0,
+      43.0
+    ],
+    "max": [
+      -918.0,
+      728.0,
+      101.0
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.104",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1010.6210327148438,
+      572.4561767578125,
+      19.782024383544922
+    ],
+    "max": [
+      -940.9852905273438,
+      646.239990234375,
+      64.21797180175781
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.086",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1079.1871337890625,
+      668.3613891601562,
+      -4.350078582763672
+    ],
+    "max": [
+      -1029.8988037109375,
+      736.8298950195312,
+      37.550079345703125
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.068",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -153.78758239746094,
+      51.799171447753906,
+      -25.11919403076172
+    ],
+    "max": [
+      -85.36473083496094,
+      121.01842498779297,
+      6.119194030761719
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.034",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -498.31414794921875,
+      543.9131469726562,
+      -6.862419128417969
+    ],
+    "max": [
+      -447.5015869140625,
+      597.0661010742188,
+      40.86241912841797
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.059",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -683.2183227539062,
+      171.13815307617188,
+      -31.352806091308594
+    ],
+    "max": [
+      -613.5046997070312,
+      238.44549560546875,
+      3.3528060913085938
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.003",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      -214.9785919189453,
+      1228.574951171875,
+      -869.7847290039062
+    ],
+    "max": [
+      625.0214233398438,
+      1848.574951171875,
+      -609.7847290039062
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.082",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1046.880126953125,
+      778.2176513671875,
+      -2.722383499145508
+    ],
+    "max": [
+      -984.3124389648438,
+      845.3199462890625,
+      35.922386169433594
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.025",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -643.5891723632812,
+      694.8574829101562,
+      34.62164306640625
+    ],
+    "max": [
+      -595.9286499023438,
+      761.4927368164062,
+      69.37835693359375
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.041",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1196.3450927734375,
+      398.34423828125,
+      -42.91626739501953
+    ],
+    "max": [
+      -1142.6707763671875,
+      476.30364990234375,
+      0.9162693023681641
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.048",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -380.8895263671875,
+      413.1216125488281,
+      -17.34912109375
+    ],
+    "max": [
+      -317.3037109375,
+      461.8114318847656,
+      13.349120140075684
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.009",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1149.994384765625,
+      893.2173461914062,
+      12.40837287902832
+    ],
+    "max": [
+      -1072.173828125,
+      961.1447143554688,
+      46.99163055419922
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.016",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -701.9619750976562,
+      812.665283203125,
+      34.98851776123047
+    ],
+    "max": [
+      -643.8478393554688,
+      889.122802734375,
+      69.01148223876953
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.064",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -446.14892578125,
+      44.76997375488281,
+      -37.014259338378906
+    ],
+    "max": [
+      -392.55072021484375,
+      100.48947143554688,
+      9.014259338378906
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.089",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -990.662353515625,
+      708.5997924804688,
+      -6.025899887084961
+    ],
+    "max": [
+      -917.8260498046875,
+      770.7326049804688,
+      39.22589874267578
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1136.5616455078125,
+      985.4288940429688,
+      8.80996322631836
+    ],
+    "max": [
+      -1089.4625244140625,
+      1049.04296875,
+      50.59003829956055
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Receiving pool fine spray.001",
+    "materials": [
+      "V04 cloud-material soft fringe"
+    ],
+    "min": [
+      -1031.0,
+      684.5471801757812,
+      -0.5
+    ],
+    "max": [
+      -1019.0,
+      688.1471557617188,
+      1.7000000476837158
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.030",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -849.61669921875,
+      634.092041015625,
+      0.8726005554199219
+    ],
+    "max": [
+      -781.2869873046875,
+      682.340576171875,
+      33.12739944458008
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.055",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -400.39068603515625,
+      150.4609832763672,
+      -34.51959991455078
+    ],
+    "max": [
+      -350.715576171875,
+      210.81809997558594,
+      6.519598007202148
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.078",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1139.8201904296875,
+      831.8963012695312,
+      22.481407165527344
+    ],
+    "max": [
+      -1064.9644775390625,
+      885.4461059570312,
+      54.718589782714844
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.021",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -950.013427734375,
+      665.1476440429688,
+      30.205184936523438
+    ],
+    "max": [
+      -887.202392578125,
+      723.5310668945312,
+      73.79481506347656
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.037",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1046.40625,
+      586.2109985351562,
+      -38.61963653564453
+    ],
+    "max": [
+      -970.7237548828125,
+      638.7219848632812,
+      -3.3803634643554688
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.071",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -376.6262512207031,
+      -47.404998779296875,
+      -31.852596282958984
+    ],
+    "max": [
+      -319.3963928222656,
+      13.387552261352539,
+      12.852596282958984
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.103",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -947.5194091796875,
+      662.3302612304688,
+      22.27748680114746
+    ],
+    "max": [
+      -875.3326416015625,
+      716.4962768554688,
+      61.722511291503906
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.065",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -401.1448059082031,
+      85.41996002197266,
+      -31.904260635375977
+    ],
+    "max": [
+      -347.5077819824219,
+      159.03109741210938,
+      3.9042606353759766
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.056",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -445.7179260253906,
+      193.42190551757812,
+      -34.2857666015625
+    ],
+    "max": [
+      -399.5636901855469,
+      265.2294921875,
+      6.285768508911133
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.038",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1130.0225830078125,
+      577.679931640625,
+      -38.50605392456055
+    ],
+    "max": [
+      -1073.4293212890625,
+      627.2464599609375,
+      -3.493946075439453
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.005",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1615.7542724609375,
+      943.1962890625,
+      7.808788299560547
+    ],
+    "max": [
+      -1539.3963623046875,
+      992.2003173828125,
+      51.59121322631836
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.012",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1213.84423828125,
+      900.8999633789062,
+      18.854970932006836
+    ],
+    "max": [
+      -1165.412109375,
+      947.7754516601562,
+      52.54502868652344
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.062",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -610.5172119140625,
+      29.4990177154541,
+      -35.94031524658203
+    ],
+    "max": [
+      -551.130126953125,
+      80.6588134765625,
+      7.940317153930664
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.006",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      -1425.626220703125,
+      1474.0789794921875,
+      -838.5775146484375
+    ],
+    "max": [
+      -585.6262817382812,
+      2094.0791015625,
+      -578.5775146484375
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.013",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      702.5172119140625,
+      -293.0166015625,
+      -821.2864379882812
+    ],
+    "max": [
+      1542.5172119140625,
+      326.9833984375,
+      -561.2864379882812
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.085",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1115.0150146484375,
+      696.4346923828125,
+      -3.9658946990966797
+    ],
+    "max": [
+      -1057.3919677734375,
+      750.2923583984375,
+      37.1658935546875
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.092",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1008.6948852539062,
+      730.5091552734375,
+      -22.023866653442383
+    ],
+    "max": [
+      -933.6039428710938,
+      786.601806640625,
+      9.223865509033203
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.100",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -941.993896484375,
+      659.5421752929688,
+      -29.961599349975586
+    ],
+    "max": [
+      -884.8187255859375,
+      721.5260620117188,
+      17.16160011291504
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.074",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      49.72301483154297,
+      -27.881935119628906,
+      -32.7732048034668
+    ],
+    "max": [
+      108.10865020751953,
+      32.00657653808594,
+      13.773204803466797
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.067",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -28.741382598876953,
+      42.356929779052734,
+      -25.343929290771484
+    ],
+    "max": [
+      34.72737121582031,
+      100.10543823242188,
+      6.343928337097168
+    ],
+    "hidden": false
+  },
+  {
+    "name": "A partial cloud veil",
+    "materials": [
+      "Ordinary mist / open air only"
+    ],
+    "min": [
+      -1162.0,
+      797.0,
+      45.0
+    ],
+    "max": [
+      -1098.0,
+      821.0,
+      89.0
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.001",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1216.9766845703125,
+      1061.4459228515625,
+      13.429513931274414
+    ],
+    "max": [
+      -1157.0372314453125,
+      1123.1417236328125,
+      45.970489501953125
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.099",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -967.0816650390625,
+      626.388427734375,
+      -29.380277633666992
+    ],
+    "max": [
+      -900.895263671875,
+      703.017578125,
+      16.580278396606445
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.033",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -563.1517944335938,
+      486.0355224609375,
+      -0.6059741973876953
+    ],
+    "max": [
+      -495.22271728515625,
+      549.5526123046875,
+      34.60597229003906
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.058",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -608.9522705078125,
+      214.3897705078125,
+      -33.01055145263672
+    ],
+    "max": [
+      -560.6173095703125,
+      272.9715270996094,
+      5.010553359985352
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.002",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      -878.4654541015625,
+      -2111.79638671875,
+      -886.552001953125
+    ],
+    "max": [
+      -38.465484619140625,
+      -1491.7962646484375,
+      -626.552001953125
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.009",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      -2359.404296875,
+      665.3772583007812,
+      -843.1766967773438
+    ],
+    "max": [
+      -1519.4044189453125,
+      1285.377197265625,
+      -583.1766967773438
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.081",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1013.586181640625,
+      774.240966796875,
+      -0.023181915283203125
+    ],
+    "max": [
+      -941.8363037109375,
+      823.3477783203125,
+      33.223182678222656
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.024",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -702.3452758789062,
+      637.6699829101562,
+      36.75518035888672
+    ],
+    "max": [
+      -636.2243041992188,
+      705.0231323242188,
+      67.24481964111328
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.040",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1225.3037109375,
+      465.6985778808594,
+      -41.14706802368164
+    ],
+    "max": [
+      -1169.461669921875,
+      531.0354614257812,
+      -0.8529319763183594
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.047",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -320.67364501953125,
+      381.7591247558594,
+      -23.30988883972168
+    ],
+    "max": [
+      -249.379150390625,
+      441.7658386230469,
+      19.30988883972168
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.052",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -438.91375732421875,
+      196.85604858398438,
+      -23.007083892822266
+    ],
+    "max": [
+      -391.0108642578125,
+      245.50408935546875,
+      19.007083892822266
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Ordinary mist beside cascade",
+    "materials": [
+      "V03 ordinary water mist"
+    ],
+    "min": [
+      -1077.0,
+      720.0,
+      24.0
+    ],
+    "max": [
+      -993.0,
+      792.0,
+      60.0
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.017",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -788.1058959960938,
+      840.688720703125,
+      30.0191707611084
+    ],
+    "max": [
+      -729.3007202148438,
+      914.9554443359375,
+      73.98082733154297
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.008",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1331.05712890625,
+      775.3971557617188,
+      12.572166442871094
+    ],
+    "max": [
+      -1274.548583984375,
+      848.8646850585938,
+      46.82783508300781
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.015",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -646.701904296875,
+      757.8601684570312,
+      29.898775100708008
+    ],
+    "max": [
+      -595.5150146484375,
+      832.3554077148438,
+      74.10122680664062
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.016",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      339.5714111328125,
+      1271.3072509765625,
+      -896.9511108398438
+    ],
+    "max": [
+      1179.5714111328125,
+      1891.3072509765625,
+      -636.9511108398438
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.088",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1000.0643310546875,
+      682.8598022460938,
+      -3.9402503967285156
+    ],
+    "max": [
+      -952.1612548828125,
+      741.7105102539062,
+      37.14025115966797
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.095",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1075.2193603515625,
+      680.2723999023438,
+      -27.917192459106445
+    ],
+    "max": [
+      -1023.0062255859375,
+      728.1724243164062,
+      15.117193222045898
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Receiving pool fine spray",
+    "materials": [
+      "V04 cloud-material soft fringe"
+    ],
+    "min": [
+      -1076.0,
+      742.9375610351562,
+      22.5
+    ],
+    "max": [
+      -1064.0,
+      746.5375366210938,
+      24.700000762939453
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.029",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -759.4608764648438,
+      661.365478515625,
+      1.2961645126342773
+    ],
+    "max": [
+      -712.5010375976562,
+      737.7059326171875,
+      32.703834533691406
+    ],
+    "hidden": false
+  },
+  {
+    "name": "West upper cloud connection",
+    "materials": [
+      "ENCLOSING CLOUD local side tongues"
+    ],
+    "min": [
+      -1160.0,
+      330.0,
+      31.0
+    ],
+    "max": [
+      -850.0,
+      530.0,
+      261.0
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.097",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1038.2491455078125,
+      619.83642578125,
+      -23.012460708618164
+    ],
+    "max": [
+      -977.361083984375,
+      691.2874755859375,
+      10.212461471557617
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.079",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1028.6092529296875,
+      757.8394775390625,
+      20.076616287231445
+    ],
+    "max": [
+      -965.717041015625,
+      820.3355712890625,
+      57.123382568359375
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.014",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      -2333.46240234375,
+      1969.66552734375,
+      -839.9937744140625
+    ],
+    "max": [
+      -1493.46240234375,
+      2589.66552734375,
+      -579.9937744140625
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Water district upper cloud connection",
+    "materials": [
+      "ENCLOSING CLOUD local side tongues"
+    ],
+    "min": [
+      -640.0,
+      145.0,
+      50.0
+    ],
+    "max": [
+      -380.0,
+      385.0,
+      270.0
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.054",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -283.6578674316406,
+      259.59930419921875,
+      -17.35293197631836
+    ],
+    "max": [
+      -207.02102661132812,
+      329.64404296875,
+      13.352932929992676
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.077",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1089.595458984375,
+      833.614990234375,
+      21.5378360748291
+    ],
+    "max": [
+      -1031.0439453125,
+      894.20703125,
+      55.66216278076172
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.020",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -973.4923706054688,
+      733.3966674804688,
+      33.16771697998047
+    ],
+    "max": [
+      -919.1130981445312,
+      783.1818237304688,
+      70.83228302001953
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.070",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -426.35302734375,
+      -7.724565505981445,
+      -28.037185668945312
+    ],
+    "max": [
+      -348.7977294921875,
+      45.79609680175781,
+      9.037185668945312
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.102",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -900.4579467773438,
+      647.3494873046875,
+      20.358612060546875
+    ],
+    "max": [
+      -853.3096313476562,
+      707.9761962890625,
+      63.641387939453125
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.004",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1567.5179443359375,
+      1031.307373046875,
+      14.513883590698242
+    ],
+    "max": [
+      -1515.9039306640625,
+      1077.634033203125,
+      44.88611602783203
+    ],
+    "hidden": false
+  },
+  {
+    "name": "One cloud enclosing the city",
+    "materials": [
+      "ENCLOSING CLOUD with open courtyards"
+    ],
+    "min": [
+      -1647.980224609375,
+      -212.23989868164062,
+      -425.5766296386719
+    ],
+    "max": [
+      323.9147644042969,
+      1219.656005859375,
+      304.8510437011719
+    ],
+    "hidden": false
+  },
+  {
+    "name": "North upper cloud connection",
+    "materials": [
+      "ENCLOSING CLOUD local side tongues"
+    ],
+    "min": [
+      -805.0,
+      660.0,
+      55.0
+    ],
+    "max": [
+      -495.0,
+      930.0,
+      265.0
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.096",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1074.0181884765625,
+      650.6240234375,
+      -29.337512969970703
+    ],
+    "max": [
+      -1001.1883544921875,
+      699.6844482421875,
+      16.537513732910156
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.011",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1172.3350830078125,
+      881.8064575195312,
+      16.112712860107422
+    ],
+    "max": [
+      -1123.3514404296875,
+      937.0032348632812,
+      55.287288665771484
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.036",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -946.5291137695312,
+      557.770263671875,
+      -38.80162048339844
+    ],
+    "max": [
+      -897.8898315429688,
+      615.7547607421875,
+      -3.1983814239501953
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.061",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -671.4846801757812,
+      67.83778381347656,
+      -34.857582092285156
+    ],
+    "max": [
+      -620.5297241210938,
+      117.5545654296875,
+      6.857583999633789
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.005",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      814.19970703125,
+      -1091.359375,
+      -893.864013671875
+    ],
+    "max": [
+      1654.19970703125,
+      -471.35943603515625,
+      -633.864013671875
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.012",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      -2289.32861328125,
+      -567.9229736328125,
+      -888.7872924804688
+    ],
+    "max": [
+      -1449.3284912109375,
+      52.0770263671875,
+      -628.7872924804688
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.084",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1127.6610107421875,
+      717.4679565429688,
+      1.0516328811645508
+    ],
+    "max": [
+      -1069.2037353515625,
+      790.8834838867188,
+      32.14836883544922
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.091",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -967.0138549804688,
+      717.8817749023438,
+      -24.967622756958008
+    ],
+    "max": [
+      -903.9719848632812,
+      774.7492065429688,
+      12.167623519897461
+    ],
+    "hidden": false
+  },
+  {
+    "name": "C water lane side veil",
+    "materials": [
+      "Ordinary mist / open air only"
+    ],
+    "min": [
+      -255.0,
+      -2.0,
+      0.0
+    ],
+    "max": [
+      -215.0,
+      34.0,
+      20.0
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.027",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -571.9793701171875,
+      659.96240234375,
+      -6.569911956787109
+    ],
+    "max": [
+      -494.6226806640625,
+      708.604736328125,
+      40.56991195678711
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.043",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1032.2501220703125,
+      355.1480712890625,
+      -36.67380905151367
+    ],
+    "max": [
+      -975.335693359375,
+      420.8485107421875,
+      -5.326189994812012
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.050",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -513.9544067382812,
+      297.0107116699219,
+      -18.853843688964844
+    ],
+    "max": [
+      -464.4198913574219,
+      349.7233581542969,
+      14.853843688964844
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.073",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -15.298111915588379,
+      -56.202606201171875,
+      -24.846561431884766
+    ],
+    "max": [
+      31.62723159790039,
+      -3.7340030670166016,
+      5.846560478210449
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.018",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -880.6527099609375,
+      839.4609375,
+      28.277454376220703
+    ],
+    "max": [
+      -821.873779296875,
+      895.223876953125,
+      75.72254943847656
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.066",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      50.13141632080078,
+      10.164772033691406,
+      -28.96572494506836
+    ],
+    "max": [
+      103.84449005126953,
+      69.41129302978516,
+      9.96572494506836
+    ],
+    "hidden": false
+  },
+  {
+    "name": "West courtyard cloud tongue",
+    "materials": [
+      "ENCLOSING CLOUD local side tongues"
+    ],
+    "min": [
+      -1005.0,
+      390.0,
+      3.0
+    ],
+    "max": [
+      -715.0,
+      530.0,
+      133.0
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.098",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -997.2300415039062,
+      625.5372314453125,
+      -22.127147674560547
+    ],
+    "max": [
+      -941.1279907226562,
+      677.79443359375,
+      9.327146530151367
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.031",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -836.0166625976562,
+      511.5284118652344,
+      0.622314453125
+    ],
+    "max": [
+      -789.0014038085938,
+      566.700927734375,
+      33.377685546875
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.022",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -883.856201171875,
+      628.001220703125,
+      31.622499465942383
+    ],
+    "max": [
+      -809.9559326171875,
+      674.4713134765625,
+      72.37750244140625
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.013",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1300.3958740234375,
+      788.9586791992188,
+      19.830196380615234
+    ],
+    "max": [
+      -1234.6119384765625,
+      856.2177124023438,
+      51.56980514526367
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.032",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -754.6741943359375,
+      469.9697570800781,
+      -6.848613739013672
+    ],
+    "max": [
+      -707.385009765625,
+      528.322998046875,
+      40.84861373901367
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.057",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -535.7645263671875,
+      223.3135528564453,
+      -31.363895416259766
+    ],
+    "max": [
+      -465.5141906738281,
+      282.3394775390625,
+      3.3638954162597656
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.001",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      -2410.82666015625,
+      1350.6844482421875,
+      -806.4342041015625
+    ],
+    "max": [
+      -1570.8265380859375,
+      1970.6844482421875,
+      -546.4342041015625
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.008",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      1039.9383544921875,
+      872.170166015625,
+      -860.5695190429688
+    ],
+    "max": [
+      1879.9383544921875,
+      1492.170166015625,
+      -600.5695190429688
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.080",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -986.1151123046875,
+      741.1775512695312,
+      0.4541606903076172
+    ],
+    "max": [
+      -923.5650634765625,
+      802.6536254882812,
+      32.74584197998047
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.023",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -784.044677734375,
+      606.8291015625,
+      33.16705322265625
+    ],
+    "max": [
+      -723.8792724609375,
+      678.5006103515625,
+      70.83294677734375
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.039",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1207.367919921875,
+      524.456787109375,
+      -39.885276794433594
+    ],
+    "max": [
+      -1136.861083984375,
+      595.400390625,
+      -2.1147232055664062
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.046",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -275.0379333496094,
+      326.56170654296875,
+      -25.25080680847168
+    ],
+    "max": [
+      -217.656494140625,
+      390.4622802734375,
+      21.25080680847168
+    ],
+    "hidden": false
+  },
+  {
+    "name": "One connected giant cloud / stable support",
+    "materials": [
+      "MOTHER CLOUD connected supporting cloud"
+    ],
+    "min": [
+      -1649.7518310546875,
+      -187.50100708007812,
+      -392.3955993652344
+    ],
+    "max": [
+      300.65380859375,
+      1204.323974609375,
+      58.0
+    ],
+    "hidden": false
+  },
+  {
+    "name": "North garden cloud tongue",
+    "materials": [
+      "ENCLOSING CLOUD local side tongues"
+    ],
+    "min": [
+      -755.0,
+      575.0,
+      19.0
+    ],
+    "max": [
+      -555.0,
+      775.0,
+      169.0
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.093",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1046.584228515625,
+      729.0867309570312,
+      -28.448287963867188
+    ],
+    "max": [
+      -972.6475219726562,
+      778.4972534179688,
+      15.64828872680664
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.075",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1035.2796630859375,
+      789.3428955078125,
+      22.750362396240234
+    ],
+    "max": [
+      -960.2733764648438,
+      855.764892578125,
+      54.44963455200195
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.010",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      -314.5140686035156,
+      -1535.7901611328125,
+      -856.5098266601562
+    ],
+    "max": [
+      525.4859619140625,
+      -915.7901611328125,
+      -596.5098266601562
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.007",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1466.043212890625,
+      789.4804077148438,
+      13.35694694519043
+    ],
+    "max": [
+      -1405.116943359375,
+      857.8462524414062,
+      46.043052673339844
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.014",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1256.021240234375,
+      774.6463012695312,
+      18.232505798339844
+    ],
+    "max": [
+      -1209.14697265625,
+      822.7247924804688,
+      53.16749572753906
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.015",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      -1269.95556640625,
+      -1265.64697265625,
+      -870.750244140625
+    ],
+    "max": [
+      -429.95556640625,
+      -645.6470336914062,
+      -610.750244140625
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.087",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1047.308349609375,
+      675.1837158203125,
+      1.2499265670776367
+    ],
+    "max": [
+      -979.6970825195312,
+      721.7479248046875,
+      31.9500732421875
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.094",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1074.9158935546875,
+      706.0426025390625,
+      -22.162961959838867
+    ],
+    "max": [
+      -1002.4432983398438,
+      761.0322265625,
+      9.36296272277832
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.105",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -983.6828002929688,
+      553.1732788085938,
+      25.435123443603516
+    ],
+    "max": [
+      -910.1896362304688,
+      627.9055786132812,
+      58.564876556396484
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.028",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -657.5531005859375,
+      683.108642578125,
+      -0.3898963928222656
+    ],
+    "max": [
+      -604.0452880859375,
+      735.397705078125,
+      34.389896392822266
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Water district side cloud tongue",
+    "materials": [
+      "ENCLOSING CLOUD local side tongues"
+    ],
+    "min": [
+      -622.0,
+      280.0,
+      -3.0
+    ],
+    "max": [
+      -438.0,
+      490.0,
+      153.0
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.053",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -308.2248229980469,
+      209.28915405273438,
+      -21.772722244262695
+    ],
+    "max": [
+      -256.4212951660156,
+      271.4633483886719,
+      17.772722244262695
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.076",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1057.7950439453125,
+      817.531982421875,
+      19.077672958374023
+    ],
+    "max": [
+      -984.8458251953125,
+      883.362060546875,
+      58.12232208251953
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.044",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -949.90185546875,
+      377.16644287109375,
+      -40.90582275390625
+    ],
+    "max": [
+      -887.2298583984375,
+      453.5860595703125,
+      -1.09417724609375
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.019",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -959.590087890625,
+      787.3567504882812,
+      36.24286651611328
+    ],
+    "max": [
+      -882.80517578125,
+      858.2078247070312,
+      67.75713348388672
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.051",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -502.60162353515625,
+      230.79441833496094,
+      -21.359350204467773
+    ],
+    "max": [
+      -434.41021728515625,
+      293.85345458984375,
+      17.359350204467773
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.069",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -375.06298828125,
+      23.378734588623047,
+      -33.08973693847656
+    ],
+    "max": [
+      -328.35882568359375,
+      87.39404296875,
+      14.089738845825195
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.101",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -893.3582153320312,
+      626.0810546875,
+      20.757360458374023
+    ],
+    "max": [
+      -818.7030639648438,
+      680.5584716796875,
+      63.242637634277344
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.003",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1469.130859375,
+      1083.2850341796875,
+      6.465061187744141
+    ],
+    "max": [
+      -1414.478515625,
+      1145.5635986328125,
+      52.934940338134766
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.010",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1146.3218994140625,
+      852.1515502929688,
+      17.655900955200195
+    ],
+    "max": [
+      -1098.9136962890625,
+      904.7861938476562,
+      53.744102478027344
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.035",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -904.8599243164062,
+      497.4961853027344,
+      -41.916175842285156
+    ],
+    "max": [
+      -835.2933959960938,
+      569.5277709960938,
+      -0.08382415771484375
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.060",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -703.97216796875,
+      115.68235778808594,
+      -34.925621032714844
+    ],
+    "max": [
+      -638.396484375,
+      181.3316192626953,
+      6.925621032714844
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.004",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      -2863.38671875,
+      -190.10369873046875,
+      -802.7383422851562
+    ],
+    "max": [
+      -2023.38671875,
+      429.89630126953125,
+      -542.7383422851562
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Lower detached environment cloud.011",
+    "materials": [
+      "Lower ambient cloud sea"
+    ],
+    "min": [
+      -376.99609375,
+      2250.1044921875,
+      -891.977783203125
+    ],
+    "max": [
+      463.00390625,
+      2870.1044921875,
+      -631.977783203125
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.083",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1085.2664794921875,
+      780.5765380859375,
+      -0.9501132965087891
+    ],
+    "max": [
+      -1027.6673583984375,
+      832.862548828125,
+      34.150115966796875
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.026",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -506.38665771484375,
+      607.0706787109375,
+      -2.277151107788086
+    ],
+    "max": [
+      -442.49615478515625,
+      658.038330078125,
+      36.27715301513672
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.042",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -1133.4730224609375,
+      361.58782958984375,
+      -39.028038024902344
+    ],
+    "max": [
+      -1061.2078857421875,
+      430.77227783203125,
+      -2.9719600677490234
+    ],
+    "hidden": false
+  },
+  {
+    "name": "Shared cloud ridge soft edge.049",
+    "materials": [
+      "MOTHER CLOUD feathered folded shoulders"
+    ],
+    "min": [
+      -441.40594482421875,
+      388.76007080078125,
+      -25.52191162109375
+    ],
+    "max": [
+      -395.02618408203125,
+      466.16632080078125,
+      21.52191162109375
+    ],
+    "hidden": false
+  }
+]

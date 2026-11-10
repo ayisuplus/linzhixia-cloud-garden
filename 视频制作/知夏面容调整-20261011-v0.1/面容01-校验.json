@@ -1,0 +1,54 @@
+{
+  "status": "author_adopted",
+  "tool": "built-in imagegen",
+  "images": [
+    {
+      "file": "参考/作者参考01-眨眼.png",
+      "source": "C:/Users/36322/AppData/Local/Temp/codex-clipboard-57cbf529-0f33-44d0-aaf1-4dd1bd543c07.png",
+      "dimensions": [
+        867,
+        737
+      ],
+      "sha256": "f3ae17eae88ded4dd52aa31bd6215277a812b797e3efd7ed26026e3c36f6afb7",
+      "node_id": "f153285d-733e-41e1-b758-65b718f7a6f6",
+      "copy_verified": true
+    },
+    {
+      "file": "参考/作者参考02-正面.png",
+      "source": "C:/Users/36322/AppData/Local/Temp/codex-clipboard-75a5bc77-3976-40bb-829b-6d362ffef0a2.png",
+      "dimensions": [
+        737,
+        658
+      ],
+      "sha256": "cf131c338e3fa6d7f55f55e5082a3d84e6268ac378c5bb6b34e17ab4eab98d8d",
+      "node_id": "5624de15-b2ce-417a-8820-92b5e1558d11",
+      "copy_verified": true
+    },
+    {
+      "file": "参考/作者参考03-微笑.png",
+      "source": "C:/Users/36322/AppData/Local/Temp/codex-clipboard-e3b7c30d-514b-4386-8883-c42fe725c5b4.png",
+      "dimensions": [
+        653,
+        752
+      ],
+      "sha256": "f782c112e9efeec7e4cadb41cdf0047b1468d8514218bd8715efe9fdd690e99d",
+      "node_id": "96101de9-afbc-4072-a9f5-65a672835ba2",
+      "copy_verified": true
+    },
+    {
+      "file": "知夏-面容01-柔和短圆脸头肩.png",
+      "source": "C:/Users/36322/.codex/generated_images/01a1298f-9773-7933-997e-fe2b6ee36209/exec-43eb025f-9df8-4ded-910b-835490f62ee0.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "70f8a4247efaa42919d7f0e8c8b56d126692c82703e0624e2744b6e8f6781d91",
+      "node_id": "d69217b5-4ef2-4e77-a932-2bcb2a1f5d0e",
+      "copy_verified": true
+    }
+  ],
+  "text_node_id": "766fffcb-0bb7-46f0-8367-c3f1cb0c2372",
+  "author_confirmation": "可以，这个很可爱",
+  "adopted_on": "2026-10-11",
+  "scope": "new_face_reference"
+}

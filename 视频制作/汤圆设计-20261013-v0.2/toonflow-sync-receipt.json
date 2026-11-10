@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-13",
+  "status": "candidate_pending_author_review",
+  "generator": "Codex built-in image_gen",
+  "editSource": "../汤圆设计-20261013-v0.1/汤圆01-糯玉团子候选.png",
+  "file": "汤圆02-柔光温润候选.png",
+  "width": 1145,
+  "height": 1374,
+  "sha256": "9EE8A4FE80AF769348E917919BD23DACCE3EF4233C8B52BA5BF41BAB0B29207B",
+  "canvasId": "人物设计.json",
+  "nodeCountAfter": 45,
+  "imageNodeId": "5fec720c-3fd3-44c9-aad4-ae137ac4a67c",
+  "textNodeId": "eec3adf2-962b-4345-a682-8cc57d5cf1d9",
+  "imageOutput": "汤圆设计-20261013-v0.2/汤圆02-柔光温润候选.png",
+  "fullTextReadbackVerified": true,
+  "scope": "人物画布；未同步全局素材库"
+}

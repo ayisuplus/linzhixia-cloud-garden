@@ -1,0 +1,3028 @@
+{
+  "toonflowCanvas": true,
+  "nodes": [
+    {
+      "id": "926e475b-7e2e-44c5-8612-8dccff1bbe7c",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 80,
+        "y": 350
+      },
+      "data": {
+        "label": "历史｜工作服08｜已由10延展",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏工作服试稿-v0.1/知夏-修复工作服-候选08-浅竹绿现代工装.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "4f3e4b3f-c2fa-459d-9836-23772f321da2",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 460,
+        "y": 350
+      },
+      "data": {
+        "label": "工作服08｜原始生成提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/4f3e4b3f-c2fa-459d-9836-23772f321da2/content.md"
+      }
+    },
+    {
+      "id": "c76b1105-95a4-4a5a-a598-1b6a7a4e9f3e",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 960,
+        "y": 350
+      },
+      "data": {
+        "label": "历史｜便服04｜旧采用稿",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏便服试稿-v0.1/知夏-日常半束发-候选04-质感精修.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "41984b80-6630-472a-b4ad-c484855833bf",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1340,
+        "y": 350
+      },
+      "data": {
+        "label": "日常便服04｜原始生成提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/41984b80-6630-472a-b4ad-c484855833bf/content.md"
+      }
+    },
+    {
+      "id": "1a0a884b-5727-4655-b6ce-041dbbebf5dc",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 80,
+        "y": 1350
+      },
+      "data": {
+        "label": "便服｜日常新中式",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/1a0a884b-5727-4655-b6ce-041dbbebf5dc/content.md",
+        "promptModel": [
+          [
+            {
+              "type": "Write",
+              "text": ""
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bc5157c3-e259-4ad4-ad4d-824b2473c731",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 560,
+        "y": 1350
+      },
+      "data": {
+        "label": "工作服｜修复工装+师傅旧物",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/bc5157c3-e259-4ad4-ad4d-824b2473c731/content.md",
+        "promptModel": [
+          [
+            {
+              "type": "Write",
+              "text": ""
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "84a802cc-c2fb-4387-8010-72f28340a5f3",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1040,
+        "y": 1350
+      },
+      "data": {
+        "label": "校服｜JK+中国结+花窗",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/84a802cc-c2fb-4387-8010-72f28340a5f3/content.md",
+        "promptModel": [
+          [
+            {
+              "type": "Write",
+              "text": ""
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "45237c3e-26cd-45b8-b10d-e1d128a1b102",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1520,
+        "y": 1350
+      },
+      "data": {
+        "label": "睡衣｜锦鲤荷叶云朵",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/45237c3e-26cd-45b8-b10d-e1d128a1b102/content.md"
+      }
+    },
+    {
+      "id": "4f2f591d-b006-4511-ad29-560c383b2567",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 80,
+        "y": 1800
+      },
+      "data": {
+        "label": "便服05-日常新中式｜改良试稿·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏四套服装试稿-20261011-v0.1/知夏-便服05-日常新中式.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "ecc252fc-83fe-4842-9106-13dda4ee0af3",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 560,
+        "y": 1800
+      },
+      "data": {
+        "label": "工作服09-旧工具袋｜改良试稿·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏四套服装试稿-20261011-v0.1/知夏-工作服09-旧工具袋.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "a1767940-0d13-4eb1-8965-5e4c4e05aadc",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1040,
+        "y": 1800
+      },
+      "data": {
+        "label": "校服01-中国结花窗｜改良试稿·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏四套服装试稿-20261011-v0.1/知夏-校服01-中国结花窗.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "f0208c77-22de-4b77-93f6-15c96a638c35",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1520,
+        "y": 1800
+      },
+      "data": {
+        "label": "睡衣01-锦鲤荷叶云朵｜改良试稿·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏四套服装试稿-20261011-v0.1/知夏-睡衣01-锦鲤荷叶云朵.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "cc949a78-3e68-44f2-b1ba-41cff77ca634",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2000,
+        "y": 1800
+      },
+      "data": {
+        "label": "历史｜睡衣02｜交领套装试稿",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏四套服装试稿-20261011-v0.1/知夏-睡衣02-交领右衽.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "885fbe0a-615f-4708-9661-69b90dabc4b4",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 2000,
+        "y": 1350
+      },
+      "data": {
+        "label": "睡衣02｜实际生成提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/885fbe0a-615f-4708-9661-69b90dabc4b4/content.md"
+      }
+    },
+    {
+      "id": "a1209663-a754-4a31-8b75-c01464beb7bc",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2480,
+        "y": 1800
+      },
+      "data": {
+        "label": "睡衣03｜短款吊带睡裙·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏四套服装试稿-20261011-v0.1/知夏-睡衣03-短款吊带睡裙.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "7404df1a-1bc8-4b85-b9a9-b0fe387af0b8",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 2480,
+        "y": 1350
+      },
+      "data": {
+        "label": "睡衣03｜实际生成提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/7404df1a-1bc8-4b85-b9a9-b0fe387af0b8/content.md"
+      }
+    },
+    {
+      "id": "c0d38ec8-fddc-4e21-ba9e-5dd003297448",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 2960,
+        "y": 1800
+      },
+      "data": {
+        "label": "知夏｜校服02｜清青蓝朱红｜待采用",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏四套服装试稿-20261011-v0.1/知夏-校服02-清青蓝朱红.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "d50ed406-ba78-4d88-bdc8-4028de5ed386",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 2960,
+        "y": 1350
+      },
+      "data": {
+        "label": "校服02｜实际生成提示词与改款说明",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/d50ed406-ba78-4d88-bdc8-4028de5ed386/content.md"
+      }
+    },
+    {
+      "id": "d43bdb40-57d9-4f2f-85b1-2e977b33f103",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 80,
+        "y": 5100
+      },
+      "data": {
+        "label": "知夏｜校服03｜浅天蓝花卉｜作者认可",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏四套服装试稿-20261011-v0.1/知夏-校服03-浅天蓝花卉短衫.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "573f85eb-b3f1-410b-8095-8d05203c40c4",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 80,
+        "y": 4650
+      },
+      "data": {
+        "label": "校服03｜浅天蓝花卉｜作者认可｜实际提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/573f85eb-b3f1-410b-8095-8d05203c40c4/content.md"
+      }
+    },
+    {
+      "id": "3bfccabb-4acb-4493-95e8-8b75b6843f9d",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 560,
+        "y": 5100
+      },
+      "data": {
+        "label": "知夏｜便服06｜珊瑚红水青｜初稿认可",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏四套服装试稿-20261011-v0.1/知夏-便服06-珊瑚红水青花卉.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "e87920ed-5726-4c83-a4f7-952fcb2247d3",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 560,
+        "y": 4650
+      },
+      "data": {
+        "label": "便服06｜珊瑚红水青｜初稿认可｜实际提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/e87920ed-5726-4c83-a4f7-952fcb2247d3/content.md"
+      }
+    },
+    {
+      "id": "d8f916c8-4587-457c-968a-b5953c2e9227",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1040,
+        "y": 5100
+      },
+      "data": {
+        "label": "知夏｜工作服10｜竹绿杏黄｜初稿认可",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏四套服装试稿-20261011-v0.1/知夏-工作服10-竹绿杏黄竹纹.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "d83682f2-7ee7-4772-b303-fcf75b3aa7c0",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1040,
+        "y": 4650
+      },
+      "data": {
+        "label": "工作服10｜竹绿杏黄｜初稿认可｜实际提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/d83682f2-7ee7-4772-b303-fcf75b3aa7c0/content.md"
+      }
+    },
+    {
+      "id": "bd775695-4f57-4f4b-9b93-24e9059ed187",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1520,
+        "y": 5100
+      },
+      "data": {
+        "label": "知夏｜睡衣04｜桃粉荷绿｜初稿认可",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏四套服装试稿-20261011-v0.1/知夏-睡衣04-桃粉荷绿锦鲤.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "5eac3291-3fc6-4345-8c7d-2fdff9b89a6f",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1520,
+        "y": 4650
+      },
+      "data": {
+        "label": "睡衣04｜桃粉荷绿｜初稿认可｜实际提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/5eac3291-3fc6-4345-8c7d-2fdff9b89a6f/content.md"
+      }
+    },
+    {
+      "id": "7a2bbe17-b0c4-4165-abcf-6c51a4fd8468",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 80,
+        "y": 6250
+      },
+      "data": {
+        "label": "半园｜卧室02｜已认可场景参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "半园卧室试稿-v0.1/知夏卧室-清晨-候选02.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "3874c207-f63c-4777-a538-8b43371f8173",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 80,
+        "y": 5800
+      },
+      "data": {
+        "label": "卧室02｜来源与实际提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/3874c207-f63c-4777-a538-8b43371f8173/content.md",
+        "promptModel": [
+          [
+            {
+              "type": "Write",
+              "text": ""
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "44fe7f6a-584a-45cc-8693-2e18c01988ab",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 900,
+        "y": 6250
+      },
+      "data": {
+        "label": "半园｜修复工坊03｜已认可场景参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "半园修复工坊试稿-v0.1/半园修复工坊-候选03.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "30f12a19-17f5-4ccc-b14b-3146db81ba67",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 900,
+        "y": 5800
+      },
+      "data": {
+        "label": "修复工坊03｜来源与实际提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/30f12a19-17f5-4ccc-b14b-3146db81ba67/content.md"
+      }
+    },
+    {
+      "id": "5a46965d-e87b-462a-8ca0-c1a58f1f2445",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 80,
+        "y": 4100
+      },
+      "data": {
+        "label": "当前可用素材与续聊交接｜2026-10-11",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/5a46965d-e87b-462a-8ca0-c1a58f1f2445/content.md"
+      }
+    },
+    {
+      "id": "a6d1e999-dea0-48c7-afba-39df8889f799",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服妆造01｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服-妆造01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "baa7adb2-5487-46b6-918c-1f590745aa32",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 1800,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服穿搭01｜鞋袜待改造",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服-穿搭01.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "18c7a8e5-199b-4614-b50b-2e9d5883d1be",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 0,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服妆造01｜提示词与补全说明",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/18c7a8e5-199b-4614-b50b-2e9d5883d1be/content.md"
+      }
+    },
+    {
+      "id": "0e1bf2b7-30cb-4564-b097-b9769e1a8bbe",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 1800,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服穿搭01｜提示词与补全说明",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/0e1bf2b7-30cb-4564-b097-b9769e1a8bbe/content.md"
+      }
+    },
+    {
+      "id": "dba6b0f7-d692-4250-bcd8-4fbd7b8d2181",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 3400,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服04｜圆头布履绢感短袜｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服04-圆头布履绢感短袜.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "055f11f4-2007-4007-8155-c3aec839ee96",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 3400,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服04｜圆头布履试穿｜实际提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/055f11f4-2007-4007-8155-c3aec839ee96/content.md"
+      }
+    },
+    {
+      "id": "8c3048f5-4885-42be-b202-af40db6ba097",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 4200,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服05｜白栀子与淡青云纹｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服05-白栀子淡青云纹.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "9b7f468e-e2f7-4c7e-ac83-3c0e94f9b2db",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 4200,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服05｜白栀子与淡青云纹｜提示词与记录",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/9b7f468e-e2f7-4c7e-ac83-3c0e94f9b2db/content.md"
+      }
+    },
+    {
+      "id": "238877a4-1915-45ab-b112-18e679d55a3c",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 5000,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服06｜低双鬟小髻｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服06-低双鬟小髻.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "28a9ea26-89a5-4d00-8f95-ae2db6fc78a7",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 5000,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服06｜低双鬟小髻｜提示词与记录",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/28a9ea26-89a5-4d00-8f95-ae2db6fc78a7/content.md"
+      }
+    },
+    {
+      "id": "136a86da-4880-47e6-bcae-977692d9add0",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 5800,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服07｜暖白疏花｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服07-暖白疏花.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "bf62839c-30ef-4c19-83aa-b20921248ece",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 5800,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服07｜暖白疏花｜提示词与记录",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/bf62839c-30ef-4c19-83aa-b20921248ece/content.md"
+      }
+    },
+    {
+      "id": "efcd7866-0271-4e00-9a6d-eb474921cdb3",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 6600,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服08｜不对称长短袜与加大云纹｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服08-不对称长短袜.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "bcaf3e63-bf00-4633-92c8-074d49309011",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 6600,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服08｜不对称长短袜｜提示词与记录",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/bcaf3e63-bf00-4633-92c8-074d49309011/content.md"
+      }
+    },
+    {
+      "id": "1142538c-e3ef-4c3c-affb-288a1aa493ab",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 7400,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服09｜隐形船袜与丝绢长袜｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服09-隐形船袜丝绢长袜.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "37c2d287-0149-41dd-b194-c8e2330e4a6a",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 7400,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服09｜隐形船袜丝绢长袜｜提示词与记录",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/37c2d287-0149-41dd-b194-c8e2330e4a6a/content.md"
+      }
+    },
+    {
+      "id": "66bc9faa-4a99-4357-ae7a-c3e1d4098bbc",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 8200,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服10｜轻薄丝纱长袜｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服10-轻薄丝纱长袜.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "0e152b64-0e18-4ba3-bb4e-661ce518ad39",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 8200,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服10｜轻薄丝纱长袜｜提示词与记录",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/0e152b64-0e18-4ba3-bb4e-661ce518ad39/content.md"
+      }
+    },
+    {
+      "id": "23b737ec-aa8d-451e-aa7c-ff0d1f01e69d",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 9000,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜纱罗长袜01｜单品与面料｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-纱罗长袜01-单品与面料.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "29a47e8e-a4c2-4711-bb48-122d60f05fb0",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 10800,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服11｜纱罗裁片长袜｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服11-纱罗裁片长袜.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "c334987d-9bc8-43e9-bfa0-6a79c9cca6db",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 9000,
+        "y": 6950
+      },
+      "data": {
+        "label": "纱罗长袜与校服11｜提示词及记录",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/c334987d-9bc8-43e9-bfa0-6a79c9cca6db/content.md"
+      }
+    },
+    {
+      "id": "26f1a57d-a4f3-4050-8bdd-f9bb5ddec86f",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 11600,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服12｜清晰修复与膝下袜｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服12-清晰修复膝下袜.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "d9ee263d-1a0b-4d11-821d-d6b716a729e3",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 11600,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服12｜清晰修复膝下袜｜提示词与记录",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/d9ee263d-1a0b-4d11-821d-d6b716a729e3/content.md"
+      }
+    },
+    {
+      "id": "2dda9ce0-0d3a-4c76-89d3-933ef39393f2",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 12400,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服13｜复制云纹方案｜作者否定",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服13-袜口鞋面云纹.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "75101b11-76f0-4e8b-a1b1-face069e4149",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 12400,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服13｜否定原因与原提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/75101b11-76f0-4e8b-a1b1-face069e4149/content.md"
+      }
+    },
+    {
+      "id": "6200695a-4b5d-467f-b492-5528f60c24ab",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 13200,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜校服14｜如意弧边与流线绣｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服拆解-20261011-v0.1/知夏-校服14-如意弧边流线绣鞋.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "e3b53b14-e776-45e9-9687-6f0c83a8ac85",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 13200,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服14｜设计与实际提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/e3b53b14-e776-45e9-9687-6f0c83a8ac85/content.md"
+      }
+    },
+    {
+      "id": "84b2ea8e-c15d-4f68-bd8c-83c8aeb8aa14",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 14000,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜未来日常饰品01｜候选",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏饰品设计-20261011-v0.1/知夏-未来日常饰品01-分解图.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "ecc8492c-e8f5-4bb8-8e8a-8945bf426e42",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 14000,
+        "y": 6950
+      },
+      "data": {
+        "label": "饰品01｜方案与实际提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/ecc8492c-e8f5-4bb8-8e8a-8945bf426e42/content.md"
+      }
+    },
+    {
+      "id": "a241c351-c4db-4914-bc79-f5f5f9bb1589",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 14800,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜未来饰品02｜智能水杯与头顶发饰",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏饰品设计-20261011-v0.1/知夏-未来日常饰品02-智能水杯与头顶发饰.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "0e666157-c699-47aa-80d3-fb1cbc351f08",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 14800,
+        "y": 6950
+      },
+      "data": {
+        "label": "饰品02｜修改与实际提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/0e666157-c699-47aa-80d3-fb1cbc351f08/content.md"
+      }
+    },
+    {
+      "id": "95150b30-dbfa-4f46-aeb0-0f45577b9c30",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 15600,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜发夹03｜浅弧贴发｜待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏饰品设计-20261011-v0.1/知夏-发夹03-浅弧贴发佩戴与结构.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "05295130-84ed-46e8-85d1-20271fc688a1",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 15600,
+        "y": 6950
+      },
+      "data": {
+        "label": "发夹03｜佩戴与结构说明",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/05295130-84ed-46e8-85d1-20271fc688a1/content.md"
+      }
+    },
+    {
+      "id": "f153285d-733e-41e1-b758-65b718f7a6f6",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 16400,
+        "y": 6200
+      },
+      "data": {
+        "label": "面容参考01｜作者提供｜眨眼",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏面容调整-20261011-v0.1/参考/作者参考01-眨眼.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "5624de15-b2ce-417a-8820-92b5e1558d11",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 16800,
+        "y": 6200
+      },
+      "data": {
+        "label": "面容参考02｜作者提供｜正面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏面容调整-20261011-v0.1/参考/作者参考02-正面.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "96101de9-afbc-4072-a9f5-65a672835ba2",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 17200,
+        "y": 6200
+      },
+      "data": {
+        "label": "面容参考03｜作者提供｜微笑",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏面容调整-20261011-v0.1/参考/作者参考03-微笑.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "d69217b5-4ef2-4e77-a932-2bcb2a1f5d0e",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 16400,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏｜面容01｜作者采用｜新面容主参考",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏面容调整-20261011-v0.1/知夏-面容01-柔和短圆脸头肩.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "766fffcb-0bb7-46f0-8367-c3f1cb0c2372",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 16400,
+        "y": 6950
+      },
+      "data": {
+        "label": "面容01｜已采用｜参考分工与提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/766fffcb-0bb7-46f0-8367-c3f1cb0c2372/content.md"
+      }
+    },
+    {
+      "id": "7dac5367-def8-44b4-9246-337423a9387c",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 18400,
+        "y": 7500
+      },
+      "data": {
+        "label": "校服四视图 v1.1｜侧襟小盘扣修正·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服正式设定-20261011-v1.0/知夏-校服四视图-v1.1-侧襟修正.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "e2574df9-0064-4a82-a496-1e577a70ea53",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 19200,
+        "y": 7500
+      },
+      "data": {
+        "label": "校服穿搭拆解 v1.1｜侧襟小盘扣修正·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服正式设定-20261011-v1.0/知夏-穿搭拆解-v1.1-侧襟修正.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "812df3f5-20c0-4fec-8cb6-ee78c257cabd",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 20000,
+        "y": 7500
+      },
+      "data": {
+        "label": "校服妆造拆分 v1.1｜侧襟小盘扣修正·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服正式设定-20261011-v1.0/知夏-妆造拆分-v1.1-侧襟修正.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "cf3b0f9e-db1c-43aa-b178-88019c3b84d4",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 18400,
+        "y": 8700
+      },
+      "data": {
+        "label": "校服v1.1 正面半身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服正式设定-20261011-v1.0/四视图独立图-v1.1/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "f0babcc1-24c4-4e2a-91d4-a2f856163289",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 18900,
+        "y": 8700
+      },
+      "data": {
+        "label": "校服v1.1 朝画面左侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服正式设定-20261011-v1.0/四视图独立图-v1.1/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "da782ebe-589f-4059-9bec-87846896f5fb",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 19400,
+        "y": 8700
+      },
+      "data": {
+        "label": "校服v1.1 背面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服正式设定-20261011-v1.0/四视图独立图-v1.1/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "bd9b0a2b-1158-4e39-a856-92f81da61eff",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 19900,
+        "y": 8700
+      },
+      "data": {
+        "label": "校服v1.1 朝画面右侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服正式设定-20261011-v1.0/四视图独立图-v1.1/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "8f25d03e-172f-4098-af0b-97ae447e05f0",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 18400,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服四视图 v1.1｜来源、侧襟纠错与提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/8f25d03e-172f-4098-af0b-97ae447e05f0/content.md"
+      }
+    },
+    {
+      "id": "01b92c51-748c-4f18-b602-681b5c94d545",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 19200,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服穿搭 v1.1｜来源、侧襟纠错与提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/01b92c51-748c-4f18-b602-681b5c94d545/content.md"
+      }
+    },
+    {
+      "id": "0be61c97-68fe-4968-8dd9-abe7a04fa562",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 20000,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服妆造 v1.1｜来源、侧襟纠错与提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/0be61c97-68fe-4968-8dd9-abe7a04fa562/content.md"
+      }
+    },
+    {
+      "id": "e12b4975-e8be-41e8-8494-c3175436436d",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 20900,
+        "y": 7500
+      },
+      "data": {
+        "label": "知夏面容身形02｜清秀柔椭圆脸与修长比例·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏面容身形优化-20261011-v0.1/知夏-面容身形02-清秀柔椭圆脸与修长比例.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "e2e58655-6df8-4e21-8c34-e4ce4e88cd7f",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 20900,
+        "y": 6950
+      },
+      "data": {
+        "label": "面容身形02｜来源、调整与提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/e2e58655-6df8-4e21-8c34-e4ce4e88cd7f/content.md"
+      }
+    },
+    {
+      "id": "3e7a99dd-74b8-4f8c-8af7-9c518257698d",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 21700,
+        "y": 7500
+      },
+      "data": {
+        "label": "校服比例03｜短衫高腰裙衔接·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏面容身形优化-20261011-v0.1/知夏-校服比例03-短衫与高腰裙衔接.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "2d5b24f1-45e8-48c6-a607-d6e9dede0d4b",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 21700,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服比例03｜腰线修改与提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/2d5b24f1-45e8-48c6-a607-d6e9dede0d4b/content.md"
+      }
+    },
+    {
+      "id": "8db98225-9d21-4d2d-aaf1-aa04362c6258",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 22500,
+        "y": 7500
+      },
+      "data": {
+        "label": "校服比例04｜腰线下移与略短裙摆·待审",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏面容身形优化-20261011-v0.1/知夏-校服比例04-自然腰线与略短裙摆.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "36f82ea4-45d3-4a26-9fcb-9a65fdd87752",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 22500,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服比例04｜修改记录与提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/36f82ea4-45d3-4a26-9fcb-9a65fdd87752/content.md"
+      }
+    },
+    {
+      "id": "5d94e9dc-ab50-4359-a50b-4553c109fb8e",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 23300,
+        "y": 7500
+      },
+      "data": {
+        "label": "校服定款｜比例05清晰收腰与鞋背花叶绣·已采用",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏面容身形优化-20261011-v0.1/知夏-校服比例05-清晰收腰与鞋背花叶绣.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "345cbfd2-bd6c-4615-928b-da53122bd4de",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 23300,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服定款比例05｜采用依据与原始提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/345cbfd2-bd6c-4615-928b-da53122bd4de/content.md"
+      }
+    },
+    {
+      "id": "7460a1c8-9e1e-4b2d-a189-698180cf6fec",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 24100,
+        "y": 7500
+      },
+      "data": {
+        "label": "校服定款三件套｜四视图 v2.0",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261011-v2.0/知夏-校服四视图-v2.0.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "c840de5b-0463-492b-8ed9-d8da6ca630db",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 24900,
+        "y": 7500
+      },
+      "data": {
+        "label": "校服定款三件套｜妆造分解 v2.0",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261011-v2.0/知夏-妆造分解-v2.0.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "aa3668f5-5da4-4282-82a5-276d1c9128eb",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 25700,
+        "y": 7500
+      },
+      "data": {
+        "label": "校服定款三件套｜穿搭分解 v2.0",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261011-v2.0/知夏-穿搭分解-v2.0.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "776d8e69-0722-4ec3-9040-33fdb5aa77ad",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 24100,
+        "y": 8600
+      },
+      "data": {
+        "label": "校服定款v2.0｜正面大半身",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261011-v2.0/四视图独立图/01_front-half.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "42b890b7-5859-431a-86a9-e72629ad4d3a",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 24600,
+        "y": 8600
+      },
+      "data": {
+        "label": "校服定款v2.0｜朝画面左侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261011-v2.0/四视图独立图/02_facing-left.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "369d289f-edd5-4513-b5de-3335fb2bbb9e",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 25100,
+        "y": 8600
+      },
+      "data": {
+        "label": "校服定款v2.0｜背面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261011-v2.0/四视图独立图/03_back.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "0b2644d5-16e0-4972-919a-4eeac449932c",
+      "type": "remote-imageNode",
+      "initialized": false,
+      "position": {
+        "x": 25600,
+        "y": 8600
+      },
+      "data": {
+        "label": "校服定款v2.0｜朝画面右侧面",
+        "handles": [
+          {
+            "id": "image",
+            "type": "source",
+            "dataType": "IMAGE",
+            "label": "图片输出"
+          }
+        ],
+        "outputs": {
+          "image": {
+            "dataType": "IMAGE",
+            "value": {
+              "url": "知夏校服定款三件套-20261011-v2.0/四视图独立图/04_facing-right.png",
+              "mimeType": "image/png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "53a52c1e-3f27-413a-bbf0-6f8c34ee8d17",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 24100,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服定款v2.0｜四视图来源与提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/53a52c1e-3f27-413a-bbf0-6f8c34ee8d17/content.md"
+      }
+    },
+    {
+      "id": "64fac844-166f-4213-8627-e7ab4110272d",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 24900,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服定款v2.0｜妆造来源与提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/64fac844-166f-4213-8627-e7ab4110272d/content.md"
+      }
+    },
+    {
+      "id": "9b49c72f-2d75-4084-af1b-762193dfc821",
+      "type": "remote-textNode",
+      "initialized": false,
+      "position": {
+        "x": 25700,
+        "y": 6950
+      },
+      "data": {
+        "label": "校服定款v2.0｜穿搭来源与提示词",
+        "handles": [
+          {
+            "id": "in",
+            "type": "target",
+            "dataType": [
+              "VIDEO",
+              "IMAGE",
+              "STRING"
+            ],
+            "label": "视频、图片、文本输入"
+          },
+          {
+            "id": "text",
+            "type": "source",
+            "dataType": "STRING",
+            "label": "文本输出"
+          }
+        ],
+        "outputs": {},
+        "model": "",
+        "textPath": "assets/9b49c72f-2d75-4084-af1b-762193dfc821/content.md"
+      }
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": -23393.32967032967,
+    "y": -6819.961538461538,
+    "zoom": 0.978021978021978
+  }
+}

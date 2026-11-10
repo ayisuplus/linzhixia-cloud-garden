@@ -1,0 +1,521 @@
+{
+  "installed_date": "2026-10-17",
+  "packages": [
+    {
+      "name": "runninghub-skill",
+      "repository": "https://github.com/HM-RunningHub/OpenClaw_RH_Skills",
+      "commit": "21ade9836e1e68bdb45fac9956b919f50901b8d4",
+      "source_subdirectory": "runninghub",
+      "installed_directory": ".agents/skills/runninghub",
+      "files": {
+        "SKILL.md": {
+          "upstream_sha256": "ddeca7e13dd17ac3ea5f9bd11bbf87c0cb7acf722d8fa9d7ddc650697c2ff56f",
+          "installed_sha256": "ddeca7e13dd17ac3ea5f9bd11bbf87c0cb7acf722d8fa9d7ddc650697c2ff56f",
+          "line_endings_only": false
+        },
+        "data/capabilities.json": {
+          "upstream_sha256": "85554246cc6f9fecc06c984a638f627f25f0077ca26c7294a4d5a8c9bc36fb4e",
+          "installed_sha256": "85554246cc6f9fecc06c984a638f627f25f0077ca26c7294a4d5a8c9bc36fb4e",
+          "line_endings_only": false
+        },
+        "references/ai-application.md": {
+          "upstream_sha256": "a1a0f5e7ca86c70e0d1b85d2cf5f51978f1378e9ab61c855aa68eea83e892418",
+          "installed_sha256": "a1a0f5e7ca86c70e0d1b85d2cf5f51978f1378e9ab61c855aa68eea83e892418",
+          "line_endings_only": false
+        },
+        "references/api-key-setup.md": {
+          "upstream_sha256": "241ad8867b5946db5c6091dd7f25e70695ee9de69cfa501edde3cd54ca6e9ab1",
+          "installed_sha256": "241ad8867b5946db5c6091dd7f25e70695ee9de69cfa501edde3cd54ca6e9ab1",
+          "line_endings_only": false
+        },
+        "references/image-models.md": {
+          "upstream_sha256": "eb3e4ba41677dfe964f5ef2a7ea9201f9b514802bbda0fb6250e115f043a6c26",
+          "installed_sha256": "eb3e4ba41677dfe964f5ef2a7ea9201f9b514802bbda0fb6250e115f043a6c26",
+          "line_endings_only": false
+        },
+        "references/output-delivery.md": {
+          "upstream_sha256": "3ea0f837b0db073cd38b003ad900e7882915b6fc1c11c2eb6768d089e75c2e96",
+          "installed_sha256": "3ea0f837b0db073cd38b003ad900e7882915b6fc1c11c2eb6768d089e75c2e96",
+          "line_endings_only": false
+        },
+        "references/video-models.md": {
+          "upstream_sha256": "5ce6ee5a169e7047726abd5c306cd1f61efdb2b04353a6e5a7a663d37a44b803",
+          "installed_sha256": "5ce6ee5a169e7047726abd5c306cd1f61efdb2b04353a6e5a7a663d37a44b803",
+          "line_endings_only": false
+        },
+        "scripts/build_capabilities.py": {
+          "upstream_sha256": "b34e4180e92ba09d93bfd6da111eef0c5172c3c7506bc973682d5bd4c94a818d",
+          "installed_sha256": "b34e4180e92ba09d93bfd6da111eef0c5172c3c7506bc973682d5bd4c94a818d",
+          "line_endings_only": false
+        },
+        "scripts/runninghub.py": {
+          "upstream_sha256": "9f7ce8c314ac26c3c741b12242adf3c6a985d06eb1e899e692c0cb91ac0dd0c1",
+          "installed_sha256": "9f7ce8c314ac26c3c741b12242adf3c6a985d06eb1e899e692c0cb91ac0dd0c1",
+          "line_endings_only": false
+        },
+        "scripts/runninghub_app.py": {
+          "upstream_sha256": "38b4cb2c7441df30d499e041d8efa6816f7b5409d43110ce6c3b2d7af05c33ed",
+          "installed_sha256": "38b4cb2c7441df30d499e041d8efa6816f7b5409d43110ce6c3b2d7af05c33ed",
+          "line_endings_only": false
+        }
+      }
+    },
+    {
+      "name": "runninghub-cli",
+      "repository": "https://github.com/HM-RunningHub/RH_CLI",
+      "commit": "0ed2b31d50fbfef114304fae78d24d4c9e371b68",
+      "source_subdirectory": ".",
+      "installed_directory": "tools/vendor/runninghub-cli",
+      "files": {
+        ".gitignore": {
+          "upstream_sha256": "5479fa5d615f6cbb331b92e77171edadae32adc7add4234abff122460bf7828c",
+          "installed_sha256": "ace0b150d5aa24ad3f8e72a5513c4ea77b88052614b17f2610373f6ea244a1c2",
+          "line_endings_only": true
+        },
+        "LICENSE": {
+          "upstream_sha256": "978fd5e00f1180518d300347e4d27b4b666d02f42bbb0483ddc14b184cd5acc4",
+          "installed_sha256": "fbdd4a07ed186d11c303808dee1f14285dd6037a0320e5d480f00c0eee2281b1",
+          "line_endings_only": true
+        },
+        "README.md": {
+          "upstream_sha256": "324739088f012cf6b515c9a8a72fee6425dba1c912d52181156170ed1c5de2be",
+          "installed_sha256": "babeb43c176994a9b0d518857a9daf7a48d7b023c6ded54b3d4c54bef42b2b09",
+          "line_endings_only": true
+        },
+        "README_en.md": {
+          "upstream_sha256": "d5643d14d9a4519e364ed254157c1ee0350677cbcdfe448face38d5e5507afee",
+          "installed_sha256": "c76a58da38a7533ce3af979a3b81b2f6e2d2617eba9a04ed8c585f7960f15de4",
+          "line_endings_only": true
+        },
+        "docs/commands.md": {
+          "upstream_sha256": "997dacf13e1dbb9555ef2241cfca7f6d66ce0557a3223e78b9b09120fad11bf4",
+          "installed_sha256": "370b3f193d0572e7f67d37155fcc05f2cf7fec476a47c29ea70d3bea08bb9335",
+          "line_endings_only": true
+        },
+        "docs/output.md": {
+          "upstream_sha256": "6578a9aaeb6434faf5f83dc46225a32ac80926818ded93c57f20efd3bfd5c914",
+          "installed_sha256": "7959a2474a0ca2298e7a2885eb135c61d0fa6698ea0afb1fccad61df76dc19a5",
+          "line_endings_only": true
+        },
+        "pyproject.toml": {
+          "upstream_sha256": "3777474bf7a7c5e11088f3c577a46af723eb2f5f21aff8503f74d4fb588839af",
+          "installed_sha256": "d946ac4f8c10a2afc6230a4f0f7a57e7f9b113291cf4f65360fd5df553f66e6e",
+          "line_endings_only": true
+        },
+        "src/rh_cli/__init__.py": {
+          "upstream_sha256": "7d51029409cd3ba65467f24ac0afa63e56869d34bb9a0b42ba591e5e39b87e5c",
+          "installed_sha256": "542e4c2dab9b6d933e2e89fea086c5cc790b646965bf2747ced7bbf61a1ae3b4",
+          "line_endings_only": true
+        },
+        "src/rh_cli/__main__.py": {
+          "upstream_sha256": "da06b5d520c454ea521c02d1e0fc798f5bc34941243b5ba600c5e7192bd1a1ad",
+          "installed_sha256": "cc837b5377e752ccc50689dab5cbcb7db77140bdcd48a9a5fd90b1c47a747703",
+          "line_endings_only": true
+        },
+        "src/rh_cli/account.py": {
+          "upstream_sha256": "a3b3b2bd1fdcf14581a351937720f567997590b4d544fdb394c16b1905f0795b",
+          "installed_sha256": "4d188d67e996f254bc7ff19b01a196f5cf9998b334d7458d8f260a521ea17ab8",
+          "line_endings_only": true
+        },
+        "src/rh_cli/app/__init__.py": {
+          "upstream_sha256": "1c875b8e4df6559f9e03c3c2f0f46508ffa79a231c391fa63e3a779258b66555",
+          "installed_sha256": "b90b6b06b4a6b90966ade94b896269c24e7079e89e171429e034fb365d8048e2",
+          "line_endings_only": true
+        },
+        "src/rh_cli/app/client.py": {
+          "upstream_sha256": "93e942e9ecd8671f5b705dab1dc4d82adb8d249c2b9babc52a2d03ad6b1afe87",
+          "installed_sha256": "3b67edce039bf839f3d92da3f05b4e8fb2d0e9bbf57dadbbc229156f83876c0e",
+          "line_endings_only": true
+        },
+        "src/rh_cli/app/commands.py": {
+          "upstream_sha256": "12c2c8c34a171f3058b5a0597976f124158ad44948167cee4042ad4ed4286159",
+          "installed_sha256": "47569e2257af81325dbe0667f0b7cdbe2ca8fbf261ed507bb04438624853f09d",
+          "line_endings_only": true
+        },
+        "src/rh_cli/app/nodes.py": {
+          "upstream_sha256": "9af2de2b6f21ff0297ecf2b3389b730a1de79976bbcd47de2a927243c3cd2c6e",
+          "installed_sha256": "8c573b9072e6cc21fe4bc2d7313ad42b00e07ba513bc8af61a1cdf50ffc06e4b",
+          "line_endings_only": true
+        },
+        "src/rh_cli/catalog/__init__.py": {
+          "upstream_sha256": "6e48702c6568e2bec82f9de61a858964f0661079f00e2a1f25338cff01e0d54d",
+          "installed_sha256": "49afb90d671036b4924cf1a40834865dd061f222979763572da1f066d9ef5f79",
+          "line_endings_only": true
+        },
+        "src/rh_cli/catalog/data/capabilities.json": {
+          "upstream_sha256": "0337271998be960e2e59e3275a83b3740e97c43bc2cd02ddce51c211f0cfef03",
+          "installed_sha256": "0337271998be960e2e59e3275a83b3740e97c43bc2cd02ddce51c211f0cfef03",
+          "line_endings_only": false
+        },
+        "src/rh_cli/catalog/loader.py": {
+          "upstream_sha256": "abe03010765f31b006c52be6843ff8ffde3a21bfda907fc13d777984f6f52220",
+          "installed_sha256": "1adc9efe002e9578024d37a28171244ab75e92c3b7ae2a75cc314d47a7672c3f",
+          "line_endings_only": true
+        },
+        "src/rh_cli/compat.py": {
+          "upstream_sha256": "a272b3a50a319b8948890418cb97c9fece46969491451a14c4f4ece8a3ba6b27",
+          "installed_sha256": "78a08b12dd67dcb3613d0cead3c7d574a65255a5c07838b8d6011154d0e8f60b",
+          "line_endings_only": true
+        },
+        "src/rh_cli/config.py": {
+          "upstream_sha256": "9c7ded74d87ce84c955b8d0d91b51a14349ca194631eb6a6b717ce388305277e",
+          "installed_sha256": "ab4b3083b5bbb75f7a3fd33b89b39de42839132193ddf1a9adc811827f3896ba",
+          "line_endings_only": true
+        },
+        "src/rh_cli/errors.py": {
+          "upstream_sha256": "67f7e5f044c91a9b42b29408828eb715d86d7dac07ce3d5099bbbe52bec1f9a9",
+          "installed_sha256": "45f7fa0fd6ff4b12217d9b30e5c2a9617fcb3a4ab1b2c3a86dd60a4b1e9f9755",
+          "line_endings_only": true
+        },
+        "src/rh_cli/http.py": {
+          "upstream_sha256": "91c08e943b9895207107d5371c679099ece52d8b6ad0c5dc6255266feaf93247",
+          "installed_sha256": "a325d73fa6b37eadae4274024f6ae307f94ef04fc80f54cd7a9215040ba8c34c",
+          "line_endings_only": true
+        },
+        "src/rh_cli/main.py": {
+          "upstream_sha256": "cba5633bbc4b6f7aba49663083f84d08977e4a1289d6c045d268af09f407d86f",
+          "installed_sha256": "79a470707c12d6caa6bab6d29ca4f9daddf7c0f6da30c6eaddb1782d29526900",
+          "line_endings_only": true
+        },
+        "src/rh_cli/media.py": {
+          "upstream_sha256": "b4c0ca7917fa893c7646ae423ac06cb746ae8fc6e2a8b5a89bb74e4a55fca030",
+          "installed_sha256": "fa8bec0768b1ad762ed55b04b14032552c0331b1ae3325044a215376b4fb72bf",
+          "line_endings_only": true
+        },
+        "src/rh_cli/model/__init__.py": {
+          "upstream_sha256": "8b59c7103cceabe9c8ca4a7c87b738b08933f9d073954d408e718132bd25526c",
+          "installed_sha256": "bd29d25af7c4465aa6909a5675de45bd602f08ceb5d6e14484bfe154e1939f30",
+          "line_endings_only": true
+        },
+        "src/rh_cli/model/client.py": {
+          "upstream_sha256": "45cf5231e245eba8615e260a9a1a16b0eca9a27ddef678495e503aabbc1fa8c9",
+          "installed_sha256": "d1df911a2c2203586f11c7fa28f3f117f41efea8aae328ac94335a34c3195e8d",
+          "line_endings_only": true
+        },
+        "src/rh_cli/model/commands.py": {
+          "upstream_sha256": "2b1150752462ff467956ad2824c81c7da2cd2a39a864ebaaff3858f5e0912637",
+          "installed_sha256": "189a44aa35002b8975dbf9f6a45d8637be8dabb9c0785951e6fc513f35cd30d8",
+          "line_endings_only": true
+        },
+        "src/rh_cli/model/menus.py": {
+          "upstream_sha256": "333dfa0eb7ef17eb06a22083a989dcbcba3856b77f6ca2d9d9b8248f4c9fb225",
+          "installed_sha256": "0f75386e9d1ee803fc881748f9b6dc8c88011fa80e2adefeec6db4f21d610122",
+          "line_endings_only": true
+        },
+        "src/rh_cli/model/payload.py": {
+          "upstream_sha256": "f056ad2f0d8ed6094a75d3c78540de32071b5a1b8e27721a9275cb8de0dab0d3",
+          "installed_sha256": "ab4e7d7b3a3cccd903ba88d647d2023ec1005aa48121997fac681df144aa8255",
+          "line_endings_only": true
+        },
+        "src/rh_cli/output.py": {
+          "upstream_sha256": "8beced8cfbb0c25e42854370b1ca870a485a821acff89e073b7011fccb0c2789",
+          "installed_sha256": "9bdcb5753a106339f1bf17d73747411d14e2d5e3b4a593cfb4c4f0848a79fe67",
+          "line_endings_only": true
+        },
+        "src/rh_cli/poll.py": {
+          "upstream_sha256": "259d71972ad0bc7ae4d09a90fc73289ec722890d7ac809d159df7da455abd31e",
+          "installed_sha256": "06d2232b37d8f9d257ebb2aaebbca284e35a58753b1fa0b75187bcad351f485a",
+          "line_endings_only": true
+        },
+        "src/rh_cli/state.py": {
+          "upstream_sha256": "72bbdf6e5a70481c00331aa0c3a05efb88b2541d69022e3e61d04d161dc5c2f8",
+          "installed_sha256": "3070de2267ea139bdbc4c88a1f7b10c758d0d69ff2dfbe9d4682d7b2fe938448",
+          "line_endings_only": true
+        },
+        "tests/test_config.py": {
+          "upstream_sha256": "922bd088b5fada4ca1102f8666968748dfbdd7d4729d898c5acb673c00bd695c",
+          "installed_sha256": "44e0cf75ec9268821d4ecc4c9e01af07395e5b9fc602043ee6947908cf1f8ee6",
+          "line_endings_only": true
+        },
+        "tests/test_nodes.py": {
+          "upstream_sha256": "1678f14d861f55fa9f451b6e8f7ad0e4bb575dc1a8ee55566505873310ea85c4",
+          "installed_sha256": "2cb870d5f91d6a95a63cd51fcf83e09a180c522868298272241b6c9805a73118",
+          "line_endings_only": true
+        },
+        "tests/test_payload.py": {
+          "upstream_sha256": "e9a400a44c1f70814c2de157541ebf97d2ccc327632b6bc03c712fff25021685",
+          "installed_sha256": "44519dfd09efda0810bca454e38b72ed6c5d03d1ec99ffe54d9b34c0d0ac1644",
+          "line_endings_only": true
+        }
+      }
+    },
+    {
+      "name": "libtv-api-skill",
+      "repository": "https://github.com/libtv-labs/libtv-skills",
+      "commit": "c609246c1eca69f6bc129bcbb5d64c36734e4a4a",
+      "source_subdirectory": "skills/libtv-skill",
+      "installed_directory": ".agents/skills/libtv-skill",
+      "files": {
+        "SKILL.md": {
+          "upstream_sha256": "7e8ffa94928cf50af201c8fb36d094af74664e274346f4e3ee49ef097585866a",
+          "installed_sha256": "7e8ffa94928cf50af201c8fb36d094af74664e274346f4e3ee49ef097585866a",
+          "line_endings_only": false
+        },
+        "scripts/_common.py": {
+          "upstream_sha256": "9073e4045c5bd880ddb7e66e3026f98acb4d2bd52ea810ad84b2df438f5faff0",
+          "installed_sha256": "9073e4045c5bd880ddb7e66e3026f98acb4d2bd52ea810ad84b2df438f5faff0",
+          "line_endings_only": false
+        },
+        "scripts/change_project.py": {
+          "upstream_sha256": "d8edb3435523102222f994c440f5de4198b91fa9f7131cbc1ebacea620a0fafe",
+          "installed_sha256": "d8edb3435523102222f994c440f5de4198b91fa9f7131cbc1ebacea620a0fafe",
+          "line_endings_only": false
+        },
+        "scripts/create_session.py": {
+          "upstream_sha256": "0066b9603de2ffd4df3808f0d71e828ef78425c241cee9ca7d90cf07057d7335",
+          "installed_sha256": "0066b9603de2ffd4df3808f0d71e828ef78425c241cee9ca7d90cf07057d7335",
+          "line_endings_only": false
+        },
+        "scripts/download_results.py": {
+          "upstream_sha256": "1d51c55711c20ee63e07c01738fdd6fbe491f3442129b2c04c1410f705abab31",
+          "installed_sha256": "1d51c55711c20ee63e07c01738fdd6fbe491f3442129b2c04c1410f705abab31",
+          "line_endings_only": false
+        },
+        "scripts/query_session.py": {
+          "upstream_sha256": "b208f0e9162c3af869efecbaaece8a9e3fd62cd2fff2f7601c78cb6de5b33086",
+          "installed_sha256": "b208f0e9162c3af869efecbaaece8a9e3fd62cd2fff2f7601c78cb6de5b33086",
+          "line_endings_only": false
+        },
+        "scripts/upload_file.py": {
+          "upstream_sha256": "94735e17c7c38b1184d0ca8b44db5a21ad701182d3b4a813cb1cd495b7202651",
+          "installed_sha256": "94735e17c7c38b1184d0ca8b44db5a21ad701182d3b4a813cb1cd495b7202651",
+          "line_endings_only": false
+        }
+      }
+    },
+    {
+      "name": "libtv-plugin",
+      "repository": "https://github.com/liblib-ai/marketplace",
+      "commit": "4ac581c3cbdaa53d0d42df85c6bf62e45600bc5f",
+      "source_subdirectory": "plugins/libtv",
+      "installed_directory": "plugins/libtv",
+      "files": {
+        ".codex-plugin/plugin.json": {
+          "upstream_sha256": "269fd9f73157a035b8bd9045f3cfae77ff7b64102ffe11f1d10ba9a6935eab2e",
+          "installed_sha256": "1f4223675e93f2c87a2f22e5fe4f2064c65cd8ecd35b249a018340b8629d9626",
+          "line_endings_only": true
+        },
+        ".mcp.json": {
+          "upstream_sha256": "92a91ba448c8a8f8ed97c1a4b8831d4c83a766603556c70b0dfa38a31a5ce1e0",
+          "installed_sha256": "10d642b8e7e1803465db4d1cf29d3ef7df52919f971263f34849f933dd9847b2",
+          "line_endings_only": true
+        },
+        "assets/libtv-icon.svg": {
+          "upstream_sha256": "89045428fb7aaa8fbf52f7d6a1289fdbf1a4a16a9f1b0b6192f835e7a00c7950",
+          "installed_sha256": "0dc5d67387dfe55b64b509a78d2ca3238da9064d099ff00951d5c7f199d4bb12",
+          "line_endings_only": true
+        },
+        "skills/libtv-blender-live-action/SKILL.md": {
+          "upstream_sha256": "b0502b7a48e62bbd4b4744f1eda92eb94be5512c25f93ca0dfe4cc74d1f62478",
+          "installed_sha256": "f84392756c1b477d498e0a9d34476558a405d6359690047978d16b3e1099a69b",
+          "line_endings_only": true
+        },
+        "skills/libtv-blender-live-action/agents/openai.yaml": {
+          "upstream_sha256": "121e8d99474af96e7cd4baf86e92aa904bd3a3688b1fe368c9c7d97f0b4329d0",
+          "installed_sha256": "fdb472fec043a5132e188ffa4e83e1a27e9e29df47865785f8309396e04bdd1c",
+          "line_endings_only": true
+        },
+        "skills/libtv-blender-live-action/references/workflow-spec.md": {
+          "upstream_sha256": "d4425276c7cd8da748beb5c72d34f0342f287e438a76b7ac8f264139047f710b",
+          "installed_sha256": "ec62a80eda13f665c83592b046912c04786eec5dce85e5fdefcee142a49e421c",
+          "line_endings_only": true
+        },
+        "skills/libtv-to-treatment/SKILL.md": {
+          "upstream_sha256": "cc0bf9afad1ac572fcdc46ad8a8afd359f601047d8d2867d6b80db0e606a02e7",
+          "installed_sha256": "a99146511ca9a7691626690c90cc4596d688ac24af0739711eb35c6cf24ea1b6",
+          "line_endings_only": true
+        },
+        "skills/libtv-to-treatment/agents/openai.yaml": {
+          "upstream_sha256": "83e1a7e8be33496fc7db8c7a16ebe76baa2d16d333bbcc31325b1b92222f89c4",
+          "installed_sha256": "5a8f910a1a5655e43614da706001654a5b3484266ce554a3974da2203c0ebe79",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/SKILL.md": {
+          "upstream_sha256": "8d1cc59d1cdeeb7946ac8738f575b2b7e9194caff7e125bd83e99eb80036d3b0",
+          "installed_sha256": "2b053ab426c37eb749c877ff80337cc7396f2ab93693d4bc8c4811cc16031a0b",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/agents/openai.yaml": {
+          "upstream_sha256": "ec7b5d77d753a50097e693cddb8ed60ed9f46d5a03640d557a67ba6be1be2f7b",
+          "installed_sha256": "0f646e93740af1c5fd116b7b0d8cee8482467f30e16d85d4780fc94c340b7035",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/bach-c-major-prelude.mid": {
+          "upstream_sha256": "874e07d0479542971bfceaf420d6117da8d602d89d26eea4610e7dd1ef58bf26",
+          "installed_sha256": "874e07d0479542971bfceaf420d6117da8d602d89d26eea4610e7dd1ef58bf26",
+          "line_endings_only": false
+        },
+        "skills/music-driven-product-ad/assets/scores/bach-c-major-prelude.score.json": {
+          "upstream_sha256": "c9d768949af863f65b086632af654111412f6e3f39a15b85f427f0bb9ba1e45a",
+          "installed_sha256": "e8ae58218fa80d19b1986a719bdf0532532b2e2d7c26449d28aca3e93f6914aa",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/beethoven-fur-elise.mid": {
+          "upstream_sha256": "1c12c21c7bbf4cf163896732672648a69d497636059837abd153c71abe50215a",
+          "installed_sha256": "1c12c21c7bbf4cf163896732672648a69d497636059837abd153c71abe50215a",
+          "line_endings_only": false
+        },
+        "skills/music-driven-product-ad/assets/scores/beethoven-fur-elise.score.json": {
+          "upstream_sha256": "c8b677fdb71ad7071ed1394a6025efaa74c81fe9223fea3ee79de37095adf931",
+          "installed_sha256": "bc5354a40ae862eea636c899f1915ea90ca728721ba3260555cbe7b80cbdda65",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/beethoven-fur-elise.source.ly": {
+          "upstream_sha256": "828a7bd1b42e441fe1b0eb0389ba46f1502dab28bbe488389e635fb446ba7a67",
+          "installed_sha256": "14bee320fa100362af020923a2e4df783ce757491b3b0d83b337d68c583640b3",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/beethoven-pathetique-ii-25s.keys.json": {
+          "upstream_sha256": "697cc8d994f4a94946e5f548bd3cd4bfd56376cb2a3d8007ebdb139d11fd7b76",
+          "installed_sha256": "a7d521348aea6e3bbf6b65ee5caf6c5cc41b40a1e12be9910f67594f3f548641",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/beethoven-pathetique-ii.mid": {
+          "upstream_sha256": "92c685ca98001473bcc21fa98110cc125ab489c1bf49be185e062d204a268492",
+          "installed_sha256": "92c685ca98001473bcc21fa98110cc125ab489c1bf49be185e062d204a268492",
+          "line_endings_only": false
+        },
+        "skills/music-driven-product-ad/assets/scores/beethoven-pathetique-ii.score.json": {
+          "upstream_sha256": "3ee3d4f3549f8e461a067879b48748df6885700ec38ce051ea6ff4a40dc75be2",
+          "installed_sha256": "99409b990f75f6c67fcdbc897fbf95f84c6a03443869729b7a08bd6aca686cd0",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/beethoven-pathetique-ii.source.ly": {
+          "upstream_sha256": "7d7c233230bc558d6275119b1ca9af1b4f5ebe762e29855698fc1e08032acc7a",
+          "installed_sha256": "d719a58ebbe3933ca605a9899bfbc9cd567cec21316896b70f30eff5371e584c",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/catalog.json": {
+          "upstream_sha256": "cc06f650a4a94122d312460a76f0c24e4d75f49e90aea57580e9cd2065c18006",
+          "installed_sha256": "3072a3ff2868f6beff03a7c6045352ee9169d0cf26245bdaf14157664152c038",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/chopin-minute-waltz.mid": {
+          "upstream_sha256": "62333ad9f9b22603d009734ab500330a12ac09aeca13d185ac0ba64a7fb9d206",
+          "installed_sha256": "62333ad9f9b22603d009734ab500330a12ac09aeca13d185ac0ba64a7fb9d206",
+          "line_endings_only": false
+        },
+        "skills/music-driven-product-ad/assets/scores/chopin-minute-waltz.score.json": {
+          "upstream_sha256": "760b9feb68539f3aca64b1e446a2d3b7ded05e0f65e667a2cffef11c1687a159",
+          "installed_sha256": "1752325e0d7f9c82d3d3c82a8936de345796faf4967119eb4d032eab285a61c2",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/chopin-raindrop-prelude.mid": {
+          "upstream_sha256": "bb9532e59bee378a42f0c53b64bf223ba4d6e261e00c1e2efb3ed8e023833bd9",
+          "installed_sha256": "bb9532e59bee378a42f0c53b64bf223ba4d6e261e00c1e2efb3ed8e023833bd9",
+          "line_endings_only": false
+        },
+        "skills/music-driven-product-ad/assets/scores/chopin-raindrop-prelude.score.json": {
+          "upstream_sha256": "5e363d48fb641edef34442558fa917d4e100148d815a1c973015c3f8cd4d2d29",
+          "installed_sha256": "2a50e45529a9c099ce989dfd571ce70a734c0d9f0b0eb07a85c55eba8b19be15",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/mendelssohn-wedding-march.mid": {
+          "upstream_sha256": "db95bd1d11c81fccb6323b389fa7d69de9323f00a9272acf89a2f6c016502f50",
+          "installed_sha256": "db95bd1d11c81fccb6323b389fa7d69de9323f00a9272acf89a2f6c016502f50",
+          "line_endings_only": false
+        },
+        "skills/music-driven-product-ad/assets/scores/mendelssohn-wedding-march.score.json": {
+          "upstream_sha256": "99c7eb5fb939026f2d001f0538f1bef6abd1aa7f72b98a9d843e1fb5931d39e9",
+          "installed_sha256": "4ed91ff121674aeecec0460b7a427aef2d8c2c242601b96b54a7486daee241e1",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/petzold-minuet-g.mid": {
+          "upstream_sha256": "fd87a6673e18104047842a1c858d2c9d8eb9ad845d7a8fa46e3664b17642cb75",
+          "installed_sha256": "fd87a6673e18104047842a1c858d2c9d8eb9ad845d7a8fa46e3664b17642cb75",
+          "line_endings_only": false
+        },
+        "skills/music-driven-product-ad/assets/scores/petzold-minuet-g.score.json": {
+          "upstream_sha256": "bb04ed471747cdfe6fe2cd97ccf994fba34a2689b07d81d3d82cbf6f1fb8737c",
+          "installed_sha256": "ab0e0b10bbc259d542702a1a48b6f6ae134f7cc074c50408269520a86accb6d8",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/petzold-minuet-g.source.ly": {
+          "upstream_sha256": "aa6c19e6fecf20753591d739f9e6cf32f3d925fa8a50245c011c8928a1cd1d83",
+          "installed_sha256": "838f364843e636912ac5f38451b24619b8afdb7b114339d8e707cf5b8de57597",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/satie-gymnopedie-1.mid": {
+          "upstream_sha256": "09ce7337b4bf42ba12e1aa64b4c7dc7fcfa6455f1070cb12f8880a755df97384",
+          "installed_sha256": "09ce7337b4bf42ba12e1aa64b4c7dc7fcfa6455f1070cb12f8880a755df97384",
+          "line_endings_only": false
+        },
+        "skills/music-driven-product-ad/assets/scores/satie-gymnopedie-1.score.json": {
+          "upstream_sha256": "46ac7c6f094ee2fee4f007510f8c41e42e93c0e94145050ad1902828230a6b5c",
+          "installed_sha256": "18a5183d58aa43f58661ea8da5dde78c2487d209d3fb8e3f1bfef0cb2563c5b9",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/assets/scores/satie-gymnopedie-1.source.ly": {
+          "upstream_sha256": "420a52244e9fbe106dd33ba2cac84414fd66e0d01c6d472205bad39678d4ce04",
+          "installed_sha256": "10638b9d5fe83957acb4e5c0339600c2f0072e0ab379bd9b6aaac17f533ff663",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/references/ad-form-and-rhythm.md": {
+          "upstream_sha256": "8d12f04406da4accb5166c7fc34e62ebd7a00edae2dce0e80ffd359b7a4f18c8",
+          "installed_sha256": "53f2199e695740bbc567d1e1fb09dbfc8f6db4a5777c89df24563de0a900c183",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/references/libtv-production.md": {
+          "upstream_sha256": "870cbb663ca70b452ef19770ba8fdd9c43e1774bbb7addb1a59691f2516ad012",
+          "installed_sha256": "9d0e872804d23685cdd137e2b3040f0b6ccf987bb27d0f5e90bfe0c4db6d6154",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/references/music-direction.md": {
+          "upstream_sha256": "8032ec1bde1c724069ddb5b543f1246951c93d2a8e11b5dceede7609d936ec67",
+          "installed_sha256": "0422cbe3e764683a5b25b423c00d6195a1cb30403b8256ff3b70e2c32e4326af",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/references/product-lock.md": {
+          "upstream_sha256": "25ae8467af35368846248a9b0f459543bc71f6f5374fafbac01539a5e27a8b26",
+          "installed_sha256": "77183a99c7deb815ed7a3c1e708b9e5c5b2275f233258200d2b1b5dfd8893029",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/references/repertoire.md": {
+          "upstream_sha256": "4f47405c4511bcde7f61f3457cb51ce422db80b46b5924ebb1486f992a87e2a5",
+          "installed_sha256": "34f770e7793ac77ae3e3154da848cf7a445d591f5cf947645095a001cba7503c",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/references/screen-recording.md": {
+          "upstream_sha256": "f5e971920b5c997cfcfa0100cb683af0e9bbd1aad86b6508570ce822c1fe37a0",
+          "installed_sha256": "35764cdd146504cebaf8920c4329b13d69b939178756be35f809194558b2561c",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/references/seedance-2.5-prompt.md": {
+          "upstream_sha256": "4e733f771b53e0900ae6e5256ca8cc17afc1204e4c296fdb367cd054c3adf9c2",
+          "installed_sha256": "470177ead03dd6792b48fe7b95e683ba32eaf1abf20089f510dbeab8522aa7e1",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/references/zen-piano-production.md": {
+          "upstream_sha256": "20bf1cedd6ba49457ce2e3e81d5b682452cf3219b4680f1b7444c9ef09a34bd6",
+          "installed_sha256": "9b31b90bd5a0c7846e39470e4654d9800dd6b0ae9fa17b55fc98ed1db1716fa5",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/scripts/record_piano_window_macos.swift": {
+          "upstream_sha256": "82872a40c528ad3ce0574e30d4cc50405fd56790823052fc8e086a5515b90fe4",
+          "installed_sha256": "34408921b0613ab7f2e049842b5ee6e5466b77b3896515b32d87ee331559696c",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/scripts/score_preset.py": {
+          "upstream_sha256": "379b1b722afd0c2071354e0f7ae451603963498643a70e561e0b79527c754f53",
+          "installed_sha256": "326bac230b5b7d7e3f28d39c14ec3337f16aadb2419c4cd89f6956ebdb64b246",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/scripts/trim_screen_macos.swift": {
+          "upstream_sha256": "aca3b35e47b3f84954ebeda329cc3bb1d8b4d04b75e1fd98b98cff3a75a3c3a1",
+          "installed_sha256": "cbd6bb17bad8bd780ab95eb19c9eeb663b5b10a6749959e86193ba0c2800e7eb",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/scripts/trim_wav_silence.py": {
+          "upstream_sha256": "6c9162e888669b6cddbabdd98885f1739a6235d414749be33d7a950f309bf745",
+          "installed_sha256": "8a8c77b64c279850acb11f84e42fbef598254d60bc81959cf3d5009cac96313a",
+          "line_endings_only": true
+        },
+        "skills/music-driven-product-ad/scripts/zen_key_events_macos.swift": {
+          "upstream_sha256": "eb097e791eaee7c3c04803df481b3ff9a7eac646251322114324e0b077ee1fee",
+          "installed_sha256": "c6f9e128796dae53a9f4614192a6bcf7b2c3d5b677400f84f2b0711a086844df",
+          "line_endings_only": true
+        }
+      }
+    }
+  ]
+}

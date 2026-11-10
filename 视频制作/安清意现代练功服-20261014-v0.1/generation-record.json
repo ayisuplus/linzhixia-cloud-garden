@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-14",
+  "tool": "built-in image_gen",
+  "originalIdentityReference": "../安清意定款三件套-20261013-v1.1/00-采用主图.png",
+  "confirmedChanges": [
+    "追加现代贴身练功服供跳舞镜头使用",
+    "不要绿色",
+    "换软底舞鞋",
+    "短裤，不用长裤",
+    "经典马尾"
+  ],
+  "outputs": [
+    {
+      "file": "历史候选/00-全身主图-竹青裤历史.png",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13490-24ef-7a93-b667-eede4216553a\\exec-cbcac4b5-9a58-46d3-9a89-29d7f02b388f.png",
+      "prompt": "历史候选/主图提示词-竹青裤历史.txt",
+      "state": "历史候选，绿色和旧花绣鞋不沿用"
+    },
+    {
+      "file": "历史候选/01-四视图-竹青裤历史.png",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13490-24ef-7a93-b667-eede4216553a\\exec-65ae17ac-0b7e-4a1b-a35e-ae3b46c6345f.png",
+      "prompt": "历史候选/四视图提示词-竹青裤历史.txt",
+      "state": "历史候选，不沿用"
+    },
+    {
+      "file": "历史候选/00-全身主图-墨灰长裤历史.png",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13490-24ef-7a93-b667-eede4216553a\\exec-1ec51cbb-c3f0-4717-b6e8-a5d49c283bd3.png",
+      "prompt": "历史候选/主图改色换鞋提示词.txt",
+      "state": "历史候选，长裤和盘髻不沿用"
+    },
+    {
+      "file": "历史候选/00-全身主图-短裤编发马尾历史.png",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13490-24ef-7a93-b667-eede4216553a\\exec-7ac7aab0-49ea-4e50-b144-1dac10fdbcc5.png",
+      "prompt": "历史候选/主图短裤马尾修改提示词.txt",
+      "state": "短裤马尾过程稿，已收简编发"
+    },
+    {
+      "file": "00-全身主图.png",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13490-24ef-7a93-b667-eede4216553a\\exec-b4e63609-4321-414e-bad2-3592c619274c.png",
+      "prompt": "主图经典马尾精修提示词.txt",
+      "state": "当前制作稿，暖白上衣墨灰短裤米色软底鞋经典高马尾"
+    },
+    {
+      "file": "历史候选/01-四视图-侧面姿势初稿.png",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13490-24ef-7a93-b667-eede4216553a\\exec-3c5458df-5b63-484b-b29a-2872f9ca652a.png",
+      "prompt": "四视图短裤马尾提示词.txt",
+      "state": "侧面前平举错误，已修正"
+    },
+    {
+      "file": "01-四视图.png",
+      "source": "C:\\Users\\36322\\.codex\\generated_images\\01a13490-24ef-7a93-b667-eede4216553a\\exec-cdc92c12-1b66-4654-ba83-363161ac3aa3.png",
+      "prompt": "四视图侧面姿势修正提示词.txt",
+      "state": "当前四视图制作稿"
+    }
+  ],
+  "notes": "Prompt files record actual calls; prior working reference paths were later archived within this directory. Original CG outputs remain at their returned source paths."
+}

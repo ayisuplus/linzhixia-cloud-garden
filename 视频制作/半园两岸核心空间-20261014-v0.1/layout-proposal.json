@@ -1,0 +1,85 @@
+{
+  "status": "proposal",
+  "units": "meters",
+  "home_site": [
+    0,
+    0,
+    28,
+    24
+  ],
+  "canal": [
+    0,
+    27,
+    32,
+    32
+  ],
+  "workshop": [
+    14,
+    36.5,
+    28.5,
+    44.5
+  ],
+  "bridge": [
+    11.5,
+    27,
+    14,
+    32
+  ],
+  "workshop_porch": [
+    14,
+    35,
+    28.5,
+    36.5
+  ],
+  "trial": [
+    23.5,
+    37,
+    28,
+    40.5
+  ],
+  "home_to_workshop_route": [
+    [
+      10.1,
+      24
+    ],
+    [
+      10.1,
+      25.5
+    ],
+    [
+      12.75,
+      25.5
+    ],
+    [
+      12.75,
+      33.5
+    ],
+    [
+      19.5,
+      33.5
+    ],
+    [
+      19.5,
+      36.5
+    ],
+    [
+      18.9,
+      38.5
+    ]
+  ],
+  "camera": [
+    21.5,
+    41.2,
+    1.6
+  ],
+  "look_toward": [
+    10.1,
+    24,
+    1.5
+  ],
+  "limitations": [
+    "diagrammatic proposal, not adopted dimensions",
+    "not a rebuilt 3D scene",
+    "imagegen concept is not dimensionally validated"
+  ]
+}

@@ -1,0 +1,1758 @@
+{
+  "candidate": "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山水城-20261024-v0.1\\render-only-batched-v07.blend",
+  "input_hashes": {
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山水城-20261024-v0.1\\render-only-batched-v07.blend": "bd19f80efc2859856cc0da8418cb2f2d159ce666e4925b470c3f71aa65addcae",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云中园城-20261024-v0.4\\cloud-city-layered-58s-v06.blend": "171e9b615fea0990a125457cee0a614455923f93660ea65a653852148e2ee214",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\第一季\\制作\\空间规划\\第一集云山水城-v0.1\\build_landscape.py": "4391dbd3e202304b004cd8d80421b77366442772e5a9a5215f537b23b5e747ef",
+    "E:\\projects\\内容创作\\未来女孩林知夏\\视频制作\\第一集云山水城-20261024-v0.1\\source-flight.json": "bfce6639aa8cb3489fd9824829865e78f36cead70c94a220d6b51df41c11e0d5"
+  },
+  "inputs_stable": true,
+  "new_physical_objects": 96,
+  "carrier": {
+    "swept_ray_hits": [],
+    "inside_rock_samples": [],
+    "local_offset_samples": 0,
+    "conservative_whole_route_AABB_clearance_lower_bound_m": 12.768525009222586,
+    "nearby_sample_surface_distance_m": null,
+    "nearest_sample": null,
+    "offset_count": 2601
+  },
+  "camera": {
+    "swept_ray_hits": [],
+    "inside_rock_samples": [],
+    "local_offset_samples": 0,
+    "conservative_whole_route_AABB_clearance_lower_bound_m": 13.920211824374315,
+    "nearby_sample_surface_distance_m": null,
+    "nearest_sample": null,
+    "offset_count": 27
+  },
+  "original_objects_narrow_phase_checked": 168,
+  "rock_original_surface_or_containment_pairs": [
+    {
+      "rock": "LANDSCAPE07 Pond side stone.002",
+      "old_object": "Middle dwelling court apron",
+      "surface_triangle_intersections": 60,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone.002",
+      "old_object": "Middle dwelling court wing",
+      "surface_triangle_intersections": 54,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone.002",
+      "old_object": "Inset facade glazing.217",
+      "surface_triangle_intersections": 10,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone.002",
+      "old_object": "Window vertical timber.653",
+      "surface_triangle_intersections": 6,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone.002",
+      "old_object": "Window sill lintel.434",
+      "surface_triangle_intersections": 4,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone.002",
+      "old_object": "Inset facade glazing.218",
+      "surface_triangle_intersections": 16,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone.002",
+      "old_object": "Window vertical timber.654",
+      "surface_triangle_intersections": 4,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone.002",
+      "old_object": "Window vertical timber.655",
+      "surface_triangle_intersections": 4,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone.002",
+      "old_object": "Window vertical timber.656",
+      "surface_triangle_intersections": 4,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone.002",
+      "old_object": "Window sill lintel.436",
+      "surface_triangle_intersections": 6,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study paved court",
+      "surface_triangle_intersections": 496,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall wall",
+      "surface_triangle_intersections": 552,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall plinth",
+      "surface_triangle_intersections": 516,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall curved tiled roof",
+      "surface_triangle_intersections": 632,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall eave.001",
+      "surface_triangle_intersections": 30,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.001",
+      "surface_triangle_intersections": 8,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.002",
+      "surface_triangle_intersections": 10,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.003",
+      "surface_triangle_intersections": 14,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.004",
+      "surface_triangle_intersections": 22,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.005",
+      "surface_triangle_intersections": 16,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.006",
+      "surface_triangle_intersections": 8,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.007",
+      "surface_triangle_intersections": 6,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.008",
+      "surface_triangle_intersections": 8,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.009",
+      "surface_triangle_intersections": 8,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.010",
+      "surface_triangle_intersections": 10,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.011",
+      "surface_triangle_intersections": 8,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.012",
+      "surface_triangle_intersections": 6,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.013",
+      "surface_triangle_intersections": 10,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.014",
+      "surface_triangle_intersections": 8,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.015",
+      "surface_triangle_intersections": 8,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.016",
+      "surface_triangle_intersections": 10,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.017",
+      "surface_triangle_intersections": 11,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.018",
+      "surface_triangle_intersections": 6,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.019",
+      "surface_triangle_intersections": 6,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.020",
+      "surface_triangle_intersections": 14,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall tile course.021",
+      "surface_triangle_intersections": 14,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study principal hall gable infill.001",
+      "surface_triangle_intersections": 29,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone.002",
+      "old_object": "Retained court stone footing.012",
+      "surface_triangle_intersections": 50,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone.003",
+      "old_object": "Lower east pond stone bank",
+      "surface_triangle_intersections": 18,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle courtyard garden garden circuit_6",
+      "surface_triangle_intersections": 158,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study walk link_5",
+      "surface_triangle_intersections": 34,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study walk link_6",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -699.8485107421875,
+        660.8485107421875,
+        23.1299991607666
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study walk link_7",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -697.0,
+        663.2000122070312,
+        23.1299991607666
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Middle north study walk link_8",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -693.8485107421875,
+        662.8485107421875,
+        23.1299991607666
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone",
+      "old_object": "Replan 03 compound 08 perimeter walk_0",
+      "surface_triangle_intersections": 8,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Pond side stone",
+      "old_object": "Replan 03 compound 08 perimeter walk_1",
+      "surface_triangle_intersections": 24,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 leaning trunk",
+      "surface_triangle_intersections": 66,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 layered branch",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -703.17724609375,
+        672.402587890625,
+        27.262739181518555
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 flat needle mass",
+      "surface_triangle_intersections": 76,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 flat needle mass.001",
+      "surface_triangle_intersections": 61,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 flat needle mass.002",
+      "surface_triangle_intersections": 32,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 layered branch.001",
+      "surface_triangle_intersections": 12,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 layered branch.002",
+      "surface_triangle_intersections": 44,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 flat needle mass.006",
+      "surface_triangle_intersections": 38,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 flat needle mass.007",
+      "surface_triangle_intersections": 64,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 flat needle mass.008",
+      "surface_triangle_intersections": 65,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 layered branch.003",
+      "surface_triangle_intersections": 47,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 flat needle mass.009",
+      "surface_triangle_intersections": 56,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 flat needle mass.010",
+      "surface_triangle_intersections": 68,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-37 flat needle mass.011",
+      "surface_triangle_intersections": 74,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan low shrub.235",
+      "surface_triangle_intersections": 41,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 leaning trunk",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -686.2404174804688,
+        675.3706665039062,
+        23.219999313354492
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 layered branch",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -685.6671752929688,
+        675.2406616210938,
+        26.659992218017578
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 flat needle mass",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -685.5953979492188,
+        675.1306762695312,
+        27.699153900146484
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 flat needle mass.001",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -684.5921020507812,
+        675.6130981445312,
+        27.699153900146484
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 flat needle mass.002",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -683.5887451171875,
+        675.6519775390625,
+        27.699153900146484
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 layered branch.001",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -685.7219848632812,
+        675.0353393554688,
+        26.659992218017578
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 flat needle mass.003",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -688.3419799804688,
+        676.0926513671875,
+        28.487483978271484
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 flat needle mass.004",
+      "surface_triangle_intersections": 24,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 flat needle mass.005",
+      "surface_triangle_intersections": 27,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 layered branch.002",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -685.5724487304688,
+        675.07470703125,
+        26.659990310668945
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 flat needle mass.006",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -687.4285888671875,
+        673.8488159179688,
+        29.275815963745117
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 flat needle mass.007",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -686.42529296875,
+        674.3312377929688,
+        29.275815963745117
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 flat needle mass.008",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -685.4219360351562,
+        674.3701171875,
+        29.275815963745117
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 layered branch.003",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -685.74365234375,
+        675.2097778320312,
+        26.659990310668945
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 flat needle mass.009",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -685.899169921875,
+        675.8768310546875,
+        30.064146041870117
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 flat needle mass.010",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -684.8958129882812,
+        676.3593139648438,
+        30.064146041870117
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan grove 3-185 flat needle mass.011",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -683.8925170898438,
+        676.398193359375,
+        30.064146041870117
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan low shrub.297",
+      "surface_triangle_intersections": 0,
+      "old_vertex_inside_rock": [
+        -688.6634521484375,
+        675.0610961914062,
+        25.07000160217285
+      ]
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan low shrub.298",
+      "surface_triangle_intersections": 97,
+      "old_vertex_inside_rock": null
+    },
+    {
+      "rock": "LANDSCAPE07 Middle-low-ridge",
+      "old_object": "Replan low shrub.299",
+      "surface_triangle_intersections": 72,
+      "old_vertex_inside_rock": null
+    }
+  ],
+  "walk_points": [
+    [
+      -1016,
+      823,
+      45.3
+    ],
+    [
+      -1018,
+      842,
+      45.3
+    ],
+    [
+      -991,
+      842,
+      45.3
+    ],
+    [
+      -991,
+      812,
+      45.3
+    ],
+    [
+      -991,
+      790,
+      45.3
+    ]
+  ],
+  "walk_sample_count": 397,
+  "walk_body_hits": [
+    {
+      "segment": 0,
+      "obstacle": "LANDSCAPE07 Cliff walk rail.002",
+      "point": [
+        -1017.0983276367188,
+        840.5979614257812,
+        46.30669021606445
+      ],
+      "method": "vertical_body_ray"
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Cliff walk rail",
+      "point": [
+        -1016.5,
+        841.25,
+        46.333614349365234
+      ],
+      "method": "vertical_body_ray"
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -1001.0,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -1001.0,
+        841.25,
+        45.515071868896484
+      ],
+      "method": "vertical_body_ray"
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -1000.75,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -1000.75,
+        841.25,
+        45.75008010864258
+      ],
+      "method": "vertical_body_ray"
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -1000.5,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -1000.5,
+        841.25,
+        45.98249816894531
+      ],
+      "method": "vertical_body_ray"
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -1000.25,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -1000.25,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -1000.25,
+        841.25,
+        46.2569580078125
+      ],
+      "method": "vertical_body_ray"
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -1000.0,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -1000.0,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -1000.0,
+        841.25,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.75,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.75,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.75,
+        841.25,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.5,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.5,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.5,
+        841.25,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.25,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.25,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.25,
+        841.25,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.25,
+        842.0,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.25,
+        842.0,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.25,
+        842.0,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.0,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.0,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.0,
+        841.25,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.0,
+        842.0,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.0,
+        842.0,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -999.0,
+        842.0,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.75,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.75,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.75,
+        841.25,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.75,
+        842.0,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.75,
+        842.0,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.75,
+        842.0,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.5,
+        841.25,
+        45.45000457763672
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.5,
+        841.25,
+        46.20000457763672
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.5,
+        841.25,
+        47.10000228881836
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.5,
+        842.0,
+        45.45000457763672
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.5,
+        842.0,
+        46.20000457763672
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.5,
+        842.0,
+        47.10000228881836
+      ],
+      "height_m": 1.8,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.25,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.25,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.25,
+        841.25,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.25,
+        842.0,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.25,
+        842.0,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.25,
+        842.0,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.25,
+        842.75,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.25,
+        842.75,
+        45.86977767944336
+      ],
+      "method": "vertical_body_ray"
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.0,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.0,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.0,
+        841.25,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.0,
+        842.0,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.0,
+        842.0,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.0,
+        842.0,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.0,
+        842.75,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -998.0,
+        842.75,
+        46.12217712402344
+      ],
+      "method": "vertical_body_ray"
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.75,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.75,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.75,
+        841.25,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.75,
+        842.0,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.75,
+        842.0,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.75,
+        842.0,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.75,
+        842.75,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.75,
+        842.75,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.75,
+        842.75,
+        46.31040573120117
+      ],
+      "method": "vertical_body_ray"
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.5,
+        841.25,
+        45.44999694824219
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.5,
+        841.25,
+        46.19999694824219
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.5,
+        841.25,
+        47.09999465942383
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.5,
+        842.0,
+        45.44999694824219
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.5,
+        842.0,
+        46.19999694824219
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.5,
+        842.0,
+        47.09999465942383
+      ],
+      "height_m": 1.8,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.5,
+        842.75,
+        45.44999694824219
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.5,
+        842.75,
+        46.19999694824219
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.5,
+        842.75,
+        46.21786117553711
+      ],
+      "method": "vertical_body_ray"
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.25,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.25,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.25,
+        841.25,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.25,
+        842.0,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.25,
+        842.0,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.25,
+        842.0,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.25,
+        842.75,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.25,
+        842.75,
+        46.11375427246094
+      ],
+      "method": "vertical_body_ray"
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.0,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.0,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.0,
+        841.25,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.0,
+        842.0,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.0,
+        842.0,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.0,
+        842.0,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.0,
+        842.75,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -997.0,
+        842.75,
+        46.076045989990234
+      ],
+      "method": "vertical_body_ray"
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -996.75,
+        841.25,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -996.75,
+        841.25,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -996.75,
+        841.25,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": -0.75
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -996.75,
+        842.0,
+        45.45000076293945
+      ],
+      "height_m": 0.15,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -996.75,
+        842.0,
+        46.20000076293945
+      ],
+      "height_m": 0.9,
+      "lateral_m": 0
+    },
+    {
+      "segment": 1,
+      "obstacle": "LANDSCAPE07 Main-cloud-stone",
+      "point": [
+        -996.75,
+        842.0,
+        47.099998474121094
+      ],
+      "height_m": 1.8,
+      "lateral_m": 0
+    }
+  ],
+  "walk_floor_missing": [
+    {
+      "segment": 0,
+      "point": [
+        -1015.254150390625,
+        823.0784912109375,
+        45.29999923706055
+      ]
+    },
+    {
+      "segment": 0,
+      "point": [
+        -1017.0723266601562,
+        840.3512573242188,
+        45.29999923706055
+      ]
+    },
+    {
+      "segment": 0,
+      "point": [
+        -1017.0983276367188,
+        840.5979614257812,
+        45.29999923706055
+      ]
+    },
+    {
+      "segment": 0,
+      "point": [
+        -1017.124267578125,
+        840.8447265625,
+        45.29999923706055
+      ]
+    }
+  ],
+  "scope": "Added physical entities only versus exact v06 source-flight camera/carrier positions; dense offset swept rays near AABBs and conservative global AABB separation. Rock/original geometry triangle overlap and original-vertex containment. Walk core foot rays and body samples.",
+  "limits": [
+    "Interim candidate unless explicitly final. Does not modify source scene or render.",
+    "Closest-surface normal containment assumes generated rocks are closed and outward oriented. Not a continuous solid-volume proof.",
+    "Old building overlap excludes hidden and physical=false objects and cloud bodies; no collection-instance expansion in this pass.",
+    "Walk test covers authored deck/core and new rocks/rails; full original-ground support, old obstacles along walk, navigation and ergonomic compliance are not certified.",
+    "source-flight quaternion is authoritative; no obsolete forward vectors used. This report does not assess optical cloud visibility."
+  ]
+}

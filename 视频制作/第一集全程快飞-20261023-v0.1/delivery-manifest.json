@@ -1,0 +1,66 @@
+{
+  "artifact": "episode1-full-route-58s-v01",
+  "status": "rendered reference; native frame and decode validation passed; abrupt camera turns documented; author playback review pending",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3417,
+      "sha256": "bc376d245b838a774f90f9286de5de6dc3b774b57a8e5c4e6956aa4ad23e11e6"
+    },
+    {
+      "path": "timing-and-batches.json",
+      "bytes": 510493,
+      "sha256": "dc7b79bd1985d851bbbd64dc7365e58c07050347c80e0d7fde0eee0a941ba7ec"
+    },
+    {
+      "path": "episode1-full-route-58s-v01.blend",
+      "bytes": 31037394,
+      "sha256": "1a24f142ddcdff800e8501e31eebdcc1fe2103f33cb9b116b0efccc1bdde7fd2"
+    },
+    {
+      "path": "full-route-fast-flight-58s.mp4",
+      "bytes": 3771879,
+      "sha256": "c895dbe173ad5edae1fe410279d889a6a9262fb783b6f4bf29d2c0fea9308555"
+    },
+    {
+      "path": "E01-C-FAST-B01-30s.mp4",
+      "bytes": 1912073,
+      "sha256": "2bf011ade1488f3c74770a9eec1bbc0f0dd95363d52af82b790019ad87fd0911"
+    },
+    {
+      "path": "E01-C-FAST-B02-30s.mp4",
+      "bytes": 1972814,
+      "sha256": "2eefe50cf570e1c0dcc8aebd94b6e577d817a2514984e317367da13fbbc5eaa5"
+    },
+    {
+      "path": "poster.jpg",
+      "bytes": 24652,
+      "sha256": "807474da3c161233904f04754e274b9891ce72bd0a36457da6f156cca8730983"
+    },
+    {
+      "path": "review.html",
+      "bytes": 1625,
+      "sha256": "6617097c90d32cc26f288ad11b4269e2e4ebd50b2ccfc9d54a2030c744d45483"
+    },
+    {
+      "path": "render-review/geometry-check.json",
+      "bytes": 3990,
+      "sha256": "11cc6bb17f9a9866920c21c1a789e6dc63401c93944b06f3912064b3c9e9c32e"
+    },
+    {
+      "path": "render-review/camera-turns.json",
+      "bytes": 14140,
+      "sha256": "ff109a4a907247d7e8cebebb663abb234b7d7620236b802e0641d873148db696"
+    },
+    {
+      "path": "render-review/render-validation.json",
+      "bytes": 9673,
+      "sha256": "a8d4e827dd6a43d2c60105ed0892cadb843e4e5bd4d48efe8040d8c071b10fa8"
+    },
+    {
+      "path": "render-review/review-notes.md",
+      "bytes": 2202,
+      "sha256": "8c7d13fe26f7dff479c3c4af85fd0d5cf7cd09b2ad660df1f5c744380683083e"
+    }
+  ]
+}

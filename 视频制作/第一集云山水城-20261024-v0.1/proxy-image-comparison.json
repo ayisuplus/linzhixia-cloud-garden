@@ -1,0 +1,12 @@
+[
+  {
+    "frame": 300,
+    "mean_absolute_channel_delta": 0.06721900720164609,
+    "max": 11.0
+  },
+  {
+    "frame": 600,
+    "mean_absolute_channel_delta": 0.04735982510288066,
+    "max": 15.0
+  }
+]
